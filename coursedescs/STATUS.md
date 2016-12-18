@@ -22,13 +22,16 @@
 - [ ] 4DV006 - Project 1
 - [ ] 5DV001 - Seminar
 - [ ] 5DV002 - Master's thesis (30 hec)
-- [X] 1MA001 - Basic mathematics (7.5 hec)
-- [ ] 1MA002 - Linear algebra (7.5 hec)
-- [ ] 1MA003 - Calculus (7.5 hec)
-- [ ] 1MA004 - Discrete mathematics (7.5 hec)
-- [ ] 1FY001 - Mechanics (7.5 hec)
-- [ ] 1FY002 - Electricity and magnetism (7.5 hec)
-- [ ] 1FY001 - Technical communication (5 hec)
-- [ ] 1FY002 - Sustainable development (5 hec)
-- [ ] 1FY001 - Industrial economy (5 hec)
-- [ ] 1FY002 - Scientific methods (5 hec)
+
+- [ ] 1MA001 - Basic mathematics (7.5 hec)
+- [ ] 1MA002 - Linear algebra (7.5 hec)
+- [ ] 1MA003 - Calculus (7.5 hec)
+- [ ] 1MA004 - Discrete mathematics (7.5 hec)
+
+- [ ] 1FY001 - Mechanics (7.5 hec)
+- [ ] 1FY002 - Electricity and magnetism (7.5 hec)
+
+- [ ] 1TM001 - Technical communication (5 hec)
+- [ ] 1TM002 - Sustainable development (5 hec)
+- [ ] 1TM003 - Industrial economy (5 hec)
+- [ ] 1TM004 - Scientific methods (5 hec)
