@@ -25,9 +25,9 @@
 - [ ] 5DV001 - Seminar
 - [ ] 5DV002 - Master's thesis (30 hec)
  
-## Mathematics
+**Mathematics**
 
-- [ ] 1MA001 - Basic mathematics (7.5 hec)
+- [X] 1MA001 - Basic mathematics (7.5 hec)
 - [ ] 1MA002 - Linear algebra (7.5 hec)
 - [ ] 1MA003 - Calculus (7.5 hec)
 - [ ] 1MA004 - Discrete mathematics (7.5 hec)
