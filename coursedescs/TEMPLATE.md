@@ -4,8 +4,6 @@
 
 ## Aim
 
-Blah bla
-
 ## Learnings outcomes
 
 After completing the course the student is expected to:
@@ -18,4 +16,4 @@ After completing the course the student is expected to:
 
 ## Course contents
 
-Blah bla
+## Overlap
