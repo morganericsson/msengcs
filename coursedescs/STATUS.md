@@ -1,7 +1,5 @@
 # Status
 
-## Computer Science
-
 - [ ] 1DV001 - Introductory project (7.5 hec)
 - [ ] 1DV002 - Programming (7.5 hec)
 - [ ] 1DV003 - OOP (7.5 hec)
@@ -24,21 +22,12 @@
 - [ ] 4DV006 - Project 1
 - [ ] 5DV001 - Seminar
 - [ ] 5DV002 - Master's thesis (30 hec)
- 
-**Mathematics**
-
 - [X] 1MA001 - Basic mathematics (7.5 hec)
 - [ ] 1MA002 - Linear algebra (7.5 hec)
 - [ ] 1MA003 - Calculus (7.5 hec)
 - [ ] 1MA004 - Discrete mathematics (7.5 hec)
-
-## Physics
-
 - [ ] 1FY001 - Mechanics (7.5 hec)
 - [ ] 1FY002 - Electricity and magnetism (7.5 hec)
-
-## TMS
-
 - [ ] 1FY001 - Technical communication (5 hec)
 - [ ] 1FY002 - Sustainable development (5 hec)
 - [ ] 1FY001 - Industrial economy (5 hec)
