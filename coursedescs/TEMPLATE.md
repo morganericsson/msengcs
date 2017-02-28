@@ -14,4 +14,6 @@ After completing the course the student is expected to:
 
 ## Course contents
 
+## Examination
+
 ## Overlap

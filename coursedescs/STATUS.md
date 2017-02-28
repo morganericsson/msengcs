@@ -15,7 +15,7 @@
 - [ ] 1DV011 - Embedded systems (7.5 hec)
 - [X] 1DV012 - Computer networks (7.5 hec)
 - [ ] 1DV013 - Security (5 hec)
-- [ ] 2DV001 - Bachelor's thesis (15 hec)
+- [X] 2DV001 - Bachelor's thesis (15 hec)
 - [ ] 4DV001 - Systems modelling and simulation (5 hec)
 - [ ] 4DV002 - Compiler Construction (5 hec)
 - [ ] 4DV003 - MDE project (10 hec)
