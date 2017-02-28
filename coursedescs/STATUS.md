@@ -7,7 +7,7 @@
 - [ ] 1DV003 - OOP (7.5 hec)
 - [X] 1DV004 - Concurrent programming (7.5 hec)
 - [ ] 1DV005 - OOP&SE project (7.5 hec)
-- [ ] 1DV006 - Algorithms 1 (5 hec)
+- [X] 1DV006 - Algorithms 1 (5 hec)
 - [X] 1DV007 - Databases (5 hec)
 - [ ] 1DV008 - Computer organization (7.5 hec)
 - [ ] 1DV009 - Computer graphics (5 hec)

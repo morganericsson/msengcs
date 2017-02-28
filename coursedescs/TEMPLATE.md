@@ -2,8 +2,6 @@
 
 ## Prerequisites
 
-## Aim
-
 ## Learnings outcomes
 
 After completing the course the student is expected to:
