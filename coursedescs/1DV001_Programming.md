@@ -4,10 +4,6 @@
 
 None.
 
-## Aim
-
-The course provides an introduction to iterative programming and computational thinking.
-
 ## Learnings outcomes
 
 After completing the course the student is expected to:

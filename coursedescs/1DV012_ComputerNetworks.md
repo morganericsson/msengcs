@@ -4,10 +4,6 @@
 
 1DV001, 1DV003, 1DV004, 1FY002, 1DV008.
 
-## Aim
-
-The course introduces the student to data communication from a TCP/IP perspective. Each of the layers are illustrated both from a theoretical and practical perspective.
-
 ## Learnings outcomes
 
 After completing the course the student is expected to:

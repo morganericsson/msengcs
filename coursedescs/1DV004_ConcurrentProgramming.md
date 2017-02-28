@@ -4,10 +4,6 @@
 
 1DV001, 1DV003.
 
-## Aim
-
-The course introduces concurrency and the concurrent programming paradigm. Concurrency is an important aspect in many systems, such as databases, and services, such as network servers. The concurrent programming paradigm focuses on how to factor  overall computation into subcomputations that may be executed concurrently.
-
 ## Learnings outcomes
 
 After completing the course the student is expected to:

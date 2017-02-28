@@ -4,10 +4,6 @@
 
 1DV001, 1DV003, 1DV004
 
-## Aim
-
-The course introduces the principles of database systems, with a focus on the relational model and SQL. It gives a technical and conceptual foundation of database systems.
-
 ## Learnings outcomes
 
 After completing the course the student is expected to:
