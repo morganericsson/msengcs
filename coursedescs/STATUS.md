@@ -2,10 +2,10 @@
 
 ## Computer Science
 
-- [ ] 1DV001 - Programming (7.5 hec)
+- [X] 1DV001 - Programming (7.5 hec)
 - [ ] 1DV002 - Project (7.5 hec)
 - [ ] 1DV003 - OOP (7.5 hec)
-- [ ] 1DV004 - Concurrent programming (7.5 hec)
+- [X] 1DV004 - Concurrent programming (7.5 hec)
 - [ ] 1DV005 - OOP&SE project (7.5 hec)
 - [ ] 1DV006 - Algorithms 1 (5 hec)
 - [X] 1DV007 - Databases (5 hec)
