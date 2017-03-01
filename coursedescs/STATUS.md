@@ -9,12 +9,12 @@
 - [X] 1DV005 - SE project (7.5 hec)
 - [X] 1DV006 - Algorithms (5 hec)
 - [X] 1DV007 - Databases (5 hec)
-- [ ] 1DV008 - Computer organization (7.5 hec)
+- [X] 1DV008 - Computer organization (7.5 hec)
 - [X] 1DV009 - Computer graphics (5 hec)
 - [X] 1DV010 - Software Architecture (5 hec)
-- [ ] 1DV011 - Embedded systems (7.5 hec)
+- [X] 1DV011 - Embedded systems (5 hec)
 - [X] 1DV012 - Computer networks (7.5 hec)
-- [ ] 1DV013 - Security (5 hec)
+- [X] 1DV013 - Security (5 hec)
 - [X] 2DV001 - Bachelor's thesis (15 hec)
 - [ ] 4DV001 - Systems modelling and simulation (5 hec)
 - [ ] 4DV002 - Compiler Construction (5 hec)
@@ -37,6 +37,7 @@
 - [ ] 1MA002 - Linear algebra (7.5 hec)
 - [ ] 1MA003 - Calculus (7.5 hec)
 - [ ] 1MA004 - Discrete mathematics (7.5 hec)
+- [ ] 1MA005 - Applied probability and statistics (7.5 hec)
 
 ## Physics
 
@@ -45,7 +46,7 @@
 
 ## Electical Engineering
 
-- [ ] 1EL001 - Automatic control (7.5 hec)
+- [X] 1EL001 - Automatic control (7.5 hec)
 
 ## TMS
 
