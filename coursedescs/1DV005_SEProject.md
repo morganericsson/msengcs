@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1MA001, 1MA002, 1DV003, 1DV004, 1DV006.
+1DV001, 1DV002, 1DV003.
 
 ## Learnings outcomes
 
@@ -10,39 +10,33 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Explain various algorithms for identifying visible surfaces.
-- Explain local illumination models
-- Characterize all aspects of the computer graphics pipeline, i.e., the various steps and algorithms that occur from a geometric 3D object specification to the rendering of a corresponding 2D display image
-- Describe and implement different types of object representations
-- Define basic color models typically used in computer graphics
+- Identify the complexities of software design and development
+- Describe the fundamentals of software engineering, such as stakeholders and requirements
+- Describe the difference between the Customer, the Solution, and the Endeavour as well as the different methods used for each.
 
 *2.	Skills and abilities*
 
-- Implement basic 2D graphics solutions by using OpenGL
-- Implement rasterization algorithms for basic output primitives
-- perform and implement geometric, camera, projection and viewport transformations
+- elicitate requirements from and design a solution to a real-world problem
+- plan and execute a small software development project in a team
+- apply skills from programming courses and other relevant courses in a project-like environment
+- learn new tools and APIs on their own
 
 *3.	Judgement and approach*
 
-- Reflect upon the properties of different algorithms, e.g., and pick those suitable for the problem.
-- Reason about the impact choices, e.g., lightening and color representation has on the output quality.
+- reflect on the choice of software engineering methods used in the project
 
 ## Course contents
 
-- 2D output primitives and their rasterization
-- Filling algorithms and antialiasing
-- 3D object representations
-- geometric transformations
-- Camera, projection and viewport transformations
-- Visibility and clipping algorithms
-- Color models
-- lighting and shading, especially local illumination
-- OpenGL
+- Introduction to the software development processes.
+- Requirement elicitation.
+- Project planning principles and strategies.
+- Process strategies and concepts, such as risk, iterative and incremental.
+- Software testing, planning and basic unit and integration testing.
 
 ## Examination
 
-Assignments.
+Project deliverable (source code, binary, and documentation) and a final report that reflects on the project decisions and outcome.
 
 ## Overlap
 
-Same as 1dv800.
+Similar to 1dv600.

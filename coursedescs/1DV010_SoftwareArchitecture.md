@@ -24,6 +24,7 @@ After completing the course the student is expected to:
 
 - Reason about how and when software architectures may assist in software reuse.
 - Motivate and reflect upon the use of architecture styles and patterns in solutions to problems/domains.
+- Given a software architecture, reason about what quality properties can be achieved.
 
 ## Course contents
 
