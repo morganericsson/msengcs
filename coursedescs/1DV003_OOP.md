@@ -1,4 +1,4 @@
-# 1DV003 - OOP (10 hec)
+# 1DV003 - OOP (7.5 hec)
 
 ## Prerequisites
 
