@@ -26,12 +26,10 @@ After completing the course the student is expected to:
 
 ## Course contents
 
-- How a computer works and programs are executed.
-- How to break down a program so a computer can solve it.
-- The software development process.
-- Fundamental programming level constructs.
-- Common data structures, e.g., lists, vectors, sets, etc.
-- Common algorithms, e.g., sorting, searching, etc.
+- General introduction to models and model building: Model types, dimension and scaling, model simplification.
+- System identification: Estimating transient response, spectral estimation, identification of parametric models, identification of nonlinear models, validation.
+- Physical Modeling: Physical principles, bond graphs, models with differential-algebraic equations, object-oriented modeling.
+- Simulations: Choice of methods, stability, accuracy.
 
 ## Examination
 

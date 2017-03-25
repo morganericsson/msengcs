@@ -41,8 +41,8 @@
 
 ## Physics
 
-- [ ] 1FY001 - Mechanics (7.5 hec)
-- [ ] 1FY002 - Electricity and magnetism (7.5 hec)
+- [X] 1FY001 - Mechanics (7.5 hec)
+- [X] 1FY002 - Electricity and magnetism (7.5 hec)
 
 ## Electical Engineering
 

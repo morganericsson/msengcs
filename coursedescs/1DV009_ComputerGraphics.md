@@ -16,13 +16,13 @@ After completing the course the student is expected to:
 - Describe and implement different types of object representations
 - Define basic color models typically used in computer graphics
 
-*2.	Skills and abilities*
+ *2.Skills and abilities*
 
 - Implement basic 2D graphics solutions by using OpenGL
 - Implement rasterization algorithms for basic output primitives
 - perform and implement geometric, camera, projection and viewport transformations
 
-*3.	Judgement and approach*
+ *3. Judgement and approach*
 
 - Reflect upon the properties of different algorithms, e.g., and pick those suitable for the problem.
 - Reason about the impact choices, e.g., lightening and color representation has on the output quality.
