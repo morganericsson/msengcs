@@ -16,14 +16,14 @@ After completing the course the student is expected to:
 
 *2.	Skills and abilities*
 
-- elicitate requirements from and design a solution to a real-world problem
-- plan and execute a small software development project in a team
-- apply skills from programming courses and other relevant courses in a project-like environment
-- learn new tools and APIs on their own
+- Elicitate requirements from and design a solution to a real-world problem
+- Plan and execute a small software development project in a team
+- Apply skills from programming courses and other relevant courses in a project-like environment
+- Learn new tools and APIs on their own
 
 *3.	Judgement and approach*
 
-- reflect on the choice of software engineering methods used in the project
+- Reflect on the choice of software engineering methods used in the project
 
 ## Course contents
 
