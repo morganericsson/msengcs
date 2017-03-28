@@ -3,7 +3,7 @@
 ## Computer Science
 
 - [X] 1DV001 - Programming (7.5 hec)
-- [ ] 1DV002 - Introductory project (7.5 hec)
+- [X] 1DV002 - Introductory project (7.5 hec)
 - [X] 1DV003 - OOP (7.5 hec)
 - [X] 1DV004 - Concurrent programming (7.5 hec)
 - [X] 1DV005 - SE project (7.5 hec)
@@ -18,18 +18,18 @@
 - [X] 2DV001 - Bachelor's thesis (15 hec)
 - [ ] 4DV001 - Systems modelling and simulation (5 hec)
 - [X] 4DV002 - Compiler Construction (5 hec)
-- [ ] 4DV003 - MDE project (10 hec)
-- [ ] 4DV004 - Formal methods (5 hec)
+- [X] 4DV003 - MDE project (10 hec)
+- [X] 4DV004 - Formal methods (5 hec)
 - [ ] 4DV005 - Optimization (5 hec)
 - [X] 4DV006 - Machine learning 1 (5 hec) 
 - [X] 4DV007 - Parallel computing (5 hec)
-- [ ] 4DV008 - Machine learning project (10 hec)
+- [X] 4DV008 - Machine learning project (10 hec)
 - [X] 4DV009 - Machine learning 2 (5 hec)
-- [X] 4DV011 - Information visualization 1 (5 hec)
-- [ ] 4DV012 - Data mining (5 hec)
-- [ ] 4DV013 - Visual analytics project (10 hec)
-- [X] 4DV014 - Information visualization 2 (5 hec)
-- [X] 4DV015 - Scientific methods 2 (5 hec)
+- [X] 4DV010 - Information visualization 1 (5 hec)
+- [ ] 4DV011 - Data mining (5 hec)
+- [X] 4DV012 - Visual analytics project (10 hec)
+- [X] 4DV013 - Information visualization 2 (5 hec)
+- [X] 4DV014 - Scientific methods 2 (5 hec)
 - [X] 5DV001 - Master's thesis (30 hec)
 
 ## Physics
@@ -43,7 +43,7 @@
 
 ## Other
 
-- [ ] 1OT001 - Scientific methods (5 hec)
+- [X] 1OT001 - Scientific methods (5 hec)
 
 # Written by others...
 

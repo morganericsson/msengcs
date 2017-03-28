@@ -1,8 +1,8 @@
-# CODE - Name (credits)
+# 4DV011 - Data mining (5 hec)
 
 ## Prerequisites
 
-## Aim
+1DV001, 1DV006, 1DV007, 1MA002, 1MA003, 1MA005.
 
 ## Learnings outcomes
 

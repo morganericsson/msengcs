@@ -1,4 +1,4 @@
-# 4DV011 - Information visualization 1 (5 hec)
+# 4DV010 - Information visualization 1 (5 hec)
 
 ## Prerequisites
 
