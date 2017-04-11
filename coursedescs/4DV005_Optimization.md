@@ -1,3 +1,13 @@
+---
+
+sExaminer: [ Sabri, SomeoneMathematics ]
+CDIOl2: []
+ACMCS13: []
+HF: []
+LG: []
+
+...
+
 # 4DV005 - Optimization (5 hec)
 
 ## Prerequisites
