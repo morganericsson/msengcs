@@ -1,3 +1,13 @@
+---
+
+sExaminer: [ Mauro ]
+CDIOl2: []
+ACMCS13: []
+HF: []
+LG: []
+
+...
+
 # 4DV001 - Systems modelling and simulation (5 hec)
 
 ## Prerequisites
