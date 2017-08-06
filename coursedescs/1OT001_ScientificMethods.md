@@ -1,8 +1,23 @@
-# 1OT001 - Scientific methods (5 hec)
+---
+Name:       Scientific methods
+PrelCode:   1OT001
+HEC:        5
+Year:       3
+Period:     3
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    Other
+Type:       Regular
+PreReq:     1TM001;1MA006  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
-1TM001, 1MA005.
+1TM001, 1MA006.
 
 ## Learnings outcomes
 

@@ -1,4 +1,18 @@
-# 1DV001 - Programming (7.5 hec)
+---
+Name:       Programming  
+PrelCode:   1DV001  
+HEC:        7.5  
+Year:       1  
+Period:     1  
+Examiner1:  ??  
+Examiner2:  ??  
+Status:     FirstDraft  
+Mandatory:  Yes  
+Subject:    ComputerScience  
+Type:       Regular  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
@@ -26,10 +40,12 @@ After completing the course the student is expected to:
 
 ## Course contents
 
-- General introduction to models and model building: Model types, dimension and scaling, model simplification.
-- System identification: Estimating transient response, spectral estimation, identification of parametric models, identification of nonlinear models, validation.
-- Physical Modeling: Physical principles, bond graphs, models with differential-algebraic equations, object-oriented modeling.
-- Simulations: Choice of methods, stability, accuracy.
+- How a computer works and programs are executed.
+- How to break down a program so a computer can solve it.
+- The software development process.
+- Fundamental programming level constructs.
+- Common data structures, e.g., lists, vectors, sets, etc.
+- Common algorithms, e.g., sorting, searching, etc.
 
 ## Examination
 

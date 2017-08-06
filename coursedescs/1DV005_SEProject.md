@@ -1,4 +1,19 @@
-# 1DV005 - SE project (10 hec)
+---
+Name:       SE project
+PrelCode:   1DV005
+HEC:        10
+Year:       2
+Period:     2-3
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Project
+PreReq:     1DV001;1DV002;1DV003
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

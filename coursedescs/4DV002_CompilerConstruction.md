@@ -1,4 +1,19 @@
-# 4DV002 - Compiler Construction (5 hec)
+---
+Name:       Compiler Construction
+PrelCode:   4DV002
+HEC:        4
+Year:       4
+Period:     1
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV003;1DV006;1MA004;1DV008  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

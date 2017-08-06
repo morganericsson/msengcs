@@ -1,18 +1,23 @@
 ---
+Name:       Systems modelling and simulation
+PrelCode:   4DV001
+HEC:        5
+Year:       4
+Period:     1
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1MA002;1MA003;1MA006  
+---
 
-sExaminer: [ Mauro ]
-CDIOl2: []
-ACMCS13: []
-HF: []
-LG: []
-
-...
-
-# 4DV001 - Systems modelling and simulation (5 hec)
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
-1MA002, 1MA003, 1MA005.
+1MA002, 1MA003, 1MA006.
 
 ## Learnings outcomes
 

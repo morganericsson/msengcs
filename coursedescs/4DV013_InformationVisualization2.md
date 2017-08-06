@@ -1,4 +1,19 @@
-# 4DV013 - Information visualization 2 (5 hec)
+---
+Name:       Information visualization 2   
+PrelCode:   4DV013
+HEC:        5
+Year:       5
+Period:     2
+Examiner1:  ??
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  No
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV003;1DV006;1DV009;4DV011  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

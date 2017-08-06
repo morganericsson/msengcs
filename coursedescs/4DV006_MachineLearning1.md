@@ -1,8 +1,23 @@
-# 4DV006 - Machine learning 1 (5 hec) 
+---
+Name:       Machine learning 1
+PrelCode:   4DV006
+HEC:        5
+Year:       4
+Period:     3
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1MA002;1MA003;1MA006;1DV001;1DV006  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
-1MA002, 1MA003, 1MA005, 1DV001, 1DV006.
+1MA002, 1MA003, 1MA006, 1DV001, 1DV006.
 
 ## Learnings outcomes
 

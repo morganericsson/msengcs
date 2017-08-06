@@ -1,4 +1,19 @@
-# 1DV012 - Computer networks (7.5 hec)
+---
+Name:       Computer networks
+PrelCode:   1DV012
+HEC:        7.5
+Year:       3
+Period:     2
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV001;1DV003;1DV004;1FY002;1DV008  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

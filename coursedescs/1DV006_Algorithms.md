@@ -1,4 +1,18 @@
-# 1DV005 - Algorithms (5 hec)
+---
+Name:       Algorithms
+PrelCode:   1DV005
+HEC:        5
+Year:       2
+Period:     3
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+---
+
+# [%PrelCode] - [%Name] ([15EC] hec)
 
 ## Prerequisites
 

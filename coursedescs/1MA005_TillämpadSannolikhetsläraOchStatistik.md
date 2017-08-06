@@ -1,4 +1,19 @@
-# 1MA005 - Tillämpad sannolikhetslära och statistik (7.5 högskolepoäng)
+---
+Name:       Tillämpad sannolikhetslära och statistik
+PrelCode:   1MA006
+HEC:        7.5
+Year:       2
+Period:     4
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    Mathematics
+Type:       Regular
+PreReq:     1MA003  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Förkunskaper
 

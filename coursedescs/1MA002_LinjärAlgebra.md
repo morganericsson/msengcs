@@ -1,4 +1,18 @@
-# 1MA002 - Linjär algebra (7.5 högskolepoäng)
+---
+Name:       Linjär algebra
+PrelCode:   1MA002
+HEC:        7.5
+Year:       1
+Period:     2
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    Mathematics
+Type:       Regular
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Förkunskaper
 

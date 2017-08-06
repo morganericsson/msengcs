@@ -1,14 +1,19 @@
 ---
+Name:       Optimization
+PrelCode:   4DV005
+HEC:        5
+Year:       4
+Period:     2
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  No
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV006;1MA003;1MA004  
+---
 
-sExaminer: [ Sabri, SomeoneMathematics ]
-CDIOl2: []
-ACMCS13: []
-HF: []
-LG: []
-
-...
-
-# 4DV005 - Optimization (5 hec)
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

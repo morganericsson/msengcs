@@ -1,8 +1,23 @@
-# 4DV009 - Machine learning 2 (5 hec)
+---
+Name:       Machine learning 2
+PrelCode:   4DV009
+HEC:        5
+Year:       4
+Period:     4
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  No
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1MA002;1MA003;1MA006;1DV001;1DV006  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
-1MA002, 1MA003, 1MA005, 1DV001, 1DV006.
+1MA002, 1MA003, 1MA006, 1DV001, 1DV006.
 
 ## Learnings outcomes
 

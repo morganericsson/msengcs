@@ -1,4 +1,19 @@
-# 1DV009 - Computer graphics (5 hec)
+---
+Name:       Computer graphics
+PrelCode:   1DV009
+HEC:        5
+Year:       3
+Period:     1
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1MA001;1MA002;1DV003;1DV004;1DV006
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

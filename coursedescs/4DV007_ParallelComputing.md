@@ -1,4 +1,19 @@
-# 4DV007 - Parallel computing (5 hec)
+---
+Name:       Parallel computing
+PrelCode:   4DV007
+HEC:        5
+Year:       4
+Period:     3
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV004;1DV006;1DV008;1DV011
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

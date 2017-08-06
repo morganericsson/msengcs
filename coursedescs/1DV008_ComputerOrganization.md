@@ -1,4 +1,19 @@
-# 1DV008 - Computer organization (7.5 hec)
+---
+Name:       Computer organization
+PrelCode:   1DV008
+HEC:        7.5
+Year:       2
+Period:     4
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1FY002;1DV001;1DV003;1DV004  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

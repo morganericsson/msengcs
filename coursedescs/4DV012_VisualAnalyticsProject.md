@@ -1,4 +1,19 @@
-# 4DV012 - Visual analytics project (10 hec)
+---
+Name:       Visual analytics project
+PrelCode:   4DV012
+HEC:        10
+Year:       5
+Period:     1-2
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Project
+PreReq:     1DV003;1DV005;1DV006;1DV009;4DV006;1MA002;1MA004.  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

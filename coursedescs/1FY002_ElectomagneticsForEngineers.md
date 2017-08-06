@@ -1,4 +1,19 @@
-# 1FY002 – Electromagnetics for engineers (7.5 hec )
+---
+Name:       Electromagnetics for engineers
+PrelCode:   1FY002
+HEC:        7.5
+Year:       2
+Period:     1
+Examiner1:	??	  
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    Physics
+Type:		Regular
+PreReq:     1MA001;1MA002;1MA003  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

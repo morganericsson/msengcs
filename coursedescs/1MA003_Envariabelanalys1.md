@@ -1,4 +1,19 @@
-# 1MA003 - Envariabelanalys (7.5 högskolepoäng)
+---
+Name:       Envariabelanalys 1
+PrelCode:   1MA003
+HEC:        5
+Year:       1
+Period:     3
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    Mathematics
+Type:       Regular
+PreReq:     1MA001
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Förkunskaper
 

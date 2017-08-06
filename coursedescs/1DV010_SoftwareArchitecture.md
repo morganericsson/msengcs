@@ -1,4 +1,19 @@
-# 1DV010 - Software architecture (5 hec)
+---
+Name:       Software architecture
+PrelCode:   1DV010
+HEC:        5
+Year:       3
+Period:     1
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV005  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

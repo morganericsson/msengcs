@@ -1,4 +1,19 @@
-# 4DV003 - MDE project (10 hec)
+---
+Name:       MDE project
+PrelCode:   4DV003
+HEC:        10
+Year:       4
+Period:     1-2
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Project
+PreReq:     1DV003;1DV005;1DV010;1DV011  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

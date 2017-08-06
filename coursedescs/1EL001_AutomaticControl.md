@@ -1,4 +1,19 @@
-# 1EL001 - Automatic control
+---
+Name:       Automatic control
+PrelCode:   1EL001
+HEC:        7.5
+Year:       3
+Period:     2
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ElectricalEngineering
+Type:       Regular
+PreReq:     1MA003;1FY002
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

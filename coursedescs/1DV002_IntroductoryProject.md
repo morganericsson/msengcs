@@ -1,4 +1,19 @@
-# 1DV002 - Introductory project (7.5 hec)
+---
+Name:       Introductory project
+PrelCode:   1DV002
+HEC:        7.5
+Year:       1
+Period:     2
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Project
+PreReq:     1DV001  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

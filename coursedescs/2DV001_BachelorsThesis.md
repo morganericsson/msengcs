@@ -1,4 +1,19 @@
-# 2DV001 - Bachelor's thesis (15 hec)
+---
+Name:       Bachelor's thesis
+PrelCode:   2DV001
+HEC:        15
+Year:       3
+Period:     4
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Project
+PreReq:     1TM001;1OT001;1DV005  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

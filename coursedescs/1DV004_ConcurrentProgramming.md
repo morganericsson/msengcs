@@ -1,4 +1,19 @@
-# 1DV004 - Concurrent programming (7.5 hec)
+---
+Name:       Concurrent programming
+PrelCode:   1DV004
+HEC:        7.5
+Year:       1
+Period:     4
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV001;1DV003  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

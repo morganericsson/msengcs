@@ -1,4 +1,18 @@
-# 1MA001 - Grundläggande matematik (7.5 högskolepoäng)
+---
+Name:       Grundläggande matematik
+PrelCode:   1MA001
+HEC:        7.5
+Year:       1
+Period:     1
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    Mathematics
+Type:       Regular
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Förkunskaper
 

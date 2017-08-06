@@ -1,8 +1,23 @@
-# 4DV011 - Data mining (5 hec)
+---
+Name:       Data mining
+PrelCode:   4DV011
+HEC:        5
+Year:       5
+Period:     1
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV001;1DV006;1DV007;1MA002;1MA003;1MA006;4DV006  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
-1DV001, 1DV006, 1DV007, 1MA002, 1MA003, 1MA005, 4DV006.
+1DV001, 1DV006, 1DV007, 1MA002, 1MA003, 1MA006, 4DV006.
 
 ## Learnings outcomes
 

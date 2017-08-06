@@ -1,4 +1,19 @@
-# 1FY001 - Mechanics for engineers (7.5 hec)
+---
+Name:       Mechanics for engineers
+PrelCode:   1FY001
+HEC:        7.5
+Year:       1
+Period:     4
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    Physics
+Type:       Regular
+PreReq:     1MA001;1MA002;1MA003  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

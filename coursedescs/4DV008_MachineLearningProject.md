@@ -1,8 +1,23 @@
-# 4DV008 - Machine learning project (10 hec)
+---
+Name:       Machine learning project
+PrelCode:   4DV008
+HEC:        10
+Year:       4
+Period:     3-4
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Project
+PreReq:     1DV001;1DV005;1DV006;1MA002;1MA003;1MA006 
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
-1DV001, 1DV005, 1DV006, 1MA002, 1MA003, 1MA005.
+1DV001, 1DV005, 1DV006, 1MA002, 1MA003, 1MA006.
 
 ## Learnings outcomes
 

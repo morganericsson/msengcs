@@ -1,4 +1,19 @@
-# 4DV004 - Formal methods (5 hec)
+---
+Name:       Formal methods
+PrelCode:   4DV004
+HEC:        5
+Year:       4
+Period:     2
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  No
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1MA001;1MA004;1DV006  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

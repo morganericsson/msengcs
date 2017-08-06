@@ -1,4 +1,19 @@
-# 4DV014 - Scientific methods 2 (5 hec)
+---
+Name:       Scientific methods 2
+PrelCode:   4DV014
+HEC:        5
+Year:       5
+Period:     2
+Examiner1:  ??
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1TM001;1OT001;2DV001
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

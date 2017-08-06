@@ -1,4 +1,19 @@
-# 1DV011 - Embedded systems
+---
+Name:       Embedded systems
+PrelCode:   1DV011
+HEC:        5
+Year:       3
+Period:     1
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV004;1DV008;1FY001;1FY002  
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

@@ -1,4 +1,19 @@
-# 1DV003 - OOP (7.5 hec)
+---
+Name:       Object-oriented Programming
+PrelCode:   1DV003
+HEC:        5
+Year:       1
+Period:     3
+Examiner1:  ??    
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Regular
+PreReq:     1DV001
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 

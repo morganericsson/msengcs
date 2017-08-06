@@ -1,4 +1,19 @@
-# 5DV001 - Master's thesis (30 hec)
+---
+Name:       Master's thesis      
+PrelCode:   5DV001
+HEC:        30
+Year:       5
+Period:     3-4
+Examiner1:  ??
+Examiner2:  ??
+Status:     FirstDraft
+Mandatory:  Yes
+Subject:    ComputerScience
+Type:       Project
+PreReq:     2DV001;4DV014
+---
+
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
