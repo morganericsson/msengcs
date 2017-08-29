@@ -4,8 +4,8 @@ PrelCode:   1EL001
 HEC:        7.5
 Year:       3
 Period:     2
-Examiner1:  ??    
-Examiner2:  ??
+Examiner1:  "Magnus Perninge"    
+Examiner2:  "Sven-Erik Sandström"
 Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ElectricalEngineering
