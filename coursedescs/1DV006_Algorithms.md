@@ -12,7 +12,7 @@ Subject:    ComputerScience
 Type:       Regular
 ---
 
-# [%PrelCode] - [%Name] ([15EC] hec)
+# [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ After completing the course the student is expected to:
 *1. Knowledge and understanding*
 
 - Describe algorithms and explain they properties, e.g., why they are fast or correct.
-- Explain problems classes, such s P and NP, and recognize problems that belong to these. 
+- Explain problems classes, such as P and NP, and recognize problems that belong to these. 
 - Explain intractability and recognize such problems.
 - Prove the correctness of an algorithm.
 
