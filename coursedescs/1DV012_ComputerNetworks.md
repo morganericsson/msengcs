@@ -4,7 +4,7 @@ PrelCode:   1DV012
 HEC:        7.5
 Year:       3
 Period:     2
-Examiner1:  ??    
+Examiner1:  Morgan Ericsson    
 Examiner2:  ??
 Status:     FirstDraft
 Mandatory:  Yes
@@ -16,6 +16,10 @@ PreReq:     1DV001;1DV003;1DV004;1FY002;1DV008
 # [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
+
+Writing medium complex Java programs
+Understand file systems, processes (In the Operating systems context)
+Understand basic properties of signals and electronics
 
 1DV001, 1DV003, 1DV004, 1FY002, 1DV008.
 
