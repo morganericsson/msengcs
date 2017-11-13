@@ -62,7 +62,7 @@ Assignments.
 
 ## Grading
 
-## Course litterature
+## Course literature
 
 ## Overlap
 
