@@ -50,9 +50,15 @@ After completing the course the student is expected to:
 - Database quering and manipulation using SQL
 - Accessing a database from a programming language
 
+## Modules
+
 ## Examination
 
 Written exam and practical assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

@@ -43,8 +43,14 @@ After completing the course the student is expected to:
 - Development project in the domain of Machine learning.
 - State-of-the-art tools and methods for Machine learning.
 
+## Modules
+
 ## Examination
 
 Project deliverable (source code, binary, and documentation) and a final report that reflects on the project decisions and outcome.
+
+## Grading
+
+## Course litterature
 
 ## Overlap

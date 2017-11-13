@@ -49,9 +49,15 @@ After completing the course the student is expected to:
 - Inheritance and polymorphism
 - Design patterns
 
+## Modules
+
 ## Examination
 
 Assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

@@ -55,6 +55,14 @@ After completing the course the student is expected to:
 - Stack­machine based execution
 - Type systems
 
+## Modules
+
+## Examination
+
+## Grading
+
+## Course litterature
+
 ## Overlap
 
 Same as DV508.

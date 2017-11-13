@@ -45,8 +45,14 @@ After completing the course the student is expected to:
 - Unsupervised learning
 - Reinforcement learning and control
 
+## Modules
+
 ## Examination
 
 Exam and assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap

@@ -50,9 +50,15 @@ After completing the course the student is expected to:
 - Message passing
 - Concurrent data structures
 
+## Modules
+
 ## Examination
 
 Written exam and practical assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

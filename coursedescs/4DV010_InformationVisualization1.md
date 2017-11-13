@@ -43,9 +43,15 @@ After completing the course the student is expected to:
 - Interaction (dynamic queries, zoom and pan, or focus and context)
 - Visual representations for 1D, 2D, 3D, and multidimensional data and hierarchies.
 
+## Modules
+
 ## Examination
 
 Exam and assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

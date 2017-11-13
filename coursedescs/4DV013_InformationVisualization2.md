@@ -47,9 +47,15 @@ Visual representations, interaction techniques as well as visualization tools fo
 - information visualization for the masses
 - WebVis, BioVis, MedVis, GeoVis
 
+## Modules
+
 ## Examination
 
 Report and assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

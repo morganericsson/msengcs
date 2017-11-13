@@ -43,8 +43,14 @@ After completing the course the student is expected to:
 - Development project in the domain of Visual analytics.
 - State-of-the-art tools and methods for Visual analytics.
 
+## Modules
+
 ## Examination
 
 Project deliverable (source code, binary, and documentation) and a final report that reflects on the project decisions and outcome.
+
+## Grading
+
+## Course litterature
 
 ## Overlap

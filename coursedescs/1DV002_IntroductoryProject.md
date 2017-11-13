@@ -47,4 +47,14 @@ After completing the course the student is expected to:
 - Introduction to software design
 - A development project
 
+## Course contents
+
+## Modules
+
+## Examination
+
+## Grading
+
+## Course litterature
+
 ## Overlap

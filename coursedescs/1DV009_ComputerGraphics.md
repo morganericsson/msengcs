@@ -54,9 +54,15 @@ After completing the course the student is expected to:
 - lighting and shading, especially local illumination
 - OpenGL
 
+## Modules
+
 ## Examination
 
 Assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

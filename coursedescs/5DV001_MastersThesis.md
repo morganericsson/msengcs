@@ -44,9 +44,15 @@ After completing the course the student is expected to:
 
 - Individual and independent research that is presented in a written report.
 
+## Modules
+
 ## Examination
 
 Thesis proposal, a master's thesis, oral presentation, and opposition.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

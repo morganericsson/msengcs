@@ -44,8 +44,14 @@ After completing the course the student is expected to:
 - Process algebra
 - Model checking
 
+## Modules
+
 ## Examination
 
 Written exam and assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap

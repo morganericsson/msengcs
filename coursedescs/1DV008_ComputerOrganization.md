@@ -52,8 +52,14 @@ After completing the course the student is expected to:
 - Virtual memory
 - Devices and interrupts
 
+## Modules
+
 ## Examination
 
 Assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
