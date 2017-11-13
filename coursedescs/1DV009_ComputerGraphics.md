@@ -66,4 +66,4 @@ Assignments.
 
 ## Overlap
 
-Same as 1dv800.
+100% with 1DV800.
