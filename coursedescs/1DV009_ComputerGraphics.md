@@ -1,11 +1,11 @@
 ---
-Name:       Computer graphics
+Name:       Computer Graphics
 PrelCode:   1DV009
 HEC:        5
 Year:       3
 Period:     1
-Examiner1:  ??    
-Examiner2:  ??
+Examiner1:  Andreas Kerren    
+Examiner2:  Ilir Jusufi
 Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
