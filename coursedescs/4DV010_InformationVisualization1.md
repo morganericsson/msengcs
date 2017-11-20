@@ -1,11 +1,11 @@
 ---
-Name:       Information visualization 1
+Name:       Information Visualization 1
 PrelCode:   4DV010
 HEC:        5
 Year:       5
 Period:     1
-Examiner1:  ??    
-Examiner2:  ??
+Examiner1:  Andreas Kerren    
+Examiner2:  Ilir Jusufi
 Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
