@@ -1,11 +1,11 @@
 ---
-Name:       Visual analytics project
+Name:       Visual Analytics Project
 PrelCode:   4DV012
 HEC:        10
 Year:       5
 Period:     1-2
-Examiner1:  ??    
-Examiner2:  ??
+Examiner1:  Ilir Jusufi
+Examiner2:  Andreas Kerren
 Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
