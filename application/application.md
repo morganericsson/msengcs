@@ -3,11 +3,11 @@
 ### Aspekt: Yrkesexamen
 
 <!---
-Angiven examen är reglerad och ryms inom examensordningen.}
+Angiven examen är reglerad och ryms inom examensordningen.
 
-Utbildningens innehåll inklusive eventuella inriktningar har rimlig omfattning och avgränsning i förhållande till yrkesexamen.}
+Utbildningens innehåll inklusive eventuella inriktningar har rimlig omfattning och avgränsning i förhållande till yrkesexamen.
 
-I ett rikstäckande perspektiv finns ett allmänt intresse av att examen för utfärdas.}
+I ett rikstäckande perspektiv finns ett allmänt intresse av att examen för utfärdas.
 -->
 
 - Ange examen (examensbenämning inklusive ev. inriktningar som utexaminerade studenter ska få).
