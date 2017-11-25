@@ -1,4 +1,4 @@
-## Aspektområde: Miljö, resurs och område}
+## Aspektområde: Miljö, resurs och område
 
 ### Aspekt: Yrkesexamen
 
