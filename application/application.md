@@ -1,10 +1,10 @@
+## Introduktion
+
+### Introduktion till Lnu
+
+### Beskrivning av arbetsprocessen
+
 ## Aspektområde: Miljö, resurs och område
-
-<!---
-Miun har generell introduktion. Vill vi ha det också, här? 
-
-UKÄ borde veta generella saker om oss, t.ex. ålder, storlek, osv?
--->
 
 ### Aspekt: Yrkesexamen
 
