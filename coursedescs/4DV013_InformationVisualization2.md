@@ -95,7 +95,7 @@ In order to relate the learning outcomes to the two assessment types and individ
 | ---------------- | --------------- | --- | --- | --- | --- | --------- |
 | 1.1              | P + OE          |**X**|     |     |     | **X**     |
 | 1.2              | A + OE          |     |     |     |**X**| **X**     |
-| 1.3              | A + OE          |     |     |     |     | **X**     |
+| 1.3              | OE              |     |     |     |     | **X**     |
 | 2.1              | A               |     |**X**|     |**X**|           |
 | 2.2              | A               |     |     |**X**|**X**|           |
 | 3.1              | P + OE          |**X**|     |     |     | **X**     |
