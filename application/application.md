@@ -87,7 +87,6 @@ De tillgängliga resurserna utnyttjas effektivt för att hålla en hög kvalitet
 	- Beskriv molnlösning och satsningar på egna datorer
 	- Redogör för hur vi vet att det räcker
 	- Beskriv bibliotek
-	- Skall vi beskriva t.ex. drivhuset och karriärhjälp här?
 - Beskriv och analysera arbetet med att säkerställa att tillgängliga resurser utnyttjas effektivt för att hålla en hög kvalitet i verksamheten.
 	- ?
 
@@ -135,7 +134,8 @@ Utbildningen är användbar och förbereder studenter för ett föränderligt ar
 	- Beskriv processen för att fastställa kurserna
 - Beskriv och analysera hur information inhämtas som är relevant för utbildningens kvalitetssäkring och utveckling med hänsyn till dess användbarhet och förberedelse för arbetslivet.
 	- Beskriv processen, beskriv hur arbetet kommer att fortsätta efter programmets start.
-	- Alumni?
+	- Alumni? Finns för högskoleingenjörer?
+	- Skall vi beskriva t.ex. drivhuset och karriärhjälp här?
 
 ## Studenters perspektiv
 
