@@ -1,5 +1,5 @@
 ---
-Name:       Computer graphics
+Name:       Computer Graphics
 PrelCode:   1DV009
 HEC:        5
 Year:       3
@@ -22,7 +22,7 @@ PreReq:     1MA001;1MA002;1MA006;1DV003;1DV006
 * Linear algebra (matrix calculus), Use → 1MA001, 1MA002
 * Algorithms, Advanced → 1DV006
 
-## Learnings outcomes
+## Learning outcomes
 
 After completing the course the student is expected to:
 
