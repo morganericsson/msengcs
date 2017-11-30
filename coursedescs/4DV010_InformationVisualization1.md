@@ -10,7 +10,7 @@ Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
-PreReq:     1DV003;1DV006;1DV009
+PreReq:     1DV003;1DV006;1DV009;1MA005
 ---
 
 # [%PrelCode] - [%Name] ([%HEC] hec)
@@ -22,7 +22,7 @@ PreReq:     1DV003;1DV006;1DV009
 * Algorithms, Use → 1DV006
 * Statistics, Use → 1MA005
 
-## Learnings outcomes
+## Learning outcomes
 
 After completing the course the student is expected to:
 
