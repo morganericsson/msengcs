@@ -69,9 +69,6 @@ The main goal of the students during M2 is to use the knowledge obtained in M1 t
 
 Finally, in M3 the students will implement the design proposed in M2 by using selected programming languages and graphical/visualization libraries.
 
-
-## Modules
-
 ## Examination
 
 Due to the different approaches and goals of each of this course’s modules, the examinations will occur in specific ways as described below. Whenever applicable, we only require the use of programming libraries that are freely available. Any standard laptop or desktop computer with a onboard graphics chip and/or dedicated graphics card is sufficient for the programming tasks.
@@ -129,11 +126,6 @@ Late work will not be accepted without prior approval by the instructor. Reasons
     * Estimated reading: 80 / 241 pages
 * DV, Distributed slides.
     * Estimated reading: 50 / 50 pages
-
-
-## Grading
-
-## Course litterature
 
 ## Overlap
 
