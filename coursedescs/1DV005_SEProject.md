@@ -48,9 +48,15 @@ After completing the course the student is expected to:
 - Process strategies and concepts, such as risk, iterative and incremental.
 - Software testing, planning and basic unit and integration testing.
 
+## Modules
+
 ## Examination
 
 Project deliverable (source code, binary, and documentation) and a final report that reflects on the project decisions and outcome.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

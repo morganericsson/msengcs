@@ -45,8 +45,14 @@ After completing the course the student is expected to:
 - System Identification
 - Stochastic Systems
 
+## Modules
+
 ## Examination
 
 Written exam and assignments
+
+## Grading
+
+## Course litterature
 
 ## Overlap

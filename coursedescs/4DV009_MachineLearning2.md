@@ -44,8 +44,14 @@ After completing the course the student is expected to:
 - Generative models
 - long-short term memory
 
+## Modules
+
 ## Examination
 
 Report and assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap

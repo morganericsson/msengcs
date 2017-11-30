@@ -66,6 +66,8 @@ The types of instruction for this course encompass traditional lectures for teac
 * Programming assignments, 2.5 credits
 
 
+## Modules
+
 ## Examination
 
 The learning outcomes of this course are assessed with the help of 3 theoretical assignments (TA) to evaluate knowledge and understanding of the computer graphics concepts teached in the lectures. These theoretical assignments also contain higher level questions in order to assess if the students are able to critically reflect upon the different approaches and what impact these may have on the final synthetic computer-generated images.
@@ -104,6 +106,10 @@ Late work will not be accepted without prior approval by the instructor. Reasons
     * Estimated reading: 450 / 812 pages
 * DV, Distributed slides.
     * Estimated reading: 310 / 310 pages
+
+## Grading
+
+## Course literature
 
 ## Overlap
 

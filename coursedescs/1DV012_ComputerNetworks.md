@@ -57,9 +57,15 @@ After completing the course the student is expected to:
 - Network programming APIs (e.g., BSD Socket)
 - Routing
 
+## Modules
+
 ## Examination
 
 Written exam and practical assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

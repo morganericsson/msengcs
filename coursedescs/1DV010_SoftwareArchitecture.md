@@ -49,9 +49,15 @@ After completing the course the student is expected to:
 - Software product­line concepts and its architectures
 - Software architecture design and evaluation
 
+## Modules
+
 ## Examination
 
 Assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

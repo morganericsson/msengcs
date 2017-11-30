@@ -54,9 +54,16 @@ After completing the course the student is expected to:
 - Backtracking
 - Introduction to NP­ complete problems
 
+## Modules
+
 ## Examination
 
 Written exam and practical assignments.
+
+## Grading
+
+## Course litterature
+
 
 ## Overlap
 

@@ -44,9 +44,15 @@ After completing the course the student is expected to:
 - Analysis of scientific publications
 - Presentation of scientific problem and suitable scientific method in the fields computer science and software engineering
 
+## Modules
+
 ## Examination
 
 Planning report for M.Sc. thesis and paper presentations/reviews.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

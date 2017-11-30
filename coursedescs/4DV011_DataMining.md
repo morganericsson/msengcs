@@ -48,4 +48,12 @@ After completing the course the student is expected to:
 - Anomaly detection
 - Dimension reduction
 
+## Modules
+
+## Examination
+
+## Grading
+
+## Course litterature
+
 ## Overlap

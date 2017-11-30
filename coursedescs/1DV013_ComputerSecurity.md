@@ -48,9 +48,15 @@ After completing the course the student is expected to:
 - Program Security.
 - Security in Operating Systems and Databases.
 
+## Modules
+
 ## Examination
 
 Practical assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

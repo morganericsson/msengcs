@@ -50,9 +50,15 @@ After completing the course the student is expected to:
 - Multitasking
 - Scheduling
 
+## Modules
+
 ## Examination
 
 Written exam and pratical assignments.
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

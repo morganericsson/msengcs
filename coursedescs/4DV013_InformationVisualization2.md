@@ -65,6 +65,8 @@ The types of instruction for this course encompass traditional lectures for teac
 * Oral exam, 2 credits
 
 
+## Modules
+
 ## Examination
 
 The learning outcomes of this course are assessed with the help of 3 practical assignments (A1-A3) that together form a small programming project, a presentation (P) given by the student or student group, and an oral exam (OE) for each student individually at the end of the course. The oral exam will take 30 minutes and is used to mainly evaluate knowledge and conceptual understanding of the visualization concepts and fundamentals teached in the lectures. The exam also encompasses higher level questions in order to assess if the students are able to critically reflect upon the discussed visualization and interaction approaches. In addition, the assignments are used to mainly evaluate the students’ skills to implement new interactive visualizations for more complex and larger data sets as well as making well-grounded design choices in the context of specific tasks and example data sets. As part of the last assignment, the students have to provide a detailed proposal of how their finally implemented visualization should be evaluated. Lastly, the presentation shall show if students are able to critically reflect on visualization and interaction approaches in the light of current theories and research. For this, a specific topic (e.g., a research paper) is assigned to each student/group, based on which they have to prepare a talk on the topic and critically discuss the topic in a seminar-like setting.
@@ -113,6 +115,10 @@ Late work will not be accepted without prior approval by the instructor. Reasons
     * Estimated reading: 150 / 558 pages
 * DV, Distributed slides.
     * Estimated reading: 350 / 350 pages
+
+## Grading
+
+## Course litterature
 
 ## Overlap
 

@@ -51,8 +51,14 @@ After completing the course the student is expected to:
 - Branch and bound method
 - Cutting plane method
 
+## Modules
+
 ## Examination
 
 Exam and assignments
+
+## Grading
+
+## Course litterature
 
 ## Overlap

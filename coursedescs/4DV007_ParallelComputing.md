@@ -44,6 +44,14 @@ computing
 - Programming models for parallel computing
 - Programming languages for parallel computing
 
+## Modules
+
+## Examination
+
+## Grading
+
+## Course litterature
+
 ## Overlap
 
 2DV605.
