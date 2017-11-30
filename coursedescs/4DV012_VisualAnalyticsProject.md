@@ -4,8 +4,8 @@ PrelCode:   4DV012
 HEC:        10
 Year:       5
 Period:     1-2
-Examiner1:  Andreas Kerren
-Examiner2:  Ilir Jusufi
+Examiner1:  Ilir Jusufi
+Examiner2:  Andreas Kerren
 Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
