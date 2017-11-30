@@ -4,11 +4,7 @@ PrelCode:   4DV010
 HEC:        5
 Year:       5
 Period:     1
-<<<<<<< HEAD
 Examiner1:  Andreas Kerren
-=======
-Examiner1:  Andreas Kerren    
->>>>>>> db5360884dd4bcbf97536325c97ff780a6b9df74
 Examiner2:  Ilir Jusufi
 Status:     FirstDraft
 Mandatory:  Yes
@@ -65,8 +61,6 @@ The types of instruction for this course encompass traditional lectures for teac
 * Assignments, 3 credits
 * Oral exam, 2 credits
 
-## Modules
-
 ## Examination
 
 The learning outcomes of this course are assessed with the help of 4 assignments (A1-A4) and an oral exam (OE) for each student individually at the end of the course. The oral exam will take 30 minutes and is used to mainly evaluate knowledge and conceptual understanding of the visualization concepts and fundamentals teached in the lectures. The exam also encompasses higher level questions in order to assess if the students are able to critically reflect upon the different perceptual principles and fundamentals and what impact these may have on the final visualization. In addition, the four assignments are used to mainly evaluate the students’ skills to choose and implement expressive and effective visual representations as well as making well-grounded design choices in the context of specific tasks and example data sets. We only use programming libraries (e.g., D3 [1]) and visualization environments (e.g., Tableau [2]) that are freely available in general or for classroom use. Any standard laptop or desktop computer with an onboard graphics chip and/or dedicated graphics card is sufficient for the programming/visualization tasks. Passing the complete assignments module is the prerequisite for doing the oral exam.
@@ -114,11 +108,6 @@ Late work will not be accepted without prior approval by the instructor. Reasons
     * Estimated reading: 100 / 512 pages
 * DV, Distributed slides.
     * Estimated reading: 380 / 380 pages
-
-
-## Grading
-
-## Course litterature
 
 ## Overlap
 
