@@ -87,14 +87,14 @@ In order to relate the learning outcomes to the two assessment types and individ
 
 | Learning Outcome | Assessment Type | TA1 | TA2 | TA3 | PA1 | PA2 | PA3 |
 | ---------------- | --------------- | --- | --- | --- | --- | --- | --- |
-| 1a               | TA + PA         |**X**|**X**|     |**X**|     |     |
-| 1b               | TA              |     |**X**|     |     |     |     |
-| 1c               | TA              |     |     |**X**|     |     |     |
-| 2a               | TA + PA         |**X**|     |     |**X**|     |     |
-| 2b               | TA + PA         |     |**X**|     |     |**X**|     |
-| 2c               | PA              |     |     |     |**X**|**X**|**X**|
-| 3a               | PA              |     |     |     |     |     |**X**|
-| 3b               | TA              |     |     |**X**|     |     |     |
+| 1.1              | TA + PA         |**X**|**X**|     |**X**|     |     |
+| 1.2              | TA              |     |**X**|     |     |     |     |
+| 1.3              | TA              |     |     |**X**|     |     |     |
+| 2.1              | TA + PA         |**X**|     |     |**X**|     |     |
+| 2.2              | TA + PA         |     |**X**|     |     |**X**|     |
+| 2.3              | PA              |     |     |     |**X**|**X**|**X**|
+| 3.1              | PA              |     |     |     |     |     |**X**|
+| 3.2              | TA              |     |     |**X**|     |     |     |
 
 Late work will not be accepted without prior approval by the instructor. Reasons for accepted delays may be proven health conditions, no-fault hardships, etc.
 
