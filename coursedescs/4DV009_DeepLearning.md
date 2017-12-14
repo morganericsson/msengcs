@@ -75,7 +75,7 @@ The examination is based on:
 | 1.2 |     |     |  X  |  X  |
 | 1.3 |     |  X  |  X  |  X  |
 | 2.1 |  X  |  X  |  X  |     |
-| 2.2 |     |  X  |     |     |
+| 2.2 |  X  |  X  |  X  |     |
 | 2.3 |  X  |  X  |  X  |     |
 | 3.1 |  X  |  X  |  X  |  X  |
 
