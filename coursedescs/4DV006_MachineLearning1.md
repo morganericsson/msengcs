@@ -22,8 +22,6 @@ PreReq:     Linear algebra;Probability theory and statistics;Multivariable calcu
 3. Multivariable calculus: gradients, partial derivatives
 4. Programming: knowledge in some programming language
 
-1MA002, 1MA003, 1MA006, 1DV001, 1DV006.
-
 ## Learnings outcomes
 
 After completing the course the student is expected to:
