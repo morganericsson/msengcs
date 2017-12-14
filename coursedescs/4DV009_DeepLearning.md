@@ -17,7 +17,7 @@ PreReq:     Linear algebra, Probability theory and statistics, Multivariable cal
 
 ## Prerequisites
 
-1.Linear algebra: basic knowledge of vectors and matrices
+1. Linear algebra: basic knowledge of vectors and matrices
 2. Probability theory and statistics: distributions
 3. Multivariable calculus: vector valued functions, partial derivatives, chain rule
 4. Machine learning: basic knowledge of ML including concept such as, overfitting, regularization
