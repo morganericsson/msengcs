@@ -10,7 +10,7 @@ Status:     FirstDraft
 Mandatory:  No
 Subject:    ComputerScience
 Type:       Regular
-PreReq:     Linear algebra, Probability theory and statistics, Multivariable calculus, Machine learning
+PreReq:     Linear algebra;Probability theory and statistics;Multivariable calculus;Programming;Machine learning
 ---
 
 # [%PrelCode] - [%Name] ([%HEC] hec)
