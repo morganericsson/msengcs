@@ -17,11 +17,11 @@ PreReq:     Linear algebra, Probability theory and statistics, Multivariable cal
 
 ## Prerequisites
 
-Linear algebra: basic knowledge of vectors and matrices
-Probability theory and statistics: distributions
-Multivariable calculus: vector valued functions, partial derivatives, chain rule
-Machine learning: basic knowledge of ML including concept such as, overfitting, regularization
-Programming: knowledge in some programming language, preferably Python
+1.Linear algebra: basic knowledge of vectors and matrices
+2. Probability theory and statistics: distributions
+3. Multivariable calculus: vector valued functions, partial derivatives, chain rule
+4. Machine learning: basic knowledge of ML including concept such as, overfitting, regularization
+5. Programming: knowledge in some programming language, preferably Python
 
 ## Learnings outcomes
 
@@ -66,10 +66,10 @@ The examination is based on:
 
 - Module 1: Assignments (A1, A2)
 - Module 2: Assignments (A3)
-- Final: Written exam (OE)
+- Final: Written exam (WE)
 
 
-|     | A1  | A2  | A3  | OE  |
+|     | A1  | A2  | A3  | WE  |
 | --- | --- | --- | --- | --- |
 | 1.1 |     |     |     |  X  |
 | 1.2 |     |     |  X  |  X  |
@@ -79,8 +79,6 @@ The examination is based on:
 | 2.3 |  X  |  X  |  X  |     |
 | 3.1 |  X  |  X  |  X  |  X  |
 
-Report and assignments.
-
 ## Grading
 The course is assessed with the grades A, B, C, D, E, Fx or F.
 The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
@@ -89,6 +87,7 @@ The grade F means that the student’s performance is assessed as fail.
 ## Course literature
 
 Goodfellow, Ian, Bengio, Yoshua & Courville, Aaron, Deep learning, Cambridge, MA, 2016
+
 Supplementary literature may be provided by the institution if needed.
 
 ## Overlap
