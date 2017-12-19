@@ -10,13 +10,17 @@ Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
+PreReq:     1DV001;1DV003;Discrete Mathematics
 ---
 
 # [%PrelCode] - [%Name] ([%HEC] hec)
 
 ## Prerequisites
 
-None.
+- Java, OOP.
+- Basic abstract data types: list, stack and queue. 
+- Basic graph theory.
+
 
 ## Learnings outcomes
 
@@ -24,46 +28,66 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Describe algorithms and explain they properties, e.g., why they are fast or correct.
-- Explain problems classes, such as P and NP, and recognize problems that belong to these. 
-- Explain intractability and recognize such problems.
-- Prove the correctness of an algorithm.
+1. Describe algorithms and explain their properties, e.g., why they are fast or correct.
+2. Recall problem complexity classes, such as P and NP, and recognize problems that belong to these. 
+3. Explain intractability and identify such problems.
 
 *2.	Skills and abilities*
 
-- Analyze the complexity of algorithms.
-- Perform simple reduction between problems
-- Apply common techniques, such as divide-and-conquer, dynamic programming, greed, backtracking, to design algorithms to solve problems.
-- Perform experimental validation of properties of algorithms, e.g., speed.
-- For simple cases, design, implement, and prove the correctness of an algorithm.
+1. Determine the time and space complexities of algorithms and data structures.
+2. Implement algorithms and data structures.
+3. Perform experimental validation of properties of algorithms, e.g., speed.
+4. Carry out simple reductions between algorithmic problems.
+5. Apply common techniques, such as divide-and-conquer, dynamic programming, or greedy to algorithm design.
+
 
 *3.	Judgement and approach*
 
-- Compare and decide on which algorithms to use to solve a problem, based on their properties.
-- Reason about why an algorithm may be correct or not, and identify common pitfalls in algorithm design.
+1. Compare and decide on which algorithms and data structures to use based on application needs.
+2. Reason about why an algorithm may be correct or not, and identify common pitfalls in algorithm design.
 
 ## Course contents
 
-- Techniques for algorithm design
-- Algorithm analysis (big O notation)
-- Hashing
+- Asymptotic analysis (big-O, Theta, Omega notation)
+- Algorithm analysis (worst case, average case, best case)
+- Abstract data types: dictionary, priority queue, union-find
 - Sorting
 - Graph algorithms
-- Greedy algorithms
-- Dynamic programming
-- Backtracking
-- Introduction to NP­ complete problems
+- Algorithm design paradigms (divide-and-conquer, greedy, dynamic programming)
+- Introduction to complexity theory: intractability, complexity classes, completeness, reductions
 
 ## Modules
 
-## Examination
+- Data structures commonly used in computer science problems. 2,5 credits. 
+- Analysis of algorithms that implement solutions to computer science problems. 2.5 credits. 
 
-Written exam and practical assignments.
+## Examination
+The examination consists of assignments (A1, A2 & A3), a written exam (WE) and an oral exam (OE).
+
+
+      | A1  | A2  | A3  | WE  | OE
+ ---  | --- | --- | --- | --- | ---
+ 1.1  |     |     |     |  X  |  X
+ 1.2  |     |     |     |  X  |  X
+ 1.3  |     |     |     |     |  X
+ 2.1  |  X  |  X  |  X  |  X  |
+ 2.2  |  X  |  X  |  X  |     |
+ 2.3  |  X  |     |     |     |
+ 2.4  |     |     |     |  X  |  
+ 2.5  |     |     |  X  |  X  |
+ 3.1  |     |     |     |  X  |  X
+ 3.2  |     |     |     |  X  |  X
+
+
+## Grading
+The course is assessed with the grades A, B, C, D, E, Fx or F.
+The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
+The grade F means that the student’s performance is assessed as fail.
+
 
-## Grading
 
 ## Course litterature
-
+- Mark A. Weiss. Data Structures and Algorithm Analysis in Java (3rd Edition) 
 
 ## Overlap
 
