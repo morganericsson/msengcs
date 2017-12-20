@@ -19,10 +19,10 @@ PreReq:     1DV001;1DV005;1DV006;1MA002
 
 - Java programming and data structures, 1DV001
 - Software engineering project methodology, 1DV005
-- Algorithms. 1DV006
+- Algorithms, 1DV006
 - Vector and matrix calculus, 1MA002
 
-## Learnings outcomes
+## Learning outcomes
 
 After completing the course the student is expected to:
 
@@ -31,10 +31,10 @@ After completing the course the student is expected to:
 1. Characterize the role of machine learning systems for learning from and understanding data
 2. Identify characteristics of state-of-the-art machine learning systems
 
-*2.     Skills and abilities*
+*2. Skills and abilities*
 
-1. Plan and execute a machine learning project that involves data pre-processing, algorithm selection and metrics for validating results
-2. Execute the project plan by applying previously learned skills from machine learning courses and other relevant courses in a project-like environment and combining them with state-of-the-art machinelearning tools and libraries
+1. Plan and execute a machine learning project that involves data pre-processing, algorithm selection, and metrics for validating results
+2. Execute the project plan by applying previously learned skills from machine learning courses and other relevant courses in a project-like environment and combining them with state-of-the-art machine learning tools and libraries
 
 *3.	Judgement and approach*
 
@@ -44,7 +44,7 @@ After completing the course the student is expected to:
 ## Course contents
 
 This course offers the students the opportunity to consolidate and apply knowledge and skills obtained in previous courses of their studies by the development of a machine learning 
-application. Machine learning systems learn patterns from known (often referred to as labeled) data, and aims to find similar patterns in unknown data providing end-users a tool to
+application. Machine learning systems learn patterns from known (often referred to as *labeled*) data, and aims to find similar patterns in unknown data providing end-users a tool to
 aid in understanding newly collected data. By following the course’s modules (described in more details below) the students will be introduced to theoretical machine learning aspects and tools, 
 create the conceptual design of a machine learning project of their choice, implement their designs, and present their results.
 
@@ -65,6 +65,7 @@ The course starts with an introduction to machine learning systems from both the
 - Tutorial(s) on state-of-the-art tools, APIs and libraries used for the development of machine learning systems, such as Weka [1] and TensorFLow [2]
 
 [1] https://www.cs.waikato.ac.nz/ml/weka/
+
 [2] https://www.tensorflow.org
 
 M2: Conceptual design of the project, 3 credits
@@ -90,9 +91,9 @@ M3: The examination in this module is project deliverables (source code, binary,
 
 The examination is based on: 
 
-- M1: Assignment (TA)
+- M1: Theoretical Assignment (TA)
 - M2: Project Design (DE)
-- M3: Project deliverable (PD) 
+- M3: Project Deliverable (PD) 
 
 |  -   | TA  | DE  | PD  |
 | ---  | --- | --- | --- | 
@@ -108,9 +109,9 @@ The examination is based on:
 The course is assessed with an A-F grading. The three modules are separately evaluated and graded. Each of the assignments in the three modules (TA, DE, PD) must be passed individually, 
 i.e., grade(Assignment) ≥ 50% in order to pass it. The grades for each module are calculated as follows:
 
-grade(M1) = grade(TA)
-grade(M2) = grade(DE)
-grade(M3) = grade(PD)
+- grade(M1) = grade(TA)
+- grade(M2) = grade(DE)
+- grade(M3) = grade(PD)
 
 If one of the modules is failed then the final course grade is F. If all modules are passed, the final course grade is based on the weighted average of the grades 
 received for the three modules, as follows: grade(Course) = 0.2 * grade(M1) + 0.3 * grade(M2) + 0.5 * grade(M3).
@@ -125,7 +126,7 @@ If grade(Course) ≥ 50%, then the student passes the course, otherwise the cour
 | D                | >= 60              |
 | E                | >= 50              |
 
-## Course litterature
+## Course literature
 
 Sunila Gollapudi. Practical Machine Learning. PACKT publishing, 2016.
 - Estimated reading: 330 / 468 pages
