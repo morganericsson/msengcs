@@ -12,7 +12,6 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV005  
-
 ---
 
 # [%PrelCode] - [%Name] ([%HEC] hec)
