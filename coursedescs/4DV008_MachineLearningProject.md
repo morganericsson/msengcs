@@ -62,7 +62,7 @@ The course starts with an introduction to machine learning systems from both the
 
 - Lecture(s) on the role of machine learning systems for real-world tasks
 - Analysis of selected examples of state-of-the-art machine learning systems
-- Tutorial(s) on state-of-the-art tools, APIs and libraries used for the development of machine learning systems, such as Weka [1] and TensorFLow [2]
+- Tutorial(s) on state-of-the-art tools, APIs and libraries used for the development of machine learning systems, such as Weka [1] and TensorFlow [2]
 
 [1] https://www.cs.waikato.ac.nz/ml/weka/
 
