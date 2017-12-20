@@ -1,4 +1,3 @@
-
 ---
 Name:       Software architecture
 PrelCode:   1DV010
