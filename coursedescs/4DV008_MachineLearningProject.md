@@ -44,8 +44,9 @@ After completing the course the student is expected to:
 ## Course contents
 
 This course offers the students the opportunity to consolidate and apply knowledge and skills obtained in previous courses of their studies by the development of a machine learning 
-application. Machine learning systems learn patterns from known (often referred to as *labeled*) data, and aims to find similar patterns in unknown data providing end-users a tool to
-aid in understanding newly collected data. By following the course’s modules (described in more details below) the students will be introduced to theoretical machine learning aspects and tools, 
+application. 
+Machine learning systems learn patterns from labeled or unlabeled data, and aim to provide end-users with tools to aid in finding similar patterns and understanding newly collected data. 
+By following the course’s modules (described in more details below) the students will be introduced to theoretical machine learning aspects and tools, 
 create the conceptual design of a machine learning project of their choice, implement their designs, and present their results.
 
 ## Types of instructions
