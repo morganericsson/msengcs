@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="70 70 1079 739" width="1079pt" height="739pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2018-01-15 13:54:44 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Avenir Next" font-size="16" panose-1="2 11 6 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="474" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="600">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir Next" font-size="14" panose-1="2 11 6 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="474" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="600">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir Next" font-size="15" panose-1="2 11 6 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="474" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="600">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir Next" font-size="20" panose-1="2 11 6 3 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="474" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="600">
+      <font-face-src>
+        <font-face-name name="AvenirNext-Medium"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Current version</title>
+    <rect fill="white" width="1148.5315" height="808.374"/>
+    <g>
+      <title>Layer 1</title>
+      <rect x="70.86614" y="70.86614" width="170.07874" height="85.03937" fill="#78adff"/>
+      <rect x="70.86614" y="70.86614" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(75.86614 102.38583)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="12.191372" y="16" textLength="64.96">Basic ma</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="76.99137" y="16" textLength="46.64">thema</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="123.47137" y="16" textLength="24.416">tics</tspan>
+      </text>
+      <rect x="240.94488" y="155.90551" width="170.07874" height="85.03937" fill="#ffaca9"/>
+      <rect x="240.94488" y="155.90551" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(245.94488 176.4252)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="34.823372" y="16" textLength="24.704">Intr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="59.23937" y="16" textLength="66.016">oductory</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="54.08737" y="38" textLength="15.936">pr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="69.73537" y="38" textLength="36.256">oject</tspan>
+      </text>
+      <rect x="70.86614" y="155.90551" width="170.07874" height="85.03937" fill="#78adff"/>
+      <rect x="70.86614" y="155.90551" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(75.86614 187.4252)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="27.183372" y="16" textLength="30.8">Line</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="57.88737" y="16" textLength="66.544">ar algebr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="124.22337" y="16" textLength="8.672">a</tspan>
+      </text>
+      <rect x="240.94488" y="70.86614" width="170.07874" height="85.03937" fill="#ffd7d6"/>
+      <rect x="240.94488" y="70.86614" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(245.94488 102.38583)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="29.855372" y="16" textLength="9.52">P</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="38.639372" y="16" textLength="5.792">r</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="44.14337" y="16" textLength="25.664">ogr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="69.59937" y="16" textLength="60.624">amming</tspan>
+      </text>
+      <rect x="70.86614" y="240.94488" width="113.38583" height="85.03937" fill="#78adff"/>
+      <rect x="70.86614" y="240.94488" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(75.86614 272.46457)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="14.100913" y="16" textLength="11.328">C</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.140913" y="16" textLength="64.144">alculus 1</tspan>
+      </text>
+      <rect x="666.1417" y="155.90551" width="113.38583" height="170.07874" fill="#ffaca9"/>
+      <rect x="666.1417" y="155.90551" width="113.38583" height="170.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(671.1417 207.94488)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="19.412915" y="16" textLength="23.824">Sof</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="42.996915" y="16" textLength="32.096">twar</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="74.804915" y="16" textLength="9.168">e</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="6.820915" y="38" textLength="89.744">engineering</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.740915" y="60" textLength="15.936">pr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="41.388915" y="60" textLength="36.256">oject</tspan>
+      </text>
+      <rect x="439.3701" y="70.86614" width="170.07874" height="85.03937" fill="#78adff"/>
+      <rect x="439.3701" y="70.86614" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(444.3701 91.38582)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="8.287372" y="16" textLength="79.232">Applied pr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="87.23137" y="16" textLength="64.56">obability</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="33.063372" y="38" textLength="53.184">and sta</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="86.08737" y="38" textLength="40.928">tistics</tspan>
+      </text>
+      <rect x="439.3701" y="325.98425" width="170.07874" height="85.03937" fill="#78adff"/>
+      <rect x="439.3701" y="325.98425" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(444.3701 346.50394)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="49.82337" y="16" textLength="37.12">Discr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="86.65537" y="16" textLength="23.6">ete</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="33.239372" y="38" textLength="22.864">ma</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="55.94337" y="38" textLength="46.64">thema</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="102.42337" y="38" textLength="24.416">tics</tspan>
+      </text>
+      <rect x="439.3701" y="155.90551" width="113.38583" height="85.03937" fill="#38d4d6"/>
+      <rect x="439.3701" y="155.90551" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(444.3701 179.4252)" fill="black">
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="21.865915" y="14" textLength="7.966">T</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="28.487915" y="14" textLength="56.532">echnical </tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="1.943915" y="33" textLength="74.718">communica</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="76.521915" y="33" textLength="24.92">tion</tspan>
+      </text>
+      <rect x="439.3701" y="240.94488" width="113.38583" height="85.03937" fill="#38d4d6"/>
+      <rect x="439.3701" y="240.94488" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(444.3701 261.46457)" fill="#323232">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" fill="#323232" x="9.148915" y="16" textLength="89.088">Sustainable </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" fill="#323232" x="2.412915" y="38" textLength="98.56">development</tspan>
+      </text>
+      <rect x="807.874" y="155.90551" width="113.38583" height="85.03937" fill="#ffd579"/>
+      <rect x="807.874" y="155.90551" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(812.874 176.4252)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="13.828913" y="16" textLength="58.576">Automa</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="72.24491" y="16" textLength="21.312">tic </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.860913" y="38" textLength="38.032">contr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="63.60491" y="38" textLength="13.92">ol</tspan>
+      </text>
+      <rect x="807.874" y="325.98425" width="340.1575" height="85.03937" fill="#ffaca9"/>
+      <rect x="807.874" y="325.98425" width="340.1575" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(812.874 357.50394)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="103.83074" y="16" textLength="122.496">Bachelor&apos;s thesis</tspan>
+      </text>
+      <rect x="921.2598" y="240.94488" width="113.38583" height="85.03937" fill="#88f0f5"/>
+      <rect x="921.2598" y="240.94488" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(926.2598 261.46457)" fill="#323232">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" fill="#323232" x="18.628915" y="16" textLength="58.224">Scientifi</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" fill="#323232" x="76.852915" y="16" textLength="7.904">c</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" fill="#323232" x="19.196915" y="38" textLength="64.992">methods</tspan>
+      </text>
+      <rect x="609.4488" y="70.86614" width="170.07874" height="85.03937" fill="#d7acd6"/>
+      <rect x="609.4488" y="70.86614" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(614.4488 91.38583)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="28.255372" y="16" textLength="107.568">Electricity and </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="38.959372" y="38" textLength="82.16">magnetism</tspan>
+      </text>
+      <rect x="70.86614" y="325.98425" width="170.07874" height="85.03937" fill="#d7acd6"/>
+      <rect x="70.86614" y="325.98425" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(75.86614 357.50394)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="41.03937" y="16" textLength="78">Mechanics</tspan>
+      </text>
+      <rect x="609.4488" y="325.98425" width="170.07874" height="85.03937" fill="#ffd7d6"/>
+      <rect x="609.4488" y="325.98425" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(614.4488 346.50394)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="42.65537" y="16" textLength="11.328">C</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="53.79137" y="16" textLength="63.632">omputer</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="34.095372" y="38" textLength="15.552">or</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="49.35937" y="38" textLength="48.304">ganiza</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="97.50337" y="38" textLength="28.48">tion</tspan>
+      </text>
+      <rect x="240.94488" y="325.98425" width="170.07874" height="85.03937" fill="#ffd7d6"/>
+      <rect x="240.94488" y="325.98425" width="170.07874" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(245.94488 346.50394)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="38.807372" y="16" textLength="11.328">C</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="49.94337" y="16" textLength="47.872">oncurr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="97.52737" y="16" textLength="23.744">ent</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="29.175372" y="38" textLength="15.936">pr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="44.82337" y="38" textLength="25.664">ogr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="70.27937" y="38" textLength="60.624">amming</tspan>
+      </text>
+      <rect x="921.2598" y="155.90551" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="921.2598" y="155.90551" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(926.2598 176.4252)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="14.308915" y="16" textLength="11.328">C</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.444915" y="16" textLength="63.632">omputer</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="19.020915" y="38" textLength="18.24">Gr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="37.052915" y="38" textLength="47.312">aphics</tspan>
+      </text>
+      <rect x="297.6378" y="240.94488" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="297.6378" y="240.94488" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(302.6378 264.46457)" fill="black">
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x=".0049130554" y="14" textLength="103.376">Object-oriented</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="7.186913" y="33" textLength="13.944">pr</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="20.878913" y="33" textLength="22.456">ogr</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="43.152913" y="33" textLength="53.046">amming</tspan>
+      </text>
+      <rect x="552.7559" y="240.94488" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="552.7559" y="240.94488" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(557.7559 272.46457)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="11.068915" y="16" textLength="81.248">Algorithms</tspan>
+      </text>
+      <rect x="184.25197" y="240.94488" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="184.25197" y="240.94488" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(189.25197 272.46457)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="13.268915" y="16" textLength="20.848">Da</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="33.956915" y="16" textLength="56.16">tabases</tspan>
+      </text>
+      <rect x="1034.6457" y="70.86614" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="1034.6457" y="70.86614" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1039.6457 91.38583)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="10.292915" y="16" textLength="82.8">Embedded</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="22.692915" y="38" textLength="58">systems</tspan>
+      </text>
+      <rect x="1034.6457" y="155.90551" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="1034.6457" y="155.90551" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1039.6457 176.4252)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="14.308913" y="16" textLength="11.328">C</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.444913" y="16" textLength="67.632">omputer </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="18.140913" y="38" textLength="60.096">network</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="78.14091" y="38" textLength="7.104">s</tspan>
+      </text>
+      <rect x="807.874" y="240.94488" width="113.38583" height="85.03937" fill="#38d4d6"/>
+      <rect x="807.874" y="240.94488" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(812.874 261.46457)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="17.564915" y="16" textLength="68.256">Industrial</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="17.612915" y="38" textLength="68.16">economy</tspan>
+      </text>
+      <rect x="1034.6457" y="240.94488" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="1034.6457" y="240.94488" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(1039.6457 272.46457)" fill="#323232">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" fill="#323232" x="22.316915" y="16" textLength="58.752">Security</tspan>
+      </text>
+      <rect x="552.7559" y="155.90551" width="113.38583" height="85.03937" fill="#78adff"/>
+      <rect x="552.7559" y="155.90551" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(557.7559 187.4252)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="14.100913" y="16" textLength="11.328">C</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.140913" y="16" textLength="64.144">alculus 2</tspan>
+      </text>
+      <rect x="807.874" y="70.86614" width="113.38582" height="85.03937" fill="#78adff"/>
+      <rect x="807.874" y="70.86614" width="113.38582" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(812.874 80.38583)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="3.6049092" y="16" textLength="100.176">Multivariable </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="12.020909" y="38" textLength="32.144">and </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="43.87691" y="38" textLength="10.272">V</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="53.47691" y="38" textLength="41.888">ector </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="20.86091" y="60" textLength="11.328">C</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="31.90091" y="60" textLength="54.624">alculus </tspan>
+      </text>
+      <rect x="70.86614" y="467.71654" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="70.86614" y="467.71654" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(75.86614 480.2362)" fill="black">
+        <tspan font-family="Avenir Next" font-size="15" font-weight="600" x="23.657915" y="15" textLength="8.535">S</tspan>
+        <tspan font-family="Avenir Next" font-size="15" font-weight="600" x="32.012915" y="15" textLength="51.465">ystems </tspan>
+        <tspan font-family="Avenir Next" font-size="15" font-weight="600" x="1.390415" y="35" textLength="104.355">modelling and </tspan>
+        <tspan font-family="Avenir Next" font-size="15" font-weight="600" x="16.112915" y="55" textLength="44.61">simula</tspan>
+        <tspan font-family="Avenir Next" font-size="15" font-weight="600" x="60.572915" y="55" textLength="26.7">tion</tspan>
+      </text>
+      <rect x="184.25197" y="467.71654" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="184.25197" y="467.71654" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(189.25197 488.2362)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="17.444915" y="16" textLength="11.328">C</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="28.580915" y="16" textLength="57.36">ompiler</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="6.276915" y="38" textLength="90.832">construction</tspan>
+      </text>
+      <rect x="439.3701" y="467.71654" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="439.3701" y="467.71654" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(444.3701 477.2362)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="9.020915" y="16" textLength="57.024">Informa</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="65.884915" y="16" textLength="28.48">tion</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="6.700915" y="38" textLength="61.664">visualiza</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="68.204915" y="38" textLength="32.48">tion </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="46.932915" y="60" textLength="9.52">1</tspan>
+      </text>
+      <rect x="184.25197" y="637.7953" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="184.25197" y="637.7953" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(189.25197 658.315)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.092915" y="16" textLength="9.52">P</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="33.716915" y="16" textLength="14.464">ar</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="47.972915" y="16" textLength="30.32">allel</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="11.620915" y="38" textLength="80.144">computing</tspan>
+      </text>
+      <rect x="297.6378" y="637.7953" width="113.38583" height="170.07874" fill="#ffaca9"/>
+      <rect x="297.6378" y="637.7953" width="113.38583" height="170.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(302.6378 689.83465)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="20.196915" y="16" textLength="62.992">Machine</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="21.404915" y="38" textLength="13.328">le</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="34.636915" y="38" textLength="47.344">arning</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.740915" y="60" textLength="15.936">pr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="41.388915" y="60" textLength="36.256">oject</tspan>
+      </text>
+      <rect x="552.7559" y="467.71654" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="552.7559" y="467.71654" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(557.7559 488.2362)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="34.380915" y="16" textLength="20.848">Da</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="55.068915" y="16" textLength="13.936">ta</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="26.084915" y="38" textLength="51.216">mining</tspan>
+      </text>
+      <rect x="666.1417" y="467.71654" width="113.38583" height="170.07874" fill="#ffaca9"/>
+      <rect x="666.1417" y="467.71654" width="113.38583" height="170.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(671.1417 519.7559)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="30.004915" y="16" textLength="10.272">V</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="39.988915" y="16" textLength="37.392">isual </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="20.044915" y="38" textLength="63.296">analytics</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.740915" y="60" textLength="15.936">pr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="41.388915" y="60" textLength="36.256">oject</tspan>
+      </text>
+      <rect x="439.3701" y="637.7953" width="340.1575" height="170.07874" fill="#ffaca9"/>
+      <rect x="439.3701" y="637.7953" width="340.1575" height="170.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(444.3701 711.83465)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="111.14274" y="16" textLength="107.872">Master&apos;s thesis</tspan>
+      </text>
+      <rect x="297.6378" y="467.71654" width="113.38583" height="170.07874" fill="#ffaca9"/>
+      <rect x="297.6378" y="467.71654" width="113.38583" height="170.07874" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(302.6378 508.7559)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="27.844915" y="16" textLength="47.696">Model</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="27.364915" y="38" textLength="48.656">Driven</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="6.596915" y="60" textLength="90.192">Engineering</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="25.740915" y="82" textLength="15.936">pr</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="41.388915" y="82" textLength="36.256">oject</tspan>
+      </text>
+      <rect x="70.86614" y="637.7953" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="70.86614" y="637.7953" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(75.86614 658.315)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="20.196915" y="16" textLength="66.992">Machine </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="14.644915" y="38" textLength="13.328">le</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="27.876915" y="38" textLength="60.864">arning 1</tspan>
+      </text>
+      <path d="M 70.86614 637.7953 L 184.25197 552.7559 L 70.86614 552.7559 Z" fill="#ffd7d6"/>
+      <path d="M 184.25197 552.7559 L 70.86614 637.7953 L 184.25197 637.7953 Z" fill="white"/>
+      <rect x="70.86614" y="552.7559" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(75.86614 566.7756)" fill="black">
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="29.425915" y="14" textLength="7.952">F</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="36.705915" y="14" textLength="37.254">ormal</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="18.848915" y="33" textLength="65.688">methods /</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x=".17291496" y="52" textLength="103.04">model checking</tspan>
+      </text>
+      <path d="M 184.25196 637.7953 L 297.6378 552.7559 L 184.25196 552.7559 Z" fill="#ffd7d6"/>
+      <path d="M 297.6378 552.7559 L 184.25196 637.7953 L 297.6378 637.7953 Z" fill="white"/>
+      <rect x="184.25196" y="552.7559" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(189.25196 585.7756)" fill="black">
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="9.755915" y="14" textLength="59.094">Optimiza</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="68.709915" y="14" textLength="24.92">tion</tspan>
+      </text>
+      <path d="M 70.86614 807.874 L 184.25197 722.83465 L 70.86614 722.83465 Z" fill="#ffd7d6"/>
+      <path d="M 184.25197 722.83465 L 70.86614 807.874 L 184.25197 807.874 Z" fill="white"/>
+      <rect x="70.86614" y="722.83465" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(75.86614 746.3543)" fill="black">
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="24.133915" y="14" textLength="58.618">Machine </tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="19.275915" y="33" textLength="11.662">le</tspan>
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="30.853915" y="33" textLength="53.256">arning 2</tspan>
+      </text>
+      <path d="M 184.25196 807.874 L 297.6378 722.83465 L 184.25196 722.83465 Z" fill="#ffd7d6"/>
+      <path d="M 297.6378 722.83465 L 184.25196 807.874 L 297.6378 807.874 Z" fill="white"/>
+      <rect x="184.25196" y="722.83465" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(189.25196 755.8543)" fill="black">
+        <tspan font-family="Avenir Next" font-size="14" font-weight="600" x="26.541915" y="14" textLength="50.302">Elective</tspan>
+      </text>
+      <path d="M 439.3701 637.7953 L 552.7559 552.7559 L 439.3701 552.7559 Z" fill="#ffd7d6"/>
+      <path d="M 552.7559 552.7559 L 439.3701 637.7953 L 552.7559 637.7953 Z" fill="white"/>
+      <rect x="439.3701" y="552.7559" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(444.3701 562.2756)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="9.020915" y="16" textLength="57.024">Informa</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="65.884915" y="16" textLength="28.48">tion</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="6.700915" y="38" textLength="61.664">visualiza</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="68.204915" y="38" textLength="32.48">tion </tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="46.932915" y="60" textLength="9.52">2</tspan>
+      </text>
+      <path d="M 552.7559 637.7953 L 666.1417 552.7559 L 552.7559 552.7559 Z" fill="#ffd7d6"/>
+      <path d="M 666.1417 552.7559 L 552.7559 637.7953 L 666.1417 637.7953 Z" fill="#ffaca9"/>
+      <rect x="552.7559" y="552.7559" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(557.7559 573.2756)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="18.628915" y="16" textLength="58.224">Scientifi</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="76.852915" y="16" textLength="7.904">c</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="12.436915" y="38" textLength="78.512">methods 2</tspan>
+      </text>
+      <circle cx="821.8732" cy="486.37654" r="7.0866255" fill="#ffd7d6"/>
+      <circle cx="821.8732" cy="486.37654" r="7.0866255" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="821.8732" cy="602.43954" r="7.0866255" fill="#78adff"/>
+      <circle cx="821.8732" cy="602.43954" r="7.0866255" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="821.8732" cy="641.1272" r="7.0866255" fill="#d7acd6"/>
+      <circle cx="821.8732" cy="641.1272" r="7.0866255" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="821.8732" cy="679.8149" r="7.0866255" fill="#38d4d6"/>
+      <circle cx="821.8732" cy="679.8149" r="7.0866255" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <circle cx="821.8732" cy="718.5025" r="7.0866255" fill="#ffd579"/>
+      <circle cx="821.8732" cy="718.5025" r="7.0866255" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(844.809 588.93954)" fill="black">
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="0" y="20" textLength="28.9">Ma</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="28.7" y="20" textLength="58.3">thema</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="86.8" y="20" textLength="30.52">tics</tspan>
+      </text>
+      <text transform="translate(844.729 627.6272)" fill="black">
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="0" y="20" textLength="66.48">Physics</tspan>
+      </text>
+      <text transform="translate(844.819 510.7847)" fill="black">
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="0" y="20" textLength="134.3">Elective (with r</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="133.94" y="20" textLength="115.66">ecommenda</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="249.4" y="20" textLength="41.9">tion)</tspan>
+      </text>
+      <text transform="translate(844.859 666.3149)" fill="black">
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="0" y="20" textLength="8.52">“</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="8.88" y="20" textLength="49.34">TMS”</tspan>
+      </text>
+      <text transform="translate(844.619 705.0025)" fill="black">
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x=".17" y="20" textLength="200.66">Electrical engineering</tspan>
+      </text>
+      <circle cx="821.8732" cy="563.7519" r="7.0866255" fill="#ffaca9"/>
+      <circle cx="821.8732" cy="563.7519" r="7.0866255" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(844.619 550.2519)" fill="black">
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="0" y="20" textLength="14.16">C</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="13.92" y="20" textLength="186.64">omputer Science (pr</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="200.2" y="20" textLength="60.5">ojects)</tspan>
+      </text>
+      <path d="M 815.5661 531.3713 L 829.7393 517.19806 L 815.5661 517.19806 Z" fill="#ffd7d6"/>
+      <path d="M 829.7393 517.19806 L 815.5661 531.3713 L 829.7393 531.3713 Z" fill="white"/>
+      <circle cx="822.6527" cy="524.2847" r="7.0866255" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M 822.6606 516.4185 C 824.6711 516.42053 826.6809 517.1885 828.2149 518.7225 C 829.7488 520.2564 830.5168 522.2663 830.5188 524.2768 L 830.5188 516.4185 Z M 822.6448 516.4185 L 814.7865 516.4185 L 814.7865 524.2768 C 814.78855 522.2663 815.5565 520.2564 817.0905 518.7225 C 818.6244 517.1885 820.6343 516.42053 822.6448 516.4185 Z M 814.7865 524.29256 L 814.7865 532.1508 L 822.6448 532.1508 C 820.6343 532.1488 818.6244 531.38083 817.0905 529.8469 C 815.5565 528.3129 814.78855 526.30305 814.7865 524.29256 Z M 822.6606 532.1508 L 830.5188 532.1508 L 830.5188 524.29256 C 830.5168 526.30305 829.7488 528.3129 828.2149 529.8469 C 826.6809 531.38083 824.6711 532.1488 822.6606 532.1508 Z" fill="white"/>
+      <text transform="translate(844.789 472.87654)" fill="black">
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="0" y="20" textLength="14.16">C</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="13.92" y="20" textLength="196.04">omputer Science (cor</tspan>
+        <tspan font-family="Avenir Next" font-size="20" font-weight="600" x="209.6" y="20" textLength="17.76">e)</tspan>
+      </text>
+      <rect x="921.2598" y="70.86614" width="113.38583" height="85.03937" fill="#ffd7d6"/>
+      <rect x="921.2598" y="70.86614" width="113.38583" height="85.03937" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(926.2598 91.38583)" fill="black">
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="19.412915" y="16" textLength="23.824">Sof</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="42.996915" y="16" textLength="32.096">twar</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="74.804915" y="16" textLength="9.168">e</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="8.116915" y="38" textLength="14.464">ar</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="22.292915" y="38" textLength="64.096">chitectur</tspan>
+        <tspan font-family="Avenir Next" font-size="16" font-weight="600" x="86.10091" y="38" textLength="9.168">e</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

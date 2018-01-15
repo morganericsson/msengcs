@@ -1,34 +1,6 @@
-# Ansökan
+# Aspektområde: Miljö, resurs och område
 
-## Introduktion
-
-### Om Lnu
-
-- Övergripande presentation av Lnu, utbildningar och forskning
-
-	- historik
-
-	- organisation
-
-	- utbildning
-
-	- forskning
-
-- Universitets strategier
-
-	- Söktryck
-
-		- nationell kontra regional rekrytering
-
-	- strategi utbildningar
-
-	- Forskningssatsningar DV/DT
-
-### Beskrivning av arbetsprocessen
-
-## Aspektområde: Miljö, resurs och område
-
-### Aspekt: Yrkesexamen
+## Aspekt: Yrkesexamen
 
 Denna ansökan gäller examenstillstånd för civilingenjör med en inriktning mot mjukvaruteknik. Examens engelska benämning är Degree of Master of Science in Engineering, Software Technology.
 
@@ -36,7 +8,7 @@ Den föreslagna civilingenjörsutbildningen fokuserar på tekniker för mjukvaru
 
 En utexaminerad student förväntas kunna gå in i samtliga utvecklingsrelaterade roller i ett mjukvaruutvecklingsprojekt, från teknisk expert till projektledare, alternativt starta egna företag. Utbildningen ger också en god förberedelse för forskning om datavetenskap och mjukvaruutveckling.
 
-#### Utbildningens struktur
+### Utbildningens struktur
 
 Av utbildningens 300 hp är 45 hp matematik och 215 hp datavetenskap. Resterande 40 poäng utgörs av 20 hp fysik och reglerteknik samt 20 hp Teknik-Människa-Samhälle (TMS) och vetenskapsmetodik. Utbildningen innehåller 32,5 hp projektkurser och två självständiga arbeten om 15 och 30 hp. 
 
@@ -48,7 +20,7 @@ De två delarna av utbildningen bygger inte på tidigare program, men de två av
 
 ![](images/y1-3.pdf)
 
-##### År 1-3
+#### År 1-3
 
 De tre första åren fokuserar på grundläggande kunskaper i kärn- och karaktärsämnen. År 1 innehåller främst programmering och matematik. Dessa två ämnen utgör basen i programmet, så det är viktigt att nödvändiga grundkunskaper i dessa kommer tidigt. De två första kurserna, Diskret matematik och Programmering och datastrukturer, kommer att vävas samman så att sambandet mellan datavetenskap och matematik tidigt görs tydligt. Det introducerande projektet bygger på programmeringskursen och syftar till att introducera yrkesrollen och de verktyg en civilingenjör i mjukvaruteknik använder. Studenterna kommer i grupp konstruera ett system med både mjuk- och hårdvarukomponenter. De två följande kurserna i programmering introducerar två grundläggande principer, objekt-orienterad och samtidig (concurrent) programmering. Blocket med de tre kurserna i programmering tillsammans med projektet och den programmering i Matlab som introduceras i kurserna i matematik syftar till att ge en gedigen kunskap i programmering. Beroenden mellan kurserna i År 1 är i princip inom ämnet; undantaget är kursen i Mekanik som använder kunskaper från kurserna i matematik.
 
@@ -58,7 +30,7 @@ De tre första åren fokuserar på grundläggande kunskaper i kärn- och karakt�
 
 ![](images/y4-5.pdf)
 
-##### År 4-5
+#### År 4-5
 
 De två avslutande åren ger en fördjupning i karaktärsämnen och yrkesrollen. Det övergripande temat är modeller, och varje termin har ett fokusområde som belyser någon aspekt av detta. En termin består av fyra kurser och ett projekt där de fyra kurserna ger en teoretisk fördjupning och projektet ger praktiska färdigheter och insikter i yrkesrollen. Det senare kan t.ex. belysa ekonomi, hur mjukvara påverkar samhället, etiska frågeställningar, osv. Projekten utförs i grupp, och ger erfarenhet och möjlighet att reflektera över grupparbete och projektplanering/ledning. De två inledande kurserna ger en teoretisk grund för projektet och de två avslutande ger möjlighet till reflektion och fördjupning baserat på erfarenheter från projektet. Under år 4 är de avslutande kurserna varje termin valfria och kan bytas ut mot andra kurser, t.ex. från de masterprogram som erbjuds. Tanken är att de två avslutande åren skall tillämpa alla kunskaper från År 1–3, så de som anges nedan är bara de direkta beroenden som finns. En student förväntas även, t.ex. använda en utvecklingsprocess eller en databas i projekten.
 
@@ -85,11 +57,11 @@ Kursinnehållet i matematik formades också utifrån de krav som År 4-5 ställe
 
 För att ge studenter färdigheter i och förståelse för yrkesrollen använder sig Linnéuniversitetet av principer från CDIO-konceptet (Conceive, Design, Implement och Operate). Detta resulterade i att några kurser skapades, t.ex. kurserna i Teknik-Människa-Samhälle, samt att vissa kurser omstrukturerades något för att tydligare sätta kunskaper i ett sammanhang. Koppling mot CDIO beskriver i mera detalj under avsnittet *Aspekt: Säkring av examensmålen*.
 
-#### Motivering till varför lärosätet vill erbjuda civilingenjörsutbildning inom mjukvaruteknik
+### Motivering till varför lärosätet vill erbjuda civilingenjörsutbildning inom mjukvaruteknik
 
 **Jesper, något om hur det förhåller sig till DVs strategi**
 
-##### Relation till liknande utbildningar
+#### Relation till liknande utbildningar
 
 Det erbjöds totalt 19 civilingenjörsutbildningar inom data/IT vid 13 lärosäten inför ansökningsomgången hösten 2017. En stor del av dessa har generella benämningar, t.ex. Datateknik, Informationsteknik, och Mjukvaruteknik. Några, t.ex. programmen i Datorsäkerhet, Spel- och programvaruteknik, och Robotik har mera specifika namn.
 
@@ -107,7 +79,7 @@ Antalet sökande varierar stort mellan etablerade civilingenjörsutbildningar, t
 
 Baserat på sök- och antagningsstatistiken från 2016 och 2017 anser Linnéuniversitetet att det, trots att det redan finns 19 civilingenjörsutbildningar vid 13 lärosäten, finns utrymme för flera utbildningsprogram. De befintliga programmen antar i snitt 90 studenter per program, vilket också talar för flera program snarare än flera platser vid befintliga program. Analysen av befintliga program visar också att inriktningen på den föreslagna utbildningen är befogad. 
 
-##### Befintliga och tidigare utbildningar inom området vid universitetet
+#### Befintliga och tidigare utbildningar inom området vid universitetet
 
 Linnéuniversitetet erbjöd inför ansökningsomgången 2017 fem grundutbildningar och två utbildningar på avancerad nivå inom datavetenskap. Utbildningarna på grundnivå var Kandidatprogrammet i Nätverkssäkerhet, Kandidatprogrammet i Programvaruteknik, Kandidatprogrammet i Utveckling och drift av mjukvarusystem, Högskoleingenjörsprogrammet i datateknik, samt det två-åriga Webbprogrammerarprogrammet. Totalt antogs ca 360 studenter till dessa fem program. 
 
@@ -117,9 +89,9 @@ TSpA för de fem utbildningarna varierade mellan 17,7 och 4,8, med ett genomsnit
 
 Linnéuniversitetet erbjuder även utbildningar inom andra IT-relaterade fält, t.ex. systemvetenskap, medieteknik, osv. Dessa skiljer sig dock nämnvärt från den föreslagna utbildningen och diskuteras därför inte.
 
-##### Arbetsmarknadens behov och efterfrågan
+#### Arbetsmarknadens behov och efterfrågan
 
-**Behöver bättre/nyare statistik**
+<!--**Behöver bättre/nyare statistik**-->
 
 Enligt Arbetsförmedlingens prognos för Kronoberg 2018 råder störst brist i länet inom data och IT och särskilt för mjukvaru- och systemutveckling. IT- branscherna har svårt att genomföra de rekryteringar de har behov av på grund av arbetskraftsbristen.
 
@@ -133,25 +105,13 @@ Starten på den föreslagna civilingenjörsutbildningen planeras till hösttermi
 
 Utbildningen kommer att ges på helfart och vara förlagd till Campus Växjö i Växjö.
 
-### Aspekt: Personal (Lärarkompetens och lärarkapacitet)
+## Aspekt: Personal (Lärarkompetens och lärarkapacitet)
 
-- Beskriv (se separat lärartabell grundnivå och avancerad nivå), lärarnas kompetens (vetenskapliga/konstnärliga/pedagogiska/professionsrelaterade) och förklara varför den är tillräcklig och adekvat och står i proportion till utbildningens planerade undervisning, handledning och examination.
+Datavetenskap har 5 professorer, 19 lektorer varav 5 docenter, 18 adjunkter varav 4 i forskarutbildning, 3 forskarassistenter, 1 post-doc, och 11 doktorander.
 
-	- Tillgängliga lärarresurser
+Matematik är uppdelat i matematik och matematikdidaktik. Matematik har 4 professorer,  8 lektorer varav 5 docenter, 2 adjunkter, 4 doktorander och 1 post-doc. Matematikdidaktik har 2 professorer, 3 lektorer(varav 1 docent), 2 adjunkter som väntas bli klara med doktorsavhandling under 2018, 7 övriga adjunkter (varav 1 i forskarutbildning) samt 1 doktorand.
 
-		- Tabell
-
-		- Antal på olika nivåer
-
-			- Per inblandat ämne
-
-		- BHU-utbildning
-
-		- Antal CI
-
-- Beskriv och analysera hur arbetet sker långsiktigt för att säkerställa att det finns tillräckliga lärarresurser.
-
-##### Kompetensförsörjning och kontinuerligt kompetensutvveckling.
+Fysik har 2 professorer, plus en gäst och en affilierad, 7 lektorer varav 3 docenter, 1 adjunkt, 2 forskarassistenter, 1 post-doc, och 4 doktorander.
 
 Fakulteten och institutionerna arbetar aktivt med kompetensförsörjning. Kompetensförsörjning avser säkerställa att rätt kompetens finns för att nå de berörda verksamheternas mål både på kort och på lång sikt. Universitetet har utarbetat ett universitetsövergripande instrument, kompetensförsörjningsplanen, vilken syftar till att ge en översikt av befintlig kompetens och tydliggöra kommande kompetensbehov. Befintligt och kommande behov beskriver ett möjligt kompetensgap som används för att strategiskt planera dels kompetensutvecklingsbehov av befintlig personal dels rekryteringar. Planerna används även för att identifiera områden där viss kompetens inte längre behövs och därmed kan avvecklas. Arbetet med kompetensförsörjning har sin grund i universitetets styrdokument, främst Linnéuniversitetets strategi, men även i beslutade policys, planer och program. Även omvärlden påverkar, t ex demografi, politiska beslut och konjunkturen på arbetsmarknaden. Institutionens personalkonsult deltar som resurs i arbetet processen.
 
@@ -159,18 +119,26 @@ Kompetensförsörjningsplanerna arbetas fram på institutionsnivå och kopplas d
 
 I vissa fall krävs att personal rekryteras för att hantera större förändringar inom utbildningen eller för att täcka upp eventuella vakanser som uppstår. Kompetensförsörjningsplanen är då ett instrument som används för att beskriva rekryteringsprofiler. Vid rekryteringar beaktas både grundutbildningens behov såväl som forskningens.
 
-### Aspekt: Utbildningsmiljön
+## Aspekt: Utbildningsmiljön
 
-- Beskriv och analysera utbildningens vetenskapliga/konstnärliga miljö och på vilket sätt verksamheten bedrivs så att det finns nära samband och anknytning mellan forskning och utbildning
+**DV**
 
-- Beskriv och analysera på vilket sätt studenterna, inklusive eventuella distansstudenter eller studenter på annan ort, genom utbildningen får delta i ett forskande sammanhang och tillägna sig ett forskande förhållningssätt.
+Institutionen för Matematik har fyra professorer i matematik samt två professorer i matematikdidaktik. Därtill finns fem matematiklektorer som är aktiva forskare, samt fem doktorander i matematik. Forskning i matematik bedrivs i analys, algebra, talteori, matematisk fysik, matematisk statistik, och matematisk modellering. Mer specifikt finns följande forskningsområden representerade. Matematisk modellering i kvantfysik, vågutbredning och biologi, mikrolokal analys och pseudodifferentialkalkyl, stokastisk analys och finansmatematik, dynamiska system med biologiska tillämpningar, algebraisk dynamik, och matematisk kryptering. 
 
-	- Beskriv kurser med direkt vetenskaplig koppling, t.ex. metod och exjobb.
+LnU har två forskargrupper i fysik. Dels finns i Växjö en grupp inom experimentell astropartikelfysik, dels finns i Kalmar en teoretisk grupp inom kondenserade materiens fysik. Astropartikelgruppen medverkar i två större internationella kollaborationer: HESS och CTA. För CTA kommer gruppen att bidra med betydande instrumentutveckling och disponerar för detta labblokaler med särskilda installationer. För både HESS och CTA bidrar gruppen även med betydande simulerings- och analysarbete. Dessutom konstrueras f n på campus i Växjö en stor prototyp till en s k air-shower array, vilken ska installeras på hög höjd på södra halvklotet. Forskningsarbetet inom astropartikelfysik erbjuder många möjligheter till ingenjörsmässiga uppgifter både inom hårdvara och programmering. Speciellt finns ett samarbete med Datavetenskap inom området Big Data. Gruppen inom kondenserade materians fysik bedriver huvudsakligen teoretiska studier av nanomagnetism, spinntronik och molekylär elektronik. Fysikavdelningen bygger f n ett större labb i Växjö som kommer att husera en MBE-maskin (Molecular Beam Epitaxy), vilken förvärvats från MAX-labb i Lund.
+ 
+Lärarna på den föreslagna utbildningen kommer att i så stor omfattning som möjligt vara aktiva forskare inom ett till kursen relaterat ämne. På avancerad nivå, År 4-5, har de flesta kurser stark koppling till en eller flera forskargrupper inom Datavetenskap vid Linnéuniversitetet. Personer från dessa forskargrupper kommer att leda undervisningen och examinationen. På grundnivå finns det flera kurser som inte har en så stark koppling till forskargrupper, ofta generella kurser i t.ex. Objekt-orienterad programmering eller Databaser. I dessa fall kommer de forskargrupper som står kursens innehåll närmast leda undervisning och examination. 
 
-	- Ge några exempel, på både grundläggande och avancerad nivå, på hur kurser i datavetenskap kopplar till/använder forskning
+Koppling mellan forskning och undervisning kan ske på många olika sätt. I de flesta kurser kan kurslitteraturen utökas med någon eller några vetenskapliga publikationer. Ju senare i utbildningen kursen ligger, desto mera djup och mångfald i publikationerna. Men även på grundkurser kan grundläggande publikationer användas. I en befintlig kurs i Databasteori uppmanas studenterna läsa några av de publikationer som la grund för t.ex. relationsdatabasen. I motsvarande kurs i det föreslagna civilingenjörsprogrammet kommer motsvarande moment att göras obligatoriskt och kompletteras med muntlig diskussion kring innehållet. Liknande moment, med olika typer av examination kommer att läggas till andra kurser. Ett annat sätt att introducera studenterna till ett forskning kan vara att låta dem aktivt ta del i ett forskningsprojekt, även om det är en liten del. Kurser som innehåller projekt eller större implementationsuppgifter kan kopplas mot behov som finns inom olika forskningsprojekt, t.ex. att implementera en algoritm eller en tjänst som behövs för projektet. Denna typ av uppgifter kan även kopplas mot andra forskningsämnen för att ge studenterna en bredd i förståelsen för forksning. Ännu ett sätt att introducera forskningsresultat är att använda verktyg utvecklade inom forsknings för att lösa uppgifter eller för att faktiskt genomföra ett forksningsprojekt. 
 
-	- koppla till kursplaner
+Flera av kurserna kommer att innehålla ostrukturerade problem som kräver att studenterna på egen hand söker information och litteratur för att lösa. I dessa kommer flera aspekter av forskning introduceras och diskuteras, t.ex. källkritik, för att fördjupa studenternas föreståelse för ämnet, även om själa problemen inte alltid kommer att ha så stark koppling till forskning.
 
+Den förslagna civilingenjörsutbildningen kommer att innehålla två kurser i vetenskaplig metod samt två självständiga arbeten. Den första av de två kurserna i vetenskapsmetodik introducerar vetenskapsfilosofi, vetenskaplig metodik, etik, osv. från ett generellt perspektiv och är tänkt att kunna samläsas med andra tekniska utbildningar. En del av examinationen på denna kurs är en forskningsplan, med en beskrivning av befintlig forskning och metod, inför kandidatuppsatsen. Studenterna förväntas sedan genomföra denna plan och dokumentera sina resultat i den efterföljande kandidatuppsatsen. Den andra kursen i vetenskapsmetodik fokuserar på metoder i datavetenskap, utifrån kurserna studenterna läst de tre första terminerna År 4-5. Denna kurs är tänkt att vara en fördjupning och seminariekurs som anpassas för studenterna baserat på vad deras masteruppsats skall behandla. Samtliga grupper kommer att handledas av en eller flera aktiva forskar som i de flesta fall även kommer att handleda deras masteruppsats följande termin. Syftet med kursen är att ge studenten tillräcklig kännedom om det specifika forskningsproblemet i ett sammanhang, men också att genom seminarier ge studerandegruppen en förståelse för den bredd och variation som finns, både inom problem och metoder inom datavetenskap. 
+
+Samverkan med det omgivande samhället kommer att hanteras på i princip samma sätt som forskning i utbildningen. Detta följer till viss del av att en stor del av forskningen som bedrivs inom Datavetenskap vid Linnéuniversitetet sker i samarbete med företag och andra organisationer. 
+
+
+<!--
 - Beskriv och analysera samverkan med det omgivande samhället och på vilket sätt den kommer att ge konkret avtryck för studenterna i utbildningen.
 
 	- Samverkan
@@ -184,180 +152,156 @@ I vissa fall krävs att personal rekryteras för att hantera större förändrin
 		- Mentorsskap och kompetensväxling
 
 		- Internationalisering
+-->
 
-### Aspekt: Resurser
+## Aspekt: Resurser
 
-- Beskriv studenternas tillgång till litteratur och annat lärandematerial, informationstekniska resurser samt infrastruktur i övrigt som krävs för att de ska kunna tillgodogöra sig utbildningen på ett relevant sätt. (Behoven av infrastruktur varierar beroende på vilken utbildning det handlar om. För utbildningar med experimentella inslag är t.ex. tillgång till goda laborativa förhållanden nödvändig och för konstnärliga utbildningar kan det handla om t.ex. verkstäder och repetitionslokaler. För distansutbildningar kan det handla om att det bör finnas välutvecklade kommunikationsformer.)
+Utbildningen kommer att ha sitt centrum på Campus Växjö i Växjö. Campus innehåller ett stor antal undervisningssalar med plats för varierande antal studenter, med skrivtavlor (whiteboards) och AV-utrustning (t.ex. projektor, dator, ljudssystem). Universitetets lokaler på campus ska vara tillgängliga. Det finns hörslingor i flera av universitetets lokaler. Trådlöst nätverk, Eduroam, finns tillgänglig för studenter över hela campus. 
 
-	- Bibliotek
+Nedan beskrivs de resurser som anses avgörande för genomförandet av utbildningen i mera detalj.
 
-		- Studentarbetsplatser
+### Universitetsbiblioteket
 
-			- Grupprum
+Universitetsbiblioteket tillhandahåller förutom litteratur och databaser även studieplatser och grupprum, utbildning i sökning, informationshantering, och skrivande, och textgranskning. Det ansvarar för system för kursutvärderingar, läroplatformen Moodle, och har en distansutbildningsstudio.
 
-				- Antal
+Universitetsbibliotekets samling uppgår till ca 320 000 tryckta böcker och ca 160 000 e-böcker. Under 2016 köptes ca 10 000 nya tryckta böcker in. De har ca 110 olika databaser som väl täcker de behov av vetenskapliga publikationer som Datavetenskap har.
 
-				- Utrustning
+Det finns ca 840 studieplatser på universitetsbiblioteket. Dessa är fördelade över tre zoner som styr vilka aktiviteter som kan ske på platserna: Ljudlösa, Lugna, och Livfulla. Det finns 50 grupp på biblioteket, varav 15 kan bokas. Varje grupprum har plats för ca 4-8 studenter. Flera av grupprummen har skrivtavlor och/eller bildskärm/projektor. Det finns även soffgrupper med höga ryggar som kan användas för grupparbeten. Utöver grupprummen på universitetsbiblioteket finns även ca 30 bokningsbara grupprum i andra lokaler. Studieplatserna byggdes om under 2017. Det finns dessutom 77 datorarbetsplatser på universitetesbiblioteket som kan användas av samtliga studenter.
 
-				- Bokning
+Universitetsbiblioteket erbjuder undervisning i informationssökning samt akademiskt skrivande och studieteknik. Denna undervisning kan bokas av kursansvarig/lärare för att ingå som en del i befintliga kurser. Personal från biblioteket och kursansvarig/lärare för dialog om kursens innehåll och studenternas behov, så att utbildning kan göras ändamålsenlig. Vid behov, t.ex. distansutbilning, kan universitetsbiblioteket producera digitala lärmedel. Universitetsbiblioteket erbjuder även öppna föreläsningar som studenter kan gå på samt digitala läromedel via websidorna.
 
-	- Lokaler och utrustning
+[https://lnu.se/ub/studieverkstaden](Studieverkstaden) vid universitetsbiblioteket erbjuder handledning i akademiskt skrivande på både svenska och engelska. Studenter kan konkta verkstaden när som helst i skrivprocessen och boka handledning. De kan t.ex. hjälpa med hur en text skall struktureras, hur man refererar, osv. Utöver handledning i akademiskt skrivande erbjuder verkstaden även vägledning och stöd i studieteknik, t.ex. hur man planerar sina studier och hur man antecknar.
 
-		- Byggnader och lärosalar
+Universitetsbiblioteket sköter lärandeplattformen Moodle, som används för de flesta kurser. De sköter även systemet som används för att hantera kursvärderingar.
 
-			- Antal
 
-			- Utrustning
+### Dator- och laborationssalar
 
-				- Hörslingor?
+Datavetenskap vid Linnéuniversitetet har under de senaste åren märkt att användningen av datorer i datorlaboroationssalar minskat då de flesta studenterna har egna datorer. Studenterna föredrar att använda den egna datorn då de har tillgång till sin egen miljö och en stor del av den mjukvara som används i utbildningen är antingen fritt tillgänglig eller tillgänglig t.ex. campuslicenser. Detta har resulterat i en minskning av antalet tillgängliga datorer, så det finns ca 30 fasta datorarbetsplatser. De platser som tagits bort har t.ex. gjorts om till studieplatser med skärmar och annan utrustning som studenterna kan koppla in sina egna datorer till för att fortfarande ge bra arbetsmiljö. En tillräcklig mängd datorarbetsplatser kommer att finnas för studenter som inte har tillgång till egen dator. För de flesta uppgifter kan även de 77 datorer som finns i universitetsbiblioteket användas.
 
-				- Annan tillgänglighet?
+Datavetenskap har istället för datorslaborationsalar satsat på att bygga en s.k. molninfrastuktur, där studenter kan skapa virtuella datorer och nätverk. I slutet av 2017 genomfördes den första i en rad investeringar, och utrustning för ca 2.5 MSEK köptes in till molnet. Denna investering gör det möjligt att ha flera hundra samtidiga virtuella datorer, något som väl räcker för att täcka Datavetenskaps nuvarande behov samt de som följer av den föreslagna civilingenjörsutbildningen. 
 
-		- Datorsalar
+Molninfrastukturen gör laborationsmiljön mera flexibel, då lärare och studenter kan skräddasy miljön för laborationer. Det är t.ex. enkelt att skapa virtuella nätverk med flera datorer för en kurs i datorkommunikation. Molninfrastukturen bygger på öppna standarder och efterliknar den miljö studenterna kommer att möta i arbetslivet, så det är också en mera realistisk miljö för studenterna där de lär sig värdefulla färdigheter, t.ex. i hur man driftsätter och underhåller mjukvarutjänster. Molninfrastukturen kommer även att användas av forskare för olika typer av experiment, så studenterna kommer tidigt i kontakt med samma miljö och samma resurser.
 
-			- Eduroam
+Molnlösningen kommer att byggas ut och uppgraderas när behov finns.
 
-			- Storlek på investeringar
+För de tillämpningar där molninfrastrukturen inte är lämplig eller inte enbart kan användas finns extra utrustning och mindre speciallaborationssalar. Vi har t.ex. tillgång till 3D-skrivare, VR-headset, stora skärmar för visualiseringar, verktyg för ögonföljning, osv. Behovet av specialutrustning inventeras kontinuerligt.
 
-		- Specialiserade laborationssalar
+För kurserna i fysik och reglerteknik finns särskilda laborationssalar som underhålls av respektive avdelningar.
 
-			- Behov DV?
-
-			- Finns DV?
-
-			- Fysik/elektro
-
-		- Anna viktig infrastruktur av relevans för utbildningen
-
-			- På univ
-
-			- Utanför univ
-
-- Beskriv och analysera arbetet med att säkerställa att tillgängliga resurser utnyttjas effektivt för att hålla en hög kvalitet i verksamheten.
-
-#### Ledning och styrning vid Institutionen
+### Ledning och styrning vid Institutionen
 
 Institutionens utbildningar hanteras av ett utbilildningsråd med ansvar för
-planering, genomförande, samt kvalitetssäkring. Kvalitetssäkringsarbetet sker genom kontinuerliga
-uppföljningar och förbättringsinsatser enligt universitetets fastställda regler.
+planering, genomförande, samt kvalitetssäkring. Kvalitetssäkringsarbetet sker genom kontinuerliga uppföljningar och förbättringsinsatser enligt universitetets fastställda regler.
 
-###### Organisation
+##### Organisation
 
-Utbildningsrådet leds av en studierektor som fungerar
-som är sammankallande och rapporterar direkt till fakultetens
-utbildningsansvarig samt prefekt. Utbildningsrådet består, förutom studierektorn, av studeranderepresentanter, programansvariga,
-ämnesansvariga samt administrativt stöd. Rådet träffas regelbundet minst fem gånger per år, en gång per läsperiod samt vid ett
-planeringsmöte inför kommande kalenderår.
+Utbildningsrådet leds av en studierektor som fungerar som är sammankallande och rapporterar direkt till fakultetens utbildningsansvarig samt prefekt. Utbildningsrådet består, förutom studierektorn, av studeranderepresentanter, programansvariga, ämnesansvariga samt administrativt stöd. Rådet träffas regelbundet minst fem gånger per år, en gång per läsperiod samt vid ett planeringsmöte inför kommande kalenderår.
 
-###### Ansvar
+##### Ansvar
 
-Rådet ansvarar för utbildningens planering, genomförande samt
-för de delar av kvalitetssäkringsarbetet som faller på institutionen.
+Rådet ansvarar för utbildningens planering, genomförande samt för de delar av kvalitetssäkringsarbetet som faller på institutionen.
 
-Inför varje läsår diskuteras utbildningsplaner och
-årsplaner för utbildningsprogrammen. Varje program
-följs upp inför ett nytt år för att skapa en bättre bild av
-programmets aktualitet och interna kvalitet. Rådet ansvarar för uppföljningen
-och att förändringsförslag samordnas mellan program och med berörda fakultetsfunktioner.
+Inför varje läsår diskuteras utbildningsplaner och årsplaner för utbildningsprogrammen. Varje program följs upp inför ett nytt år för att skapa en bättre bild av programmets aktualitet och interna kvalitet. Rådet ansvarar för uppföljningen och att förändringsförslag samordnas mellan program och med berörda fakultetsfunktioner.
 
-Kursvärderingar är ett viktigt instument för utbildningsrådet. På
-varje möte under läsperioderna väljs ett par kursvärderingar ut för närmare granskning och diskussion. Rådet kan komma med
-rekommendationer kring kursplanens och literaturlistans utformning och innehåll. En rekommendation initierar en revidering av kursplanen som kursansvarig ansvaraför. Mindre förändringar bereds på institutionsnivå och beslutas av prefekt. Större förändringar och ny kurser förbereds av institutionen men hanteras i övrigt av fakultetens funktioner. Rekommendationer följs upp på efterföljande möten. Studierektorn ansvarar för kontakter rörande kurser i andra ämnen.
+Kursvärderingar är ett viktigt instument för utbildningsrådet. På varje möte under läsperioderna väljs ett par kursvärderingar ut för närmare granskning och diskussion. Rådet kan komma med rekommendationer kring kursplanens och literaturlistans utformning och innehåll. En rekommendation initierar en revidering av kursplanen som kursansvarig ansvaraför. Mindre förändringar bereds på institutionsnivå och beslutas av prefekt. Större förändringar och ny kurser förbereds av institutionen men hanteras i övrigt av fakultetens funktioner. Rekommendationer följs upp på efterföljande möten. Studierektorn ansvarar för kontakter rörande kurser i andra ämnen.
 
-Inför varje kalenderår planeras resurser på de olika
-kurserna. Studierektor ansvarar tillsammans med det administrativa stödet för att resursplaneringen färdigställs inför varje kalenderår. Kursansvarig ansvarar sedan för att resurserna detaljplaneras. Planeringen följs upp kontinuerligt en gång per läsperiod, då kurser i föregående period har återrapporterats. Detta medför att årsplaneringen blir mer flexibel och att resurser kan flyttas mellan olika aktiviteter för att på så sätt skapa en bättre dynamik och effekt.
+Inför varje kalenderår planeras resurser på de olika kurserna. Studierektor ansvarar tillsammans med det administrativa stödet för att resursplaneringen färdigställs inför varje kalenderår. Kursansvarig ansvarar sedan för att resurserna detaljplaneras. Planeringen följs upp kontinuerligt en gång per läsperiod, då kurser i föregående period har återrapporterats. Detta medför att årsplaneringen blir mer flexibel och att resurser kan flyttas mellan olika aktiviteter för att på så sätt skapa en bättre dynamik och effekt.
 
 Studierektor ansvarar för att kursansvarig och lärarpersonal genomför kurserna enligt universitetets uppställda regler.
 
-### Aspektområde: Utformning, genomförande och resultat
+# Aspektområde: Utformning, genomförande och resultat
 
-- Bifoga styrdokument, dvs. utbildningsplan och kursplaner, för hela utbildningen, där det av kursplanerna bör framgå hur undervisning, kurslitteratur/annat lärandematerial och examination kommer att vara utformade.
+## Aspekt: Styrdokument (utbildningsplan och kursplaner)
 
-	- Utbildningsplan
+*Samtliga kursplaner och utbildningsplan finns för närvarande tillgängliga på ... . Observera att många i nuläget är skrivna på engelska. De kommer att översättas till svenska när de är klara.*
 
-	- Kursplaner
+Vid Lnu finns övergripande styrdokument för utbildning, se https://medarbetare.lnu.se/medarbetare/styrning-och-regelverk/styrdokument/utbildning/.
+Dessa övergripande styrdokument gäller bl.a. principer vid prövning av nytt utbildningsprogram för generell examen (länk) och för yrkesexamen (länk), lokala regler för vad som gäller för utbildningsprogram (länk) och för kurser (länk) inom universitetet. Utifrån dessa styrdokument har sedan fakulteten för teknik fastställt specifika handläggningsrutiner för fastställande och revidering av både kurs- och utbildningsplaner, se även https://medarbetare.lnu.se/medarbetare/organisation/ftk/beslut/kurs--och-utbildningsplaner-pa-ftk/. 
 
-- Beskriv hur dessa styrdokument fastslås, förnyas och kvalitetssäkras.
+För varje utbildningsprogram finns en utbildningsplan fastställd på fakultetsnivå som bereds av fakultetens utbildningsråd . På programnivå finns en programansvarig som har det övergripande ansvaret för programmet. Programansvarig ansvarar således för att kontinuerligt uppdatera och förbättra programmets utbildningsplan. Utbildningsplanerna kvalitetssäkras genom beredning i utbildningsrådet inför fastställande av fakultetsstyrelsen. Utbildningsrådet kvalitetssäkrar utbildningsplanen gentemot universitetets lokala regler för utbildningsprogram. Programansvarig är ansvarig för att se till att programmets kurser tillsammans svarar för att studenterna uppnår de nationella examensmålen och eventuella programmål som specificerats i utbildningsplanen. 
 
-## Aspektområde: Utformning, genomförande och resultat
+Inför fastställandet av nya kursplaner har fakulteten inrättat ett beredande kursplaneutskott (länk). Detta utskott kvalitetssäkrar kursplanerna utifrån lokala regler för kurs och att det finns en konstruktiv länkning mellan angivna kursmål, undervisningsformer och examination. Innan kursansvarig skickar kursplanen till kursplaneutskottet ska kursplanen godkännas av examinator eller programansvarig.  Kursplaner som ska förnyas men där uppdateringen inte innebär väsentlig förändring av kursplanen bereds på institutionsnivå och fastställs därefter av prefekt. 
 
-### Aspekt: Styrdokument (utbildningsplan och kursplaner)
+Förnyelsen eller revidering av utbildningsplaner och kursplaner föregås typiskt av att programansvarig, eller kursansvarig, inser att programmet eller kursen behöver förändras utifrån synpunkter från studenter eller lärare, samhällets krav, etc. Respektive program har oftast ett programråd kopplat till sig där det förutom aktiva lärare och forskare inom programmet även finns programstudenter och externa ledamöter representerade. Programrådet kan föreslå förändringar i utbildningsplanen som sedan revideras efter att utbildningsrådet berett utbildningsplanen inför fakultetens styrelsebeslut. Kursansvarig och examinator har huvudansvaret för att kursplaner uppdateras .När det gäller programkurser inkluderas även programansvarig för att säkra att examensmålen uppfylls i programmet.
 
-- Bifoga styrdokument, dvs. utbildningsplan och kursplaner, för hela utbildningen, där det av kursplanerna bör framgå hur undervisning, kurslitteratur/annat lärandematerial och examination kommer att vara utformade.
+Inför kursstart utses kursansvariga med funktionsbeskrivningen och examinatorer med funktionsbeskrivningen enligt delegationsordningen.
 
-	- Matriser
+Utbildningarna inom fakulteten och universitetet kvalitetsgranskas inom det så kallade Treklöverprojektet. Granskningen genomförs av bedömargrupper med extern representation och omfattar samtliga utbildningar vid Karlstads universitet, Mittuniversitetet och Linnéuniversitetet.
 
-		- HF
+## Aspekt: Säkring av examensmålen
 
-		- Progression
+### Koppling till ACM CS2013
 
-		- ...
+ACM (Association for Computer Machinery) och IEEE (Institute of Electrical and Electronics Engineers) har en gemensam arbetsgrupp som fokuserar på innehåll i data/IT-utbildningar. Denna ger med jämna mellanrum ut förslag på utbildningsupplägg, främst på grundnivå. Dessa samlas under ”Computing Curricula”, där data/IT delas upp i fem inriktningar: datateknik, datavetenskap, informationssystem, IT, och programvaruutveckling. Det föreslagna programmet behandlar främst datavetenskap och programvaruutveckling. De två inriktningarna har, i förslagen från arbetsgruppen, ett stort överlapp så därför fokuserar resten av rapporten på det senaste innehållsförslaget för datavetenskap, ACM CS2013.
 
-- Beskriv hur dessa styrdokument fastslås, förnyas och kvalitetssäkras.
+ACM CS 2013 ger råd och riktlinjer för vad en grundutbildning i datavetenskap bör innehålla samt ungefär hur mycket tid som bör ägnas åt varje moment. Innehållet delas upp i 18 så kallande kunskapsområden (KA) som i sin tur delas upp i kunskapsenheter (KU) och ämnen. Ett kunskapsområde kan och bör spänna över flera kurser. Varje ämne inom ett kunskapsområde klassificeras som Tier-1, Tier-2, eller valbart. Tier-1 och Tier-2 kan anses som indikatorer på hur obligatoriskt ett ämne bör vara.
 
-	- Universitetets kvalitetssystem
+![](images/acmmap.pdf)
 
-		- Utbildningsutvärderingar
+Tier-1 kunskaper är något alla skall ha, medan vissa Tier-2 ämnen kan utlämnas beroende på övergripande inriktning. ACM rekommenderar att en utbildning minst bör ha 80% av Tier-2, men helst 90–100%.
+Varje kurs i karaktärsämnen samt diskret matematik har kopplats mot ämnen i ACM CS2013. I Figur 3 visas ett exempel på hur många ämnen och vilken täckning kurserna på År 1–3 har inom två kunskapsområden.
 
-		- Kursutvärderingar
+Det föreslagna programmet täcker ca 87% av Tier-1 och ca 85% av Tier-2. Båda kan anses låga i förhållande till ACM:s riktlinjer (100% och 80– 100%). Vad gäller de 13% som saknas i Tier-1 så behandlar de företrädesvis människa-datorinteraktion, informationshantering, och immaterialrätt. De två senare kan läggas till existerande kurser, medan den första skulle kunna erbjudas som valbar kurs. Detta kommer att ses över i det framtida arbetet med programmet. När det gäller Tier-2 så kommer även här en stor del från avsaknaden av människa-datorinteraktion. I övrigt handlar det om fokus och kursdjup. Då programmet täcker mer än 80% av Tier-2 bör de 15% som inte behandlas inte vara något problem.
 
-		- Branschråd/programråd
+Det föreslagna programmet täcker dessutom ca 43% av de valfria ämnen som beskrivs i ACM CS2013.
 
-		- Studentmedverkan
+### Koppling till mål i Högskoleförordningen och för utbildningen
 
-		- Institutionens kvalitetssystem för utbildning
+Varje kurs i det föreslagna programmet har kopplats till de mål (i Högskoleförordningen och för utbildningen) som den helt eller delvis uppfyller. Då kursernas innehåll är preliminärt är kopplingen binär, dvs. den anger inte till vilken grad en kurs uppfyller ett visst mål.
 
-### Aspekt: Säkring av examensmålen
+Figur Z ger ett exempel på hur kopplingen ser ut. Varje mål i figuren förkortas till en bokstav som beskriver kategori och ett ordningstal. De lokala målen för utbildningen anses följa målen i Högskoleförordningen, så C3 är det sista målet i kategori C i Högskoleförordningen och C4 är det första lokala målet för utbildningen i kategori C.
 
-- Beskriv och analysera hur utbildningens utformning och genomförande säkerställer att studenterna uppnår examensmålen
+![](images/hfmap.pdf)
 
-	- Koppla till lokala mål och HF
+De 37 obligatoriska kurserna har alltså kopplats till 12 mål i Högskoleförordningen och 13 lokala mål för utbildningen. Vad det gäller målen enligt Högskoleförordningen har det föreslagna programmet ca 55% täckning (dvs 244 av de 444 möjliga kopplingarna finns). Motsvarande för de lokala målen är 40%. Att de lokala målen har lägre täckningsgrad beror främst på att de är mer specifika, så vissa mål täcks av färre kurser. Varje mål i högskoleförordningen täcks av minst 8 kurser, medan varje lokalt mål täcks av minst 7 kurser. Varje kurs täcker minst 3 av Högskoleförordningens mål och minst 1 av de lokala målen.
 
-	- Koppla till ACM curriculum 
+### Koppling till CDIO Syllabus
 
-	- Koppla till idéer CDIO
+CDIO Syllabus (version 2) anger ett antal mål för ingenjörsutbildningar. Då det inte finns någon svensk översättning tillgänglig används de engelska namnen nedan.
 
-- Beskriv och analysera hur utbildningens utformning visar på en progression och koppling mellan examensmål, lärandemål, lärandeaktiviteter och examination.
+Målen anges på tre nivåer, där varje nivå är mer detaljerad. Nivå 1 innehåller 4 övergripande mål: 1. Disciplinary Knowledge and Reasoning, 2. Personal and Professional Skills and Attributes, 3. Interpersonal Skills: Teamwork And Communication, och 4. Conceiving, Designing, Implementing And Operating Systems In The Enterprise, Societal And Environmental Context – The Innovation Process. Dessa delas i sin tur upp i nya mål på nivå två, och i sin tur till nya mål på nivå 3. Den koppling som sker i detta avsnitt (och i Bilaga 6) sker mot mål på nivå 2. Denna nivå valdes då den är på ungefär samma detaljnivå som målen i Högskoleförordningen. Siffrorna som anges är samma som används i CDIO Syllabus.
 
-	- ACM och CDIO
+![](images/cdiomap.pdf)
 
-	- Mjuka aspekter och färdigheter
+Enligt CDIO kan ett mål hanteras på tre olika sätt i en kurs; det kan introduceras, läras ut, eller användas. Dessa tre sätt kan i sin tur användas för att visa progression inom ett mål och inom utbildningen. I den koppling som sker i detta avsnitt används inte en så detaljerad koppling, dels då kursernas innehåll är preliminärt, men främst på grund av att det är rimligare att vara så detaljerad om man kopplar mot mål på nivå tre. En koppling mellan en kurs och ett CDIO-mål skall alltså tolkas som att målet antingen introduceras, lärs ut, eller används. Detta är t.ex. tydligt i målet som rör kommunikation, då alla kurser i någon form innefattar muntlig eller skriftlig kommunikation, även om de kanske inte explicit lär ut denna färdighet. En koppling på nivå 3 med de tre graderna bör ske i nästa skede av ansökan.
 
-	- Ge exempel
+De 37 obligatoriska kurserna har kopplats till 17 CDIO-mål och har en täckning på 43%. Varje mål täcks av minst 6 kurser, och varje kurs täcker minst 2 mål. Den lägre täckningsgraden här beror, precis som för de lokala målen, på att CDIO i vissa fall är ganska specifikt. Ett mål som 4.2 Enterprise and Business Context berörs av färre kurser, men de i sin tur går djupare. Detta blir mer tydligt vid en mappning till nivå tre med de tre graderna.
 
-	- Diskutera hur vi tänkt angående förkunskaper
+# Arbetslivets perspektiv
 
-- Beskriv och analysera hur utbildningens utformning och genomförande främjar studenternas lärande och tar hänsyn till studenternas förutsättningar.
+## Beskriv och analysera hur utbildningens innehåll och utformning säkerställer användbarhet och förberedelse för arbetslivet.
 
-	- Projekt och aktivt lärande
+## Beskriv och analysera hur information inhämtas som är relevant för utbildningens kvalitetssäkring och utveckling med hänsyn till dess användbarhet och förberedelse för arbetslivet.
 
-	- CDIO
+# Studenters perspektiv
 
-	- Ge exempel
+## Kursvärderingar
 
-	- Koppling mellan kurser
+En viktig del i arbetet med studentinflytandet är kursvärderingar, som regleras i högskoleförordningen och vidare internt i Lokala regler för kurs (kap. 3 Kursvärderingar). Enligt rektorsbeslut ska kursvärderingar sedan slutet av 2014 genomföras elektroniskt via enkätsystemet Survey&Report. Inom FTK finns en fastställd handläggningsrutin avseende kursvärderingar som bygger på LNUs lokala reglerna för kursvärdering. Kursvärderingsenkäten skickas ut till berörda studenter i slutet av kursen. Studenten har två veckor på sig att svara, påminnelse skickas automatiskt ut via mail och därefter stängs enkäten som sammanställs och skickas till ansvarig lärare för analys och återkoppling, se även lathund över kursvärderingsprocessen (https://medarbetare.lnu.se/medarbetare/organisation/ftk/verksamhetsstod-ftk/ikt-stod/kursvardering-och-enkater/)
 
-## Arbetslivets perspektiv
+Förutom de av rektor förutbestämda enkätfrågorna utgår majoriteten av fakultetens kursvärderingar från en enkätmall. Frågorna behandlar kursplanens övergripande tydlighet avseende mål och innehåll i förhållande till genomförandet, betygskriterier, lärandesituation, studentinflytande, kursmomentens relevans samt studentens syn på kursens relevans i sin helhet. Studenterna kan även lämna mer utförliga synpunkter och ge direkta förslag på förbättringar. Ett viktigt syfte med kursvärderingen är att ansvariga lärare ska kunna vidareutveckla kursens upplägg så att den konstruktiva länkningen stärks och att studentaktiviteten ökar. Hur väl frågorna stämmer med det lokala kravet att studenten ska ges möjlighet att relatera kursens mål till dess innehåll, upplägg och examination bör analyseras. 
 
-### Beskriv och analysera hur utbildningens innehåll och utformning säkerställer användbarhet och förberedelse för arbetslivet.
+Efter det att universitetet införde det elektroniska enkätverktyget har svarsfrekvensen minskat. Ansvariga lärare ser systemet som svårarbetat när det gäller att anpassa frågorna till den specifika kursen. Engagemanget hos både lärare och studenter har minskat och för en väl fungerande kursvärderingsprocess är detta naturligtvis bekymmersamt. En uppföljning av handläggningsrutinens ändamålsenlighet och hur den följs avseende analys och återkoppling genomfördes under hösten 2016. Resultatet visar att kursvärderingsresultatet återkopplas oftast till studenterna men det förekommer inte alltid en analys av sammanställningen, en s.k. kursutvärderingsrapport.
 
-### Beskriv och analysera hur information inhämtas som är relevant för utbildningens kvalitetssäkring och utveckling med hänsyn till dess användbarhet och förberedelse för arbetslivet.
+## Linnébarometern - en programvärdering
 
-## Studenters perspektiv
+Utöver kursvärderingar genomförs centralt vid universitetet en årlig enkätundersökning, Linnébarometern, där studenter som går sista terminen på sitt program har möjlighet att lämna mer generella synpunkter på sin utbildning. Linnébarometerns resultat presenteras per program i det fall statistiskt underlag erhålls, i annat fall grupperas resultatet inom fakultetens fyra olika utbildningsområden; ingenjörsområdet, data/IT-området, matematik-fysik- och lärarutbildningen samt sjöfartsområdet inom vilka programmen har professionen eller likande ämnen som gemensam nämnare. Resultatet delges programansvariga och fakultetens utbildningsråd diskuterar den övergripande bilden av resultatet och inhämtar kommentarer samt åtgärdsplaner för program som utmärkt sig negativt inom ett eller flera områden. 
 
-### Beskriv systemet för att säkra studentinflytande och hur det dokumenteras.
+I det fall programstudentantalet inte är för litet eller svarsfrekvensen för Linnébarometern är för låg ger denna enkätundersökning en övergripande bild av studenternas syn på programmet som helhet. Fakulteten har inget beslut på att någon annan form av programvärdering ska genomföras men de flesta program genomför någon sorts programvärdering varje termin. Program som inte genomför enskilda skriftliga programvärderingar fångar upp studenternas synpunkter vid programråd eller liknande. 
 
-- Studentkår
+Studentinflytande genom studentrepresentation i rådgivande och beslutande organ
+Studenternas inflytande utövas även genom representation i en rad olika organ. Fakulteten har ett antal organ där studentrepresentation är en viktig del avseende inflytande på beredning, arbetssätt och beslut. Fakultetsstyrelsen representeras av tre studenter varav en forskarstuderande, Utbildningsrådet har två studentrepresentanter, Kursplaneutskottet en studentrepresentant och inför respektive dekabeslut tillfrågas en studentrepresentant.
 
-- Kursutvärderingar
+Studentrepresentanter utses även till att ingå i specifika arbetsgrupper som tex. verksamhetsplaneringsgruppen. Samtliga representanter får liksom övriga ledamöter ta del av handlingar inför möten och framföra sin åsikt inför beslut. Studentrepresentanterna är av förklarliga skäl synnerhet väl insatta i utbildningsfrågor men studenternas röster blir även hörda i övergripande strategi- och verksamhetsfrågor samt budgetarbetet. Vid dekanens beslutsmöten har studentrepresentanten ofta relevanta synpunkter inför fastställande av nya kursplaner. Studentrepresentanter till beredande och beslutande organ utses av Linnéstudenterna på ett år i taget. När det gäller representation i programråd frågar programansvarig ofta om det finns någon intresserad student som vill ingå, så denna process går oftast inte genom kåren.
 
-### Beskriva hur utfall av kursvärderingar och eventuella åtgärder sammanställs och återkopplas till studenterna.
+## Analys
 
-### Beskriv och analysera arbetet för att studenterna ska ta aktiv del och i dialog med lärarna utveckla utbildningens samtliga delar.
+En generell reflektion över studentinflytandet på Lnu är svårigheten att få studenterna att delta i återkoppling. Lnu erbjuder studenter plats i alla organ på universitets- och fakultets- och intuitionsnivå men det är svårt att fylla vakanta platser. Från Lnu centralt uppmanas studenterna till engagemang och medverkande men tyvärr är resultatet inte tillfredställande. Universitetet har bland annat beslutat om ”Ersättning till studentrepresentanter utsedda av Linnéstudenterna i universitetsorgan” (Länk_Allm_044) och ”Avtal om generellt kårstöd” (Länk_Allm_045). Avtalet om generellt kårstöd avser ett generellt ekonomiskt kårstöd till studentinflytande och utbildningsbevakning. Samarbetet med Linnéstudenterna är gott och synpunkter och diskussioner är konkreta och konstruktiva men vi hade gärna sett att fler studenter engagerar sig inom det egna programmet och intuitionen.
 
-- Studentkår
+På samma sätt ser vi minskande svarsfrekvenser i undersökningar som kursvärderingar, Linnébarometer och alumnenkäter vilket fakultetens ledning bedömer som allvarligt. Trots påminnelser är det svårt att få acceptabla svarsfrekvenser och åtgärder för att öka engagemang pågår både lokalt och centralt inom verksamheten. Lärarna arbetar för att på andra sätt fånga in synpunkter på undervisningen bland annat genom samtal i klassrummet och återkoppling via fokusgrupper. Flera av våra lärare för en tät dialog med studenterna vilket ibland resulterar i direkta förbättringsförslag och synpunkter under kurserna. Den typen av feedback kan vara nog så viktigt och är fullt möjligt då studentgrupper är av storleken av 15 till 50 studenter per årskull.
 
-## Jämställdhetsperspektiv
+# Jämställdhetsperspektiv
 
 Linneuniversitetet arbetade under våren 2017 fram en plan för jämstäldhetsintegrering vid lärosätet. Planen är en följd av det nationella uppdrav som beslutats av regeringen där lärosäten uppmanats att beskriva hur verksamheten skall jämstäldhetsintegreras. Planen för jämställdhetsintegrationsarbetet går utvecklar universitetes arbete för lika villkor. Fakulteterna och institutionerna håller för närvarande på att analysera effekterna av planen på verksamheten. Planen har ett klart medarbetarperspektiv vilket gör att det i planen fokuseras mer på frågor som rekrytering och karriärmöjligheter och mindre på aspekter som berör studenter och utbildning så som program och kurs.
 
