@@ -12,181 +12,6 @@
     
     <item>
       <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv001_programming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv001_programming/</guid>
-      <description>[%PrelCode] - %Name Prerequisites None.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Explain basic programming language constructs, such as variables, control statements, and functions. Explain basic algorithms and data structures, and show how to use them, and when to use them.  2. Skills and abilities
- Given a problem, design and implement a solution in the programming language Python. Formulate and implement algorithms to solve elementary programming problems, such as sorting and searching.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv002_introductoryproject/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv002_introductoryproject/</guid>
-      <description>[%PrelCode] - %Name Prerequisites 1DV001.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Describe how a problem can be addresses by a software system Describe how requirements should be elicited, specified, and tested.  2. Skills and abilities
- Be able to express requirements in a formal way Be able to analyze a problem and design a system that addresses it Be able to implement a basic design in a programming language Be able to test a system and make sure it implements the requirements  3.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv003_oop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv003_oop/</guid>
-      <description>[%PrelCode] - %Name Prerequisites 1DV001.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Explain the concepts modularization, abstraction, and encapsulation Describe the object-­oriented software development process Explain what a design pattern is and why they are used, and describe some of the common patterns.  2. Skills and abilities
- Implement small object-oriented programs Given a problem, design an object-oriented solution using UML.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv004_concurrentprogramming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv004_concurrentprogramming/</guid>
-      <description>[%PrelCode] - %Name Prerequisites 1DV001, 1DV003.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Describe problems related to shared resources, e.g., race conditions, locking, etc. Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do. Reason about properties of concurrent programs, such as correctness and termination. Explain the differences between shared memory and message passing.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv005_seproject/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv005_seproject/</guid>
-      <description>[%PrelCode] - %Name Prerequisites Programming, OOP, Testing, Modeling (UML).
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Identify the complexities of software design and development Describe the fundamentals of software engineering, such as stakeholders and requirements Describe the difference between the Customer, the Solution, and the Endeavour as well as the different methods used for each. Describe the principles behind agile methodologies for software development, their motivation and how they differ from plan-based approaches  2.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv011_embeddedsystems/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv011_embeddedsystems/</guid>
-      <description>[%PrelCode] - %Name Prerequisites 1DV004, 1DV008, 1FY001, 1FY002.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Analyze the schedulability of a periodic task set Display knowledge of and be able to explain how operating systems structured and works, especially when it comes to interrupts, processes, threads, and scheduling Explain scheduling anomalies, their causes, and how to avoid/mitigate them.  2. Skills and abilities</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv012_computernetworks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv012_computernetworks/</guid>
-      <description>[%PrelCode] - %Name Prerequisites Writing medium complex Java programs Understand file systems, processes (In the Operating systems context) Understand basic properties of signals and electronics
-1DV001, 1DV003, 1DV004, 1FY002, 1DV008.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Describe the layers in a networking stack, e.g., TCP/IP and discuss their purpose. Describe how the layers interact to transmit data over a network, and how each function manipulate the data, e.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv013_computersecurity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv013_computersecurity/</guid>
-      <description>[%PrelCode] - %Name Prerequisites  Programming skills Basic math skills General knowledge about Computer Systems Knowledge about Operating systems Knowledge about Databases Knowledge about Computer Networks  1DV003, 1MA004, 1MA006, 1DV006, 1DV007, 1DV012
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding - Describe the IT Security landscape and the different subfields within Information and IT security. - Explain basic security mechanisms - Describe the main threats against computer and network security and the methods available to thwart them.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1el001_automaticcontrol/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1el001_automaticcontrol/</guid>
-      <description>[%PrelCode] - %Name Prerequisites 1MA003, 1FY002.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Describe the design methods pole­placement, lead­lag compensation, feed­forward and cascade compensation. Understand the function of simple controllers (PID controllers, lead-lag filters, state feedback) and controller structures (feedforward and cascade control)  2. Skills and abilities
- Make a mathematical model for a simple dynamical system. Make a stability analysis for an open system and for a closed control system.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1fy001_mechanicsforengineers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1fy001_mechanicsforengineers/</guid>
-      <description>[%PrelCode] - %Name Prerequisites 1MA001, 1MA002, 1MA003.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Have a basic knowledge of statics and dynamics in classical mechanics including the mathematical formalism. Have a basic understanding of the scientific method including the importance of experiments, theory and their relationship.  2. Skills and abilities
- Have the ability to formulate and solve problems relating to static and dynamic mechanical systems.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1fy002_electomagneticsforengineers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1fy002_electomagneticsforengineers/</guid>
-      <description>[%PrelCode] - %Name Prerequisites 1MA001, 1MA002, 1MA003.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Have a basic knowledge of electromagnetics and electronics including the mathematical formalism. Have a basic understanding of circuit theory, analog electronics, and their connection to electromagnetism.  2. Skills and abilities
- Have the ability to formulate and solve symmetric electromagnetic problems. Have the ability to formulate and analyse passive dc and ac circuits.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</guid>
-      <description>1MA004 - Diskret matematik (7.5 hec) Förkunskaper Grundläggande matematik eller motsvarande.
-Mål Efter genomgången kurs förväntas studenten kunna
- använda resultat i logik, mängdlära och diskreta matematiska modeller lösa problem, utföra beräkningar och föra resonemang i diskret matematik skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i diskret matematik tillämpa diskreta matematiska modeller på datavetenskapliga problem, diskutera relevans, räckvidd och noggrannhet av modeller visualisera resultat lösa problem genom syntes av flera moment.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/2dv001_bachelorsthesis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/2dv001_bachelorsthesis/</guid>
-      <description>2DV001 - Bachelor&amp;rsquo;s thesis (15 hec) Prerequisites 1TM001, 1OT001, 1DV005.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Explain the state of the art within the selected domain/problem. Describe the research method and how it is applied to the domain/problem.  2. Skills and abilities
- Formulate a research question. Apply a research method. Plan and conduct a research project. Communicate results written and orally.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://morganericsson.github.io/msengcs/descs/4dv014_scientificmethods2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/4dv014_scientificmethods2/</guid>
-      <description>[%PrelCode] - %Name Prerequisites 1TM001, 1OT001, 2DV001.
-Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Describe the most common scientific methods in computer science and software engineering  2. Skills and abilities
- Be able to identify, formulate, discuss, and analyze scientific problems and reason about and select relevant and applicable scientific methods Be able to apply methods for quantitative and qualitative data collection and analysis in the fields computer science and software engineering Be able to analyze and assess scientific texts  3.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://morganericsson.github.io/msengcs/utbplan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -194,6 +19,57 @@ Learnings outcomes After completing the course the student is expected to:
       <description>Civilingenjör i mjukvaruteknik, 300 hp Förkunskaper Grundläggande behörighet samt områdesbehörighet A9, dvs. Fysik 2, Kemi 1 och Matematik 4, eller Fysik B, Kemi A och Matematik E.
 Programbeskrivning Utbildningen ska ge studenten goda kunskaper i det datavetenskapliga området med en inriktning mot programvaruteknik. Studierna ska förbereda för arbete i verksamheter där programvaror används och utvecklas.
 Idag utnyttjas datorer inom alla sektorer i samhället. Det finns därför ett behov av välutbildad personal för utveckling av den programvara som styr dagens och morgondagens system.</description>
+    </item>
+    
+    <item>
+      <title>1DV001 - Programming (7.5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv001_programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv001_programming/</guid>
+      <description>1DV001 - Programming (7.5 hec) Prerequisites None.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Explain basic programming language constructs, such as variables, control statements, and functions. Explain basic algorithms and data structures, and show how to use them, and when to use them.  2. Skills and abilities
+ Given a problem, design and implement a solution in the programming language Python.</description>
+    </item>
+    
+    <item>
+      <title>1DV002 - Introductory project (7.5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv002_introductoryproject/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv002_introductoryproject/</guid>
+      <description>1DV002 - Introductory project (7.5 hec) Prerequisites 1DV001.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Describe how a problem can be addresses by a software system Describe how requirements should be elicited, specified, and tested.  2. Skills and abilities
+ Be able to express requirements in a formal way Be able to analyze a problem and design a system that addresses it Be able to implement a basic design in a programming language Be able to test a system and make sure it implements the requirements  3.</description>
+    </item>
+    
+    <item>
+      <title>1DV003 - Object-oriented Programming (5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv003_oop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv003_oop/</guid>
+      <description>1DV003 - Object-oriented Programming (5 hec) Prerequisites 1DV001.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Explain the concepts modularization, abstraction, and encapsulation Describe the object-­oriented software development process Explain what a design pattern is and why they are used, and describe some of the common patterns.  2. Skills and abilities
+ Implement small object-oriented programs Given a problem, design an object-oriented solution using UML.</description>
+    </item>
+    
+    <item>
+      <title>1DV004 - Concurrent programming (7.5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv004_concurrentprogramming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv004_concurrentprogramming/</guid>
+      <description>1DV004 - Concurrent programming (7.5 hec) Prerequisites 1DV001, 1DV003.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Describe problems related to shared resources, e.g., race conditions, locking, etc. Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do. Reason about properties of concurrent programs, such as correctness and termination. Explain the differences between shared memory and message passing.</description>
     </item>
     
     <item>
@@ -205,6 +81,18 @@ Idag utnyttjas datorer inom alla sektorer i samhället. Det finns därför ett b
       <description>1DV005 - Algorithms (5 hec) Prerequisites  Java, OOP. Basic abstract data types: list, stack and queue. Basic graph theory.  Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
  Describe algorithms and explain their properties, e.g., why they are fast or correct. Recall problem complexity classes, such as P and NP, and recognize problems that belong to these. Explain intractability and identify such problems.</description>
+    </item>
+    
+    <item>
+      <title>1DV005 - SE project (10 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv005_seproject/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv005_seproject/</guid>
+      <description>1DV005 - SE project (10 hec) Prerequisites Programming, OOP, Testing, Modeling (UML).
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Identify the complexities of software design and development Describe the fundamentals of software engineering, such as stakeholders and requirements Describe the difference between the Customer, the Solution, and the Endeavour as well as the different methods used for each. Describe the principles behind agile methodologies for software development, their motivation and how they differ from plan-based approaches  2.</description>
     </item>
     
     <item>
@@ -270,6 +158,81 @@ Learnings outcomes After completing the course the student is expected to:
     </item>
     
     <item>
+      <title>1DV011 - Embedded systems (5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv011_embeddedsystems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv011_embeddedsystems/</guid>
+      <description>1DV011 - Embedded systems (5 hec) Prerequisites 1DV004, 1DV008, 1FY001, 1FY002.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Analyze the schedulability of a periodic task set Display knowledge of and be able to explain how operating systems structured and works, especially when it comes to interrupts, processes, threads, and scheduling Explain scheduling anomalies, their causes, and how to avoid/mitigate them.  2.</description>
+    </item>
+    
+    <item>
+      <title>1DV012 - Computer networks (5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv012_computernetworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv012_computernetworks/</guid>
+      <description>1DV012 - Computer networks (5 hec) Prerequisites Writing medium complex Java programs Understand file systems, processes (In the Operating systems context) Understand basic properties of signals and electronics
+1DV001, 1DV003, 1DV004, 1FY002, 1DV008.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Describe the layers in a networking stack, e.g., TCP/IP and discuss their purpose. Describe how the layers interact to transmit data over a network, and how each function manipulate the data, e.</description>
+    </item>
+    
+    <item>
+      <title>1DV013 - Security (5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv013_computersecurity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv013_computersecurity/</guid>
+      <description>1DV013 - Security (5 hec) Prerequisites  Programming skills Basic math skills General knowledge about Computer Systems Knowledge about Operating systems Knowledge about Databases Knowledge about Computer Networks  1DV003, 1MA004, 1MA006, 1DV006, 1DV007, 1DV012
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding 1. Describe the IT Security landscape and the different subfields within Information and IT security. 1. Explain basic security mechanisms 1.</description>
+    </item>
+    
+    <item>
+      <title>1EL001 - Automatic control (5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1el001_automaticcontrol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1el001_automaticcontrol/</guid>
+      <description>1EL001 - Automatic control (5 hec) Prerequisites 1MA003, 1FY002.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Describe the design methods pole­placement, lead­lag compensation, feed­forward and cascade compensation. Understand the function of simple controllers (PID controllers, lead-lag filters, state feedback) and controller structures (feedforward and cascade control)  2. Skills and abilities
+ Make a mathematical model for a simple dynamical system.</description>
+    </item>
+    
+    <item>
+      <title>1FY001 - Mechanics for engineers (7.5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1fy001_mechanicsforengineers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1fy001_mechanicsforengineers/</guid>
+      <description>1FY001 - Mechanics for engineers (7.5 hec) Prerequisites 1MA001, 1MA002, 1MA003.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Have a basic knowledge of statics and dynamics in classical mechanics including the mathematical formalism. Have a basic understanding of the scientific method including the importance of experiments, theory and their relationship.  2. Skills and abilities
+ Have the ability to formulate and solve problems relating to static and dynamic mechanical systems.</description>
+    </item>
+    
+    <item>
+      <title>1FY002 - Electromagnetics for engineers (7.5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1fy002_electomagneticsforengineers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1fy002_electomagneticsforengineers/</guid>
+      <description>1FY002 - Electromagnetics for engineers (7.5 hec) Prerequisites 1MA001, 1MA002, 1MA003.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Have a basic knowledge of electromagnetics and electronics including the mathematical formalism. Have a basic understanding of circuit theory, analog electronics, and their connection to electromagnetism.  2. Skills and abilities
+ Have the ability to formulate and solve symmetric electromagnetic problems. Have the ability to formulate and analyse passive dc and ac circuits.</description>
+    </item>
+    
+    <item>
       <title>1MA002 - Linjär algebra (7.5 hec)</title>
       <link>https://morganericsson.github.io/msengcs/descs/1ma002_linja%CC%88ralgebra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -289,6 +252,28 @@ Mål Efter genomgången kurs förväntas studenten kunna
       <description>1MA003 - Envariabelanalys 1 (5 hec) Förkunskaper Grundläggande matematik eller motsvarande.
 Mål Efter genomgången kurs förväntas studenten kunna
  behärska teorin för analys i en variabel använda differential- och integralkalkyl i en variabel lösa problem, utföra beräkningar och föra resonemang i analys skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i analys tillämpa differential- och integralkalkyl på tekniska, fysikaliska och datavetenskapliga problem, diskutera relevans, räckvidd och noggrannhet av modeller visualisera resultat lösa problem genom syntes av flera moment.</description>
+    </item>
+    
+    <item>
+      <title>1MA004 - Diskret matematik (7.5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</guid>
+      <description>1MA004 - Diskret matematik (7.5 hec) Förkunskaper Grundläggande matematik eller motsvarande.
+Mål Efter genomgången kurs förväntas studenten kunna
+ använda resultat i logik, mängdlära och diskreta matematiska modeller lösa problem, utföra beräkningar och föra resonemang i diskret matematik skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i diskret matematik tillämpa diskreta matematiska modeller på datavetenskapliga problem, diskutera relevans, räckvidd och noggrannhet av modeller visualisera resultat lösa problem genom syntes av flera moment.</description>
+    </item>
+    
+    <item>
+      <title>1MA004 - Diskret matematik (7.5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1ma004_diskretmatematik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1ma004_diskretmatematik/</guid>
+      <description>1MA004 - Diskret matematik (7.5 hec) Förkunskaper Grundläggande matematik eller motsvarande.
+Mål Efter genomgången kurs förväntas studenten kunna
+ använda resultat i logik, mängdlära och diskreta matematiska modeller lösa problem, utföra beräkningar och föra resonemang i diskret matematik skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i diskret matematik tillämpa diskreta matematiska modeller på datavetenskapliga problem, diskutera relevans, räckvidd och noggrannhet av modeller visualisera resultat lösa problem genom syntes av flera moment.</description>
     </item>
     
     <item>
@@ -324,6 +309,19 @@ Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
  Describe different views of science. Describe basic epistemological limitations such as the problem of observation and induction in basic science  2. Skills and abilities
  Be able to choose suitable research strategies and methods, and motivate and explain these choices Be able to formulate the aim and scope of a research projects Be able to formulate hypotheses using variables and model phenomena and their relationships as dependent and independent variables  3.</description>
+    </item>
+    
+    <item>
+      <title>2DV001 - Bachelor&#39;s thesis (15 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/2dv001_bachelorsthesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/2dv001_bachelorsthesis/</guid>
+      <description>2DV001 - Bachelor&amp;rsquo;s thesis (15 hec) Prerequisites 1TM001, 1OT001, 1DV005.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Explain the state of the art within the selected domain/problem. Describe the research method and how it is applied to the domain/problem.  2. Skills and abilities
+ Formulate a research question. Apply a research method. Plan and conduct a research project. Communicate results written and orally.</description>
     </item>
     
     <item>
@@ -459,6 +457,19 @@ Learnings outcomes After completing the course the student is expected to:
       <description>4DV013 - Information Visualization 2 (5 hec) Prerequisites  Java and JavaScript programming and corresponding data structures, Advanced → 1DV003 Program and understand 2D computer graphics applications + OpenGL, Advanced → 1DV009 Algorithms, Advanced → 1DV006 Information visualization, Basics → 4DV010 Data preprocessing, clustering, dimensionality reduction, Basics → 4DV011  Learning outcomes After completing the course the student is expected to:
  Knowledge and understanding
  Define and explain visualization techniques (regarding interaction and visual representation) and example tools for special data sets and applications domains Describe validation and evaluation methods for information visualization tools and approaches Describe the most important challenges in the field  Skills and abilities</description>
+    </item>
+    
+    <item>
+      <title>4DV014 - Scientific methods 2 (5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/4dv014_scientificmethods2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/4dv014_scientificmethods2/</guid>
+      <description>4DV014 - Scientific methods 2 (5 hec) Prerequisites 1TM001, 1OT001, 2DV001.
+Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Describe the most common scientific methods in computer science and software engineering  2. Skills and abilities
+ Be able to identify, formulate, discuss, and analyze scientific problems and reason about and select relevant and applicable scientific methods Be able to apply methods for quantitative and qualitative data collection and analysis in the fields computer science and software engineering Be able to analyze and assess scientific texts  3.</description>
     </item>
     
     <item>

@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://morganericsson.github.io/msengcs/utbplan/</loc>
+  </url>
+  
+  <url>
     <loc>https://morganericsson.github.io/msengcs/descs/1dv001_programming/</loc>
   </url>
   
@@ -23,7 +27,31 @@
   </url>
   
   <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/1dv006_algorithms/</loc>
+  </url>
+  
+  <url>
     <loc>https://morganericsson.github.io/msengcs/descs/1dv005_seproject/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/1dv007_databases/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/1dv008_computerorganization/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/1dv009_computergraphics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/1dv010_softwarearchitecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/4dv003_mdeproject/</loc>
   </url>
   
   <url>
@@ -51,51 +79,19 @@
   </url>
   
   <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/2dv001_bachelorsthesis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/4dv014_scientificmethods2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/utbplan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/1dv006_algorithms/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/1dv007_databases/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/1dv008_computerorganization/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/1dv009_computergraphics/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/1dv010_softwarearchitecture/</loc>
-  </url>
-  
-  <url>
-    <loc>https://morganericsson.github.io/msengcs/descs/4dv003_mdeproject/</loc>
-  </url>
-  
-  <url>
     <loc>https://morganericsson.github.io/msengcs/descs/1ma002_linja%CC%88ralgebra/</loc>
   </url>
   
   <url>
     <loc>https://morganericsson.github.io/msengcs/descs/1ma003_envariabelanalys1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/1ma004_diskretmatematik/</loc>
   </url>
   
   <url>
@@ -108,6 +104,10 @@
   
   <url>
     <loc>https://morganericsson.github.io/msengcs/descs/1ot001_scientificmethods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/2dv001_bachelorsthesis/</loc>
   </url>
   
   <url>
@@ -156,6 +156,10 @@
   
   <url>
     <loc>https://morganericsson.github.io/msengcs/descs/4dv013_informationvisualization2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://morganericsson.github.io/msengcs/descs/4dv014_scientificmethods2/</loc>
   </url>
   
   <url>
