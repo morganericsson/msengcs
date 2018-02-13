@@ -12,7 +12,7 @@ Subject:    ComputerScience
 Type:       Regular  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV001 - Programming (7.5 hec)
 
 ## Prerequisites
 
@@ -34,12 +34,10 @@ After completing the course the student is expected to:
 - Install and use suitable IDEs and external libraries
 - Structure a short oral and written presentation presenting the result of a minor programming project
 
-
 *3.	Judgement and approach*
 
 - Reason about how well structured and understandable a program is.
 - Pick and motivate what data structures and algorithms to use in different scenarios.
-
 
 ## Course contents
 
@@ -65,6 +63,7 @@ In the second half we  introduce a few well-known algorithms and data structures
 - Algorithm and Data Structure Project, 2.5 credits
 - Oral and Written Report, 1 credit 
 
+## Types of instruction
 
 ## Examination
 

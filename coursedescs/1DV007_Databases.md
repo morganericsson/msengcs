@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV001;1DV003;1DV004   
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV007 - Databases (5 hec)
 
 ## Prerequisites
 
@@ -52,14 +52,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Written exam and practical assignments.
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-Same as 1DV513 and 2DV513.
+## Literature

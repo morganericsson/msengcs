@@ -13,13 +13,13 @@ Type:       Regular
 PreReq:     1MA003
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1MA005 - Envariabelanalys 2 (5 hec)
 
-## Förkunskaper
+## Prerequisites
 
 Grundläggande matematik eller motsvarande. 
 
-## Mål
+## Learnings outcomes
 
 Efter genomgången kurs förväntas studenten kunna
 
@@ -33,7 +33,7 @@ Efter genomgången kurs förväntas studenten kunna
 - lösa problem genom syntes av flera moment. 
 
 
-## Innehåll
+## Course contents
 
 - Gränsvärden och kontinuitet: gränsvärdesdefinitionen, räkneregler, instängningssatsen, standardgränsvärden, talet e
 - Derivata och funktionsstudier: derivatans definition, räkneregler, de elementära funktionernas derivator, medelvärdessatsen, extremvärdesproblem, kurvritning, asymptoter
@@ -46,25 +46,24 @@ Efter genomgången kurs förväntas studenten kunna
 - Maclaurins och Taylors formler med restterm, Taylors formel för de elementära funktionerna, beräkningar av gränsvärde och integraler med Taylors formel
 - Matematisk modellering med differentialekvationer. 
 
-## Undervisningsformer
-
-Föreläsningar och övningar. 
-
-##Examination
-
-Skriftlig tentamen. Betygsskala A-F.
-
-##Provmoment
+## Modules
 
 Problemlösning 6.0 hp. Teori 1.5 hp. 
 
-## Kursvärdering
+## Types of instruction
 
-Efter avslutad kurs genomförs en kursvärdering som sammanställs skriftligt och återkopplas till studenterna. Sammanställningen redovisas för aktuella organ samt arkiveras.
+Föreläsningar och övningar. 
 
-## Kurslitteratur
+## Examination
+
+Skriftlig tentamen. Betygsskala A-F.
+
+## Grading
+
+## Literature
 
 Obligatorisk litteratur: 
-Månsson J, Nordbeck P, *Endimensionell analys*, Studentlitteratur. 
-Månsson J., Nordbeck P. *Övningar i endimensionell analys*, Studentlitteratur. 
-Material från institutionen
+
+- Månsson J, Nordbeck P, *Endimensionell analys*, Studentlitteratur. 
+- Månsson J., Nordbeck P. *Övningar i endimensionell analys*, Studentlitteratur. 
+- Material från institutionen

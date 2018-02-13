@@ -13,32 +13,35 @@ Type:       Regular
 PreReq:     1MA001;1MA002;1MA006;1DV003;1DV006
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV009 - Computer Graphics (5 hec)
 
 ## Prerequisites
 
-* Java programming and corresponding data structures, Advanced → 1DV003
-* Vector geometry/calculus, Use → 1MA006 ???
-* Linear algebra (matrix calculus), Use → 1MA001, 1MA002
-* Algorithms, Advanced → 1DV006
+- Java programming and corresponding data structures, Advanced → 1DV003
+- Vector geometry/calculus, Use → 1MA006 ???
+- Linear algebra (matrix calculus), Use → 1MA001, 1MA002
+- Algorithms, Advanced → 1DV006
 
 ## Learning outcomes
 
 After completing the course the student is expected to:
 
-1. Knowledge and understanding
-    1. Characterize all aspects of the computer graphics pipeline, i.e., the various steps and algorithms that occur from a geometric 3D object specification to the rendering of a corresponding 2D image on a raster graphics display
-    2. Define and explain different types of object representations
-    3. Define and explain the most important models and algorithms for viewing and local illumination
+*1. Knowledge and understanding*
 
-2. Skills and abilities
-    1. Perform and implement rasterization algorithms for basic output primitives
-    2. Perform and implement geometric, camera, projection, and viewport transformations
-    3. Implement basic 2D/3D graphics solutions by using OpenGL
+1. Characterize all aspects of the computer graphics pipeline, i.e., the various steps and algorithms that occur from a geometric 3D object specification to the rendering of a corresponding 2D image on a raster graphics display
+2. Define and explain different types of object representations
+3. Define and explain the most important models and algorithms for viewing and local illumination
 
-3. Judgement and approach
-    1. Reflect upon the properties of different algorithms and models and pick those suitable for the problem to be solved
-    2. Reason about the impact that choices, e.g., specific lightening/shading or color representations, have on the output quality
+*2. Skills and abilities*
+
+1. Perform and implement rasterization algorithms for basic output primitives
+2. Perform and implement geometric, camera, projection, and viewport transformations
+3. Implement basic 2D/3D graphics solutions by using OpenGL
+
+*3. Judgement and approach*
+
+1. Reflect upon the properties of different algorithms and models and pick those suitable for the problem to be solved
+2. Reason about the impact that choices, e.g., specific lightening/shading or color representations, have on the output quality
 
 ## Course contents
 
@@ -56,14 +59,14 @@ This course offers an introduction into the most important theoretical and pract
 * Lighting and shading, especially local illumination
 * OpenGL
 
-## Types of Instruction
-
-The types of instruction for this course encompass traditional lectures for teaching the majority of the course content. OpenGL is not explicitly given by lectures: students have to gain knowledge about this programming library by self studies (textbook, open online tutorials). In addition, the content is exercised and deepened in context of theoretical and practical lab assignments. All assignments are carried out individually or in fixed groups of maximal two students.
-
 ## Modules
 
 * Theoretical assignments, 2.5 credits
 * Programming assignments, 2.5 credits
+
+## Types of Instruction
+
+The types of instruction for this course encompass traditional lectures for teaching the majority of the course content. OpenGL is not explicitly given by lectures: students have to gain knowledge about this programming library by self studies (textbook, open online tutorials). In addition, the content is exercised and deepened in context of theoretical and practical lab assignments. All assignments are carried out individually or in fixed groups of maximal two students.
 
 ## Examination
 
@@ -97,13 +100,7 @@ In order to relate the learning outcomes to the two assessment types and individ
 
 Late work will not be accepted without prior approval by the instructor. Reasons for accepted delays may be proven health conditions, no-fault hardships, etc.
 
-## Course Literature
+## Literature
 
-* Donald D. Hearn, M. Pauline Baker, and Warren Carithers. Computer Graphics with OpenGL, 4th Ed., Pearson, 2010.
-    * Estimated reading: 450 / 812 pages
-* DV, Distributed slides.
-    * Estimated reading: 310 / 310 pages
-
-## Overlap
-
-100% with 1DV800.
+- Donald D. Hearn, M. Pauline Baker, and Warren Carithers. Computer Graphics with OpenGL, 4th Ed., Pearson, 2010. Estimated reading: 450 / 812 pages
+- DV, Distributed slides. Estimated reading: 310 / 310 pages

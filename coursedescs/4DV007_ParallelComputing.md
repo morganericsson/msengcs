@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV004;1DV006;1DV008;1DV011
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV007 -  Parallel computing (5 hec)
 
 ## Prerequisites
 
@@ -46,12 +46,10 @@ computing
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-2DV605.
+## Literature

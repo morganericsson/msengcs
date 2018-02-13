@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV004;1DV008;1FY001;1FY002  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV011 - Embedded systems (5 hec)
 
 ## Prerequisites
 
@@ -52,13 +52,15 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Written exam and pratical assignments.
 
 ## Grading
 
-## Course litterature
+## Literature
 
 ## Overlap
 

@@ -13,14 +13,13 @@ Type:       Regular
 PreReq:     1DV001;1DV003;Discrete Mathematics
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV005 - Algorithms (5 hec)
 
 ## Prerequisites
 
 - Java, OOP.
 - Basic abstract data types: list, stack and queue. 
 - Basic graph theory.
-
 
 ## Learnings outcomes
 
@@ -61,34 +60,43 @@ After completing the course the student is expected to:
 - Data structures commonly used in computer science problems. 2,5 credits. 
 - Analysis of algorithms that implement solutions to computer science problems. 2.5 credits. 
 
-## Examination
-The examination consists of assignments (A1, A2 & A3), a written exam (WE) and an oral exam (OE).
-
-
-      | A1  | A2  | A3  | WE  | OE
- ---  | --- | --- | --- | --- | ---
- 1.1  |     |     |     |  X  |  X
- 1.2  |     |     |     |  X  |  X
- 1.3  |     |     |     |     |  X
- 2.1  |  X  |  X  |  X  |  X  |
- 2.2  |  X  |  X  |  X  |     |
- 2.3  |  X  |     |     |     |
- 2.4  |     |     |     |  X  |  
- 2.5  |     |     |  X  |  X  |
+## Types of instruction
+
+## Examination
+
+The examination consists of assignments (A1, A2 & A3), a written exam (WE) and an oral exam (OE).
+
+      | A1  | A2  | A3  | WE  | OE
+
+ ---  | --- | --- | --- | --- | ---
+
+ 1.1  |     |     |     |  X  |  X
+
+ 1.2  |     |     |     |  X  |  X
+
+ 1.3  |     |     |     |     |  X
+
+ 2.1  |  X  |  X  |  X  |  X  |
+
+ 2.2  |  X  |  X  |  X  |     |
+
+ 2.3  |  X  |     |     |     |
+
+ 2.4  |     |     |     |  X  |  
+
+ 2.5  |     |     |  X  |  X  |
+
  3.1  |     |     |     |  X  |  X
  3.2  |     |     |     |  X  |  X
-
-
-## Grading
-The course is assessed with the grades A, B, C, D, E, Fx or F.
-The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
-The grade F means that the student’s performance is assessed as fail.
-
 
 
-## Course litterature
+## Grading
+
+The course is assessed with the grades A, B, C, D, E, Fx or F.
+
+The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
+
+The grade F means that the student’s performance is assessed as fail.
+
+## Literature
 - Mark A. Weiss. Data Structures and Algorithm Analysis in Java (3rd Edition) 
-
-## Overlap
-
-Overlaps in part with 1dv516.

@@ -13,7 +13,7 @@ Type:       Project
 PreReq:     1DV001;1DV005;1DV006;1MA002
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV008 - Machine learning project (10 hec)
 
 ## Prerequisites
 
@@ -49,12 +49,6 @@ Machine learning systems learn patterns from labeled or unlabeled data, and aim 
 By following the course’s modules (described in more details below) the students will be introduced to theoretical machine learning aspects and tools, 
 create the conceptual design of a machine learning project of their choice, implement their designs, and present their results.
 
-## Types of instructions
-
-The types of instruction for this course encompass different categories. Traditional lectures are used for teaching fundamental concepts, complemented with more practical 
-tutorial sessions for the introduction of specific programming libraries. The project-related activities will mainly consist of self studies and group activities which will be regularly accompanied 
-by the responsible for the course.
-
 ## Modules
 
 M1: Machine learning systems – theory and practice, 2 credits
@@ -77,6 +71,12 @@ collection or data selection, data pre-processing, algorithm selection and resul
 M3: Implementation of the project, 5 credits
 
 Finally, in M3 the students will implement the design proposed in M2 by using selected programming languages, APIs, libraries and tools.
+
+## Types of instructions
+
+The types of instruction for this course encompass different categories. Traditional lectures are used for teaching fundamental concepts, complemented with more practical 
+tutorial sessions for the introduction of specific programming libraries. The project-related activities will mainly consist of self studies and group activities which will be regularly accompanied 
+by the responsible for the course.
 
 ## Examination
 
@@ -129,11 +129,6 @@ If grade(Course) ≥ 50%, then the student passes the course, otherwise the cour
 
 ## Course literature
 
-Sunila Gollapudi. Practical Machine Learning. PACKT publishing, 2016.
-- Estimated reading: 330 / 468 pages
+- Sunila Gollapudi. Practical Machine Learning. PACKT publishing, 2016. Estimated reading: 330 / 468 pages
 
 Supplementary literature may be provided by the institution if needed.
-
-## Overlap
-
-None.

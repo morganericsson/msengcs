@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV001;1DV003  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV004 - Concurrent programming (7.5 hec)
 
 ## Prerequisites
 
@@ -25,21 +25,21 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Describe problems related to shared resources, e.g., race conditions, locking, etc.
-- Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do.
-- Reason about properties of concurrent programs, such as correctness and termination.
-- Explain the differences between shared memory and message passing.
+1. Describe problems related to shared resources, e.g., race conditions, locking, etc.
+1. Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do.
+1. Reason about properties of concurrent programs, such as correctness and termination.
+1. Explain the differences between shared memory and message passing.
 
 *2.	Skills and abilities*
 
-- Write concurrent programs in a shared memory environment, with threads and synchronization.
-- Design and implement concurrent versions of common algorithms and data structures.
-- Show that a (simple) concurrent program is correct.
+1. Write concurrent programs in a shared memory environment, with threads and synchronization.
+1. Design and implement concurrent versions of common algorithms and data structures.
+1. Show that a (simple) concurrent program is correct.
 
 *3.	Judgement and approach*
 
-- Analyze a problem and implement a concurrent solution, using proper synchronization.
-- Based on the problem, determine whether shared memory or message passing is more suitable.
+1. Analyze a problem and implement a concurrent solution, using proper synchronization.
+1. Based on the problem, determine whether shared memory or message passing is more suitable.
 
 ## Course contents
 
@@ -52,14 +52,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Written exam and practical assignments.
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-Overlaps in part with 1dv012 and 1dv513.
+## Literature

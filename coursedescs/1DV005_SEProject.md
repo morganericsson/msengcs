@@ -13,7 +13,7 @@ Type:       Project
 PreReq:     1DV001;1DV002;1DV003
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV005 - Software Engineering project (10 hec)
 
 ## Prerequisites
 
@@ -53,10 +53,14 @@ After completing the course the student is expected to:
 - Agile project management; user stories, planning, estimation
 
 ## Modules
+
 1. State-of-the-art tools, methods, and techniques for agile software development
 2. Agile software development project 
 
+## Types of instruction
+
 ## Examination
+
 The examination is based on: 
 
 - Module 1: Assignments (A1, A2)
@@ -79,18 +83,15 @@ The examination is based on:
 | 3.2  |     |     |     |  X  |
 
 ## Grading
+
 The course is assessed with the grades A, B, C, D, E, Fx or F.
 The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
 The grade F means that the student’s performance is assessed as fail.
 
 
-## Course litterature
+## Literature
+
 - T. C. Lethbridge R. Laganière. Object-Oriented Software Engineering. 
 - H. van Vliet. Software Engineering: Principles and Practice (3rd ed.). Wiley Publishing. 2008.
 - I. Sommerville. Software Engineering (10th ed.). Addison-Wesley Publishing Company. 2015.
 - Ken Schwaber. Agile Project Management with Scrum (Developer Best Practices) 1st Edition, 2004.
-
-
-## Overlap
-
-Similar to 1dv600.

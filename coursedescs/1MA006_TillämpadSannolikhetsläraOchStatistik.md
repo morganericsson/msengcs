@@ -1,5 +1,5 @@
 ---
-Name:       Tillämpad sannolikhetslära och statistik
+Name:       Sannolikhetslära och statistik
 PrelCode:   1MA006
 HEC:        7.5
 Year:       2
@@ -13,13 +13,13 @@ Type:       Regular
 PreReq:     1MA003  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1MA006 - Sannolikhetslära och statistik (7.5 hec)
 
-## Förkunskaper
+## Prerequisites
 
 Envariabelanalys eller motsvarande. 
 
-## Mål
+## Learnings outcomes
 
 Efter genomgången kurs förväntas studenten kunna
 
@@ -35,7 +35,7 @@ Efter genomgången kurs förväntas studenten kunna
 - visualisera resultat
 - lösa problem genom syntes av flera moment. 
 
-## Innehåll
+## Course contents
 
 - Frekvenstabell, stolpdiagram, histogram, lådagram, stambladdiagram 
 - Utfallsrum och händelser, sannolikhetsbegreppet, betingad sannolikhet och oberoende händelser
@@ -46,7 +46,11 @@ Efter genomgången kurs förväntas studenten kunna
 - Punktskattning, konfidensintervall, hypotesprövning
 - Datorhjälpmedel för sannolikhetslära och statistik.
 
-## Undervisningsformer
+## Modules
+
+Problemlösning 6.5 hp. Datorlaboration 1.0 hp. 
+
+## Types of instruction
 
 Föreläsningar, övningar och en datorlaboration. 
 
@@ -54,15 +58,10 @@ Föreläsningar, övningar och en datorlaboration.
 
 Skriftlig tentamen. Labrapport. Betygsskala A-F.
 
-## Provmoment
+## Grading
 
-Problemlösning 6.5 hp. Datorlaboration 1.0 hp. 
-
-## Kursvärdering
-
-Efter avslutad kurs genomförs en kursvärdering som sammanställs skriftligt och återkopplas till studenterna. Sammanställningen redovisas för aktuella organ samt arkiveras.
-
-## Kurslitteratur
+## Literature
 
 Obligatorisk litteratur: 
-Walpole, R E, Myers, R H, Myers, SL, Ye, K, *Probability & Statistics for Engineers and Scientists*, Pearson.
+
+- Walpole, R E, Myers, R H, Myers, SL, Ye, K, *Probability & Statistics for Engineers and Scientists*, Pearson.

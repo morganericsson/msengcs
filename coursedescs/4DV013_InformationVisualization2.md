@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV003;1DV006;1DV009;4DV010;4DV011
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV013 - Information Visualization 2 (5 hec)
 
 ## Prerequisites
 
@@ -28,18 +28,21 @@ PreReq:     1DV003;1DV006;1DV009;4DV010;4DV011
 
 After completing the course the student is expected to:
 
-1. Knowledge and understanding
-    1. Define and explain visualization techniques (regarding interaction and visual representation) and example tools for special data sets and applications domains
-    2. Describe validation and evaluation methods for information visualization tools and approaches
-    3. Describe the most important challenges in the field
+*1. Knowledge and understanding*
 
-2. Skills and abilities
-    1. Represent data by expressive and effective visualizations using state-of-the-art methods, software, and tools
-    2. Implement new interactive visualizations for more complex and larger data sets; where required with a focus on specific application domains or analysis problems
+1. Define and explain visualization techniques (regarding interaction and visual representation) and example tools for special data sets and applications domains
+2. Describe validation and evaluation methods for information visualization tools and approaches
+3. Describe the most important challenges in the field
 
-3. Judgement and approach
-    1. Critically reflect on the discussed visualization and interaction approaches in the light of current theories and research
-    2. Make well-grounded design choices in the context of various tasks and data constraints
+*2. Skills and abilities*
+
+1. Represent data by expressive and effective visualizations using state-of-the-art methods, software, and tools
+2. Implement new interactive visualizations for more complex and larger data sets; where required with a focus on specific application domains or analysis problems
+
+*3. Judgement and approach*
+
+1. Critically reflect on the discussed visualization and interaction approaches in the light of current theories and research
+2. Make well-grounded design choices in the context of various tasks and data constraints
 
 
 ## Course contents
@@ -104,15 +107,7 @@ Late work will not be accepted without prior approval by the instructor. Reasons
 
 ## Course literature
 
-* Wolfgang Aigner, Silvia Miksch, Heidrun Schumann, and Christian Tominski. Visualization of Time-Oriented Data. Springer, 2011.
-    * Estimated reading: 80 / 286 pages
-* Andreas Kerren, Achim Ebert, and Jörg Meyer. Human-Centered Visualization Environments. LNCS Tutorial 4417, Springer, 2007.
-    * Estimated reading: 150 / 403 pages
-* Matthew Ward, Georges G. Grinstein, and Daniel Keim. Interactive Data Visualization − Foundations, Techniques, and Applications. 2nd Ed., A. K. Peters Ltd., 2015.
-    * Estimated reading: 150 / 558 pages
-* DV, Distributed slides.
-    * Estimated reading: 350 / 350 pages
-
-## Overlap
-
-80% with 4DV801. The visual analytics part from 4DV801 was removed and instead a deeper discussion on tree visualizations as well as a stronger task-oriented aspect added.
+* Wolfgang Aigner, Silvia Miksch, Heidrun Schumann, and Christian Tominski. Visualization of Time-Oriented Data. Springer, 2011. Estimated reading: 80 / 286 pages
+* Andreas Kerren, Achim Ebert, and Jörg Meyer. Human-Centered Visualization Environments. LNCS Tutorial 4417, Springer, 2007. Estimated reading: 150 / 403 pages
+* Matthew Ward, Georges G. Grinstein, and Daniel Keim. Interactive Data Visualization − Foundations, Techniques, and Applications. 2nd Ed., A. K. Peters Ltd., 2015. Estimated reading: 150 / 558 pages
+* DV, Distributed slides. Estimated reading: 350 / 350 pages

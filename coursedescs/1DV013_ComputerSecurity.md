@@ -13,9 +13,10 @@ Type:       Regular
 PreReq:     1DV003;1MA004;1MA006;1DV006  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV013 - Security (5 hec)
 
 ## Prerequisites
+
 - Programming skills
 - Basic math skills
 - General knowledge about Computer Systems
@@ -30,21 +31,23 @@ PreReq:     1DV003;1MA004;1MA006;1DV006
 After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
-- Describe the IT Security landscape and the different subfields within Information and IT security.
-- Explain basic security mechanisms
-- Describe the main threats against computer and network security and the methods available to thwart them.
+
+1. Describe the IT Security landscape and the different subfields within Information and IT security.
+1. Explain basic security mechanisms
+1. Describe the main threats against computer and network security and the methods available to thwart them.
 
 *2.	Skills and abilities*
 
-- Conduct a security analysis of an organization
-- Establish security policies and plans for an organization
+1. Conduct a security analysis of an organization
+1. Establish security policies and plans for an organization
 
 *3.	Judgement and approach*
 
-- Evaluate and relate to problems of ethical and moral nature related to computer crime, surveillance and privacy.
-- Judge the consequences of insecurity.
+1. Evaluate and relate to problems of ethical and moral nature related to computer crime, surveillance and privacy.
+1. Judge the consequences of insecurity.
 
 ## Course contents
+
 The course is an introductory course in IT Security. It should give basic understanding of threats and opportunities in the area and knowledge about tools available used to manage security. The main emphasis of the course is within Computer Security.
 The following parts are treated:
 
@@ -60,13 +63,15 @@ The following parts are treated:
 - Network security
 - Malware (virus/worm/trojans)
 
-
 ## Modules
 
 1. Information security and IT Security in the society
 2. Technical aspects of IT Security
 
+## Types of instruction
+
 ## Examination
+
 The examination is based on: 
 
 Written exam and assignments (A1, A2, A3, A4)
@@ -94,39 +99,6 @@ The grade A constitutes the highest grade on the scale and the remai
 The grade F means that the student’s performance is assessed as fail.
 
 
-## Course literature
+## Literature
 
-Pfleeger C, Pfleeger S, Margulies J, Security in Computing 5 ed. Prentice Hall, 2015. Pages 760 (944).
-
-## Overlap
-
-Similar to 1DV700.
-
-## Inspiration
-
-Ideas for the course from other universities:
-
-KTH Basic Data Security course, 6 credits https://www.kth.se/student/kurser/kurs/DD2395?l=en
-	Description
-		Course in computer science that gives an overview of the field of computer 	security. The course will cover threats as well as counter measures.
-
-		The importance and public awareness of computer security is ever increasing. In the past few years, high profile threats such as Internet worms have been making headline news, and security is starting to become a selling point for products.
-
-There are many areas where computer security is a business-critical issue, such as on-line banking, gaming, and web services.
-	Course Content
-		introduction to security
-		introduction to cryptography
-		authentication, access control, multi-level security
-		intrusion detection, firewalls
-		malware: virus/worm/trojans
-		web attacks
-		buffer overflows, secure programming
-		human factors, audits, social engineering.
-		
-		
-Karlstad
-COMPUTER SECURITY I  
-7.5 ECTS CREDITS
-https://www.kau.se/en/education/programmes-and-courses/courses/DVGC19
-
-The course introduces the area of IT security and consists of three parts. The first part has a focus on computer security and primarily covers ISO security services (secreccy, privacy, non-repudiation, authentication and access control), malicious software and operating system security. This course component also includes an introduction to cryptography. Part two centres on network security and treats the areas of IP security, web security, transport storage security, hacking detection and firewalls. Part three deals with security management with a focus on relevant security areas of laws and privacy.
+- Pfleeger C, Pfleeger S, Margulies J, Security in Computing 5 ed. Prentice Hall, 2015. Pages 760 (944).

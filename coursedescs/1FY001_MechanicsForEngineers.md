@@ -58,6 +58,8 @@ Kursen behandlar klassisk mekanik enligt Newton samt ger en introduktion till La
 - Något om relativistisk mekanik enligt Einstein
 - Klassisk mekanik enligt Lagrange
 
+## Modules
+
 ## Types of Instruction
 
 Huvuddelen av kursens innehåll presenteras och förklaras under traditionella föreläsningar. Under särskilda räkneövningar kommer teorin att tillämpas på tekniska problem. Metoder för problemlösning kommer att demonstreras. Kursen omfattar även ett antal laborationer, då både grundläggande fenomen och vissa tekniska tillämpningar demonstreras. Laborationerna omfattar även mättekniska övningar, träning i rapportskrivning samt en muntlig presentation.

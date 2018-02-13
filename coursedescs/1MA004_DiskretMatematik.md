@@ -44,6 +44,8 @@ Efter genomgången kurs förväntas studenten kunna
 - Differensekvationer.
 - Grafteori: Eulerkretsar, Hamiltonbanor, plana grafer, färgläggning av grafer och kromatiska polynom, träd.
 
+## Modules
+
 ## Types of instruction
 
 Föreläsningar och övningar. 
@@ -53,6 +55,8 @@ Föreläsningar och övningar.
 Skriftlig tentamen. Inlämningsuppgift. Betygsskala A-F.
 
 Problemlösning 5.0 hp. Teori 1.5 hp, Inlämningsuppgift 1.0 hp. 
+
+## Grading
 
 ## Literature
 

@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     Linear algebra;Probability theory and statistics;Multivariable calculus;Programming
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV006 - Machine learning 1 (5 hec)
 
 ## Prerequisites
 
@@ -67,6 +67,7 @@ The course covers machine learning concepts and methods. The following�
 1. Important tools and methods for supervised machine learning.
 2. Introduction to unsupervised learning
 
+## Types of instruction
 
 ## Examination
 The examination is based on: 
@@ -94,10 +95,9 @@ The course is assessed with the grades A, B, C, D, E, Fx or F.
 The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
 The grade F means that the student’s performance is assessed as fail.
 
-## Course literature
+## Literature
 
-Bishop, Christopher M. (2006). Pattern recognition and machine learning. New York, NY: Springer.
-James, Gareth, Witten, Daniela, Hastie, Trevor & Tibshirani, Robert, An introduction to statistical learning: with applications in R, Springer, New York, NY, 2013.
+- Bishop, Christopher M. (2006). Pattern recognition and machine learning. New York, NY: Springer.
+- James, Gareth, Witten, Daniela, Hastie, Trevor & Tibshirani, Robert, An introduction to statistical learning: with applications in R, Springer, New York, NY, 2013.
+
 Supplementary literature may be provided by the institution if needed.
-
-## Overlap

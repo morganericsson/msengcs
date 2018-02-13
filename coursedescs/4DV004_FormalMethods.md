@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1MA001;1MA004;1DV006  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV004 - Formal methods (5 hec)
 
 ## Prerequisites
 
@@ -21,7 +21,9 @@ PreReq:     1MA001;1MA004;1DV006
 (Also needs familiarity with propositional/predicate logic)
 
 ## Learnings outcomes
+
 After completing the course the student is expected to:
+
 - reason abstractly about safety and security aspects of systems
 - specify safety and security properties of systems at modelling and programming level using different logics
 - apply various techniques and tools for checking and enforcing safety and security properties
@@ -29,22 +31,22 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-1- List methods and challenges in formal-based verification of safety and security properties of software systems
-2- Use different techniques to verify the correctness and security of 
+1. List methods and challenges in formal-based verification of safety and security properties of software systems
+2. Use different techniques to verify the correctness and security of 
    1- systems at the modelling level, 
    2- programs
-3- Employ verification tools like theorem provers and model checkers 
+3. Employ verification tools like theorem provers and model checkers 
 
 *2.	Skills and abilities*
 
-1- Manage to express safety properties of (concurrent) systems formally using different logics
-2- Master using the tools for verification
+1. Manage to express safety properties of (concurrent) systems formally using different logics
+2. Master using the tools for verification
 
 *3.	Judgement and approach*
 
-1- Improved insight into the advantages of a formal-based system design in comparison to informal design and programming
-2- Raised awareness about the socio-economical costs caused by faulty and insecure software systems
-3- Judge the potential and limitations of using different verification methods for assessing and improving software correctness and security
+1. Improved insight into the advantages of a formal-based system design in comparison to informal design and programming
+2. Raised awareness about the socio-economical costs caused by faulty and insecure software systems
+3. Judge the potential and limitations of using different verification methods for assessing and improving software correctness and security
 
 ## Course contents
 
@@ -59,6 +61,8 @@ After completing the course the student is expected to:
 ## Modules
 - Program Verification
 - System Models Analysis
+
+## Types of instruction
 
 ## Examination
 
@@ -82,7 +86,5 @@ After completing the course the student is expected to:
 ## Grading
 
 ## Course literature
-Reactive Systems: Modelling, Specification and Verification [Luca Aceto, Anna Ingólfsdóttir, Kim Guldstrand Larsen, Jiri Srba]
-
-Logic in Computer Science: Modelling and Reasoning about Systems [Michael Huth, Mark Ryan]
-## Overlap
+- Reactive Systems: Modelling, Specification and Verification [Luca Aceto, Anna Ingólfsdóttir, Kim Guldstrand Larsen, Jiri Srba]
+- Logic in Computer Science: Modelling and Reasoning about Systems [Michael Huth, Mark Ryan]

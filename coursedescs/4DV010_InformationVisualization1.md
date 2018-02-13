@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV003;1DV006;1DV009;1MA005
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV010 - Information Visualization 1 (5 hec)
 
 ## Prerequisites
 
@@ -26,18 +26,21 @@ PreReq:     1DV003;1DV006;1DV009;1MA005
 
 After completing the course the student is expected to:
 
-1. Knowledge and understanding
-    1. Classify typical user tasks for visualizations
-    2. Define and explain the visualization techniques (regarding interaction and visual representation) and example tools discussed in the course
-    3. Recall and explain the fundamental perceptual principles that have influence on information visualization
+*1. Knowledge and understanding*
 
-2. Skills and abilities
-    1. Represent data by expressive and effective visualizations using state-of-the-art methods, software, and tools
-    2. Implement basic interactive visualizations, such as scatter plots or star plots
+1. Classify typical user tasks for visualizations
+2. Define and explain the visualization techniques (regarding interaction and visual representation) and example tools discussed in the course
+3. Recall and explain the fundamental perceptual principles that have influence on information visualization
 
-3. Judgement and approach
-    1. Critically reflect on visualization and interaction approaches in the light of current theories and research
-    2. Make well-grounded design choices in the context of various tasks and data constraints
+*2. Skills and abilities*
+
+1. Represent data by expressive and effective visualizations using state-of-the-art methods, software, and tools
+2. Implement basic interactive visualizations, such as scatter plots or star plots
+
+*3. Judgement and approach*
+
+1. Critically reflect on visualization and interaction approaches in the light of current theories and research
+2. Make well-grounded design choices in the context of various tasks and data constraints
 
 
 ## Course contents
@@ -100,20 +103,10 @@ Late work will not be accepted without prior approval by the instructor. Reasons
 
 ## Course literature
 
-* Robert Spence. Information Visualization – An Introduction. 3rd Ed., Springer, 2014.
-    * Estimated reading: 200 / 292 pages
-* Tamara Munzner. Visualization Analysis & Design. 1st Ed., CRC Press, 2014.
-    * Estimated reading: 150 / 404 pages
-* Colin Ware. Information Visualization: Perception for Design. 3rd Ed., Morgan Kaufmann, 2013.
-    * Estimated reading: 100 / 512 pages
-* DV, Distributed slides.
-    * Estimated reading: 380 / 380 pages
-
-## Overlap
-
-80% with 4DV800. The tree visualization from 4DV800 was removed and instead a deeper discussion on tasks abstractions and taxonomies added.
-
-
+* Robert Spence. Information Visualization – An Introduction. 3rd Ed., Springer, 2014. Estimated reading: 200 / 292 pages
+* Tamara Munzner. Visualization Analysis & Design. 1st Ed., CRC Press, 2014. Estimated reading: 150 / 404 pages
+* Colin Ware. Information Visualization: Perception for Design. 3rd Ed., Morgan Kaufmann, 2013. Estimated reading: 100 / 512 pages
+* DV, Distributed slides. Estimated reading: 380 / 380 pages
 
 
 

@@ -62,6 +62,10 @@ Kursen ger en introduktion till elektromagnetism och tillämpningar inom elektro
 	- aktiva komponenter, halvledarmaterial
 3. digital kretsar
 
+## Modules
+
+## Types of instruction
+
 ## Examination
 
 Huvuddelen av kursens innehåll presenteras och förklaras under traditionella föreläsningar. Under särskilda räkneövningar kommer teorin att tillämpas på tekniska problem. Metoder för problemlösning kommer att demonstreras. Kursen omfattar även ett antal laborationer, då både grundläggande fenomen och vissa tekniska tillämpningar demonstreras. Laborationerna omfattar även mättekniska övningar, träning i rapportskrivning samt en muntlig presentation
@@ -72,5 +76,3 @@ Kursen avslutas med en salstentamen, vilken bedöms med betygsskalan A–F. Inf�
 - Olov Ågren, Elektromagnetism, Studentlitteratur, 2014. I kursen ingår c. 100 sidor av bokens totala 174 sidor. Alternativt: L A Engström, Elektromagnetism, Studentlitteratur, 2000. 
 - Sune Söderkvist, Kretsteori och elektronik, uppl. 3, 1999. I kursen ingår c. XX sidor av bokens totala 438 sidor.
 - Digitala kretsar, Lars-Hugo Hemert, uppl. 3, Studentlitteratur, 2001. I kursen ingår c. 120 sidor av bokens totala 580 sidor.
-
-## Overlap

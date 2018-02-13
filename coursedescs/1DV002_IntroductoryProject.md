@@ -13,7 +13,7 @@ Type:       Project
 PreReq:     1DV001  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV002 - Introductory project (7.5 hec)
 
 ## Prerequisites
 
@@ -51,10 +51,10 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 ## Grading
 
-## Course litterature
-
-## Overlap
+## Literature

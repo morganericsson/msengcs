@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1FY002;1DV001;1DV003;1DV004  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV008 - Computer organization (7.5 hec)
 
 ## Prerequisites
 
@@ -54,12 +54,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Assignments.
 
 ## Grading
 
-## Course litterature
-
-## Overlap
+## Literature

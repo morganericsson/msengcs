@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV006;1MA003;1MA004  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV005 - Optimization (5 hec)
 
 ## Prerequisites
 
@@ -25,19 +25,19 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Describe optimization problems and formulate them in exact mathematical models that capture the problems but are manageable by computational methods
-- Given a problem, determine its class (linear, integer, mixed, nonlinear, etc.)
-- Describe the difference between approximation algorithms and heuristics
+1. Describe optimization problems and formulate them in exact mathematical models that capture the problems but are manageable by computational methods
+1. Given a problem, determine its class (linear, integer, mixed, nonlinear, etc.)
+1. Describe the difference between approximation algorithms and heuristics
 
 *2.	Skills and abilities*
 
-- Be able to dualize optimization problems and use the dual forms
-- Be able to apply linear programming and the theory of network flows
-- Be able to apply heuristic and approximation approaches to problems
+1. Be able to dualize optimization problems and use the dual forms
+1. Be able to apply linear programming and the theory of network flows
+1. Be able to apply heuristic and approximation approaches to problems
 
 *3.	Judgement and approach*
 
-- Evaluate the plausibility and efficiency of different optimization methods
+1. Evaluate the plausibility and efficiency of different optimization methods
 
 ## Course contents
 
@@ -53,12 +53,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Exam and assignments
 
 ## Grading
 
-## Course litterature
-
-## Overlap
+## Literature

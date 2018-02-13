@@ -13,7 +13,7 @@ Type:       Project
 PreReq:     1DV003;1DV005;1DV006;1DV009;4DV006;1MA002;1MA004.
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV012 - Visual Analytics Project (10 hec)
 
 ## Prerequisites
 
@@ -26,17 +26,20 @@ PreReq:     1DV003;1DV005;1DV006;1DV009;4DV006;1MA002;1MA004.
 
 After completing the course the student is expected to:
 
-1. Knowledge and understanding
-    1. Characterize the role of interactive visualization both in the presentation of results and in the process of data exploration supported by data-analysis algorithms
-    2. Identify characteristics of state-of-the-art Visual Analytics (VA) systems
+*1. Knowledge and understanding*
 
-2. Skills and abilities
-    1. Plan a VA development project by mapping analytical requirements to a software solution that involves the combination of interactive visualization and data-analysis algorithms
-    2. Execute the project plan by applying previously learned skills from required courses in a project-like environment and combining them with state-of-the-art VA tools and libraries
+1. Characterize the role of ainteractive visualization both in the presentation of results and in the process of data exploration supported by data-analysis algorithms
+2. Identify characteristics of state-of-the-art Visual Analytics (VA) systems
 
-3. Judgement and approach
-    1. Reflect on the types of questions and analytical processes supported by different combinations of visualization techniques and data-analysis algorithms
-    2. Evaluate whether a proposed VA solution reaches its analytical goals efficiently and effectively
+*2. Skills and abilities*
+
+1. Plan a VA development project by mapping analytical requirements to a software solution that involves the combination of interactive visualization and data-analysis algorithms
+2. Execute the project plan by applying previously learned skills from required courses in a project-like environment and combining them with state-of-the-art VA tools and libraries
+
+*3. Judgement and approach*
+
+1. Reflect on the types of questions and analytical processes supported by different combinations of visualization techniques and data-analysis algorithms
+2. Evaluate whether a proposed VA solution reaches its analytical goals efficiently and effectively
 
 ## Course contents
 
@@ -118,15 +121,7 @@ Late work will not be accepted without prior approval by the instructor. Reasons
 
 ## Course literature
 
-* Daniel Keim, Jörn Kohlhammer, Geoffrey Ellis, and Florian Mansmann. Mastering the Information Age: Solving Problems with Visual Analytics. Eurographics, 2010.
-    * Estimated reading: 60 / 167 pages
-* Tamara Munzner. Visualization Analysis and Design. CRC Press, 2014.
-    * Estimated reading: 100 / 428 pages
-* Helen C. Purchase. Experimental Human-Computer Interaction: A Practical Guide with Visual Examples. Cambridge University Press, 2012.
-    * Estimated reading: 80 / 241 pages
-* DV, Distributed slides.
-    * Estimated reading: 50 / 50 pages
-
-## Overlap
-
-None.
+* Daniel Keim, Jörn Kohlhammer, Geoffrey Ellis, and Florian Mansmann. Mastering the Information Age: Solving Problems with Visual Analytics. Eurographics, 2010. Estimated reading: 60 / 167 pages
+* Tamara Munzner. Visualization Analysis and Design. CRC Press, 2014. Estimated reading: 100 / 428 pages
+* Helen C. Purchase. Experimental Human-Computer Interaction: A Practical Guide with Visual Examples. Cambridge University Press, 2012. Estimated reading: 80 / 241 pages
+* DV, Distributed slides. Estimated reading: 50 / 50 pages

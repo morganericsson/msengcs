@@ -13,7 +13,7 @@ Type:       Project
 PreReq:     1TM001;1OT001;1DV005  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 2DV001 - Bachelor's project (15 hec)
 
 ## Prerequisites
 
@@ -46,14 +46,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Thesis proposal, a bachelor's thesis, oral presentation, and opposition.
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-Same as 2dv50e.
+## Literature

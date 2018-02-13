@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1TM001;1OT001;2DV001
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV014 - Scientific methods 2 (5 hec)
 
 ## Prerequisites
 
@@ -46,14 +46,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Planning report for M.Sc. thesis and paper presentations/reviews.
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-4DV501.
+## Literature

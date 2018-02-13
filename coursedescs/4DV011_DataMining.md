@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV001;1DV006;1MA002;1MA003  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV011 - Data mining (5 hec)
 
 ## Prerequisites
 
@@ -92,12 +92,6 @@ In order to relate the learning outcomes to the two assessment types and individ
 | 3.1  |     | X   | X   | 
 | 3.2  |     | X   | X   | 
 
-## Course litterature
+## Literature
 
-Jure Leskovec, Anand Rajaraman and Jeff Ullman. Mining of Massive Datasets.Cambridge University Press, 2014.
-Available for free online at http://mmds.org/#ver21 
-- Estimated reading: 380 / 511 pages
-
-## Overlap
-
-None.
+- Jure Leskovec, Anand Rajaraman and Jeff Ullman. Mining of Massive Datasets.Cambridge University Press, 2014. Available for free online at http://mmds.org/#ver21. Estimated reading: 380 / 511 pages

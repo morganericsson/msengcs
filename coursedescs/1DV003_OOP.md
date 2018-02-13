@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV001
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV003 - Object-oriented Programming (5 hec)
 
 ## Prerequisites
 
@@ -51,14 +51,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Assignments.
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-Partial overlap with 1dv506 and 1dv507.
+## Literature

@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV003;1DV006;1MA004;1DV008  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV002 - Compiler Construction (5 hec)
 
 ## Prerequisites
 
@@ -57,12 +57,10 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-Same as DV508.
+## Literature

@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     1DV001;1DV003;1DV004;1FY002;1DV008  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1DV012 - Computer networks (5 hec)
 
 ## Prerequisites
 
@@ -59,14 +59,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Written exam and practical assignments.
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-Same as 1DV701.
+## Literature

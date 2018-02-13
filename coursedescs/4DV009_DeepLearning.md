@@ -13,7 +13,7 @@ Type:       Regular
 PreReq:     Linear algebra;Probability theory and statistics;Multivariable calculus;Programming;Machine learning
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 4DV009 - Deep learning (5 hec)
 
 ## Prerequisites
 
@@ -60,6 +60,7 @@ The course covers concepts and methods from neural networks and deep learnin
 1. Neural networks and deep learning
 2. Reinforced learning
 
+## Types of instruction
 
 ## Examination
 The examination is based on: 
@@ -86,8 +87,6 @@ The grade F means that the student’s performance is assessed as fail.
 
 ## Course literature
 
-Goodfellow, Ian, Bengio, Yoshua & Courville, Aaron, Deep learning, Cambridge, MA, 2016
+- Goodfellow, Ian, Bengio, Yoshua & Courville, Aaron, Deep learning, Cambridge, MA, 2016
 
 Supplementary literature may be provided by the institution if needed.
-
-## Overlap

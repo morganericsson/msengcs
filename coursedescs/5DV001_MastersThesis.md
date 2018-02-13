@@ -13,7 +13,7 @@ Type:       Project
 PreReq:     2DV001;4DV014
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 5DV001 - Master's thesis (30 hec)
 
 ## Prerequisites
 
@@ -46,14 +46,12 @@ After completing the course the student is expected to:
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 Thesis proposal, a master's thesis, oral presentation, and opposition.
 
 ## Grading
 
-## Course litterature
-
-## Overlap
-
-Same as 5dv50e.
+## Literature

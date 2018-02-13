@@ -13,9 +13,7 @@ Type:       Regular
 PreReq:     1DV005  
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
-
-
+# 1DV010 - Software architecture (5 hec)
 
 ## Prerequisites
 
@@ -58,6 +56,8 @@ To this end, the objective of this course is to introduce the concepts of softwa
 
 ## Modules
 
+## Types of instruction
+
 ## Examination
 
 The examination is based on: 2 Assignments (A1, A2), 1 Project Development (PD), and 1 Home exam (HE)
@@ -75,13 +75,11 @@ Objective | A1 | A2 | PD | HE
 
 
 ## Grading
+
 The course is assessed with the grades A, B, C, D, E, Fx or F.
 The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
 The grade F means that the student’s performance is assessed as fail.
 
-## Course litterature
+## Literature
+
 - Bass, L. et al. Software Architecture in Practice 3ed. Addison­ Wesley, 2012.
-
-## Overlap
-
-Same as 2dv604.
