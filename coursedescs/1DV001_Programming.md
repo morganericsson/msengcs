@@ -43,16 +43,10 @@ After completing the course the student is expected to:
 
 ## Course contents
 
-This is a basic course in Python programming. In the first half of the course (examinated by 
-3 individual programming assignments and a programming test) we focus on the fundamentals of Python programming 
-language (e.g. variables, control statements, functions) and practice programming skills by solving a 
+This is a basic course in Python programming. In the first half of the course (examinated by 3 individual programming assignments and a programming test) we focus on the fundamentals of Python programming  language (e.g. variables, control statements, functions) and practice programming skills by solving a 
 number of programming exercises. 
 
-In the second half we  introduce a few well-known algorithms and data structures. By implementing these algorithms 
-and data structures, and by comparing these implementations with the existing (built in) versions, we get a better 
-knowledge of how they work, when they are appropriate to use, and we learn to reason about efficiency and complexity of 
-different approaches. The second half is a miniprojekt where students work in pairs and report their finding by the end 
-of the course.
+In the second half we  introduce a few well-known algorithms and data structures. By implementing these algorithms  and data structures, and by comparing these implementations with the existing (built in) versions, we get a better knowledge of how they work, when they are appropriate to use, and we learn to reason about efficiency and complexity of different approaches. The second half is a miniprojekt where students work in pairs and report their finding by the end of the course.
 
 - How a computer works and programs are executed.
 - How to break down a problem so a computer can solve it.
@@ -63,10 +57,6 @@ of the course.
 - Common data structures, e.g., lists, vectors, sets, etc.
 - Common algorithms, e.g., sorting, searching, etc.
 - Simple time-complexity estimates
-
-Notice: The course involves a project that should be reported in an oral and written presentation.
-However, we do not plan to give any lectures related to these skills.  Only a format they should follow. 
-Fine tuning these skills is a topic for the course Introductory Project. 
 
 ## Modules
 
@@ -91,14 +81,6 @@ attending all presentations give 1 credit.
 The project and oral and written presentations takes care of the remaining outcomes not handled by the assignments and 
 the programming test. 
 
-## Grading
-
-## Course litterature
-
 ## Literature
 
 - Zelle, John M. (Latest Edition) Python Programming: An Introduction to Computer Science.
-
-## Overlap
-
-Overlaps in part with 1dv506.

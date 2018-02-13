@@ -1,5 +1,5 @@
 ---
-Name:       Electromagnetics for engineers
+Name:       Ellära för ingenjörer
 PrelCode:   1FY002
 HEC:        7.5
 Year:       2
@@ -11,55 +11,66 @@ Mandatory:  Yes
 Subject:    Physics
 Type:		Regular
 PreReq:     1MA001;1MA002;1MA003  
+title:		1FY002 - Ellära för ingenjörer (7,5 hec)
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1FY002 - Ellära för ingenjörer (7,5 hec)
 
 ## Prerequisites
 
-1MA001, 1MA002, 1MA003.
+Linjär algebra
+Analys 1
 
 ## Learnings outcomes
 
-After completing the course the student is expected to:
+Efter att ha slutfört kursen förväntas studenten kunna följande.
 
-*1. Knowledge and understanding*
+*1. Kunskap och förståelse*
 
-- Have a basic knowledge of electromagnetics and electronics including the mathematical formalism.
-- Have a basic understanding of circuit theory, analog electronics, and their connection to electromagnetism.
+1. beskriva övergripande elektromagnetismens förutsättningar
+1. redogöra för teorins huvudsakliga resultat
+1. förklara hur teorin kan tillämpas
+1. beskriva tillämpning inom elektroniken
 
-*2.	Skills and abilities*
+*2. Färdighet och förmåga*
 
-- Have the ability to formulate and solve symmetric electromagnetic problems.
-- Have the ability to formulate and analyse passive dc and ac circuits.
-- Have the ability to simulate analog circuits with active and passive components and the skill to design simple circuits.
-- Have the ability to measure electronics circuits using oscilloscopes and signal generators.
+1. tillämpa teoretiska samband för problemlösning
+1. analysera enkla kretsar
+1. utföra enklare mätningar
+1. tillgodogöra sig litteratur inom elektronikområdet
 
-*3.	Judgement and approach*
+*3. Värderingsförmåga och förhållningssätt*
 
-- Assessment of the accuracy of approximate solutions
+1. grovt uppskatta fel och precision i beräkningar och mätningar
+1. i viss mån bedöma tekniska tillämpningar med avseende på snabbhet och energiåtgång
+1. i viss mån bedöma risker med olika lösningar
 
 ## Course contents
 
-1. Electrostatics
-	- Electric charge, electric fields, Coulombs law
-	- Electric flux, Gauss law, electric field from symmetric charge distributions
-	- Electrostatic potential and voltage.
-	- Capacitance, dielectric media, energy storage, transient response
-2.	Magnetostatics
-	- Magnetic flux, forces on moving charges, Hall effect
-3.	Induction
-	- Lentz law, Faradays law, generator and transformer
-	- Self-induction, energy storage in inductive elements
-4.	Circuit theory
-	- Direct currents (dc), resistance, resistivity, power, Kirchhoff’s laws
-	- Alternative current (dc), node analysis
-	- Ac power, maximizing power transfer, resonant circuits
-	- Introduction to active components
-	- Spice simulation of analog circuits
-	- Basic measurement techniques, oscilloscope, signal generator
+Kursen ger en introduktion till elektromagnetism och tillämpningar inom elektronik. 
+
+1. grundläggande elektromagnetism
+	- elektrostatik
+	- dielektriska material
+	- magnetism
+	- induktion
+	- något om vågledare
+2. kretsteori
+	- likström, något om supraledning
+	- växelström, resonans
+	- linjära kretsar
+	- aktiva komponenter, halvledarmaterial
+3. digital kretsar
 
 ## Examination
-Written exam and laboratory work. 
+
+Huvuddelen av kursens innehåll presenteras och förklaras under traditionella föreläsningar. Under särskilda räkneövningar kommer teorin att tillämpas på tekniska problem. Metoder för problemlösning kommer att demonstreras. Kursen omfattar även ett antal laborationer, då både grundläggande fenomen och vissa tekniska tillämpningar demonstreras. Laborationerna omfattar även mättekniska övningar, träning i rapportskrivning samt en muntlig presentation
+Kursen avslutas med en salstentamen, vilken bedöms med betygsskalan A–F. Inför varje laboration ska studenten ha gjort ett antal förberedelseuppgifter. Under laborationen ska logbok föras. Logboken och förberedelseuppgifterna ska studenten sedan utnyttja, för att efter laborationen författa en labbrapport. Rapport (inklusive underlag) lämnas sedan in för poängsättning. För att bli godkänd på kursen måste förutom tentamen samtliga laborationer vara godkända. Poängsumman på laborationerna vägs samman med tentamensresultatet till ett slutbetyg.
+
+## Literature
+
+- Olov Ågren, Elektromagnetism, Studentlitteratur, 2014. I kursen ingår c. 100 sidor av bokens totala 174 sidor. Alternativt: L A Engström, Elektromagnetism, Studentlitteratur, 2000. 
+- Sune Söderkvist, Kretsteori och elektronik, uppl. 3, 1999. I kursen ingår c. XX sidor av bokens totala 438 sidor.
+- Digitala kretsar, Lars-Hugo Hemert, uppl. 3, Studentlitteratur, 2001. I kursen ingår c. 120 sidor av bokens totala 580 sidor.
 
 ## Overlap

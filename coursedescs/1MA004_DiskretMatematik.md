@@ -2,7 +2,7 @@
 Name:       Diskret matematik
 PrelCode:   1MA004
 HEC:        7.5
-Year:       2
+Year:       1
 Period:     1
 Examiner1:  ??    
 Examiner2:  ??
@@ -10,16 +10,16 @@ Status:     FirstDraft
 Mandatory:  Yes
 Subject:    Mathematics
 Type:       Regular
-PreReq:     1MA001  
+PreReq:     
 ---
 
-# [%PrelCode] - [%Name] ([%HEC] hec)
+# 1MA004 - Diskret matematik (7.5 hec)
 
-## Förkunskaper
+## Prerequisites
 
-Grundläggande matematik eller motsvarande. 
+Grundläggande behörighet. 
 
-## Mål
+## Learnings outcomes
 
 Efter genomgången kurs förväntas studenten kunna
 
@@ -31,7 +31,7 @@ Efter genomgången kurs förväntas studenten kunna
 - visualisera resultat
 - lösa problem genom syntes av flera moment. 
 
-## Innehåll
+## Course contents
 
 - Logik: sanningsvärdestabeller, härledningar, disjunktiv och konjunktiv normalform, satslogik, predikatlogisk formalism.
 - Mängdlära: dualitetsprincipen, de Morgans lagar, principen för inklusion och exklusion.
@@ -44,7 +44,7 @@ Efter genomgången kurs förväntas studenten kunna
 - Differensekvationer.
 - Grafteori: Eulerkretsar, Hamiltonbanor, plana grafer, färgläggning av grafer och kromatiska polynom, träd.
 
-## Undervisningsformer
+## Types of instruction
 
 Föreläsningar och övningar. 
 
@@ -52,15 +52,10 @@ Föreläsningar och övningar.
 
 Skriftlig tentamen. Inlämningsuppgift. Betygsskala A-F.
 
-## Provmoment
-
 Problemlösning 5.0 hp. Teori 1.5 hp, Inlämningsuppgift 1.0 hp. 
 
-## Kursvärdering
-
-Efter avslutad kurs genomförs en kursvärdering som sammanställs skriftligt och återkopplas till studenterna. Sammanställningen redovisas för aktuella organ samt arkiveras.
-
-## Kurslitteratur
+## Literature
 
 Obligatorisk litteratur:
-Rosen, K H, *Discrete mathematics and its applications*, McGraw-Hill. 
+
+- Rosen, K H, *Discrete mathematics and its applications*, McGraw-Hill. 
