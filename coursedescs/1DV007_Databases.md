@@ -10,7 +10,8 @@ Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
-PreReq:     1DV001;1DV003;1DV004   
+PreReq:     1DV001;1DV003;1DV004  
+title:      1DV007 - Databases (5 hec)
 ---
 
 # 1DV007 - Databases (5 hec)
@@ -25,21 +26,21 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Discuss different datamodels, in particular structured and semi-structured models, and argue for the benefits and drawbacks of these.
-- Explain how a database management systems handles concurrency.
-- Read and write relational algebra expressions and discuss their relation to SQL.
+1. Discuss different datamodels, in particular structured and semi-structured models, and argue for the benefits and drawbacks of these.
+1. Explain how a database management systems handles concurrency.
+1. Read and write relational algebra expressions and discuss their relation to SQL.
 
 *2.	Skills and abilities*
 
-- Create database schemas using SQL.
-- Query a database for relevant data using SQL.
-- Manipulate database schemas and contents using SQL.
-- Connect to a database and execute quries using a programming language.
+1. Create database schemas using SQL.
+1. Query a database for relevant data using SQL.
+1. Manipulate database schemas and contents using SQL.
+1. Connect to a database and execute quries using a programming language.
 
 *3.	Judgement and approach*
 
-- Model a domain and its constraints as a relational schema, and discuss the benefits and drawbacks of the design.
-- Implement a relational schema and its contraints using a relational database management system.
+1. Model a domain and its constraints as a relational schema, and discuss the benefits and drawbacks of the design.
+1. Implement a relational schema and its contraints using a relational database management system.
 
 ## Course contents
 

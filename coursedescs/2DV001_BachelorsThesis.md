@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Project
 PreReq:     1TM001;1OT001;1DV005  
+title:      2DV001 - Bachelor's project (15 hec)
 ---
 
 # 2DV001 - Bachelor's project (15 hec)
@@ -25,20 +26,20 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Explain the state of the art within the selected domain/problem.
-- Describe the research method and how it is applied to the domain/problem.
+1. Explain the state of the art within the selected domain/problem.
+1. Describe the research method and how it is applied to the domain/problem.
 
 *2.	Skills and abilities*
 
-- Formulate a research question.
-- Apply a research method.
-- Plan and conduct a research project.
-- Communicate results written and orally.
+1. Formulate a research question.
+1. Apply a research method.
+1. Plan and conduct a research project.
+1. Communicate results written and orally.
 
 *3.	Judgement and approach*
 
-- Select a method that is appropriate for the research questions.
-- Reflect on the results compared to the state of the art within the selected domain/problem
+1. Select a method that is appropriate for the research questions.
+1. Reflect on the results compared to the state of the art within the selected domain/problem
 
 ## Course contents
 

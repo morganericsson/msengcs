@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1MA001;1MA002;1MA006;1DV003;1DV006
+title:      1DV009 - Computer Graphics (5 hec)
 ---
 
 # 1DV009 - Computer Graphics (5 hec)

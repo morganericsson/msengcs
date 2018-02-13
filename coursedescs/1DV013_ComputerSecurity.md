@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV003;1MA004;1MA006;1DV006  
+title:      1DV013 - Security (5 hec)
 ---
 
 # 1DV013 - Security (5 hec)

@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV001;1DV003  
+title:      1DV004 - Concurrent programming (7.5 hec)
 ---
 
 # 1DV004 - Concurrent programming (7.5 hec)

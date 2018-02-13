@@ -10,7 +10,8 @@ Status:     FirstDraft
 Mandatory:  No
 Subject:    ComputerScience
 Type:       Regular
-PreReq:     1DV006;1MA003;1MA004  
+PreReq:     1DV006;1MA003;1MA004 
+title:      4DV005 - Optimization (5 hec)
 ---
 
 # 4DV005 - Optimization (5 hec)

@@ -10,7 +10,8 @@ Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
-PreReq:     1DV003;1DV006;1MA004;1DV008  
+PreReq:     1DV003;1DV006;1MA004;1DV008
+title:      4DV002 - Compiler Construction (5 hec)
 ---
 
 # 4DV002 - Compiler Construction (5 hec)
@@ -25,22 +26,22 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Describe the different phases in the compilation process
-- Describe semantic analysis
-- Describe different parsing techniques
-- Define type systems for typical programming languages
+1. Describe the different phases in the compilation process
+1. Describe semantic analysis
+1. Describe different parsing techniques
+1. Define type systems for typical programming languages
 
 *2.	Skills and abilities*
 
-- Design and develop a finite automata based lexical analysis
-- Design and develop a semantic analysis
-- Design and develop an LL(1) parser
-- Design and develop a stack­machine based virtual machine
-- Implement type checking, including simple type inference, with error reporting and decoration of syntax trees with type information
+1. Design and develop a finite automata based lexical analysis
+1. Design and develop a semantic analysis
+1. Design and develop an LL(1) parser
+1. Design and develop a stack­machine based virtual machine
+1. Implement type checking, including simple type inference, with error reporting and decoration of syntax trees with type information
 
 *3.	Judgement and approach*
 
-- Judge the difficulty of implementing various programming language features.
+1. Judge the difficulty of implementing various programming language features.
 
 ## Course contents
 

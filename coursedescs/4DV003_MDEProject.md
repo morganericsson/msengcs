@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Project
 PreReq:     1DV003;1DV005;1DV010;1DV011  
+title:      4DV003 - MDE project (10 hec)
 ---
 
 # 4DV003 - MDE project (10 hec)

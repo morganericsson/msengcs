@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1MA002;1MA003;1MA006  
+title:      4DV001 - Systems modelling and simulation (5 hec)
 ---
 
 # 4DV001 - Systems modelling and simulation (5 hec)

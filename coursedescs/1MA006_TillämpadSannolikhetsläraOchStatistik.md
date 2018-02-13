@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    Mathematics
 Type:       Regular
 PreReq:     1MA003  
+title:      1MA006 - Sannolikhetslära och statistik (7.5 hec)
 ---
 
 # 1MA006 - Sannolikhetslära och statistik (7.5 hec)

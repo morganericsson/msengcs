@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    Mathematics
 Type:       Regular
 PreReq:     1MA001
+title:      1MA003 - Envariabelanalys 1 (5 hec)
 ---
 
 # 1MA003 - Envariabelanalys 1 (5 hec)

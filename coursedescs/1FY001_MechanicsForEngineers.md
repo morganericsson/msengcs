@@ -68,6 +68,8 @@ Huvuddelen av kursens innehåll presenteras och förklaras under traditionella f
 
 Kursen avslutas med en salstentamen, vilken bedöms med betygsskalan A–F. Inför varje laboration ska studenten ha gjort ett antal förberedelseuppgifter. Under laborationen ska logbok föras. Logboken och förberedelseuppgifterna ska studenten sedan utnyttja, för att efter laborationen författa en labbrapport. Rapport (inklusive underlag) lämnas sedan in för poängsättning. För att bli godkänd på kursen måste förutom tentamen samtliga laborationer vara godkända. Poängsumman på laborationerna vägs samman med tentamensresultatet till ett slutbetyg.
 
+## Grading
+
 ## Literature
 
 - Martin W. McCall, Classical Mechanics, Wiley, 2001. I kursen ingår c. XX sidor av bokens totala 268 sidor. 

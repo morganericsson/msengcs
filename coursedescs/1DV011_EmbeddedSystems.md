@@ -10,7 +10,8 @@ Status:     FirstDraft
 Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
-PreReq:     1DV004;1DV008;1FY001;1FY002  
+PreReq:     1DV004;1DV008;1FY001;1FY002 
+title:      1DV011 - Embedded systems (5 hec)
 ---
 
 # 1DV011 - Embedded systems (5 hec)
@@ -25,20 +26,20 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Analyze the schedulability of a periodic task set
-- Display knowledge of and be able to explain how operating systems structured and works, especially when it comes to interrupts, processes, threads, and scheduling
-- Explain scheduling anomalies, their causes, and how to avoid/mitigate them.
+1. Analyze the schedulability of a periodic task set
+1. Display knowledge of and be able to explain how operating systems structured and works, especially when it comes to interrupts, processes, threads, and scheduling
+1. Explain scheduling anomalies, their causes, and how to avoid/mitigate them.
 
 *2.	Skills and abilities*
 
-- Analyze the schedulability of a periodic task set
-- Implement programs that can control hardware devices using I/O, for example a serial bus.
-- Implement interrupt routines.
+1. Analyze the schedulability of a periodic task set
+1. Implement programs that can control hardware devices using I/O, for example a serial bus.
+1. Implement interrupt routines.
 
 *3.	Judgement and approach*
 
-- Use different methods to determine if scheduling is possible.
-- Understand the interface between hardware and software, and know limitations and risks.
+1. Use different methods to determine if scheduling is possible.
+1. Understand the interface between hardware and software, and know limitations and risks.
 
 ## Course contents
 

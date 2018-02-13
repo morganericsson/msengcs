@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Project
 PreReq:     1DV003;1DV005;1DV006;1DV009;4DV006;1MA002;1MA004.
+title:      4DV012 - Visual Analytics Project (10 hec)
 ---
 
 # 4DV012 - Visual Analytics Project (10 hec)

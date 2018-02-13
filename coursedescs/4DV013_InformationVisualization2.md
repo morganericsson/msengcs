@@ -11,6 +11,7 @@ Mandatory:  No
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV003;1DV006;1DV009;4DV010;4DV011
+title:      4DV013 - Information Visualization 2 (5 hec)
 ---
 
 # 4DV013 - Information Visualization 2 (5 hec)

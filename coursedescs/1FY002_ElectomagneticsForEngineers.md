@@ -71,6 +71,8 @@ Kursen ger en introduktion till elektromagnetism och tillämpningar inom elektro
 Huvuddelen av kursens innehåll presenteras och förklaras under traditionella föreläsningar. Under särskilda räkneövningar kommer teorin att tillämpas på tekniska problem. Metoder för problemlösning kommer att demonstreras. Kursen omfattar även ett antal laborationer, då både grundläggande fenomen och vissa tekniska tillämpningar demonstreras. Laborationerna omfattar även mättekniska övningar, träning i rapportskrivning samt en muntlig presentation
 Kursen avslutas med en salstentamen, vilken bedöms med betygsskalan A–F. Inför varje laboration ska studenten ha gjort ett antal förberedelseuppgifter. Under laborationen ska logbok föras. Logboken och förberedelseuppgifterna ska studenten sedan utnyttja, för att efter laborationen författa en labbrapport. Rapport (inklusive underlag) lämnas sedan in för poängsättning. För att bli godkänd på kursen måste förutom tentamen samtliga laborationer vara godkända. Poängsumman på laborationerna vägs samman med tentamensresultatet till ett slutbetyg.
 
+## Grading
+
 ## Literature
 
 - Olov Ågren, Elektromagnetism, Studentlitteratur, 2014. I kursen ingår c. 100 sidor av bokens totala 174 sidor. Alternativt: L A Engström, Elektromagnetism, Studentlitteratur, 2000. 

@@ -10,7 +10,8 @@ Status:     FirstDraft
 Mandatory:  Yes
 Subject:    Mathematics
 Type:       Regular
-PreReq:     1MA003  
+PreReq:     1MA003
+title:      1MA007 - Numeriska metoder (5 hec)
 ---
 
 # 1MA007 - Numeriska metoder (5 hec)

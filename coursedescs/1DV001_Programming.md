@@ -9,7 +9,8 @@ Examiner2:  ??
 Status:     FirstDraft  
 Mandatory:  Yes  
 Subject:    ComputerScience  
-Type:       Regular  
+Type:       Regular 
+title:      1DV001 - Programming (7.5 hec)
 ---
 
 # 1DV001 - Programming (7.5 hec)
@@ -24,20 +25,20 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Explain basic programming language constructs, such as variables, control statements, and functions.
-- Explain basic algorithms and data structures, and show how to use them, and when to use them.
+1. Explain basic programming language constructs, such as variables, control statements, and functions.
+1. Explain basic algorithms and data structures, and show how to use them, and when to use them.
 
 *2.	Skills and abilities*
 
-- Given a problem, design and implement a solution in the programming language Python.
-- Formulate and implement algorithms to solve elementary programming problems, such as sorting and searching.
-- Install and use suitable IDEs and external libraries
-- Structure a short oral and written presentation presenting the result of a minor programming project
+1. Given a problem, design and implement a solution in the programming language Python.
+1. Formulate and implement algorithms to solve elementary programming problems, such as sorting and searching.
+1. Install and use suitable IDEs and external libraries
+1. Structure a short oral and written presentation presenting the result of a minor programming project
 
 *3.	Judgement and approach*
 
-- Reason about how well structured and understandable a program is.
-- Pick and motivate what data structures and algorithms to use in different scenarios.
+1. Reason about how well structured and understandable a program is.
+1. Pick and motivate what data structures and algorithms to use in different scenarios.
 
 ## Course contents
 

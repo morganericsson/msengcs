@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV001
+title:      1DV003 - Object-oriented Programming (5 hec)
 ---
 
 # 1DV003 - Object-oriented Programming (5 hec)
@@ -25,20 +26,20 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Explain the concepts modularization, abstraction, and encapsulation
-- Describe the object-­oriented software development process
-- Explain what a design pattern is and why they are used, and describe some of the common patterns.
+1. Explain the concepts modularization, abstraction, and encapsulation
+1. Describe the object-­oriented software development process
+1. Explain what a design pattern is and why they are used, and describe some of the common patterns.
 
 *2.	Skills and abilities*
 
-- Implement small object-oriented programs
-- Given a problem, design an object-oriented solution using UML.
-- Implement a given UML model in an object-oriented programming language.
+1. Implement small object-oriented programs
+1. Given a problem, design an object-oriented solution using UML.
+1. Implement a given UML model in an object-oriented programming language.
 
 *3.	Judgement and approach*
 
-- Motivate design choices (e.g., inheritance vs composition) in an object-oriented design.
-- Apply suitable design patterns and implement these in a suitable way.
+1. Motivate design choices (e.g., inheritance vs composition) in an object-oriented design.
+1. Apply suitable design patterns and implement these in a suitable way.
 
 ## Course contents
 

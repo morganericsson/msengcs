@@ -11,6 +11,7 @@ Mandatory:  No
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1MA001;1MA004;1DV006  
+title:      4DV004 - Formal methods (5 hec)
 ---
 
 # 4DV004 - Formal methods (5 hec)

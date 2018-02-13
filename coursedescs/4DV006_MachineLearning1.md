@@ -11,6 +11,7 @@ Mandatory:  No
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     Linear algebra;Probability theory and statistics;Multivariable calculus;Programming
+title:      4DV006 - Machine learning 1 (5 hec)
 ---
 
 # 4DV006 - Machine learning 1 (5 hec)

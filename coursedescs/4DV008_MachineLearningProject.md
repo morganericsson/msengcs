@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Project
 PreReq:     1DV001;1DV005;1DV006;1MA002
+title:      4DV008 - Machine learning project (10 hec)
 ---
 
 # 4DV008 - Machine learning project (10 hec)

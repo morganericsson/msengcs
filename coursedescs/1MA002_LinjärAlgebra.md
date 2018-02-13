@@ -10,6 +10,7 @@ Status:     FirstDraft
 Mandatory:  Yes
 Subject:    Mathematics
 Type:       Regular
+title:      1MA002 - Linjär algebra (7.5 hec)
 ---
 
 # 1MA002 - Linjär algebra (7.5 hec)

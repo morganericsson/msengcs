@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1TM001;1OT001;2DV001
+title:      4DV014 - Scientific methods 2 (5 hec)
 ---
 
 # 4DV014 - Scientific methods 2 (5 hec)
@@ -25,17 +26,17 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Describe the most common scientific methods in computer science and software engineering
+1. Describe the most common scientific methods in computer science and software engineering
 
 *2.	Skills and abilities*
 
-- Be able to identify, formulate, discuss, and analyze scientific problems and reason about and select relevant and applicable scientific methods
-- Be able to apply methods for quantitative and qualitative data collection and analysis in the fields computer science and software engineering
-- Be able to analyze and assess scientific texts
+1. Be able to identify, formulate, discuss, and analyze scientific problems and reason about and select relevant and applicable scientific methods
+1. Be able to apply methods for quantitative and qualitative data collection and analysis in the fields computer science and software engineering
+1. Be able to analyze and assess scientific texts
 
 *3.	Judgement and approach*
 
-- Be able to find relevant information and literature for a given problem
+1. Be able to find relevant information and literature for a given problem
 
 ## Course contents
 

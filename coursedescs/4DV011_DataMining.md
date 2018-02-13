@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV001;1DV006;1MA002;1MA003  
+title:      4DV011 - Data mining (5 hec)
 ---
 
 # 4DV011 - Data mining (5 hec)

@@ -11,6 +11,7 @@ Mandatory:  No
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     Linear algebra;Probability theory and statistics;Multivariable calculus;Programming;Machine learning
+title:      4DV009 - Deep learning (5 hec)
 ---
 
 # 4DV009 - Deep learning (5 hec)

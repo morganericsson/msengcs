@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    Mathematics
 Type:       Regular
 PreReq:     
+title:      1MA004 - Diskret matematik (7.5 hec)
 ---
 
 # 1MA004 - Diskret matematik (7.5 hec)

@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Project
 PreReq:     1DV001;1DV002;1DV003
+title:      1DV005 - Software Engineering project (10 hec)
 ---
 
 # 1DV005 - Software Engineering project (10 hec)

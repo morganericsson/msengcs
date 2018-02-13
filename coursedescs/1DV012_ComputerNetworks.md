@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV001;1DV003;1DV004;1FY002;1DV008  
+title:      1DV012 - Computer networks (5 hec)
 ---
 
 # 1DV012 - Computer networks (5 hec)
@@ -29,21 +30,21 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-- Describe the layers in a networking stack, e.g., TCP/IP and discuss their purpose. 
-- Describe how the layers interact to transmit data over a network, and how each function manipulate the data, e.g., by adding headers or convert the signal.
-- Explain how routing works in local and wide area networks.
-- Describe the different types of addresses used.
-- Describe some of the common application protocols, e.g., DNS.
+1. Describe the layers in a networking stack, e.g., TCP/IP and discuss their purpose. 
+1. Describe how the layers interact to transmit data over a network, and how each function manipulate the data, e.g., by adding headers or convert the signal.
+1. Explain how routing works in local and wide area networks.
+1. Describe the different types of addresses used.
+1. Describe some of the common application protocols, e.g., DNS.
 
 *2.	Skills and abilities*
 
-- Use common networking debug utilities, e.g., tcpdump, ping, and traceroute.
-- Write programs in a programming language that communicate over TCP/IP.
+1. Use common networking debug utilities, e.g., tcpdump, ping, and traceroute.
+1. Write programs in a programming language that communicate over TCP/IP.
 
 *3.	Judgement and approach*
 
-- Design a TCP/IP based application and select which protocols, application and/or transport to use.
-- Review Internet protocol specifications (RFCs) and implement these in software.
+1. Design a TCP/IP based application and select which protocols, application and/or transport to use.
+1. Review Internet protocol specifications (RFCs) and implement these in software.
 
 ## Course contents
 

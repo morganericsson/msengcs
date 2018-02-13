@@ -11,6 +11,7 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV001;1DV003;Discrete Mathematics
+title:      1DV005 - Algorithms (5 hec)
 ---
 
 # 1DV005 - Algorithms (5 hec)
