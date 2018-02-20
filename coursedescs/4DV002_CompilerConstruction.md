@@ -87,20 +87,21 @@ Each course module is graded using A-F. If one module is failed, then final cour
 In order to relate the learning outcomes to the examination forms, 
 we provide the following table:
 
-|  -   | WA  | PA  | EX  |
-| ---  | --- | --- | --- | 
-| 1.2  |     |     |  X  |   
-| 1.3  |     |     |  X  |   
-| 1.4  |     |     |  X  |   
-| 1.5  |     |     |  X  |   
-| 1.6  |     |     |  X  |   
-| 2.1  |  X  |     |     |   
-| 2.2  |  X  |  X  |     |   
-| 2.3  |     |  X  |     |   
-| 2.4  |     |  X  |     |   
-| 3.1  |     |     |  X  |   
-| 3.2  |     |     |  X  |   
+Learning Outcome   |  WA  |  PA  |  EX 
+:----------------  | :--: | :--: | :--:
+1.2                |      |      |  X      
+1.3                |      |      |  X      
+1.4                |      |      |  X      
+1.5                |      |      |  X      
+1.6                |      |      |  X      
+2.1                |  X   |      |         
+2.2                |  X   |  X   |         
+2.3                |      |  X   |         
+2.4                |      |  X   |         
+3.1                |      |      |  X      
+3.2                |      |      |  X      
 
 
 ## Literature
+
 - To be determined!!!

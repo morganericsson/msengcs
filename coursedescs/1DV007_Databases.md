@@ -85,27 +85,27 @@ In addition, 2 project assignments are used to evaluate the students’ skills i
 
 The course is assessed with an A-F grading. The modules are separately evaluated and graded. Each of the assignments in the two modules must be passed individually. If one of the modules is failed, then final course grade is F. If both are passed, the final course grade is an A-F grade based on the combination of the points received for the two modules, and both them are equally weighted. In more detail, total grade points = TA points / 2 + PA points / 2. To pass a module or the entire course, the student needs at least 50% of the points, otherwise the course is failed. The grading table is provided in the following:
 
-| Final Grade (A-F) | Grading Points (%) |
-|-------------------|--------------------|
-|  A                |  >= 90             |
-|  B                |  >= 80             |
-|  C                |  >= 70             |
-|  D                |  >= 60             |
-|  E                |  >= 50             |
+Final Grade (A-F)  | Grading Points (%)
+:----------------: | :----------------:
+ A                |  >= 90            
+ B                |  >= 80            
+ C                |  >= 70            
+ D                |  >= 60            
+ E                |  >= 50            
 
 In order to relate the learning outcomes to the two assessment types and individual assignments, we provide the following table:
 
-| Learning Outcome | Assessment Type | TA1 | TA2 | PA1 | PA2 |
-| ---------------- | --------------- | --- | --- | --- | --- |
-| 1.1              | TA              |**X**|     |     |     |
-| 1.2              | TA              |**X**|     |     |     |
-| 1.3              | TA + PA         |     |**X**|**X**|     |
-| 2.1              | TA + PA         |     |**X**|**X**|**X**|
-| 2.2              | TA + PA         |     |**X**|**X**|**X**|
-| 2.3              | PA              |     |     |     |**X**|
-| 3.1              | PA              |**X**|     |     |     |
-| 3.2              | TA              |**X**|     |     |**X**|
-| 3.3              | TA              |**X**|     |     |**X**|
+Learning Outcome | TA1 | TA2 | PA1 | PA2 
+:--------------- | :-: | :-: | :-: | :-: 
+1.1              |**X**|     |     |     
+1.2              |**X**|     |     |     
+1.3              |     |**X**|**X**|     
+2.1              |     |**X**|**X**|**X**
+2.2              |     |**X**|**X**|**X**
+2.3              |     |     |     |**X**
+3.1              |**X**|     |     |     
+3.2              |**X**|     |     |**X**
+3.3              |**X**|     |     |**X**
 
 
 Late work will not be accepted without prior approval by the instructor. Reasons for accepted delays may be proven health conditions, no-fault hardships, etc.
