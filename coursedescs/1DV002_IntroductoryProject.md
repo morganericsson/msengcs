@@ -115,24 +115,24 @@ modules: practical assignments (60%) and project (40%).
 In order to relate the learning outcomes to the two assessment types and individual assignments, 
 we provide the following table:
 
-|  -   |  PA  | P  |  OW  |  E  | 
-| ---  | ---- | --- | --- | --- |
-| 1.1  |   X  |     |     |     |
-| 1.2  |   X  |     |     |     |
-| 1.3  |      |  X  |  X  |     |
-| 1.4  |      |     |  X  |     |
-| 1.5  |      |  X  |  X  |   X |
-| 1.6  |      |     |     |   X |
-| 2.1  |   X  |  X  |     |     |
-| 2.2  |      |     |     |     |
-| 2.3  |      |  X  |     |     |
-| 2.4  |   X  |     |  X  |     |
-| 2.5  |   X  |     |  X  |     |
-| 2.6  |      |  X  |  X  |     |
-| 3.1  |      |  X  |  X  |     |
-| 3.2  |      |     |  X  |   X |
-| 3.3  |      |  X  |  X  |     |
-| 3.4  |      |     |  X  |     |
+Learning outcome |  PA  |  P  |  OW  |  E 
+:--------------- | :--: | :-: | :--: | :-:
+1.1              |   X  |     |      |    
+1.2              |   X  |     |      |    
+1.3              |      |  X  |  X   |    
+1.4              |      |     |  X   |    
+1.5              |      |  X  |  X   |  X
+1.6              |      |     |      |  X
+2.1              |   X  |  X  |      |    
+2.2              |      |     |      |    
+2.3              |      |  X  |      |    
+2.4              |   X  |     |  X   |    
+2.5              |   X  |     |  X   |    
+2.6              |      |  X  |  X   |    
+3.1              |      |  X  |  X   |    
+3.2              |      |     |  X   |  X
+3.3              |      |  X  |  X   |    
+3.4              |      |     |  X   |    
 
 
 ## Literature

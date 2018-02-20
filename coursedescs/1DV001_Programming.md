@@ -98,16 +98,16 @@ The modules programming test and oral and written report are graded as Pass or F
 
 In order to relate the learning outcomes to the two assessment types and individual assignments, we provide the following table:
 
-|     | PA1-2 | PA3 | PT  |  P  |  R  | 
-| --- | ----- | --- | --- | --- | --- |
-| 1.1 | X     | X   | X   |     |     |
-| 1.2 | X     | X   | X   |  X  |  X  |
-| 2.1 | X     | X   | X   |  X  |     |
-| 2.2 | X     | X   | X   |  X  |  X  |
-| 2.3 | X     |     |     | X   |  X  |
-| 2.4 |       |     |     |     |  X  |
-| 3.1 |       |  X  |     | X   |     |
-| 3.2 |       |     |     | X   |  X  |
+Learning outcome | PA1-2 | PA3 | PT  |  P  |  R
+:--------------- | :---: | :-: | :-: | :-: | :-:
+1.1              | X     |  X  | X   |     |  
+1.2              | X     |  X  | X   |  X  | X
+2.1              | X     |  X  | X   |  X  |  
+2.2              | X     |  X  | X   |  X  | X
+2.3              | X     |     |     |  X  | X
+2.4              |       |     |     |     | X
+3.1              |       |  X  |     |  X  |  
+3.2              |       |     |     |  X  | X
 
 ## Literature
 
