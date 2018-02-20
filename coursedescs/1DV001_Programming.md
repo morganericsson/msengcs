@@ -42,9 +42,7 @@ After completing the course the student is expected to:
 
 ## Course contents
 
-This is a basic course in Python programming. In the first half of the course (examinated by 3 individual 
-programming assignments and a programming test) we focus on the fundamentals of Python programming  language 
-(e.g. variables, control statements, functions) and practice programming skills by solving a 
+This is a basic course in Python programming. In the first half of the course (examinated by 3 individual programming assignments and a programming test) we focus on the fundamentals of Python programming  language (e.g. variables, control statements, functions) and practice programming skills by solving a 
 number of programming exercises. 
 
 In the second half we  introduce a few well-known algorithms and data structures. By implementing 
@@ -70,8 +68,7 @@ is a miniprojekt where students work in pairs and report their finding by the en
 - Algorithm and data structure project (P), 2.5 credits
 - Oral and written report (R), 1 credit 
 
-Programming assignments PA1, PA2, and PA3 are submitted for grading. PA3 is also 
-demonstrated and discussed at a tutoring session.
+Programming assignments PA1, PA2, and PA3 are submitted for grading. PA3 is also demonstrated and discussed at a tutoring session.
 
 The programming test is an individual examination of programming 
 skills where students are asked to solve a few programming exercises 
@@ -85,14 +82,9 @@ All assignments are carried out individually, the project and the oral written r
 ## Examination
 
 The assignments and the programming test are used to examine outcomes 
-related to programming language constructs, programming skills, and (implicitly)
-the handling of IDEs and external libraries.
+related to programming language constructs, programming skills, and (implicitly)the handling of IDEs and external libraries.
 
-The project is about algorithms and data structures. The students will be asked to implement and 
-evaluate certain algorithms and data structures. The result of the project is, in the end of the course, 
-presented for the other students orally and (for the teachers) in a written report. Completing the programming 
-part of the projekt and corresponds to 2.5 credits, submitting written report, make an oral presentation, and
-attending all presentations give 1 credit.  
+The project is about algorithms and data structures. The students will be asked to implement and evaluate certain algorithms and data structures. The result of the project is, in the end of the course, presented for the other students orally and (for the teachers) in a written report. Completing the programming part of the projekt and corresponds to 2.5 credits, submitting written report, make an oral presentation, and attending all presentations give 1 credit.  
 
 The project and oral and written presentations takes care of the remaining outcomes not handled by the assignments and 
 the programming test. 
@@ -101,24 +93,21 @@ the programming test.
 
 The course is assessed with an A-F grading.  If one of the modules is failed, then final course grade is F.
 
-The modules programming test and oral and written report are graded as Pass or Fail. If both are passed, the 
-final course grade is an A-F grade based on a weighted average of the A-F grades received for the two 
-modules: programming assignments (60%) and project (40%).
+The modules programming test and oral and written report are graded as Pass or Fail. If both are passed, the final course grade is an A-F grade based on a weighted average of the A-F grades received for the two modules: programming assignments (60%) and project (40%).
 
 
-In order to relate the learning outcomes to the two assessment types and individual assignments, 
-we provide the following table:
+In order to relate the learning outcomes to the two assessment types and individual assignments, we provide the following table:
 
-|  -   | PA1-2| PA3 | PT  |  P  |  R  | 
-| ---  | ---- | --- | --- | --- | --- |
-| 1.1  | X    | X   | X   |     |     |
-| 1.2  | X    | X   | X   |  X  |  X  |
-| 2.1  | X    | X   | X   |  X  |     |
-| 2.2  | X    | X   | X   |  X  |  X  |
-| 2.3  | X    |     |     | X   |  X  |
-| 2.4  |      |     |     |     |  X  |
-| 3.1  |      |  X  |     | X   |     |
-| 3.2  |      |     |     | X   |  X  |
+|     | PA1-2 | PA3 | PT  |  P  |  R  | 
+| --- | ----- | --- | --- | --- | --- |
+| 1.1 | X     | X   | X   |     |     |
+| 1.2 | X     | X   | X   |  X  |  X  |
+| 2.1 | X     | X   | X   |  X  |     |
+| 2.2 | X     | X   | X   |  X  |  X  |
+| 2.3 | X     |     |     | X   |  X  |
+| 2.4 |       |     |     |     |  X  |
+| 3.1 |       |  X  |     | X   |     |
+| 3.2 |       |     |     | X   |  X  |
 
 ## Literature
 
