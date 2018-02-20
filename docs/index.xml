@@ -12,6 +12,58 @@
     
     <item>
       <title></title>
+      <link>https://morganericsson.github.io/msengcs/descs/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/readme/</guid>
+      <description>Course descriptions Format course descriptions according to the TEMPLATE.md file. Make sure that STATUS.md is updated. All files are in (Github flavored) Markdown
+Headings Use the fake course codes or a fixed number of credits to specify prerequisites.
+Provide a brief description of the purpose of the course under Aim and use Course content to describe what the course will cover. Provide a few outcomes in each category under Learning outcomes (not more than 10).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://morganericsson.github.io/msengcs/descs/status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/status/</guid>
+      <description>Status Computer Science 1DV001 - Programming (7.5 hec) 1DV002 - Introductory project (7.5 hec) 1DV003 - OOP (7.5 hec) 1DV004 - Concurrent programming (7.5 hec) 1DV005 - SE project (7.5 hec) 1DV006 - Algorithms (5 hec) 1DV007 - Databases (5 hec) 1DV008 - Computer organization (7.5 hec) 1DV009 - Computer graphics (5 hec) 1DV010 - Software Architecture (5 hec) 1DV011 - Embedded systems (5 hec) 1DV012 - Computer networks (7.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://morganericsson.github.io/msengcs/descs/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/template/</guid>
+      <description> [%PrelCode] - %Name Prerequisites Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+2. Skills and abilities
+3. Judgement and approach
+Course contents Modules Examination Grading Course litterature Overlap </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://morganericsson.github.io/msengcs/descs/cdio1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/cdio1/</guid>
+      <description>| | 1DV001 | 1DV002 | 1DV003 | 1DV004 | 1DV005 | 1DV006 | 1DV007 | 1DV008 | 1DV009 | 1DV010 | 1DV011 | 1DV012 | 1DV013 | 2DV001 | 4DV001 | 4DV002 | 4DV003 | 4DV004 | 4DV005 | 4DV006 | 4DV007 | 4DV008 | 4DV009 | 4DV011 | 4DV012 | 4DV013 | 4DV014 | 5DV001 | 1MA001 | 1MA002 | 1MA003 | 1MA004 | 1MA005 | 1FY001 | 1FY002 | 1EL001 | 1TM001 | 1TM002 | 1TM003 | 1OT001 | |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-| |1 Disciplinary Knowledge and Reasoning| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |1.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://morganericsson.github.io/msengcs/descs/metadata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/metadata/</guid>
+      <description>Metadata The following meta data fields are used. If (OPT), the field is optional.
+ Name: Name of the course. PrelCode: The course code used in the application. HEC: The number of (HE) credits. Year: Which year (1-5) Period: Which study period (1-4). Use ranges (e.g., 3-4) if a course spans multiple periods. Examiner1 and Examiner2: Specifies the examiners for the course. Should always be two. Status: The status of the syllabus document (to track progress).</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://morganericsson.github.io/msengcs/utbplan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -40,11 +92,10 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv002_introductoryproject/</guid>
-      <description>1DV002 - Introductory project (7.5 hec) Prerequisites 1DV001.
+      <description>1DV002 - Introductory project (7.5 hec) Prerequisites Basic programming skills (1DV001).
 Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Describe how a problem can be addresses by a software system Describe how requirements should be elicited, specified, and tested.  2. Skills and abilities
- Be able to express requirements in a formal way Be able to analyze a problem and design a system that addresses it Be able to implement a basic design in a programming language Be able to test a system and make sure it implements the requirements  3.</description>
+ Name, and explain function of, the core components in a Raspberry PI Explain how to set up a Raspberry Pi environment, and write and execute some basic Python code on the Raspberry Pi Describe how requirements should be elicited, specified, and tested. be able to structure and present information both verbally and in writing översiktligt redogöra för vad projektledning och kvalitetsarbete innebär i praktiken account for the software industry&amp;rsquo;s various sectors and tasks for software engineers  2.</description>
     </item>
     
     <item>
@@ -53,11 +104,9 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv003_oop/</guid>
-      <description>1DV003 - Object-oriented Programming (5 hec) Prerequisites 1DV001.
+      <description>1DV003 - Object-oriented Programming (5 hec) Prerequisites Basic programming skills - 1DV001 Oral and Written Presentations - 1DV002
 Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Explain the concepts modularization, abstraction, and encapsulation Describe the object-­oriented software development process Explain what a design pattern is and why they are used, and describe some of the common patterns.  2. Skills and abilities
- Implement small object-oriented programs Given a problem, design an object-oriented solution using UML.</description>
+1. Knowledge and understanding 1. Explain basic object oriented programming entities like classes, instances, messages, methods and polymorphism. 2. Explain the concepts modularization, abstraction, and encapsulation. 3. Explain and motivate the use of a few common design patterns. 4. Explain the most frequently used constructs in UML class and sequence diagrams.</description>
     </item>
     
     <item>
@@ -101,11 +150,10 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv007_databases/</guid>
-      <description>1DV007 - Databases (5 hec) Prerequisites 1DV001, 1DV003, 1DV004.
+      <description>1DV007 - Databases (5 hec) Prerequisites The student should be acknlowledged and possess at least basic skills in: * Mathematics and algebra, including theory of sets * Computer science and programming
 Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Discuss different datamodels, in particular structured and semi-structured models, and argue for the benefits and drawbacks of these. Explain how a database management systems handles concurrency. Read and write relational algebra expressions and discuss their relation to SQL.  2. Skills and abilities
- Create database schemas using SQL.</description>
+ Define the basic concepts related to computer-based information systems and understand in depth the main issues related to data management in large organizations and enterprises Understand the database taxonomy, reference data models, commit protocols and current technologies Know the Structured Query Language (SQL) syntax and semantics  2.</description>
     </item>
     
     <item>
@@ -151,10 +199,9 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv011_embeddedsystems/</guid>
-      <description>1DV011 - Embedded systems (5 hec) Prerequisites 1DV004, 1DV008, 1FY001, 1FY002.
-Learnings outcomes After completing the course the student is expected to:
+      <description>1DV011 - Embedded systems (5 hec) Prerequisites  The student should know how to program in an object-oriented language The student should possess a basic knowledge about concurrent systems The student should know the basic hardware organization of a computer system The student should know the principles of operating systems and schedulers  Learnings outcomes After completing the course, the student is expected to:
 1. Knowledge and understanding
- Analyze the schedulability of a periodic task set Display knowledge of and be able to explain how operating systems structured and works, especially when it comes to interrupts, processes, threads, and scheduling Explain scheduling anomalies, their causes, and how to avoid/mitigate them.  2.</description>
+ Describe the main applications and reference architectures (CPU, bus, interfaces, etc.</description>
     </item>
     
     <item>
@@ -413,11 +460,10 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/4dv002_compilerconstruction/</guid>
-      <description>4DV002 - Compiler Construction (5 hec) Prerequisites 1DV003, 1DV006, 1MA004, 1DV008.
+      <description>4DV002 - Compiler Construction (5 hec) Prerequisites Object-oriented programming skills &amp;ndash; 1DV003, Algorithms and data structures &amp;ndash; 1DV006, Discrete Mathematics &amp;ndash; 1MA004, Morgan??? &amp;ndash; 1DV008, Model-driven Engineering &amp;ndash; Morgan???.
 Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Describe the different phases in the compilation process Describe semantic analysis Describe different parsing techniques Define type systems for typical programming languages  2. Skills and abilities
- Design and develop a finite automata based lexical analysis Design and develop a semantic analysis Design and develop an LL(1) parser Design and develop a stack­machine based virtual machine Implement type checking, including simple type inference, with error reporting and decoration of syntax trees with type information  3.</description>
+ Describe the different phases in the compilation process Describe semantic analysis Describe different parsing techniques Define type systems for typical programming languages Describe basic principles for stack machines  2.</description>
     </item>
     
     <item>
