@@ -29,10 +29,11 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv002_introductoryproject/</guid>
-      <description>1DV002 - Introductory project (7.5 hec) Prerequisites Basic programming skills (1DV001).
+      <description>1DV002 - Introductory project (7.5 hec) Prerequisites 1DV001.
 Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Name, and explain function of, the core components in a Raspberry PI Explain how to set up a Raspberry Pi environment, and write and execute some basic Python code on the Raspberry Pi Describe how requirements should be elicited, specified, and tested. be able to structure and present information both verbally and in writing översiktligt redogöra för vad projektledning och kvalitetsarbete innebär i praktiken account for the software industry&amp;rsquo;s various sectors and tasks for software engineers  2.</description>
+ Describe how a problem can be addresses by a software system Describe how requirements should be elicited, specified, and tested.  2. Skills and abilities
+ Be able to express requirements in a formal way Be able to analyze a problem and design a system that addresses it Be able to implement a basic design in a programming language Be able to test a system and make sure it implements the requirements  3.</description>
     </item>
     
     <item>
@@ -41,9 +42,11 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv003_oop/</guid>
-      <description>1DV003 - Object-oriented Programming (5 hec) Prerequisites Basic programming skills - 1DV001 Oral and Written Presentations - 1DV002
+      <description>1DV003 - Object-oriented Programming (5 hec) Prerequisites 1DV001.
 Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding 1. Explain basic object oriented programming entities like classes, instances, messages, methods and polymorphism. 2. Explain the concepts modularization, abstraction, and encapsulation. 3. Explain and motivate the use of a few common design patterns. 4. Explain the most frequently used constructs in UML class and sequence diagrams.</description>
+1. Knowledge and understanding
+ Explain the concepts modularization, abstraction, and encapsulation Describe the object-­oriented software development process Explain what a design pattern is and why they are used, and describe some of the common patterns.  2. Skills and abilities
+ Implement small object-oriented programs Given a problem, design an object-oriented solution using UML.</description>
     </item>
     
     <item>
@@ -87,10 +90,11 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv007_databases/</guid>
-      <description>1DV007 - Databases (5 hec) Prerequisites The student should be acknlowledged and possess at least basic skills in: * Mathematics and algebra, including theory of sets * Computer science and programming
+      <description>1DV007 - Databases (5 hec) Prerequisites 1DV001, 1DV003, 1DV004.
 Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Define the basic concepts related to computer-based information systems and understand in depth the main issues related to data management in large organizations and enterprises Understand the database taxonomy, reference data models, commit protocols and current technologies Know the Structured Query Language (SQL) syntax and semantics  2.</description>
+ Discuss different datamodels, in particular structured and semi-structured models, and argue for the benefits and drawbacks of these. Explain how a database management systems handles concurrency. Read and write relational algebra expressions and discuss their relation to SQL.  2. Skills and abilities
+ Create database schemas using SQL.</description>
     </item>
     
     <item>
@@ -136,9 +140,10 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv011_embeddedsystems/</guid>
-      <description>1DV011 - Embedded systems (5 hec) Prerequisites  The student should know how to program in an object-oriented language The student should possess a basic knowledge about concurrent systems The student should know the basic hardware organization of a computer system The student should know the principles of operating systems and schedulers  Learnings outcomes After completing the course, the student is expected to:
+      <description>1DV011 - Embedded systems (5 hec) Prerequisites 1DV004, 1DV008, 1FY001, 1FY002.
+Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Describe the main applications and reference architectures (CPU, bus, interfaces, etc.</description>
+ Analyze the schedulability of a periodic task set Display knowledge of and be able to explain how operating systems structured and works, especially when it comes to interrupts, processes, threads, and scheduling Explain scheduling anomalies, their causes, and how to avoid/mitigate them.  2.</description>
     </item>
     
     <item>
@@ -397,10 +402,11 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/4dv002_compilerconstruction/</guid>
-      <description>4DV002 - Compiler Construction (5 hec) Prerequisites Object-oriented programming skills &amp;ndash; 1DV003, Algorithms and data structures &amp;ndash; 1DV006, Discrete Mathematics &amp;ndash; 1MA004, Morgan??? &amp;ndash; 1DV008, Model-driven Engineering &amp;ndash; Morgan???.
+      <description>4DV002 - Compiler Construction (5 hec) Prerequisites 1DV003, 1DV006, 1MA004, 1DV008.
 Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Describe the different phases in the compilation process Describe semantic analysis Describe different parsing techniques Define type systems for typical programming languages Describe basic principles for stack machines  2.</description>
+ Describe the different phases in the compilation process Describe semantic analysis Describe different parsing techniques Define type systems for typical programming languages  2. Skills and abilities
+ Design and develop a finite automata based lexical analysis Design and develop a semantic analysis Design and develop an LL(1) parser Design and develop a stack­machine based virtual machine Implement type checking, including simple type inference, with error reporting and decoration of syntax trees with type information  3.</description>
     </item>
     
     <item>
