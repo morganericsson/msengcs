@@ -29,20 +29,19 @@ After completing the course the student is expected to:
 
 *1. Knowledge and understanding*
 
-1. Describe problems related to shared resources, e.g., race conditions, locking, etc.
+1. Describe problems related to shared resources, e.g., race conditions, locking, starvation, etc.
 2. Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do.
 3. Reason about properties of concurrent programs, such as correctness and termination.
 4. Explain the differences between shared memory and message passing.
 
 *2.	Skills and abilities*
 
-1. Write correct concurrent programs in a shared memory environment, with threads and synchronization.
-2. Design and implement concurrent versions of common algorithms and data structures.
-3. Prove that a (simple) concurrent program is correct.
+1. Write correct concurrent applications in a shared memory environment, with threads and synchronization.
+2. Prove that a (simple) concurrent program is correct.
 
 *3.	Judgement and approach*
 
-1. Analyze a problem and implement a concurrent solution, using proper synchronization.
+1. Analyze a problem and implement a suitable concurrent solution, using proper synchronization.
 2. Based on the problem, determine whether shared memory or message passing is more suitable.
 
 ## Course contents
@@ -52,7 +51,7 @@ After completing the course the student is expected to:
 - Distributed algorithms
 - Critical sections
 - Locks, barriers, semaphores, and monitors.
-- Message passing
+- Message passing and multicast.
 - Concurrent data structures
 
 ## Modules
@@ -98,12 +97,11 @@ In order to relate the learning outcomes to the two assessment types and individ
 | ---  | --- | --- | --- | --- |
 | 1.1  | X   |     |     |     |
 | 1.2  | X   | X   |     |     | 
-| 1.3  | X   |     |     |     |
+| 1.3  | X   | X   |     |     |
 | 1.4  | X   |     |     |     |
-| 2.1  |     | X   |     |     |
-| 2.2  |     |     | X   |  X  |
-| 2.3  | X   |     |     |     |
-| 3.1  |     |     | X   |     |
+| 2.1  |     |     |  X  |  X  |
+| 2.2  | X   | X   |     |     |
+| 3.1  |     |     |  X  |     |
 | 3.2  |     |     |     |  X  |
 
 
