@@ -18,7 +18,10 @@ title:      1DV004 - Concurrent programming (7.5 hec)
 
 ## Prerequisites
 
-1DV001, 1DV003.
+- Basic programming skills (1DV001)
+- Basic data types as lists and arrays (1DV001) 
+- Object oriented Programming in Java (1DV003)
+
 
 ## Learnings outcomes
 
@@ -33,9 +36,9 @@ After completing the course the student is expected to:
 
 *2.	Skills and abilities*
 
-1. Write concurrent programs in a shared memory environment, with threads and synchronization.
+1. Write correct concurrent programs in a shared memory environment, with threads and synchronization.
 1. Design and implement concurrent versions of common algorithms and data structures.
-1. Show that a (simple) concurrent program is correct.
+1. Prove that a (simple) concurrent program is correct.
 
 *3.	Judgement and approach*
 
@@ -46,6 +49,7 @@ After completing the course the student is expected to:
 
 - Processes and synchronization
 - Concurrent programming with threads and shared variables.
+- Distributed algorithms
 - Critical sections
 - Locks, barriers, semaphores, and monitors.
 - Message passing
@@ -53,12 +57,42 @@ After completing the course the student is expected to:
 
 ## Modules
 
+- Practical Programming assignments - 3 credits (1 credit each)
+- Written exam - 4.5 credits
+
 ## Types of instruction
+
+The types of instruction for this course encompass: traditional theoretical lectures for teaching the conceptual part of concurrent programming and common challenges of concurrent execution of programs, lectures for teaching design and implementation aspects of concurrent systems in Java, and practical sessions to demonstrate the implementation and operation of concurrent applications. 
+
+In addition, the content is exercised and deepened in context of practical lab assignments. All assignments are carried out individually or in fixed groups of maximal two students.
+
+
 
 ## Examination
 
-Written exam and practical assignments.
+The learning outcomes of this course are assessed with the help of a written exam (WE) to evaluate knowledge and understanding learning outcomes as well as some of the skills and judgement, and three practical assignments (PA) that evaluate the skills and judgement.
+Skills that will be assessed by PA are the correct writing of concurrent programs and the design and implementation of concurrent algorithms using the concepts expounded in the contents of the course as critical sections, locks, barriers, semaphores and locks. 
+
 
 ## Grading
 
+The course is assessed with an A-F grading. If one of the modules is failed, then final course grade is F. 
+
+To pass a module, the student needs at least 50% of the points, otherwise the course is failed. The grading table is provided in the following:
+
+|Final Grade (A-F) | Grading Points (%) |
+| ---------------  | ------------------ |
+| A                | >= 90              |
+| B                | >= 80              |
+| C                | >= 70              |
+| D                | >= 60              |
+| E                | >= 50              |
+
+Each practical programming assignment will be graded with points. To pass the Practical Programming Assignment module, the average of points of the three assignments shall be at least 50%.
+
+If both modules are passed, then the course is passed and the final course grade is an A-F grade based on a weighted average of 60% for the Written Exam and 40% for the Practical Programming Assignments. 
+
+
 ## Literature
+
+- Michel Raynal. Concurrent Programming: Algorithms, Principles, and Foundations. Springer. 2013th Edition
