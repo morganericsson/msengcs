@@ -30,20 +30,20 @@ After completing the course the student is expected to:
 *1. Knowledge and understanding*
 
 1. Describe problems related to shared resources, e.g., race conditions, locking, etc.
-1. Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do.
-1. Reason about properties of concurrent programs, such as correctness and termination.
-1. Explain the differences between shared memory and message passing.
+2. Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do.
+3. Reason about properties of concurrent programs, such as correctness and termination.
+4. Explain the differences between shared memory and message passing.
 
 *2.	Skills and abilities*
 
 1. Write correct concurrent programs in a shared memory environment, with threads and synchronization.
-1. Design and implement concurrent versions of common algorithms and data structures.
-1. Prove that a (simple) concurrent program is correct.
+2. Design and implement concurrent versions of common algorithms and data structures.
+3. Prove that a (simple) concurrent program is correct.
 
 *3.	Judgement and approach*
 
 1. Analyze a problem and implement a concurrent solution, using proper synchronization.
-1. Based on the problem, determine whether shared memory or message passing is more suitable.
+2. Based on the problem, determine whether shared memory or message passing is more suitable.
 
 ## Course contents
 
@@ -70,7 +70,7 @@ In addition, the content is exercised and deepened in context of practical lab a
 
 ## Examination
 
-The learning outcomes of this course are assessed with the help of a written exam (WE) to evaluate knowledge and understanding learning outcomes as well as some of the skills and judgement, and three practical assignments (PA) that evaluate the skills and judgement.
+The learning outcomes of this course are assessed with the help of a written exam (WE) to evaluate knowledge and understanding learning outcomes as well as some of the skills, and three practical assignments (PA) that evaluate the skills and judgement.
 Skills that will be assessed by PA are the correct writing of concurrent programs and the design and implementation of concurrent algorithms using the concepts expounded in the contents of the course as critical sections, locks, barriers, semaphores and locks. 
 
 
@@ -91,6 +91,21 @@ To pass a module, the student needs at least 50% of the points, otherwise the co
 Each practical programming assignment will be graded with points. To pass the Practical Programming Assignment module, the average of points of the three assignments shall be at least 50%.
 
 If both modules are passed, then the course is passed and the final course grade is an A-F grade based on a weighted average of 60% for the Written Exam and 40% for the Practical Programming Assignments. 
+
+In order to relate the learning outcomes to the two assessment types and individual assignments, we provide the following table:
+
+|  -   | WE  | PA1 | PA2 | PA3 |
+| ---  | --- | --- | --- | --- |
+| 1.1  | X   |     |     |     |
+| 1.2  | X   | X   |     |     | 
+| 1.3  | X   |     |     |     |
+| 1.4  | X   |     |     |     |
+| 2.1  |     | X   |     |     |
+| 2.2  |     |     | X   |  X  |
+| 2.3  | X   |     |     |     |
+| 3.1  |     |     | X   |     |
+| 3.2  |     |     |     |  X  |
+
 
 
 ## Literature
