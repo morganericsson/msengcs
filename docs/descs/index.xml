@@ -52,10 +52,9 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1dv004_concurrentprogramming/</guid>
-      <description>1DV004 - Concurrent programming (7.5 hec) Prerequisites 1DV001, 1DV003.
-Learnings outcomes After completing the course the student is expected to:
+      <description>1DV004 - Concurrent programming (7.5 hec) Prerequisites  Basic programming skills (1DV001) Basic data types as lists and arrays (1DV001) Object oriented Programming in Java (1DV003)  Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Describe problems related to shared resources, e.g., race conditions, locking, etc. Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do. Reason about properties of concurrent programs, such as correctness and termination. Explain the differences between shared memory and message passing.</description>
+ Describe problems related to shared resources, e.g., race conditions, locking, starvation, etc. Explain some of the common locking mechanisms, e.g., semaphores, which guarantees they provide, and show that they do.</description>
     </item>
     
     <item>
@@ -253,6 +252,17 @@ Learnings outcomes Efter genomgången kurs förväntas studenten kunna
     
     <item>
       <title>1MA004 - Diskret matematik (7.5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</guid>
+      <description>1MA004 - Diskret matematik (7.5 hec) Förkunskaper Grundläggande matematik eller motsvarande.
+Mål Efter genomgången kurs förväntas studenten kunna
+ använda resultat i logik, mängdlära och diskreta matematiska modeller lösa problem, utföra beräkningar och föra resonemang i diskret matematik skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i diskret matematik tillämpa diskreta matematiska modeller på datavetenskapliga problem, diskutera relevans, räckvidd och noggrannhet av modeller visualisera resultat lösa problem genom syntes av flera moment.</description>
+    </item>
+    
+    <item>
+      <title>1MA004 - Diskret matematik (7.5 hec)</title>
       <link>https://morganericsson.github.io/msengcs/descs/1ma004_diskretmatematik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -444,11 +454,9 @@ Learnings outcomes After completing the course the student is expected to:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/4dv007_parallelcomputing/</guid>
-      <description>4DV007 - Parallel computing (5 hec) Prerequisites 1DV004, 1DV006, 1DV008, 1DV011.
-Learnings outcomes After completing the course the student is expected to:
+      <description>4DV007 - Parallel computing (5 hec) Prerequisites  Programming skills (1DV001) Communication and synchronization of programs (1DV004) Data structures and assessment of the complexity of algorithms (1DV006) Knowledge on how hardware is designed (1DV008) Knowledge on reference architectures for digital devices (1DV011)  Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
- Describe and explain the fundamentals of parallel computing systems Describe fundamentals of programming models and languages for parallel computing Explain different parallelization techniques  2. Skills and abilities
- Design and implement programs that run efficiently on parallel computing systems  3. Judgement and approach</description>
+ Describe and explain the fundamentals of parallel computing systems Describe fundamentals of programming models and languages for parallel computing Explain different parallelization techniques and reference algorithms.</description>
     </item>
     
     <item>
