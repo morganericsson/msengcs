@@ -202,36 +202,11 @@ Learnings outcomes After completing the course the student is expected to:
     </item>
     
     <item>
-      <title>1FY001 - Mekanik för ingenjörer (7,5 hp)</title>
-      <link>https://morganericsson.github.io/msengcs/descs/1fy001_mekanikf%C3%B6ringenj%C3%B6rer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1fy001_mekanikf%C3%B6ringenj%C3%B6rer/</guid>
-      <description>1FY001 - Mekanik för ingenjörer (7,5 hp) Prerequisites  Linjär algebra Analys 1  Learnings outcomes Efter att ha slutfört kursen förväntas studenten kunna följande.
-1. Kunskap och förståelse
- beskriva övergripande den klassiska mekanikens förutsättningar redogöra för teorins huvudsakliga resultat förklara hur teorin kan tillämpas beskriva tillämpning inom styrning av tekniska system  2. Färdighet och förmåga
- tillämpa teoretiska samband för problemlösning analysera enkla system utföra enklare mätningar tillgodogöra sig litteratur inom styrning av tekniska system  3.</description>
-    </item>
-    
-    <item>
       <title>1FY002 - Ellära för ingenjörer (7,5 hec)</title>
       <link>https://morganericsson.github.io/msengcs/descs/1fy002_electomagneticsforengineers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://morganericsson.github.io/msengcs/descs/1fy002_electomagneticsforengineers/</guid>
-      <description>1FY002 - Ellära för ingenjörer (7,5 hec) Prerequisites Linjär algebra Analys 1
-Learnings outcomes Efter att ha slutfört kursen förväntas studenten kunna följande.
-1. Kunskap och förståelse
- beskriva övergripande elektromagnetismens förutsättningar redogöra för teorins huvudsakliga resultat förklara hur teorin kan tillämpas beskriva tillämpning inom elektroniken  2. Färdighet och förmåga
- tillämpa teoretiska samband för problemlösning analysera enkla kretsar utföra enklare mätningar tillgodogöra sig litteratur inom elektronikområdet  3.</description>
-    </item>
-    
-    <item>
-      <title>1FY002 - Ellära för ingenjörer (7,5 hec)</title>
-      <link>https://morganericsson.github.io/msengcs/descs/1fy002_ell%C3%A4raf%C3%B6ringenj%C3%B6rer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1fy002_ell%C3%A4raf%C3%B6ringenj%C3%B6rer/</guid>
       <description>1FY002 - Ellära för ingenjörer (7,5 hec) Prerequisites Linjär algebra Analys 1
 Learnings outcomes Efter att ha slutfört kursen förväntas studenten kunna följande.
 1. Kunskap och förståelse
@@ -259,17 +234,6 @@ Learnings outcomes Efter genomgången kurs förväntas studenten kunna
       <description>1MA003 - Envariabelanalys 1 (5 hec) Prerequisites Grundläggande matematik eller motsvarande.
 Learnings outcomes Efter genomgången kurs förväntas studenten kunna
  behärska teorin för analys i en variabel använda differential- och integralkalkyl i en variabel lösa problem, utföra beräkningar och föra resonemang i analys skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i analys tillämpa differential- och integralkalkyl på tekniska, fysikaliska och datavetenskapliga problem, diskutera relevans, räckvidd och noggrannhet av modeller visualisera resultat lösa problem genom syntes av flera moment.</description>
-    </item>
-    
-    <item>
-      <title>1MA004 - Diskret matematik (7.5 hec)</title>
-      <link>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1ma004_diskret-matematik/</guid>
-      <description>1MA004 - Diskret matematik (7.5 hec) Förkunskaper Grundläggande matematik eller motsvarande.
-Mål Efter genomgången kurs förväntas studenten kunna
- använda resultat i logik, mängdlära och diskreta matematiska modeller lösa problem, utföra beräkningar och föra resonemang i diskret matematik skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i diskret matematik tillämpa diskreta matematiska modeller på datavetenskapliga problem, diskutera relevans, räckvidd och noggrannhet av modeller visualisera resultat lösa problem genom syntes av flera moment.</description>
     </item>
     
     <item>
@@ -302,17 +266,6 @@ Learnings outcomes Efter genomgången kurs förväntas studenten kunna
       <guid>https://morganericsson.github.io/msengcs/descs/1ma006_tilla%CC%88mpadsannolikhetsla%CC%88raochstatistik/</guid>
       <description>1MA006 - Sannolikhetslära och statistik (7.5 hec) Prerequisites Envariabelanalys eller motsvarande.
 Learnings outcomes Efter genomgången kurs förväntas studenten kunna
- skapa elementära statistiska modeller för experiment och tekniska förlopp använda sannolikhetslärans och statistikens grundbegrepp, metoder och visualiseringskoncept beräkna beskrivande storheter för statistiska fördelningar såsom läges-, spridnings- och beroendemått lösa problem, utföra beräkningar och föra resonemang i statistik och sannolikhetslära skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i sannolikhetslära och statistik använda probabilistiska och statistiska modeller för att studera tekniska problem, diskutera relevans, räckvidd och noggrannhet av modeller skatta parametrar, avgöra väntevärdesriktighet, effektivitet samt kvantifiera skattningars osäkerhet analysera mätosäkerheters inverkan på felfortplantning visualisera resultat lösa problem genom syntes av flera moment.</description>
-    </item>
-    
-    <item>
-      <title>1MA006 - Tillämpad sannolikhetslära och statistik (7.5 hec)</title>
-      <link>https://morganericsson.github.io/msengcs/descs/1ma005_tilla%CC%88mpadsannolikhetsla%CC%88raochstatistik/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1ma005_tilla%CC%88mpadsannolikhetsla%CC%88raochstatistik/</guid>
-      <description>1MA006 - Tillämpad sannolikhetslära och statistik (7.5 hec) Förkunskaper Envariabelanalys eller motsvarande.
-Mål Efter genomgången kurs förväntas studenten kunna
  skapa elementära statistiska modeller för experiment och tekniska förlopp använda sannolikhetslärans och statistikens grundbegrepp, metoder och visualiseringskoncept beräkna beskrivande storheter för statistiska fördelningar såsom läges-, spridnings- och beroendemått lösa problem, utföra beräkningar och föra resonemang i statistik och sannolikhetslära skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet redogöra för definitioner samt formulera och bevisa teorem som är centrala i sannolikhetslära och statistik använda probabilistiska och statistiska modeller för att studera tekniska problem, diskutera relevans, räckvidd och noggrannhet av modeller skatta parametrar, avgöra väntevärdesriktighet, effektivitet samt kvantifiera skattningars osäkerhet analysera mätosäkerheters inverkan på felfortplantning visualisera resultat lösa problem genom syntes av flera moment.</description>
     </item>
     
