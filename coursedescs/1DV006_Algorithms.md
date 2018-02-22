@@ -1,6 +1,6 @@
 ---
 Name:       Algorithms
-PrelCode:   1DV005
+PrelCode:   1DV006
 HEC:        5
 Year:       2
 Period:     3
@@ -11,10 +11,10 @@ Mandatory:  Yes
 Subject:    ComputerScience
 Type:       Regular
 PreReq:     1DV001;1DV003;Discrete Mathematics
-title:      1DV005 - Algorithms (5 hec)
+title:      1DV006 - Algorithms (5 hec)
 ---
 
-# 1DV005 - Algorithms (5 hec)
+# 1DV006 - Algorithms (5 hec)
 
 ## Prerequisites
 

@@ -69,17 +69,6 @@ Learnings outcomes After completing the course the student is expected to:
     </item>
     
     <item>
-      <title>1DV005 - Algorithms (5 hec)</title>
-      <link>https://morganericsson.github.io/msengcs/descs/1dv006_algorithms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://morganericsson.github.io/msengcs/descs/1dv006_algorithms/</guid>
-      <description>1DV005 - Algorithms (5 hec) Prerequisites  Java, OOP. Basic abstract data types: list, stack and queue. Basic graph theory.  Learnings outcomes After completing the course the student is expected to:
-1. Knowledge and understanding
- Describe algorithms and explain their properties, e.g., why they are fast or correct. Recall problem complexity classes, such as P and NP, and recognize problems that belong to these. Explain intractability and identify such problems.</description>
-    </item>
-    
-    <item>
       <title>1DV005 - Software Engineering project (10 hec)</title>
       <link>https://morganericsson.github.io/msengcs/descs/1dv005_seproject/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -89,6 +78,17 @@ Learnings outcomes After completing the course the student is expected to:
 Learnings outcomes After completing the course the student is expected to:
 1. Knowledge and understanding
  Identify the complexities of software design and development Describe the fundamentals of software engineering, such as stakeholders and requirements Describe the difference between the Customer, the Solution, and the Endeavour as well as the different methods used for each. Describe the principles behind agile methodologies for software development, their motivation and how they differ from plan-based approaches  2.</description>
+    </item>
+    
+    <item>
+      <title>1DV006 - Algorithms (5 hec)</title>
+      <link>https://morganericsson.github.io/msengcs/descs/1dv006_algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://morganericsson.github.io/msengcs/descs/1dv006_algorithms/</guid>
+      <description>1DV006 - Algorithms (5 hec) Prerequisites  Java, OOP. Basic abstract data types: list, stack and queue. Basic graph theory.  Learnings outcomes After completing the course the student is expected to:
+1. Knowledge and understanding
+ Describe algorithms and explain their properties, e.g., why they are fast or correct. Recall problem complexity classes, such as P and NP, and recognize problems that belong to these. Explain intractability and identify such problems.</description>
     </item>
     
     <item>
