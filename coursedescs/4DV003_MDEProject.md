@@ -57,20 +57,43 @@ Models are primary artefacts in all engineering activities, and are used to anal
 - Automated code generation
 
 ## Modules
-1. State-of-the-art tools and methods for Model-Driven Engineering.
-2. Development project in the domain of Model-Driven Engineering
+
+- Modelling and model-transformation assignments (MA), 3 credits
+- Module 2: Project Development (PD), 5 credits
+- Final: Home Exam (HE), 2 credits
+
 
 ## Types of instruction
 
+The types of instruction for this course comprises traditional lectures for teaching the theoretical contents, practical sessions for tutoring modelling assignments, and supervision meetings for guiding and advising on the project development
+
 ## Examination
-The examination is based on: 
 
-- Module 1: Assignments (A1, A2)
-- Module 2: Project Development (PD)
-- Final: Home Exam (HE)
+The learning outcomes of this course are assessed with the help of 2 modeling assignments to evaluate knowledge and understanding on modeling and model transformations taught during the theoretical lectures, a project to evaluate skills, and a home exam to evaluate understanding and judgement. 
+
+## Grading
+
+The course is assessed with an A-F grading. If one of the modules is failed, then final course grade is F. 
+
+To pass a module, the student needs at least 50% of the points, otherwise the course is failed. The grading table is provided in the following:
+
+|Final Grade (A-F) | Grading Points (%) |
+| ---------------  | ------------------ |
+| A                | >= 90              |
+| B                | >= 80              |
+| C                | >= 70              |
+| D                | >= 60              |
+| E                | >= 50              |
+
+Each modeling assignment will be graded with points. To pass the modeling assignments module, the average of points of the two assignments shall be at least 50%.
+
+If all the three modules are passed, then the course is passed and the final course grade is an A-F grade based on a weighted average of 30% for the Modeling Assignments, 50% for the Project Development and 20% for the Home Exam. 
+
+In order to relate the learning outcomes to the assessments, we provide the following table:
 
 
-|     | A1  | A2  | PD  | HE  | 
+
+|     | MA1 | MA2 | PD  | HE  | 
 | --- | --- | --- | --- | --- |
 | 1.1 |  X  |     |     |  X  |
 | 1.2 |  X  |     |     |  X  |
@@ -84,11 +107,7 @@ The examination is based on:
 | 2.5 |     |     |  X  |     |
 | 3.1 |     |     |     |  X  |
 
-## Grading
 
-The course is assessed with the grades A, B, C, D, E, Fx or F.
-The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
-The grade F means that the student’s performance is assessed as fail.
 
 ## Literature
 
