@@ -1,68 +1,91 @@
----
-Name:       Numeriska metoder
-PrelCode:   1MA007
-HEC:        7.5
-Year:       2
-Period:     4
-Examiner1:  ??    
-Examiner2:  ??
-Status:     FirstDraft
-Mandatory:  Yes
-Subject:    Mathematics
-Type:       Regular
-PreReq:     1MA003
-title:      1MA007 - Numeriska metoder (5 hec)
----
+# 1MA007 - Numeriska metoder (5 hp)
 
-# 1MA007 - Numeriska metoder (5 hec)
+|     |     |
+| --- | --- | 
+| *Huvudområde*: | Matematik | 
+| *Fördjupning*: | G1N | 
 
-## Prerequisites
+## Förkunskaper
 
-Linjär algebra och flervariabelanalys. 
-Dessutom rekommenderas förkunskaper i Matlab.
-Kursen överlappar följande kurser: 1MA Numeriska metoder 7.5hp
+- 1MA002 - Linjär algebra 
+- 1MA005 - Envariabelanalys 2 
+- 1MA006 - Flervariabelanalys
 
-## Learnings outcomes
+## Lärandemål
 
-Efter genomgången kurs förväntas studenten kunna
+Efter slutförd kurs skall studenten kunna:
 
-*1. Knowledge and understanding*
+1. *Kunskap och förståelse*
+    1. Redogöra för och särskilja grundläggande begrepp och metoder inom beräkningsmatematik,
+    2. identifiera och använda lämpliga grundläggande numeriska algoritmer för att lösa givna matematiska problem med hjälp av miniräknare,
+    3. kunna implementera och tillämpa sådana algoritmer med programpaketet MATLAB, samt
+    4. identifiera och använda lämpliga grundläggande numeriska metoder för att lösa och analysera givna verklighetsanknutna problem inom teknikområdet.
+2. *Färdighet och förmåga*
+    1. Visa förmåga att kombinera kunskaper om olika begrepp, metoder och numeriska algoritmer i problemlösning,
+    2. visa förmåga att redogöra för beräkningsmatematiska resonemang på ett strukturerat och logiskt sammanhängande sätt, samt
+    3. visa förmåga att utnyttja programspråket MATLAB i problemlösning.
+3. *Värderingsförmåga och förhållningssätt*
+    1. Visa förmåga att bedöma relevans och noggrannhet för numeriska beräkningar, samt 
+    2. visa förmåga att uppskatta resursbehov och jämföra och värdera olika numeriska algoritmer och metoder för att analysera givna tekniska problem och modeller.
 
-1. kunna konstruera beräkningsbara approximationer av matematiska modeller som är vanliga inom naturvetenskap och teknik.
-1. vara bekant med numeriska algoritmer för att behandla approximationerna ovan.
-1. självständigt kunna implementera och tillämpa sådana algoritmer med användning av matematiska programpaket, t ex Octave eller Matlab.
+## Kursinnehåll
 
-*2. Skills and abilities*
+Det övergripande målet med kursen är att introducera grundläggande numeriska metoder inom beräkningsmatematik.
 
-1. självständigt kunna välja och använda beräkningsalgoritmer och implementera dem på dator.
-1. självständigt kunna bedöma resultatens relevans och noggrannhet.
-1. kunna redovisa problemlösningar och numeriska resultat i skriftlig och muntlig form.
+Följande moment behandlas:
 
-*3. Judgement and approach*
+- Beräkningsmatematik. 
+- Felanalys. 
+- Numeriska metoder för linjära och icke-linjära ekvationssystem, konditionstal och matrisfaktorisering, minsta kvadratmetoden, polynominterpolation. 
+- Numerisk derivering och integration. 
+- Egenvärdesberäkning och singulärvärdesuppdelning. 
+- Diskret Fouriertransform och diskret cosinustransform.  
+- Tillämpningar inom datorgrafik, datakomprimering, sökmotorer, signalbehandling och mekanik mm.
+- Problemlösning med hjälp av programvaran MATLAB.
 
-1. med adekvat terminologi och logiskt välstrukturerat kunna redogöra för konstruktion av grundläggande matematiska modeller och algoritmer.
-1. med adekvat terminologi och välstrukturerat kunna redogöra för numerisk lösning till ett matematiskt formulerat problem.
+## Undervisningsformer
 
-## Course contents
-
-Felanalys, numeriska metoder för linjära och icke-linjära ekvationssystem, konditionstal och matrisfaktorisering, minsta kvadratmetoden, polynominterpolation, numerisk derivering och integration, egenvärdesberäkning och singulärvärdesuppdelning, diskret Fouriertransform och diskret cosinustransform samt något om deras tillämpningar inom datakomprimering.
-
-## Modules
-
-Teori och problemlösning 2 hp. Projekt 1.5 hp. Laborationer i Matlab 1.5 hp. 
-
-## Types of instruction
-
-Föreläsningar, övningar och datorlaborationer. 
+Undervisningen sker i form av föreläsningar, lärarledda räkneövningar och datorlaborationer. Projektuppgifter sker i par. Obligatorisk närvaro kan förekomma på vissa moment.
 
 ## Examination
+ 
+Examinationen av kursen delas in i följande moment:
 
-Skriftlig tentamen. Betygsskala A-F. Projektuppgift. Betygsskala A-F, Labrapporter. Betygsskala A-F.
+| Kod  | Benämning                 | Betyg | Poäng |  
+| :--- | :------------------------ | :---: | :---: |  
+| LAB1 | Laborationer i MATLAB     | A-F   | 1,5   |  
+| PRJ1 | Projektuppgift            | A-F   | 1     |  
+| TEN1 | Skriftlig tentamen        | A-F   | 2,5   |  
 
-## Grading
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: LAB1 (25%), PRJ1 (25%) och TEN1 (50%).
 
-## Literature
+Laborationsuppgifter LAB1 redovisas i skriftlig form. Projektet PRJ1 redovisas i skriftlig och muntlig form. 
+
+## Måluppfyllelse
+
+Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
+
+| Lärandemål | LAB1 |  PRJ1  | TEN1 |  
+| :--------- | :---: | :---: | :---: |
+| 1.1        | **X** | **X** | **X** | 
+| 1.2        | **X** | **X** | **X** |
+| 1.3        | **X** | **X** |       | 
+| 1.4        | **X** | **X** |       | 
+| 2.1        | **X** | **X** | **X** | 
+| 2.2        |       | **X** | **X** |
+| 2.3        | **X** | **X** |       |
+| 3.1        | **X** | **X** | **X** |
+| 3.2        | **X** | **X** |       |
+
+
+## Kurslitteratur
 
 Obligatorisk litteratur: 
 
-- Sauer, Timothy: Numerical Analysis, 2nd edition. Pearson Education, 2013, ISBN: 9781292023588. Andra utgåvor av andra upplagan, med annat ISBN-nummer, går också bra. 
+- Sauer, T.,  *Numerical analysis*, andra upplagan, Pearson Education, 2013. Antal sidor: 350 av 607.
+
+
+
+
+
+

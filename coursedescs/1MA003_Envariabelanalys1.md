@@ -1,70 +1,80 @@
----
-Name:       Envariabelanalys 1
-PrelCode:   1MA003
-HEC:        5
-Year:       1
-Period:     3
-Examiner1:  ??    
-Examiner2:  ??
-Status:     FirstDraft
-Mandatory:  Yes
-Subject:    Mathematics
-Type:       Regular
-PreReq:     1MA001
-title:      1MA003 - Envariabelanalys 1 (5 hec)
----
+# 1MA003 - Envariabelanalys 1 (5 hp)
 
-# 1MA003 - Envariabelanalys 1 (5 hec)
+|     |     |
+| --- | --- | 
+| *Huvudområde*: | Matematik | 
+| *Fördjupning*: | G1F | 
 
-## Prerequisites
+## Förkunskaper
 
-Grundläggande matematik eller motsvarande. 
+- 1MA001 - Diskret matematik.
 
-## Learnings outcomes
+## Lärandemål
 
-Efter genomgången kurs förväntas studenten kunna
+Efter slutförd kurs skall studenten kunna:
 
-- behärska teorin för analys i en variabel
-- använda differential- och integralkalkyl i en variabel
-- lösa problem, utföra beräkningar och föra resonemang i analys
-- skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet
-- redogöra för definitioner samt formulera och bevisa teorem som är centrala i analys
-- tillämpa differential- och integralkalkyl på tekniska, fysikaliska och datavetenskapliga problem, diskutera relevans, räckvidd och noggrannhet av modeller
-- visualisera resultat
-- lösa problem genom syntes av flera moment. 
+1. *Kunskap och förståelse*
+    1. Förklara analytiska begrepp såsom gränsvärden och kontinuitet, samt
+    2. redogöra för definitioner samt formulera och bevisa teorem som är centrala i analys, såsom medelvärdessatsen och analysens huvudsats.
+2. *Färdighet och förmåga*
+    1. Hantera elementära funktioner algebraiskt och analytiskt,
+    2. använda differential- och integralkalkyl i en variabel,
+    3. lösa problem, utföra beräkningar och föra resonemang i analys,
+    4. skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet,
+    5. tillämpa differential- och integralkalkyl på tekniska, fysikaliska och datavetenskapliga problem, samt
+    6. visualisera resultat såsom grafer till funktioner.
+3. *Värderingsförmåga och förhållningssätt*
+    1. Diskutera relevans, räckvidd och noggrannhet av matematiska modeller såsom differentialekvationer.
 
+## Kursinnehåll
 
-## Course contents
+Kursen ger en introduktion till envariabelanalys. Följande moment behandlas:
 
 - Gränsvärden och kontinuitet: gränsvärdesdefinitionen, räkneregler, instängningssatsen, standardgränsvärden, talet e
 - Derivata och funktionsstudier: derivatans definition, räkneregler, de elementära funktionernas derivator, medelvärdessatsen, extremvärdesproblem, kurvritning, asymptoter
-- Integraler: primitiva funktioner, integralens definition, integralkalkylens huvudsats, integralkalkylens medelvärdessats, partiell integration, variabelbyte, integrering av rationella funktioner och trigonometriska funktioner, generaliserade integraler
+- Integraler: primitiva funktioner, integralens definition, analysens huvudsats, integralkalkylens medelvärdessats, partiell integration, variabelbyte, integrering av rationella funktioner
 - Differentialekvationer: linjära och separabla ekvationer av första ordningen, linjära ekvationer av andra ordningen med konstanta koefficienter
-- Talföljder: definition, egenskaper, övre och undre gräns, gränsvärde, räkneregler för gränsvärden. Konvergens av monotona talföljder
-- Kontinuerliga funktioner: satsen om mellanliggande värde, Weierstrass sats om maximalt och minimalt värde
-- Serier: konvergens, egenskaper. Positiva serier: jämförelsekriterier, kvot- och rotkriterier, integralkriteriet. Alternerande serier, betingad konvergens och absolutkonvergens.
-- Potensserier, konvergensradie, konvergensintervall
-- Maclaurins och Taylors formler med restterm, Taylors formel för de elementära funktionerna, beräkningar av gränsvärde och integraler med Taylors formel
-- Matematisk modellering med differentialekvationer. 
+- Matematisk modellering med differentialekvationer
 
-## Modules
+## Undervisningsformer
 
-Problemlösning 6.0 hp. Teori 1.5 hp. 
-
-## Types of instruction
-
-Föreläsningar och övningar. 
+Föreläsningar och lärarledda räkneövningar. 
 
 ## Examination
 
-Skriftlig tentamen. Betygsskala A-F.
+Examinationen av kursen delas in i följande moment:
 
-## Grading
+| Kod  | Benämning                 | Betyg | Poäng |  
+| :--- | :------------------------ | :---: | :---: |  
+| TEN1 | Tentamen: Problemlösning  | A-F   | 4     |  
+| TEN2 | Tentamen: Teori           | G-U   | 1     |  
 
-## Literature
+För godkänt betyg på kursen krävs minst godkänt på samtliga moment. Slutbetyget är lika med betyget från TEN1.
+
+## Måluppfyllelse
+
+Examinationsmomenten kopplas till lärandemålen enligt följande:
+
+| Lärandemål | TEN1  | TEN2  |  
+| :--------- | :---: | :---: |  
+| 1.1        |       | **X** |  
+| 1.2        |       | **X** |  
+| 2.1        | **X** |       |  
+| 2.2        | **X** |       |  
+| 2.3        | **X** | **X** |  
+| 2.4        | **X** |       |  
+| 2.5        | **X** |       |  
+| 2.6        | **X** |       |  
+| 3.1        | **X** |       |  
+
+
+## Litteratur
 
 Obligatorisk litteratur: 
 
-- Månsson J, Nordbeck P, *Endimensionell analys*, Studentlitteratur. 
-- Månsson J., Nordbeck P. *Övningar i endimensionell analys*, Studentlitteratur. 
-- Material från institutionen
+- Månsson J, Nordbeck P, *Endimensionell analys*, Studentlitteratur, 2011. Antal sidor: 200 av 400. 
+- Månsson J., Nordbeck P. *Övningar i endimensionell analys*, Studentlitteratur, 2011. Antal sidor: 100 av 206. 
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
