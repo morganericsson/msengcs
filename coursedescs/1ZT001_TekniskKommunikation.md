@@ -36,7 +36,7 @@ I denna kurs kommer en kunskapsmässig grund till färdigheter inför skriftliga
 - Akademiska och populärvetenskapliga texttyper: utformning, analys och användande.
 - Akademisk skrivande: Grundläggande normer i svenska skrivregler, Akademiska texters struktur, Vetenskaplig stil.
 - Disposition och formalia rörande hantering av disposition, Referenshantering, Utformning och användning av figurer och tabeller.
-- Moderna verktyg för skapande av texter och presentationer.
+- Moderna verktyg för skapande av texter och presentationer.
 - Presentationsteknik: Retorik, kroppsspråk och röstteknik, Beskrivande och argumenterande presentationer, Kommunikationssituationer i yrkessammanhang.
 - Avancerad informationssökning.
 - Etik, upphovsrätt och plagiat.
