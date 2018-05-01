@@ -16,7 +16,7 @@ Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
     1. Beskriva övergripande den klassiska mekanikens förutsättningar,
-    2. Redogöra för den klassiska mekanikens huvudsakliga resultat och sammanhang,
+    2. redogöra för den klassiska mekanikens huvudsakliga resultat och sammanhang,
     3. förklara hur den klassiska mekaniken kan tillämpas, samt
     4. beskriva tillämpning inom styrning av tekniska system.
 2. *Färdighet och förmåga*

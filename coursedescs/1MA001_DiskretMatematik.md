@@ -20,7 +20,7 @@ Efter slutförd kurs skall studenten kunna:
     1. Använda resultat i logik, mängdlära och diskreta matematiska modeller,
     2. hantera logisk och algebraisk formalism,
     3. lösa problem, utföra beräkningar och föra resonemang i diskret matematik,
-    4. Skriftligt presentera beräkningar och resonemang inom diskret matematik så att de kan följas av den som inte är insatt i problemet, samt
+    4. skriftligt presentera beräkningar och resonemang inom diskret matematik så att de kan följas av den som inte är insatt i problemet, samt
     5. tillämpa diskreta matematiska modeller på datavetenskapliga problem.
 1. *Värderingsförmåga och förhållningssätt*
     1. Diskutera relevans, räckvidd och noggrannhet av matematiska modeller såsom grafer och differensekvationer.

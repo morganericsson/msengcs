@@ -18,17 +18,17 @@
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. beskriva de huvudsakliga applikationerna och referensarkitekturerna (CPU, buss, gränssnitt etc.) för inbyggda system och realtidshantering,
+    1. Beskriva de huvudsakliga applikationerna och referensarkitekturerna (CPU, buss, gränssnitt etc.) för inbyggda system och realtidshantering,
     2. definiera gränssnittet mellan hårdvara och programvara och påvisa relaterade begränsningar och potentiella risker,
-    3. sammanfatta hur inbyggda operativsystem är strukturerat och arbetar, särskilt när det gäller avbrott, processer, trådar och schemaläggare,
+    3. sammanfatta hur inbyggda operativsystem är strukturerat och arbetar, särskilt när det gäller avbrott, processer, trådar och schemaläggare, samt
     4. förklara anomalier vid schemaläggning, deras orsaker och hur man hanterar dem.
 2. *Färdighet och förmåga*
-    1. använda olika metoder för att bestämma möjligheten att schemalägga en uppsättning periodiska uppgifter,
+    1. Använda olika metoder för att bestämma möjligheten att schemalägga en uppsättning periodiska uppgifter,
     2. använda effektiva språk och designmiljöer för inbyggda system,
-    3. formge och implementera inbyggda program för att styra hårdvaruenheter, sensorer och manöverdon,
+    3. formge och implementera inbyggda program för att styra hårdvaruenheter, sensorer och manöverdon, samt
     4. implementera undantags- och avbrottsrutiner.
 3. *Värderingsförmåga och förhållningssätt*
-    1. bedöma för- och nackdelar för olika schemaläggningsmetoder,
+    1. Bedöma för- och nackdelar för olika schemaläggningsmetoder, samt
     2. bedöma för- och nackdelar för olika synkroniseringsmetoder.
 
 ## Kursinnehåll

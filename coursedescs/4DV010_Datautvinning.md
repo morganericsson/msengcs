@@ -19,14 +19,14 @@
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. förklara grundläggande koncept och principer för datautvinning, t.ex. avståndsmått och klustering, samt
+    1. Förklara grundläggande koncept och principer för datautvinning, t.ex. avståndsmått och klustering, samt
     2. redogöra för de senaste rönen inom datautvinning, t.ex. tekniker och tillämpningar.
 2. *Färdighet och förmåga*
-    1. givet ett problem och en datamängd eller dataström, planera och strukturera en datautvinningspipeline med avseende på vilka metoder som skall användas för att t.ex. dimensionsreducering, avståndsmått och klustering, samt vilken kvalitet utdata kommer att ha,
+    1. Fivet ett problem och en datamängd eller dataström, planera och strukturera en datautvinningspipeline med avseende på vilka metoder som skall användas för att t.ex. dimensionsreducering, avståndsmått och klustering, samt vilken kvalitet utdata kommer att ha,
     2. implementera några av de enklare algoritmerna, t.ex. Page rank och CURE-klustering på ett effektivt sätt, t.ex. med hjälp av Map-reduce ramverk, samt
     3. använda lämpliga befintliga verktyg och programbibliotek för att utvinna data ur en given (ostrukturerad) datamängd eller dataström.
 3. *Värderingsförmåga och förhållningssätt*
-    1. reflektera över en datautvinningstillämpning ur ett samhällsperspektiv med avseende på t.ex. etiska frågeställningar kontra nytta, samt
+    1. Reflektera över en datautvinningstillämpning ur ett samhällsperspektiv med avseende på t.ex. etiska frågeställningar kontra nytta, samt
     2. resonera kring datakvalitet med avseende på hur den påverkar hur utvunnen data kan användas samt hur datakvaliteten hos indata kan förbättras.
 
 ## Kursinnehåll

@@ -28,7 +28,7 @@ Efter slutförd kurs skall studenten kunna:
     4. utföra reduktion av algoritmiska problem (i vissa enkla fall), samt
     5. tillämpa vanliga algoritmstrategier så som söndra-och-härska, dynamisk programmering och giriga algoritmer.
 3. *Värderingsförmåga och förhållningssätt*
-    1. resonera om vilken algoritm eller datastruktur som är mest lämpad i en given situation, samt
+    1. Resonera om vilken algoritm eller datastruktur som är mest lämpad i en given situation, samt
     2. resonera om en algoritm är korrekt och kunna identifiera vanligt förekommande fallgropar.
 
 ## Kursinnehåll

@@ -22,7 +22,7 @@ Efter slutförd kurs skall studenten kunna:
     3. specificera ett reglersystem i såväl tids¬ som frekvensplanet
     4. utifrån en systembeskrivning simulera tidsförlopp. Processparametrar ska kunna ändras och olika processvariabler ska kunna studeras,
     5. i enkla fall kunna specificera, modellera, konstruera och verifiera ett reglersystem för en labbprocess, samt
-    6. Från såväl slutna systemets polplacering som det öppna systemets frekvenskarakteristik göra rimliga bedömningar om hur snabbt och hur oscillativt det slutna systemet är samt beräkna stationära fel.
+    6. från såväl slutna systemets polplacering som det öppna systemets frekvenskarakteristik göra rimliga bedömningar om hur snabbt och hur oscillativt det slutna systemet är samt beräkna stationära fel.
 3. *Värderingsförmåga och förhållningssätt*
     1. Utifrån en systembeskrivning kunna reflektera över och motivera vilken typ av regulator som är bäst lämpad för att erhålla t.ex. önskad robusthet.
 

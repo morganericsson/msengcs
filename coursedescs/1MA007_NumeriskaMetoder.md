@@ -17,7 +17,7 @@ Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
     1. Redogöra för och särskilja grundläggande begrepp och metoder inom beräkningsmatematik, samt
-    2. Redogöra för beräkningsmatematiska resonemang på ett strukturerat och logiskt sammanhängande sätt.
+    2. redogöra för beräkningsmatematiska resonemang på ett strukturerat och logiskt sammanhängande sätt.
 2. *Färdighet och förmåga*
     1. Visa förmåga att kombinera kunskaper om olika begrepp, metoder och numeriska algoritmer i problemlösning,
     2. identifiera och använda lämpliga grundläggande numeriska algoritmer för att lösa givna matematiska problem med hjälp av miniräknare,

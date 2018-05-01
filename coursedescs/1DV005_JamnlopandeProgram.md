@@ -23,9 +23,9 @@ Efter slutförd kurs skall studenten kunna:
     6. förklara skillnaden mellan parallellism, samtidighet och asynkron exekvering.
 2. *Färdighet och förmåga*
     1. Utveckla jämnlöpande program i Java för en dator med delat minne genom att använda trådar och låsning,
-    2. implementera lås-fria datastrukturer i Java, samt
-    3. bevisa att (enkla) jämnlöpande program är korrekta.
-    4. Analysera ett problem och implementera en lämplig jämnlöpande lösning som är korrekt synkroniserad, samt
+    2. implementera lås-fria datastrukturer i Java, 
+    3. bevisa att (enkla) jämnlöpande program är korrekta, samt
+    4. analysera ett problem och implementera en lämplig jämnlöpande lösning som är korrekt synkroniserad.
 3. *Värderingsförmåga och förhållningssätt*
     1. Välja och föra ett resonemang om delat minne eller meddelanden är mest lämpligt vid ett givet problem.
 

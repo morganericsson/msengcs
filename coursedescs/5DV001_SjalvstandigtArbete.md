@@ -17,19 +17,19 @@
 Efter genomförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. visa väsentligt fördjupade kunskaper inom datavetenskap och/eller mjukvaruteknik, samt fördjupad insikt i aktuellt forsknings- och utvecklingsarbete,
-    2. visa fördjupad metodkunskap inom datavetenskap och/eller mjukvaruteknik,
+    1. Visa väsentligt fördjupade kunskaper inom datavetenskap och/eller mjukvaruteknik, samt fördjupad insikt i aktuellt forsknings- och utvecklingsarbete, samt
+    2. visa fördjupad metodkunskap inom datavetenskap och/eller mjukvaruteknik.
 2. *Färdighet och förmåga*
-    1. med helhetssyn kritiskt, självständigt och kreativt identifiera, formulera och hantera komplexa frågeställningar
-    2. formulera och kritiskt utvärdera, analysera och/eller utvärdera vetenskapliga frågeställningar, teorier och metoder
-    3. planera och med adekvata metoder genomföra kvalificerade uppgifter inom givna ramar samt att utvärdera detta arbete
-    4. delta i forsknings‐ och utvecklingsarbete och därigenom bidra till kunskapsutvecklingen
-    5. kritiskt och systematiskt integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information samt visa förmåga att modellera, simulera, förutsäga och utvärdera skeenden även med begränsad information
-    6. muntligt och skriftligt klart redogöra för och diskutera sina slutsatser, samt den kunskap och de argument som ligger till grund för dessa
+    1. Med helhetssyn kritiskt, självständigt och kreativt identifiera, formulera och hantera komplexa frågeställningar, 
+    2. formulera och kritiskt utvärdera, analysera och/eller utvärdera vetenskapliga frågeställningar, teorier och metoder,
+    3. planera och med adekvata metoder genomföra kvalificerade uppgifter inom givna ramar samt att utvärdera detta arbete,
+    4. delta i forsknings‐ och utvecklingsarbete och därigenom bidra till kunskapsutvecklingen,
+    5. kritiskt och systematiskt integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information samt visa förmåga att modellera, simulera, förutsäga och utvärdera skeenden även med begränsad information, samt
+    6. muntligt och skriftligt klart redogöra för och diskutera sina slutsatser, samt den kunskap och de argument som ligger till grund för dessa.
 3. *Värderingsförmåga och förhållningssätt*
-    1. göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter inom ramen för det specifika självständiga arbetet samt visa medvetenhet om etiska aspekter på forsknings‐ och utvecklingsarbete
-    2. identifiera och analysera vetenskapens och ingenjörens roll i samhället
-    3. identifiera sitt behov av ytterligare kunskap och att ta ansvar för att fortlöpande utveckla sin kunskap och kompetens
+    1. Göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter inom ramen för det specifika självständiga arbetet samt visa medvetenhet om etiska aspekter på forsknings‐ och utvecklingsarbete, 
+    2. identifiera och analysera vetenskapens och ingenjörens roll i samhället, samt
+    3. identifiera sitt behov av ytterligare kunskap och att ta ansvar för att fortlöpande utveckla sin kunskap och kompetens.
 
 ## Kursinnehåll
 

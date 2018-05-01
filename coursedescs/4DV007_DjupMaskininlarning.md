@@ -23,11 +23,11 @@ Efter slutförd kurs skall studenten kunna:
     3. förklara begränsningarna hos en modell i en given situation.
 2. *Färdighet och förmåga*
     1. Implementera algoritmer inom djup maskininlärning med hjälp av moderna ramverk,
-    2. tillämpa relevanta begrepp från djup maskininlärning för att lösa praktiska problem såsom bildigenkänning, samt
-    3. representera data för att underlätta lärandet.
-    4. Känna igen typiska effekter av olämpliga initialiseringsvärden, parameterval och hyperparameterval, och föreslå sätt att förbättra resultaten, samt
+    2. tillämpa relevanta begrepp från djup maskininlärning för att lösa praktiska problem såsom bildigenkänning,
+    3. representera data för att underlätta lärandet, samt
+    4. känna igen typiska effekter av olämpliga initialiseringsvärden, parameterval och hyperparameterval, och föreslå sätt att förbättra resultaten.
 3. *Värderingsförmåga och förhållningssätt*
-    1. värdera, sammanfatta, diskutera och muntligt presentera vetenskapliga resultat inom området och resonera kring dess påverkan på samhället.
+    1. Värdera, sammanfatta, diskutera och muntligt presentera vetenskapliga resultat inom området och resonera kring dess påverkan på samhället.
 
 ## Kursinnehåll
 

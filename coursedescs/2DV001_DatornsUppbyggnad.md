@@ -20,11 +20,11 @@ Efter slutförd kurs skall studenten kunna:
     1. Förklara vikten av abstraktion i utformningen av digitala system,
     2. förklara de viktigaste mjukvaru- och hårdvaruabstraktionerna i dagens datorsystem,
     3. förklara funktionen hos måttligt komplexa digitala system, samt
-    4. Beskriva hur virtualisering och virtuellt minne fungerar.
+    4. beskriva hur virtualisering och virtuellt minne fungerar.
 2. *Färdighet och förmåga*
     1. Analysera prestandan hos digitala system i termer av latens och kapacitet,
     2. utforma enkla hårdvarusystem baserat på olika digitala abstraktioner såsom minnen, logikkretsar, logiska träd, tillståndsmaskiner, pipelining och bussar,
-    3. Implementera hårdvarunära program i C, samt
+    3. implementera hårdvarunära program i C, samt
     4. överföra enkla program skrivna i något högnivåspråk till maskinkod.
 3. *Värderingsförmåga och förhållningssätt*
     1. Bedöma hur olika hårdvarudesigner, t.ex. med avseende på cache och hitrate, påverkar prestanda för applikationsprogram.

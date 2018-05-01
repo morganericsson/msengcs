@@ -19,12 +19,12 @@
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. resonera kring vad säkerhet (security och safety) betyder för ett mjukvaruprogram eller system och vilka egenskaper som krävs.
+    1. Resonera kring vad säkerhet (security och safety) betyder för ett mjukvaruprogram eller system och vilka egenskaper som krävs.
     2. beskriva metoder för och svårigheter med att formellt verifiera egenskaper relaterade till säkerhet och korrekthet hos mjukvarusystem samt vilka begränsningar olika metoder har,
     3. redogöra för de senaste rönen inom formella metoder och verifikation, samt
     4. redogöra för hur runtime-övervakning kan användas för att genomdriva säkerhetskrav.
 2. *Färdighet och förmåga*
-    1. kunna uttrycka säkerhetsegenskaper hos (jämnlöpande) system och mjukvaruprogram formellt med hjälp av olika typer av logik,
+    1. Uttrycka säkerhetsegenskaper hos (jämnlöpande) system och mjukvaruprogram formellt med hjälp av olika typer av logik,
     2. använda olika metoder för att verifiera korrekthet och säkerhet hos system under modellering och mjukvaruprogram, samt
     3. använda de vanligaste verktygen och programmen för att beskriva och verifiera system och mjukvaruprogram.
 3. *Värderingsförmåga och förhållningssätt*

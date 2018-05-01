@@ -23,8 +23,8 @@ Efter slutförd kurs skall studenten kunna:
 2. *Färdighet och förmåga*
     1. Utveckla nya eller förändra befintliga verksamheter,
     2. validera om en affärsmodell är lönsam genom att identifiera och närma sig kunder, partners och konkurrenter,
-    3. delta i entreprenörsnätverk,
-    4. Skapa och utvärdera idéer för nya företag på ett strukturerat och konsekvent sätt, samt
+    3. aktivt delta i entreprenörsnätverk,
+    4. skapa och utvärdera idéer för nya företag på ett strukturerat och konsekvent sätt, samt
     5. tillämpa olika innovationsstrategier.
 3. *Värderingsförmåga och förhållningssätt*
     1. Identifiera entreprenörsmöjligheter och bedöma dem,
