@@ -20,7 +20,7 @@
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. Beskriva lagren i en nätverksstack, t ex TCP/IP och diskutera deras syfte,
+    1. Beskriva lagren i en nätverksstack, t.ex. TCP/IP och diskutera deras syfte,
     2. beskriva hur lagren interagerar för att överföra data över ett nätverk, och hur varje funktion manipulerar data, t.ex. genom att lägga till pakethuvuden eller konvertera signalen,
     3. förklara hur routing fungerar i lokala nät och på internet,
     4. beskriva de olika typerna av adresser som används, samt
@@ -29,10 +29,10 @@ Efter slutförd kurs skall studenten kunna:
     1. Använda vanliga felsökningsverktyg för nätverk, t.ex. tcpdump, ping och traceroute,
     2. skriva program som kommunicerar över TCP/IP, samt
     3. konfigurera och administrera routrar enligt en specifikation.
+    4. tolka standarder för nätverksprotokoll (RFC) och implementera dessa i programvara.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Utforma en TCP/IP-baserad applikation och välja lämpliga protokoll på olika nivåer i protokollstacken, samt
-    2. tolka standarder för nätverksprotokoll (RFC) och implementera dessa i programvara.
-
+    1. Givet en applikation och ett förslag på implementation (protokoll), resonera kring vilka egenskaper, t.ex. presetanda den kommer att ha samt vilka problem som kan uppstå, t.ex. med avseende på tillförlitlighet.
+   
 ## Kursinnehåll
 
 Kursen ger en introduktion till datornät från ett Internet och TCP/IP-perspektiv. Huvudsaklig fokus ligger på mjukvaruaspekter, men grundläggande begrepp inom datakommunikation, t.ex. signaler och modulering berörs.
@@ -81,14 +81,14 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 | 2.1        |       | **X** |
 | 2.2        | **X** | **X** |
 | 2.3        |       | **X** |
+| 2.4        | **X** | **X** |
 | 3.1        | **X** | **X** |
-| 3.2        | **X** | **X** |
 
 ## Kurslitteratur
 
 Obligatorisk litteratur:
 
-- Comer D., *Computer Networks and Internets*, sjätte utgåvan, Pearson, 2015. Antal sidor:  640 / 667 sidor. 
+- Comer, D., *Computer Networks and Internets*, sjätte utgåvan, Pearson, 2015. Antal sidor:  640 / 667 sidor. 
 
 ## Övrigt
 

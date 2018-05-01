@@ -16,14 +16,14 @@ Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
     1. Beskriva övergripande den klassiska mekanikens förutsättningar,
-    2. redogöra för teorins huvudsakliga resultat och sammanhang,
-    3. förklara hur teorin kan tillämpas, samt
+    2. Redogöra för den klassiska mekanikens huvudsakliga resultat och sammanhang,
+    3. förklara hur den klassiska mekaniken kan tillämpas, samt
     4. beskriva tillämpning inom styrning av tekniska system.
 2. *Färdighet och förmåga*
     1. Tillämpa teoretiska samband för problemlösning,
-    2. förmåga till problemlösning genom tillämpning av matematiska metoder inom linjär algebra och differentialekvationer,
+    2. lösa problem genom tillämpning av matematiska metoder inom linjär algebra och differentialekvationer,
     3. analysera mekaniska system,
-    4. utföra och planera mätningar av mekaniska storheter, samt
+    4. planera och utföra mätningar av mekaniska storheter, samt
     5. uppskatta fel och precision i mätningar och felberäkna mätdata.
 3. *Värderingsförmåga och förhållningssätt*
     1. På en grundläggande nivå visa insikt om teorins begränsningar,
@@ -34,19 +34,19 @@ Efter slutförd kurs skall studenten kunna:
 
 Kursen behandlar klassisk mekanik enligt Newton baserad på vektorbeskrivning i två och tre dimensioner. Kursens huvuddel behandlar statik, dynamik, plan rotation samt enkel svängningsrörelse. Även relativ rörelse ingår. Avslutningsvis ges en viss inblick i analytisk mekanik och dess relevans inom automationsstyrning.
 
-1. Klassisk mekanik enligt Newton
-	1. Statik: kraft- och momentjämvikt vid friläggning, masscentrum, friktion
-	2. Dynamik: kinematik och kinetik, olika koordinatsystem, arbete, energi och impuls, konserveringslagar
-	3. Svängningsrörelser: dämpad och odämpad svängning, resonans
-	4. Roterande objekt: tröghetsmoment och rörelsemängdsmoment
-	5. Relativ rörelse: fiktiva krafter, centrifugalkraft och Corioliseffekt
-2. Något om analytisk mekanik
-	1. Om den teoretiska bakgrunden: minsta verkans princip, Lagrange och Hamiltons formuleringar
-	1. Tillämpning inom automation: styrning av ett dynamiskt system
+- Klassisk mekanik enligt Newton
+	- Statik: kraft- och momentjämvikt vid friläggning, masscentrum, friktion
+	- Dynamik: kinematik och kinetik, olika koordinatsystem, arbete, energi och impuls, konserveringslagar
+	- Svängningsrörelser: dämpad och odämpad svängning, resonans
+	- Roterande objekt: tröghetsmoment och rörelsemängdsmoment
+	- Relativ rörelse: fiktiva krafter, centrifugalkraft och Corioliseffekt
+- Analytisk mekanik
+	- Om den teoretiska bakgrunden: minsta verkans princip, Lagrange och Hamiltons formuleringar
+	- Tillämpning inom automation: styrning av ett dynamiskt system
 
 Kursen innehåller ett antal laborationer som förutom metoder för behandling av mätdata och bedömning av mätnoggrannhet speciellt behandlar roterande system, svängningsrörelse respektive styrning av en dubbelpendel eller inverterad pendel. Dessutom ingår en datorsimulering.
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen sker i form av föreläsningar, räkneövningar och lärarledda laborationer. Huvuddelen av kursens innehåll presenteras och förklaras under föreläsningarna. Under räkneövningarna kommer studenterna sedan att få tillämpa teorin på tekniska problem. Metoder för problemlösning kommer att demonstreras. Kursen omfattar även ett antal laborationer, då både grundläggande fenomen och vissa tekniska tillämpningar demonstreras. Laborationerna omfattar även mättekniska övningar samt träning i rapportskrivning.
 
@@ -87,8 +87,7 @@ Examinationsmoment kopplas till lärandemål enligt följande:
 
 Obligatorisk litteratur: 
 
-- McCall, M. W., *Classical Mechanics*, Wiley, 2001. 
-Antal sidor: 236 / 268 sidor. 
+- McCall, M. W., *Classical Mechanics*, Wiley, 2001. Antal sidor: 236 av 268 sidor. 
 
 Referenslitteratur:
 

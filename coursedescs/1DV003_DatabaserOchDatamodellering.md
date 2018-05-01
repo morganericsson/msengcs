@@ -17,18 +17,18 @@ Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
     1. Förklara de grundläggande begreppen relaterade till datorbaserade informationssystem samt förklara de viktigaste problemen och regelverken i samband med datahantering i stora organisationer och företag,
-    2. översiktligt redogöra för olika databastyper, t.ex. relations,- dokument-, objekt-baserade, osv.,
+    2. översiktligt redogöra för olika databastyper, t.ex. relations-,  dokument- och objekt-baserade, 
     3. förklara de olika typerna av modeller (konceptuell, logisk och fysisk) som används för att ta fram och resonera kring en databas,
-    4. förklara relationsmodellen, relationsalgebra, kopplingen till predikatlogik, normalformer, osv., samt
+    4. förklara relationsmodellen, relationsalgebra, kopplingen till predikatlogik och normalformer, samt
     5. redogöra för hur data, t.ex. tabeller, kan lagras på block-enheter, t.ex. hårddiskar, inklusive att kunna beskriva de algoritmer och datastrukturer som behövs.
 2. *Färdighet och förmåga*
-    1. Utforma datamodeller på olika semantiska nivåer (begreppsmässig, logisk, fysisk) med hjälp av lämplig formalism, inklusive Entity-Relationship och relationsmodeller,
+    1. Utforma datamodeller på olika semantiska nivåer (begreppsmässig, logisk, fysisk) med hjälp av lämplig formalism, såsom Entity-Relationship och relationsmodeller,
     2. optimera en databasdesign genom att använda normalformer (1NF, 2NF, 3NF, BCNF), med beaktande av egenskaperna hos de fysiska medier som används för datalagring, samt
     3. implementera relationsdatamodeller i en databashanterare samt skapa, fråga och manipulera data med hjälp av SQL via klientprogram och program implementerade i Python.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Analysera en domän och dess begränsningar som en datamodell samt muntligt och skriftligt diskutera fördelarna och nackdelarna med designen,
+    1. Analysera och värdera en domän och dess begränsningar som en datamodell samt muntligt och skriftligt diskutera fördelarna och nackdelarna med designen,
     2. reflektera över egenskaperna hos olika datamodeller och välja de som är mest lämpade för det problem som ska lösas, samt
-    3. resonera om hur olika designalternativ påverkar databasens egenskaper, t.ex. prestanda, möjliga frågor, osv.
+    3. resonera om hur olika designalternativ påverkar databasens egenskaper, t.ex. prestanda och möjliga frågor.
 
 
 ## Kursinnehåll
@@ -79,7 +79,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 | 1.3        | **X** |       |       |
 | 1.4        | **X** |       | **X** |
 | 1.5        | **X** |       | **X** |
-| 2.1        | **X** |       | **X** |
+| 2.1        | **X** | **X** | **X** |
 | 2.2        | **X** | **X** | **X** |
 | 2.3        |       | **X** |       |
 | 3.1        | **X** |       | **X** |
@@ -91,7 +91,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Garcia-Molina, H. , Ullman, J.D. och Widom, J. *Database Systems: The Complete Book*, andra utgåvan, Pearson, 2013. Antal sidor: 700 av 1140.
+- Garcia-Molina, H., Ullman, J. D. och Widom, J., *Database Systems: The Complete Book*, andra utgåvan, Pearson, 2013. Antal sidor: 700 av 1140.
 
 ## Övrigt
 

@@ -24,7 +24,7 @@ Efter slutförd kurs skall studenten kunna:
     2. analysera ett problem, skapa en kravspecifikation, designa och implementera lösningar, och verifiera att lösningen uppfyller alla krav,
     3. använda vanliga tekniska projektverktyg (tex versionshantering med Git),
     4. självständigt söka efter och värdera information,
-    5. strukturera och genomföra en skriftlig och muntlig  presentation av genomförda laborationer och projekt, samt
+    5. strukturera och genomföra en skriftlig och muntlig presentation av genomförda laborationer och projekt, samt
     6. genomföra ett projekt i grupp under begränsad tid och där tillämpa en arbetsform som presenterats i kursen.
 3. *Värderingsförmåga och förhållningssätt*
     1. Reflektera över och värdera en given ansats att lösa ett problem, 
@@ -64,7 +64,7 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                         | Betyg | Poäng |  
 | :--- | :-------------------------------- | :---: | :---: |  
-| LAB1 | Programmeringsuppgifter             | G-U   | 1,5   |  
+| LAB1 | Programmeringsuppgifter           | G-U   | 1,5   |  
 | PRJ1 | Projekt                           | A-F   | 4     |  
 | PRS1 | Presentation                      | A-F   | 1     |  
 | UPG1 | Uppgifter om yrkesrollen ingenjör | G-U   | 1     |  
@@ -90,7 +90,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 | 2.6        |       |       | **X** |       |  
 | 3.1        |       | **X** | **X** |       |  
 | 3.2        |       |       | **X** | **X** |  
-| 3.3        |       | **X** | **X** |       |  
+| 3.3        | **X** | **X** |       |       |  
 
 ## Kurslitteratur
 

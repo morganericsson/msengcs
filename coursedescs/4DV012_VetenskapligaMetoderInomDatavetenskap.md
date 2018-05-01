@@ -9,18 +9,17 @@
 
 - 1ZT001 - Teknisk kommunikation
 - 2OT001 - Vetenskaplig metod
-- Minst en av projektkurserna 4DV004 och 4DV008
-- Minst 200 hp
+- Minst en av projektkurserna 4DV004 eller 4DV008
 
 ## Lärandemål
 
 Efter genomförd kurs förväntas studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. Redogöra för de senaste rönen inom ett delområde inom datavetenskap och mjukvaruteknik i stor detalj, samt
-    2. redogöra för forskningsinriktningar, ställningstaganden, samt de vanligaste metodvalen inom ett delområde inom datavetenskap och mjukvaruteknik.
+    1. Redogöra för de senaste rönen inom ett delområde inom datavetenskap och/eller mjukvaruteknik i stor detalj, samt
+    2. redogöra för forskningsinriktningar, ställningstaganden, samt de vanligaste metodvalen inom ett delområde inom datavetenskap och/eller mjukvaruteknik.
 2. *Färdighet och förmåga*
-    1. Självständigt planera ett vetenskapligt projekt med relevanta frågeställningar och lämpliga metoder inom datavetenskap och mjukvaruteknik,
+    1. Självständigt planera ett vetenskapligt projekt med relevanta frågeställningar och lämpliga metoder inom datavetenskap och/eller mjukvaruteknik,
     2. söka efter, kritiskt utvärdera, och presentera vetenskapliga resultat, samt
     3. kritiskt analysera metodval och genomförande i en vetenskaplig studie.
 3. *Värderingsförmåga och förhållningssätt*
@@ -38,7 +37,7 @@ Kursen är en seminariekurs där studenterna presenterar och diskuterar vetenska
 - Fördjupning i planering av forskningsprojekt
 - Fördjupning av etiska frågeställningar och hur dessa hanteras
  
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen består ett fåtal föreläsningar som introducerar kursens upplägg och teori samt seminarier där studenterna presenterar och diskuterar forskningsresultat tillsammans med forskare inom fältet. Läraren kommer vid behov att styra diskussion så att alla frågeställningar berörs, t.ex. etiska ställningstaganden.
 
@@ -51,8 +50,8 @@ Examinationen av kursen delas in i följande moment:
 | Kod  | Benämning                                   | Betyg | Poäng |  
 | :--- | :------------------------------------------ | :---: | :---: |  
 | PRS1 | Presentation av vetenskapliga arbeten       | A-F   | 1     |  
-| OPP1 | Opponering på andras presentationer         | A-F   | 1     |  
-| UPG1 | Planeringsrapport                           | A-F   | 3     |  
+| OPP1 | Opponering         | A-F   | 1     |  
+| UPG1 | Planeringsdokument                          | A-F   | 3     |  
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: PRS1 (20%), OPP1 (20%) och UPG1 (60%).
 
@@ -74,3 +73,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 ## Kurslitteratur
 
 Kurslitteraturen bestäms i samråd med handledare och består av vetenskapliga artiklar och böcker som antingen kan laddas ner eller lånas.
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

@@ -81,7 +81,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Løwe Nielsen, S., Klyver, K., Rostgard Evald, M., och Bager, T., *Entrepreneurship in theory and practice – paradoxes in play*, andra utgåvan, Edward Elgar Publishing, 2017, Antal sidor: 236 av 368.
+- Løwe Nielsen, S., Klyver, K., Rostgard Evald, M. och Bager, T., *Entrepreneurship in theory and practice – paradoxes in play*, andra utgåvan, Edward Elgar Publishing, 2017, Antal sidor: 236 av 368.
 - Ries, E., *The Lean Startup*, Crown Publishing Group, 2011. Antal sidor: 300 av 336.
 
 ## Övrigt

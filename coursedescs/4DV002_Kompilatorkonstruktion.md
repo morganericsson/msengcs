@@ -30,7 +30,7 @@ Efter slutförd kurs skall studenten kunna:
     4. designa och implementera en stackmaskinbaserad virtuell maskin.
 3. *Värderingsförmåga och förhållningssätt*
     1. Värdera svårigheten i att hantera olika programkonstruktioner, samt
-    2. välja lämplig formell notation för att beskriva ett givet formellt språk.
+    2. välja och reflektera över lämplig formell notation för att beskriva ett givet formellt språk.
 
 ## Kursinnehåll
 
@@ -88,4 +88,8 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Aho, A. V.,Lam, M. S., Sethi, R. och Ullman, J. D., *Compilers: Principles, Techniques, and Tools*, Pearson Education, 2006. Antal sidor: 510 av 986.
+- Aho, A. V., Lam, M. S., Sethi, R. och Ullman, J. D., *Compilers: Principles, Techniques, and Tools*, Pearson Education, 2006. Antal sidor: 510 av 986.
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

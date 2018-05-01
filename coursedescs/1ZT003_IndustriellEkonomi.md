@@ -13,7 +13,7 @@ Grundläggande behörighet samt Matematik D eller Matematik 4 (områdesbehörigh
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. Förstå ekonomiska konsekvenserna av olika tekniska beslut och de tekniska konsekvenserna av olika ekonomiska beslut, 
+    1. Förstå grundläggande ekonomiska konsekvenser av olika tekniska beslut och tekniska konsekvenser av olika ekonomiska beslut,
     2. redogöra för grundläggande ekonomiska begrepp, samt
     3. beskriva metoder för att kunna styra, planera och utveckla industriella verksamheter.
 2. *Färdighet och förmåga*
@@ -26,20 +26,20 @@ Efter slutförd kurs skall studenten kunna:
 
 I denna kurs kommer en grundläggande förståelse av förtagsekonomi och baskunskaper i industriell ekonomi ges.  Kursen innehåller följande:
 
-- ekonomiska begrepp
-- nyckeltal 
-- ekonomiska modeller
-- ekonomisk analys 
-- kalkylering på kort och lång sikt
-- rörelsekapitalbehov
-- tekniker för att utföra och göra lönsamhetsbedömning i företag
-- kapitalbindning
-- budgetering
-- årsredovisning, redovisning och bokföring
-- finansiering
-- ekonomi- och verksamhetsstyrning
+- Ekonomiska begrepp
+- Nyckeltal 
+- Ekonomiska modeller
+- Ekonomisk analys 
+- Kalkylering på kort och lång sikt
+- Rörelsekapitalbehov
+- Tekniker för att utföra och göra lönsamhetsbedömning i företag
+- Kapitalbindning
+- Budgetering
+- Årsredovisning, redovisning och bokföring
+- Finansiering
+- Ekonomi- och verksamhetsstyrning
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen bedrivs i form av föreläsningar och övningar/seminarie med räkne- och diskussionskaraktär, där konkreta industri- och samhällsexempel används för att åskådliggöra teoriernas relevans.
 
@@ -50,9 +50,9 @@ Examinationen av kursen delas in i följande moment:
 | Kod  | Benämning             | Betyg | Poäng |  
 | :--- | :-------------------- | :---: | :---: |  
 | SEM1 | Seminarium och debatt | G-U   | 1     |  
-| TEN1 | Programmingsuppgifter | 5-U   | 4     |  
+| TEN1 | Skriftlig tentamen | A-F   | 4     |  
 
-För godkänt betyg på kursen krävs betyg G på SEM1 och minst betyg 3 på TEN1. Slutbetyget bestäms från TEN1.
+För godkänt betyg på kursen krävs betyg G på SEM1 och minst betyg E på TEN1. Slutbetyget bestäms från TEN1.
 
 ## Måluppfyllelse
 
@@ -72,12 +72,12 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur: 
 
-- Lantz, B., Isaksson, A. och Löfsten, H., *Industriell ekonomi – grundläggande ekonomisk analys*, Studentlitteratur, 2017.
+- Lantz, B., Isaksson, A. och Löfsten, H., *Industriell ekonomi – grundläggande ekonomisk analys*, Studentlitteratur, 2014. Antal sidor: 376 av 376.
 - Aktuella artiklar ur vetenskapliga tidskrifter tillgängliga via Internet, hänvisning ges på kursens webbplats.
 
-Övrig litteratur:
+Referenslitteratur:
 
--  Engwall, M. Jerbrant, A., Karlson, B. och Storm, P., *Modern industriell ekonomi, Studentlitteratur*, 2017. Antal sidor: 400 av 483 sidor.
+-  Engwall, M. Jerbrant, A., Karlson, B. och Storm, P., *Modern industriell ekonomi, Studentlitteratur*, 2017.
 - Skärvad, P-H. och Olsson, J., *Företagsekonomi 100 Fakta*, Liber, 2017.
 - Skärvad, P-H. och Olsson, J., *Företagsekonomi 100 Övningsbok*, Liber, 2017.
 - Skärvad, P-H. och Olsson, J., *Företagsekonomi 100 Lösningar*, Liber, 2017.

@@ -86,3 +86,7 @@ Obligatorisk litteratur:
 
 - Buttazzo, G., *Hard real-time computing systems - predictable scheduling algorithms and applications*, Springer, 2011. Antal sidor: 400 av 485.
 - Kopetz, H., *Real-time systems: Design principles for distributed embedded applications*. Springer, 2011. Antal sidor: 300 av 339. 
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

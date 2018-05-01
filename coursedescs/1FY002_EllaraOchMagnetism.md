@@ -17,12 +17,12 @@ Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
 	1. Beskriva övergripande elektromagnetismens förutsättningar,
-	2. redogöra för teorins huvudsakliga resultat, sammanhang och begränsningar,
-	3. förklara hur teorin kan tillämpas, samt
+	2. redogöra för elektromagnetismens huvudsakliga resultat och sammanhang,
+	3. förklara hur elektromagnetismen kan tillämpas, samt
 	4. beskriva tillämpning inom elektroniken.
 2. *Färdighet och förmåga*
 	1. Tillämpa teoretiska samband för att lösa kretsproblem,
-	2. analysera enkla kretsar, även med j-omega-metoden,
+	2. analysera enkla kretsar, med t.ex. j-omega-metoden,
 	3. planera och utföra elektriska mätningar och hantering av mätutrustning, samt
 	4. beräkningar och mätfel och felpropagation.
 3. *Värderingsförmåga och förhållningssätt*
@@ -33,22 +33,21 @@ Efter slutförd kurs skall studenten kunna:
 
 Kursen innehåller två huvuddelar, dels behandlas grundläggande elektromagnetism och, dels behandlas elektriska tillämpningar, särskilt inom elektronik. Kursen innehåller ett antal laborationer som förutom metoder för behandling av mätdata och bedömning av mätnoggrannhet också omfattar vanliga mätinstrument, såsom multimetrar, oscilloskop och funktionsgenerator. Speciellt behandlas olika typer av elektriska kretstillämpningar inkluderande moment som mätning av tillståndsvariabler och styrning av utrustning.
 
-1. grundläggande elektromagnetism
-	1. elektrostatik: laddning och fält, potential och potentiell energi
-	1. dielektriska material: polarisation, kapacitans, kondensatorer
-	1. magnetism och induktion, induktans och spolar
-	1. något om vågutbredning, vågledare och relativistisk dopplereffekt 
-	1. något om supraledning
-2. kretsteori
-	1. likström, tvåspolssatsen
-	1. växelström: impedans, effekt, resonans
-	1. elektrisk svängningskrets
-	1. linjära kretsar: ingångs-/utgångsimpedans, låg-/högpassfilter
-	1. halvledardioder, aktiva komponenter, och sensorer
-3. digitala komponenter: grindar och grundläggande CMOS-kretsar
+- Grundläggande elektromagnetism
+	- Elektrostatik: laddning och fält, potential och potentiell energi
+	- Dielektriska material: polarisation, kapacitans, kondensatorer
+	- Magnetism och induktion, induktans och spolar
+	- Något om vågutbredning, vågledare och relativistisk dopplereffekt 
+	- Något om supraledning
+- Kretsteori
+	- Likström, tvåspolssatsen
+	- Växelström: impedans, effekt, resonans
+	- Elektrisk svängningskrets
+	- Linjära kretsar: ingångs-/utgångsimpedans, låg-/högpassfilter
+	- Halvledardioder, aktiva komponenter, och sensorer
+- Digitala komponenter: grindar och grundläggande CMOS-kretsar
 
-
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen sker i form av föreläsningar, räkneövningar och lärarledda laborationer. Huvuddelen av kursens innehåll presenteras och förklaras under föreläsningarna. Under räkneövningarna kommer studenterna sedan att få tillämpa teorin på tekniska problem. Metoder för problemlösning kommer att demonstreras. Kursen omfattar även ett antal laborationer, då både grundläggande fenomen och vissa tekniska tillämpningar demonstreras. Laborationerna omfattar även mättekniska övningar samt träning i rapportskrivning.
 
@@ -82,12 +81,12 @@ Examinationsmoment kopplas till lärandemål enligt följande:
 | 3.1        | **X** | **X** |  
 | 3.2        |       | **X** |  
 
-## Kurslitteratur:
+## Kurslitteratur
 
 Obligatorisk litteratur: 
 
 - Ågren, O., *Elektromagnetism*, Studentlitteratur, 2014. 
-Antal sidor: 100 / 174 sidor. 
+Antal sidor: 100 av 174 sidor. 
 
 Referenslitteratur:
 

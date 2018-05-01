@@ -5,7 +5,6 @@
 | *Huvudområde*: | Datavetenskap | 
 | *Fördjupning*: | A1N | 
 
-
 ## Förkunskaper
 
 - 1DV004 - Objekt-orienterad programmering
@@ -14,8 +13,7 @@
 - 1MA004 - Diskret matematik
 - 1ZT001 - Tekniskt kommunikation
 - 1ZT002 - Hållbar utveckling
-- 1ZT003 - Industriell ekonomi och organisation
-- Minst 120 hp inom programmet
+- 1ZT003 - Industriell ekonomi
 
 ## Lärandemål
 
@@ -33,7 +31,7 @@ Efter slutförd kurs skall studenten kunna:
 3. *Värderingsförmåga och förhållningssätt*
     1. Kritiskt reflektera över för- och nackdelar med modellbaserad utveckling från ett mjukvaruutvecklingsperspektiv, t.ex. med avseende på hur lång tid olika uppgifter tar, hur smidiga verktygen är, osv.,
     2. resonera kring vilka för- och nackdelar modelldriven utveckling kan ha ur ett samhällsperspektiv, t.ex. med avseende på säkerhetskrav, ekonomisk vinning osv., samt
-    3. analysera hur väl ett agilt arbetssätt fungerade inom ett projekt och föreslå möjliga förbättringar.
+    3. analysera hur väl ett agilt arbetssätt fungerade inom ett projekt från arbetsmiljösynpunkt och föreslå möjliga förbättringar.
 
 ## Kursinnehåll
 
@@ -70,18 +68,18 @@ Examinationen av kursen delas in följande moment:
 | Kod  | Benämning                                     | Betyg | Poäng |  
 | :--- | :--------------------------------------       | :---: | :---: |  
 | UPG1 | Vision och planeringsdokument                 | A-F   | 2     |  
-| PRJ1 | Projekt                                       | A-F   | 5     |  
-| UPG2 | Reflektionsrapport - Modellbaserad utveckling | A-F   | 1     |  
-| UPG3 | Reflektionsrapport -  Projektarbete           | A-F   | 1     |  
+| PRJ1 | Projektarbete (inkl. leverabler)              | A-F   | 5     |  
+| RAP1 | Reflektionsrapport - Modellbaserad utveckling | A-F   | 1     |  
+| RAP2 | Reflektionsrapport - Projektarbete            | A-F   | 1     |  
 | PRS1 | Design, implementering och resultat           | A-F   | 1     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (20%), PRJ2 (50%), UPG2 (15%) och UPG3 (15%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (20%), PRJ1 (50%), RAP1 (10%), RAP2 (10%) och PRS1 (10%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | UPG1  | PRJ1  | UPG2  | UPG3  | PRS1  |
+| Lärandemål | UPG1  | PRJ1  | RAP1  | RAP2  | PRS1  |
 | :--------- | :---: | :---: | :---: | :---: | :---: |
 | 1.1        | **X** |       | **X** | **X** | **X** |
 | 1.2        |       |       | **X** |       |       |
@@ -98,13 +96,11 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Studenterna förväntas söka efter lämplig kurslitteratur på egen hand. Nedanstående referenslitteratur kan användas som en utgångspunkt.
 
-Referenslitteratur:
-
 - Brambilla, M., Cabot, J. och Wimmer, M., *Model-Driven Software Engineering in Practice*, andra utgåvan, Morgan & Claypool Publishers. 2017.
--  Steinberg, D., Budinsky, F., Paternostro, M. och Merks, E., *EMF: Eclipse Modeling Framework*, andra utgåvan, Addison-Wesley Professional. 2008.
--  Kelly, S. och Tolvanen, J-P., *Domain-Specific Modeling*, Wiley-IEEE Computer Society Press, 2008.
--  Mellor, S. J. och  Balcer, M. J., *Executable UML: A Foundation for Model-Driven Architecture*, Addison-Wesley Professional. 2002.
--  Royer, J. och Arboleda, H., *Model-Driven and Software Product Line Engineering*, John Wiley & Sons, Inc. 2013.
+- Steinberg, D., Budinsky, F., Paternostro, M. och Merks, E., *EMF: Eclipse Modeling Framework*, andra utgåvan, Addison-Wesley Professional. 2008.
+- Kelly, S. och Tolvanen, J-P., *Domain-Specific Modeling*, Wiley-IEEE Computer Society Press, 2008.
+- Mellor, S. J. och  Balcer, M. J., *Executable UML: A Foundation for Model-Driven Architecture*, Addison-Wesley Professional. 2002.
+- Royer, J. och Arboleda, H., *Model-Driven and Software Product Line Engineering*, John Wiley & Sons, Inc. 2013.
 
 ## Övrigt
 

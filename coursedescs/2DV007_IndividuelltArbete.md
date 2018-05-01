@@ -19,14 +19,14 @@ Efter slutförd kurs skall studenten kunna:
 1. *Kunskap och förståelse*
     1. Integrera och fördjupa förvärvade kunskaper.
 2. *Färdighet och förmåga*
-    1. formulera, välja och tillämpa vetenskapliga frågeställningar och metoder samt avgränsa dessa,
+    1. Formulera, välja och tillämpa vetenskapliga frågeställningar och metoder samt avgränsa dessa,
     2. planera, genomföra ett självständigt arbete inom givna tidsramar,
     3. presentera det självständiga arbetet muntligt och skriftligt,
-    4. söka, värdera och referera vetenskaplig litteratur,
+    4. söka, värdera och referera vetenskaplig litteratur, samt
     5. kritiskt granska samt muntligt och skriftligt diskutera ett framlagt arbete.
 3. *Värderingsförmåga och förhållningssätt*
-    1. välja och tillämpa en vetenskaplig metod som lämpar sig för frågeställningen,
-    2. bedöma och reflektera över egna resultat jämfört mot tidigare kända resultat,
+    1. Välja och tillämpa en vetenskaplig metod som lämpar sig för frågeställningen,
+    2. bedöma och reflektera över egna resultat jämfört mot tidigare kända resultat, samt
     3. göra bedömningar med hänsyn till vetenskapliga, samhälleliga och etiska hänsynstaganden.
 
 ## Kursinnehåll
@@ -45,17 +45,17 @@ Följande moment behandlas:
 
 ## Undervisnings- och arbetsformer
 
-Handledning av lärare med jämna mellanrum. Presentation av arbete och opponering i slutet av kursen. Auskultation på 3 andra arbeten. Närvaro vid presentation och opponering är obligatorisk.
+Handledning av lärare med jämna mellanrum. Framläggning av eget arbete och opponering i slutet av kursen. Auskultation vid framläggning av tre andra arbeten på samma nivå eller högre måste ske innan framläggning av eget arbete får ske. Auskulation kan ske från och mer termin fyra. Närvaro vid egen framläggning och opponering är obligatorisk.
 
 ## Examination
 
 Examinationen av kursen delas in i följande moment:
 
-| Kod  | Benämning             | Betyg | Poäng | 
-| :--- | :-------------------- | :---: | :---: |
-| RAP1 | Rapport               | A-F   | 12    |
-| OPP1 | Opponering            | G-U   | 1,5     |
-| ASK1 | Auskultation           | G-U   | 1,5     |
+| Kod  | Benämning                | Betyg | Poäng |  
+| :--- | :--------------------    | :---: | :---: |  
+| RAP1 | Rapport och framläggning | A-F   | 12    |  
+| OPP1 | Opponering               | G-U   | 1,5   |  
+| ASK1 | Auskultation             | G-U   | 1,5   |  
 
 För godkänt betyg på kursen krävs betyg G på OPP1 och ASK1 samt minst betyg E på RAP1. Slutbetyget bestäms från RAP1.
 
@@ -66,10 +66,10 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 | Lärandemål | RAP1  | OPP1  | ASK1  |
 | :--------- | :---: | :---: | :---: |
 | 1.1        | **X** |       | **X** |
-| 2.1        | **X** |       |
-| 2.2        | **X** |       |
+| 2.1        | **X** |       |       |
+| 2.2        | **X** |       |       |
 | 2.3        |       |       | **X** |
-| 2.4        | **X** |       |
+| 2.4        | **X** |       |       |
 | 2.5        |       | **X** |       |
 | 3.1        | **X** |       | **X** |
 | 3.2        | **X** |       | **X** |
@@ -78,3 +78,7 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 ## Kurslitteratur
 
 Den studerande väljer i samråd med handledare och examinator ut lämplig litteratur för aktuellt område.
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

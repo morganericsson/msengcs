@@ -84,7 +84,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 Obligatorisk litteratur:
 
 - Sommerville, I., *Software Engineering*, tionde utgåvan, Addison-Wesley, 2015. Antal sidor: 420 av 757.
-- Schwaber, K., *Agile Project Management with Scrum (Developer Best Practices)*, 2004. Antal sidor: 155 av 155.
+- Schwaber, K., *Agile Project Management with Scrum (Developer Best Practices)*, Microsoft Press, 2004. Antal sidor: 155 av 155.
 
 ## Övrigt
 

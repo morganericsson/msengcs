@@ -56,17 +56,17 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                                   | Betyg | Poäng |  
 | :--- | :------------------------------------------ | :---: | :---: |  
-| PRJ1 | Formell verifikation av ett mjukvaruprogram | A-F   | 1     |  
-| PRJ2 | Formell verifikation av en systemmodell     | A-F   | 1     |  
+| UPG1 | Formell verifikation av ett mjukvaruprogram | A-F   | 1     |  
+| UPG2 | Formell verifikation av en systemmodell     | A-F   | 1     |  
 | TEN1 | Skriftlig tentamen                          | A-F   | 3     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: PRJ1 (20%), PRJ2 (20%) och TEN1 (60%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (20%), UPG2 (20%) och TEN1 (60%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | PRJ1  | PRJ2  | TEN1  |
+| Lärandemål | UPG1  | UPG2  | TEN1  |
 | :--------- | :---: | :---: | :---: |
 | 1.1        | **X** | **X** | **X** |
 | 1.2        |       |       | **X** |
@@ -84,3 +84,7 @@ Obligatorisk litteratur:
 - Aceto, L., Ingólfsdóttir, A., Guldstrand Larsen, K. och Srba, J., *Reactive Systems: Modelling, Specification and Verification*, Cambridge University Press, 2014.  Antal sidor: 150 av 281.
 - Huth, M. och Ryan, M., *Logic in Computer Science: Modelling and Reasoning about Systems*, andra utgåvan, Cambridge University Press, 2004. Antal sidor: 300 av 412.
 - Kompendium med vetenskapliga artiklar
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

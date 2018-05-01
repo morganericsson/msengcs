@@ -67,7 +67,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 | Lärandemål | TEN1  | LAB1  |
 | :--------- | :---: | :---: |
 | 1.1        | **X** | **X** |
-| 1.2        |       |       |
+| 1.2        | **X** |       |
 | 1.3        | **X** | **X** |
 | 2.1        |       | **X** |
 | 2.2        |       | **X** |
@@ -80,3 +80,7 @@ Obligatorisk litteratur:
 
 - Kirk, D. och Hwu, W-M., *Programming Massively Parallel Processors - A Hands-on Approach*, tredje utgåvan, Morgan Kaufmann, 2016. Antal sidor: 500 / 576
 - Kompendium med vetenskapliga artiklar.
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

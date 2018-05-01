@@ -19,7 +19,7 @@ Efter slutförd kurs skall studenten kunna:
 1. *Kunskap och förståelse*
     1. Förklara vikten av abstraktion i utformningen av digitala system,
     2. förklara de viktigaste mjukvaru- och hårdvaruabstraktionerna i dagens datorsystem,
-    3. förklara funktionen i måttligt komplexa digitala system, samt
+    3. förklara funktionen hos måttligt komplexa digitala system, samt
     4. Beskriva hur virtualisering och virtuellt minne fungerar.
 2. *Färdighet och förmåga*
     1. Analysera prestandan hos digitala system i termer av latens och kapacitet,
@@ -62,8 +62,8 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning             | Betyg | Poäng | 
 | :--- | :-------------------- | :---: | :---: |
-| TEN1 | Skriftlig tenta       | A-F   | 2   |
-| LAB1 | Laborationsuppgifter  | A-F   | 3   |
+| TEN1 | Skriftlig tentamen       | A-F   | 3,5   |
+| LAB1 | Programmeringsuppgifter  | A-F   | 4   |
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: TEN1 (40%) och LAB1 (60%).
 
@@ -87,7 +87,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Patterson D.A & Hennessy J.L, *Computer Organization and Design - The Hardware/Software Interface*, femte utgåvan, Morgan Kaufmann, 2013. Antal sidor:  600 av 800.
+- Patterson, D. A. och Hennessy, J. L., *Computer Organization and Design - The Hardware/Software Interface*, femte utgåvan, Morgan Kaufmann, 2013. Antal sidor: 600 av 800.
 
 ## Övrigt
 

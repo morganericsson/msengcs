@@ -16,15 +16,15 @@
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. redogöra för grundläggande begrepp inom modellering och simulering,
+    1. Redogöra för grundläggande begrepp inom modellering och simulering, samt
     2. beskriva olika klasser av simulering, t.ex. händelsestyrd, samt när de bör tillämpas.
 2. *Färdighet och förmåga*
-    1. implementera enklare simuleringar från utvalda klasser såsom händelsestyr, kontinuerlig, agent-baserad, osv.
-    2. konstruera lämpliga deterministiska och icke-deterministiska modeller i ett verktyg för att simulera ett givet system,
+    1. Implementera enklare simuleringar från utvalda klasser såsom händelsestyr, kontinuerlig, och agent-baserad,
+    2. konstruera lämpliga deterministiska och icke-deterministiska modeller i ett verktyg för att simulera ett givet system, samt
     3. givet ett problem, välja en lämplig simuleringmetod.
 3. *Värderingsförmåga och förhållningssätt*
-    1. reflektera över olika metoders lämplighet för olika typer av problem och vilka konsekvenserna av en olämplig metod blir,
-    2. värdera resultatet av en simulering,
+    1. Reflektera över olika metoders lämplighet för olika typer av problem och vilka konsekvenserna av en olämplig metod blir,
+    2. värdera resultatet av en simulering t.ex. med avseende på faktorer som presentada eller tillförlitlighet, samt
     3. reflektera över värdet av att kunna simulera system innan de konstrueras, och vilka samhällsfördelar det ger.
 
 ## Kursinnehåll
@@ -58,7 +58,7 @@ Examinationen av kursen delas in följande moment:
 | LAB1 | Programmeringsuppgifter | A-F   | 2,5   |
 | HEM1 | Hemtentamen           | A-F   | 2,5   |
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (50%) och LAB1 (50%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: HEM1 (50%) och LAB1 (50%).
 
 ## Måluppfyllelse
 
@@ -77,5 +77,9 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 ## Kurslitteratur
 
-- Sokolowski, J. A., Banks C. M., *Principles of Modeling and Simulation : A Multidisciplinary Approach*, Wiley, 2009. Antal sidor 153 av 256. 
-- Birta, L. G. and Arbez, G., *Modelling and Simulation: Exploring Dynamic System Behaviour*, Springer, 2013. Antal sidor 341 av 433. 
+- Sokolowski, J. A. och Banks, C. M., *Principles of Modeling and Simulation : A Multidisciplinary Approach*, Wiley, 2009. Antal sidor 153 av 256. 
+- Birta, L. G. och Arbez, G., *Modelling and Simulation: Exploring Dynamic System Behaviour*, Springer, 2013. Antal sidor 341 av 433. 
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

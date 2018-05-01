@@ -39,7 +39,7 @@ Kursen fortsätter introduktionen av analys. Följande moment behandlas:
 - Potensserier, konvergensradie, konvergensintervall
 - Maclaurins och Taylors formler med restterm, Taylors formel för de elementära funktionerna, beräkningar av gränsvärde och integraler med Taylors formel
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Föreläsningar och lärarledda räkneövningar. 
 
@@ -52,7 +52,7 @@ Examinationen av kursen delas in i följande moment:
 | TEN1 | Tentamen: Problemlösning  | A-F   | 4     |  
 | TEN2 | Tentamen: Teori           | G-U   | 1     |  
 
-För godkänt betyg på kursen krävs minst godkänt på samtliga moment. Slutbetyget är lika med betyget från TEN1.
+För godkänt betyg på kursen krävs minst betyg E på TEN1 samt betyg G på TEN2. Slutbetyget bestäms från TEN1.
 
 ## Måluppfyllelse
 
@@ -70,7 +70,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 | 2.6        | **X** |       |  
 | 3.1        | **X** |       |  
 
-## Litteratur
+## Kurslitteratur
 
 Obligatorisk litteratur: 
 

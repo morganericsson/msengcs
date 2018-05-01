@@ -23,7 +23,7 @@ Efter slutförd kurs skall studenten kunna:
 3. *Värderingsförmåga och förhållningssätt*
     1. Föra ett kritiskt resonemang och reflektera över ingenjörens roll i ett hållbart samhälle och sitt eget ansvar inom sin egen yrkesroll för en hållbar utveckling, med hänsyn till ekologiska, sociala och ekonomiska aspekter.
 
-## Lärandemål
+## Kursinnehåll
 
 I denna kurs kommer en kunskapsmässig grund till begreppet hållbar utveckling ur ett perspektiv anpassat till dig som ingenjör ges. Följande moment behandlas:
 
@@ -40,7 +40,7 @@ I denna kurs kommer en kunskapsmässig grund till begreppet hållbar utveckling 
 - Konsumtionsmönster, ekologiska fotavtryck, resursutnyttjande, transporter och avfall, samt
 - Ekonomiska och juridiska styrmedel och verktyg (Sveriges miljömål, miljöbalken, utsläppsrätter, ISO 14 000, EMAS mm).
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen bedrivs i form av föreläsningar, projektarbete och seminarier. Studenterna väljer under kursen ett teknikområde utifrån studentens eget ämne som man arbetar med under kursens gång i olika form, ämnet skall belysas utifrån de olika aspekter som tas upp under kursen.
 
@@ -53,9 +53,9 @@ Examinationen av kursen delas in i följande moment:
 | Kod  | Benämning                             | Betyg | Poäng |  
 | :--- | :--------------------                 | :---: | :---: |  
 | PRJ1 | Projektarbete, reflektion, opponering | G-U   | 3     |  
-| TEN1 | Skriftlig tentamen                    | 5-U   | 2     |  
+| TEN1 | Skriftlig tentamen                    | A-F   | 2     |  
 
-För godkänt betyg på kursen krävs betyg G på SEM1 och minst betyg 3 på TEN1. Slutbetyget bestäms från TEN1.
+För godkänt betyg på kursen krävs betyg G på PRJ1 samt minst betyg E på TEN1. Slutbetyget bestäms från TEN1.
 
 ## Måluppfyllelse
 

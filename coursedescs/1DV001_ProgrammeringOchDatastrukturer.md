@@ -1,4 +1,4 @@
-# 1DV001 - Programmering och datastrukturer (7.5 hp)
+# 1DV001 - Programmering och datastrukturer (7,5 hp)
 
 |     |     |
 | --- | --- | 
@@ -15,16 +15,16 @@ Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
     1. Förklara grundläggande programspråkskonstruktioner som t.ex. variabler, typer, styrande satser och funktioner, samt
-    2. förklara grundläggande algoritmer och datastrukturer, visa hur och när de bör användas. 
+    2. förklara grundläggande algoritmer och datastrukturer, samt exemplifiera hur och när de bör användas. 
 2. *Färdighet och förmåga*
     1. Skapa och implementera en lösning till ett givet problem i programmeringsspråket Python,
-    2. implementera givna algoritmer för att lösa välkända typer av problem (t.ex. sortering och sökning) och analysera deras tidskomplexitet, samt
+    2. implementera givna algoritmer för att lösa kända typer av problem (t.ex. sortering och sökning) och analysera deras tidskomplexitet,
     3. installera och använda verktyg och bibliotek som används vid programmering, 
-    4. strukturera och genomföra korta muntliga och skriftliga presentationer av mindre programmeringsprojekt,
+    4. strukturera och genomföra korta muntliga och skriftliga presentationer av mindre programmeringsprojekt, samt
     5. dokumentera program och följa programkodskonventioner.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Resonera om hur välstrukturerat och lättförstått ett program är, samt
-    2. göra att motiverat val av datastrukturer och algoritmer i olika scenarier.
+    1. Resonera kring hur välstrukturerat och lättförstått ett program är, samt
+    2. göra att motiverat val av datastrukturer och algoritmer i olika scenarier, t.ex. med avseende på presentanda.
 
 ## Kursinnehåll
 
@@ -45,7 +45,7 @@ Följande moment behandlas:
 - Vanliga algoritmer för sökning och sortering
 - Enkla uppskattningar av bästa, värsta, och genomsnittlig tidskomplexitet  
 - Dokumentation av kod och kodkonventioner
-- Hur man bör arbeta och lösa problem i par
+- Parvist arbete, problemlösning och kommunikationsfärdigheter
 
 ## Undervisnings- och arbetsformer
 

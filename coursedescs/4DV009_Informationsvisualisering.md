@@ -25,7 +25,7 @@ Efter slutförd kurs skall studenten kunna:
     2. implementera grundläggande interaktiva visualiseringar, såsom sambandsdiagram eller radardiagram.
 3. *Värderingsförmåga och förhållningssätt*
     1. Kritiskt reflektera över visualisering och interaktionsstrategier mot bakgrund av aktuella teorier och forskning, samt
-    2. göra välgrundade designval baserat på olika uppgifter och databegränsningar
+    2. göra välgrundade designval baserat på olika aspekter och databegränsningar
 
 ## Kursinnehåll
 
@@ -79,9 +79,11 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 Obligatorisk litteratur:
 
 - Spence, R., *Information Visualization – An Introduction*, tredje utgåvan, Springer, 2014. Antal sidor: 200 av 292.
-- Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014. UAntal sidor: 150 av 404.
+- Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014. Antal sidor: 150 av 404.
 - Ware, C., *Information Visualization: Perception for Design*, tredje utgåvan, Morgan Kaufmann, 2013. Antal sidor: 100 av 512.
 - Kompendium med vetenskapliga artiklar
 
+## Övrigt
 
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
 

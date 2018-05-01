@@ -13,8 +13,7 @@
 - 1MA004 - Tillämpad sannolikhetslära och statistik
 - 1ZT002 - Hållbar utveckling
 - 4DV005 - Maskininlärning
-- 4DV008 - Projekt i dataintensiva system
-- Minst 180 hp inom programmet
+- Minst en av projektkurserna 4DV004 eller 4DV008
 
 ## Lärandemål
 
@@ -60,18 +59,18 @@ Examinationen av kursen delas in följande moment:
 | Kod  | Benämning                                        | Betyg | Poäng |  
 | :--- | :--------------------------------------          | :---: | :---: |  
 | UPG1 | Vision och planeringsdokument                    | A-F   | 2     |  
-| PRJ1 | Projekt                                          | A-F   | 5     |  
-| UPG2 | Reflektionsrapport - Att driva ett agilt projekt | A-F   | 1     |  
-| UPG3 | Reflektionsrapport -  Människa och maskin        | A-F   | 1     |  
+| PRJ1 | Projektarbete (inkl. leverabler)                 | A-F   | 5     |  
+| RAP1 | Reflektionsrapport - Att driva ett agilt projekt | A-F   | 1     |  
+| RAP2 | Reflektionsrapport - Människa och maskin        | A-F   | 1     |  
 | PRS1 | Design, implementering och resultat              | A-F   | 1     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (20%), PRJ2 (50%), UPG2 (15%) och UPG3 (15%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (20%), PRJ1 (50%), RAP1 (10%), RAP2 (10%) och PRS1 (10%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | UPG1  | PRJ1  | UPG2  | UPG3  | PRS1  |
+| Lärandemål | UPG1  | PRJ1  | RAP1  | RAP2  | PRS1  |
 | :--------- | :---: | :---: | :---: | :---: | :---: |
 | 1.1        | **X** | **X** |       | **X** | **X** |
 | 2.1        | **X** | **X** | **X** |       | **X** |
@@ -87,11 +86,9 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Studenterna förväntas söka efter lämplig kurslitteratur på egen hand eller i samråd med handledare. Nedanstående referenslitteratur kan användas som en utgångspunkt.
 
-Referenslitteratur:
-
-- Daniel Keim, Jörn Kohlhammer, Geoffrey Ellis, and Florian Mansmann. Mastering the Information Age: Solving Problems with Visual Analytics. Eurographics, 2010.
-- Tamara Munzner. Visualization Analysis and Design. CRC Press, 2014. 
-- Helen C. Purchase. Experimental Human-Computer Interaction: A Practical Guide with Visual Examples. Cambridge University Press, 2012. 
+- Keim, D., Kohlhammer, J., Ellis, G. och Mansmann, F., *Mastering the Information Age: Solving Problems with Visual Analytics*, Eurographics, 2010.
+- Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014. 
+- Purchase, H. C., *Experimental Human-Computer Interaction: A Practical Guide with Visual Examples*, Cambridge University Press, 2012. 
 
 ## Övrigt
 

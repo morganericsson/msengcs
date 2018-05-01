@@ -36,7 +36,7 @@ Kursen ger en introduktion till envariabelanalys. Följande moment behandlas:
 - Differentialekvationer: linjära och separabla ekvationer av första ordningen, linjära ekvationer av andra ordningen med konstanta koefficienter
 - Matematisk modellering med differentialekvationer
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Föreläsningar och lärarledda räkneövningar. 
 
@@ -49,7 +49,7 @@ Examinationen av kursen delas in i följande moment:
 | TEN1 | Tentamen: Problemlösning  | A-F   | 4     |  
 | TEN2 | Tentamen: Teori           | G-U   | 1     |  
 
-För godkänt betyg på kursen krävs minst godkänt på samtliga moment. Slutbetyget är lika med betyget från TEN1.
+För godkänt betyg på kursen krävs minst betyg E på TEN1 samt betyg G på TEN2. Slutbetyget bestäms från TEN1.
 
 ## Måluppfyllelse
 
@@ -68,12 +68,12 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 | 3.1        | **X** |       |  
 
 
-## Litteratur
+## Kurslitteratur
 
 Obligatorisk litteratur: 
 
-- Månsson J, Nordbeck P, *Endimensionell analys*, Studentlitteratur, 2011. Antal sidor: 200 av 400. 
-- Månsson J., Nordbeck P. *Övningar i endimensionell analys*, Studentlitteratur, 2011. Antal sidor: 100 av 206. 
+- Månsson, J. och Nordbeck, P., *Endimensionell analys*, Studentlitteratur, 2011. Antal sidor: 200 av 400. 
+- Månsson, J. och Nordbeck, P., *Övningar i endimensionell analys*, Studentlitteratur, 2011. Antal sidor: 100 av 206. 
 
 ## Övrigt
 

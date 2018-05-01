@@ -16,17 +16,16 @@
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. Redogöra för och särskilja grundläggande begrepp och metoder inom beräkningsmatematik,
-    2. identifiera och använda lämpliga grundläggande numeriska algoritmer för att lösa givna matematiska problem med hjälp av miniräknare,
-    3. kunna implementera och tillämpa sådana algoritmer med programpaketet MATLAB, samt
-    4. identifiera och använda lämpliga grundläggande numeriska metoder för att lösa och analysera givna verklighetsanknutna problem inom teknikområdet.
+    1. Redogöra för och särskilja grundläggande begrepp och metoder inom beräkningsmatematik, samt
+    2. Redogöra för beräkningsmatematiska resonemang på ett strukturerat och logiskt sammanhängande sätt.
 2. *Färdighet och förmåga*
     1. Visa förmåga att kombinera kunskaper om olika begrepp, metoder och numeriska algoritmer i problemlösning,
-    2. visa förmåga att redogöra för beräkningsmatematiska resonemang på ett strukturerat och logiskt sammanhängande sätt, samt
-    3. visa förmåga att utnyttja programspråket MATLAB i problemlösning.
+    2. identifiera och använda lämpliga grundläggande numeriska algoritmer för att lösa givna matematiska problem med hjälp av miniräknare,
+    3. kunna implementera och tillämpa sådana algoritmer med programpaketet Matlab, samt
+    4. identifiera och använda lämpliga grundläggande numeriska metoder för att lösa och analysera givna verklighetsanknutna problem inom teknikområdet.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Visa förmåga att bedöma relevans och noggrannhet för numeriska beräkningar, samt 
-    2. visa förmåga att uppskatta resursbehov och jämföra och värdera olika numeriska algoritmer och metoder för att analysera givna tekniska problem och modeller.
+    1. Bedöma relevans och noggrannhet för numeriska beräkningar, samt 
+    2. uppskatta resursbehov och jämföra och värdera olika numeriska algoritmer och metoder för att analysera givna tekniska problem och modeller.
 
 ## Kursinnehåll
 
@@ -41,9 +40,9 @@ Följande moment behandlas:
 - Egenvärdesberäkning och singulärvärdesuppdelning. 
 - Diskret Fouriertransform och diskret cosinustransform.  
 - Tillämpningar inom datorgrafik, datakomprimering, sökmotorer, signalbehandling och mekanik mm.
-- Problemlösning med hjälp av programvaran MATLAB.
+- Problemlösning med hjälp av programvaran Matlab.
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen sker i form av föreläsningar, lärarledda räkneövningar och datorlaborationer. Projektuppgifter sker i par. Obligatorisk närvaro kan förekomma på vissa moment.
 
@@ -53,13 +52,11 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                 | Betyg | Poäng |  
 | :--- | :------------------------ | :---: | :---: |  
-| LAB1 | Laborationer i MATLAB     | A-F   | 1,5   |  
+| LAB1 | Laborationer i Matlab     | A-F   | 1,5   |  
 | PRJ1 | Projektuppgift            | A-F   | 1     |  
 | TEN1 | Skriftlig tentamen        | A-F   | 2,5   |  
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: LAB1 (25%), PRJ1 (25%) och TEN1 (50%).
-
-Laborationsuppgifter LAB1 redovisas i skriftlig form. Projektet PRJ1 redovisas i skriftlig och muntlig form. 
 
 ## Måluppfyllelse
 
@@ -68,12 +65,11 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 | Lärandemål | LAB1 |  PRJ1  | TEN1 |  
 | :--------- | :---: | :---: | :---: |
 | 1.1        | **X** | **X** | **X** | 
-| 1.2        | **X** | **X** | **X** |
-| 1.3        | **X** | **X** |       | 
-| 1.4        | **X** | **X** |       | 
+| 1.2        |       | **X** | **X** |
 | 2.1        | **X** | **X** | **X** | 
-| 2.2        |       | **X** | **X** |
-| 2.3        | **X** | **X** |       |
+| 2.2        | **X** | **X** | **X** |
+| 2.3        | **X** | **X** |       | 
+| 2.4        | **X** | **X** |       | 
 | 3.1        | **X** | **X** | **X** |
 | 3.2        | **X** | **X** |       |
 
@@ -84,7 +80,9 @@ Obligatorisk litteratur:
 
 - Sauer, T.,  *Numerical analysis*, andra upplagan, Pearson Education, 2013. Antal sidor: 350 av 607.
 
+## Övrigt
 
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
 
 
 

@@ -17,9 +17,9 @@ Efter slutförd kurs skall studenten kunna:
     1. Redogöra för linjära algebrans grundläggande begrepp och operationer, kunna utföra dessa operationer och utnyttja detta i problemlösning, samt
     2. redogöra för sambanden mellan linjära algebrans grundläggande begrepp och utnyttja dessa samband i problemlösning.
 2. *Färdighet och förmåga*
-    1. Visa förmåga att kombinera kunskaper om olika begrepp, operationer och metoder från linjära algebran i problemlösning,
-    1. visa förmåga att redogöra för matematiska resonemang på ett strukturerat och logiskt sammanhängande sätt, samt
-    1. visa förmåga att utnyttja programspråket MATLAB i problemlösning.
+    1. Kombinera kunskaper om olika begrepp, operationer och metoder från linjära algebran i problemlösning,
+    2. redogöra för matematiska resonemang på ett strukturerat och logiskt sammanhängande sätt, samt
+    3. använda programspråket Matlab i problemlösning.
 3. *Värderingsförmåga och förhållningssätt*
     1. Visa förmåga att bedöma rimligheten i resultat av beräkningar. 
 
@@ -35,9 +35,9 @@ Det övergripande syftet med kursen är att ge en sammanhållen begreppsram frå
 - Tillämpningar på projektioner, speglingar och rotationer. 
 - Introduktion till minsta kvadratmetoden. Gram-Schmidts ortogonaliseringsmetod. 
 - Linjära algebrans tillämpningar inom diskret matematik, analys, teknik, fysik och ekonomi. 
-- Problemlösning med hjälp av programvaran MATLAB.
+- Problemlösning med hjälp av programvaran Matlab.
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen sker i form av föreläsningar, lärarledda räkneövningar och datorlaborationer. Inlämningsuppgifter sker i par. Obligatorisk närvaro kan förekomma på vissa moment.
 
@@ -45,18 +45,18 @@ Undervisningen sker i form av föreläsningar, lärarledda räkneövningar och d
  
 Examinationen av kursen delas in i följande moment:
 
-| Kod  | Benämning                    | Betyg | Poäng | 
-| :--- | :------------------------    | :---: | :---: |
-| UPG1 | Inlämningsuppgifter i MATLAB | A-F   | 1,5   |
-| TEN1 | Skriftlig tentamen           | A-F   | 6     |
+| Kod  | Benämning                 | Betyg | Poäng |  
+| :--- | :------------------------ | :---: | :---: |  
+| LAB1 | Laborationer i Matlab     | A-F   | 1,5   |  
+| TEN1 | Skriftlig tentamen        | A-F   | 6     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (20%) och TEN1 (80%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: LAB1 (20%) och TEN1 (80%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | UPG1  | TEN1  |  
+| Lärandemål | LAB1  | TEN1  |  
 | :--------- | :---: | :---: |  
 | 1.1        | **X** | **X** |  
 | 1.2        | **X** | **X** |  
@@ -69,7 +69,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur: 
 
-- Lindstöm, T.: *Med fokus på linjär algebra*, tredje upplagan, Studentlitteratur. Uppskattad läsning 270/336 sidor.
+- Lindstöm, T., *Med fokus på linjär algebra*, tredje upplagan, Studentlitteratur, 2017. Antal sidor: 270 av 336.
 
 ## Övrigt
 

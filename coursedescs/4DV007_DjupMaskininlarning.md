@@ -25,9 +25,9 @@ Efter slutförd kurs skall studenten kunna:
     1. Implementera algoritmer inom djup maskininlärning med hjälp av moderna ramverk,
     2. tillämpa relevanta begrepp från djup maskininlärning för att lösa praktiska problem såsom bildigenkänning, samt
     3. representera data för att underlätta lärandet.
+    4. Känna igen typiska effekter av olämpliga initialiseringsvärden, parameterval och hyperparameterval, och föreslå sätt att förbättra resultaten, samt
 3. *Värderingsförmåga och förhållningssätt*
-    1. Känna igen typiska effekter av olämpliga initialiseringsvärden, parameterval och hyperparameterval, och föreslå sätt att förbättra resultaten, samt
-    2. värdera, sammanfatta, diskutera och muntligt presentera vetenskapliga resultat inom området.
+    1. värdera, sammanfatta, diskutera och muntligt presentera vetenskapliga resultat inom området och resonera kring dess påverkan på samhället.
 
 ## Kursinnehåll
 
@@ -72,8 +72,8 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 | 2.1        | **X** |       |       |
 | 2.2        | **X** |       |       |
 | 2.3        | **X** |       |       |
-| 3.1        | **X** | **X** |       |
-| 3.2        |       |       | **X** |
+| 2.4        | **X** | **X** |       |
+| 3.1        |       |       | **X** |
 
 ## Kurslitteratur
 
@@ -81,3 +81,7 @@ Obligatorisk litteratur:
 
 - Goodfellow, I., Bengio, Y. och Courville, A., *Deep learning*, MIT Press, 2016. Antal sidor: 465 av 710.
 - Kompendium med vetenskapliga artiklar
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

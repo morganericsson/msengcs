@@ -56,9 +56,9 @@ Undervisningen sker i form av föreläsningar och lärarledda laborationer. Labo
 
 Examinationen av kursen delas in i följande moment:
 
-| Kod  | Benämning             | Betyg | Poäng |  
-| :--- | :-------------------- | :---: | :---: |  
-| MUN1 | Muntlig tentamen      | A-F   | 3     |  
+| Kod  | Benämning               | Betyg | Poäng |  
+| :--- | :---------------------- | :---: | :---: |  
+| MUN1 | Muntlig tentamen        | A-F   | 3     |  
 | LAB1 | Programmeringsuppgifter | A-F   | 2     |  
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: MUN1 (60%) och LAB1 (40%).

@@ -5,23 +5,22 @@
 - 1ZT001 - Teknisk kommunikation
 - 1MA001 - Diskret matematik
 - 1MA004 - Tillämpad sannolikhetslära och statistik
-- Minst 90 hp inom utbildningen
 
 ## Lärandemål
 
 Efter genomförd kurs förväntas studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. beskriva olika synsätt på kunskap och vetenskap,
-    2. beskriva grundläggande epistemologiska begränsningar, t.ex. problemen med observation och induktion,
+    1. Beskriva olika synsätt på kunskap och vetenskap,
+    2. beskriva grundläggande epistemologiska begränsningar, t.ex. problemen med observation och induktion, samt
     3. beskriva relationen mellan ingenjörskonst och vetenskapliga metoder.
 2. *Färdighet och förmåga*
-    1. formulera vetenskapliga frågeställningar,
+    1. Formulera vetenskapliga frågeställningar,
     2. formulera syfte och omfattning hos en vetenskaplig studie,
-    3. välja en lämplig vetenskaplig metod och genomföra denna på ett korrekt sätt,
-    4. planera en vetenskaplig studie och resonera kring vilket bidrag den kommer att ha.
+    3. välja en lämplig vetenskaplig metod och genomföra denna på ett korrekt sätt, samt
+    4. planera en vetenskaplig studie och resonera kring vilken relevans resultatet kommer att ha för akademi och industri.
 3. *Värderingsförmåga och förhållningssätt*
-    1. bedöma och hantera samhälleliga aspekter av och etiska frågeställningar kring vetenskapligt arbete,
+    1. Bedöma och hantera samhälleliga aspekter av och etiska frågeställningar kring vetenskapligt arbete, samt
     2. reflektera över likheter och skillnander i rollen som forskare och som ingenjör.
 
 ## Kursinnehåll
@@ -40,7 +39,7 @@ Kurser ger en kort introduktion till vetenskapsteori och dess historia, samt oli
 - Fördjupning i källkritik
 - Fördjupning i vetenskapligt skrivande och referenshantering
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen består av föreläsningar och seminarier där tillämpning av olika vetenskapliga metoder diskuteras utifrån ett problem. Kursen innehåller även en serie gästföreläsningar där forskare från akadademi och industri presenterar sitt forskningsämne.
 
@@ -52,7 +51,7 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                                   | Betyg | Poäng |  
 | :--- | :------------------------------------------ | :---: | :---: |  
-| UPG1 | Inlämningsppgifter                          | A-F   | 3     |  
+| UPG1 | Inlämningsuppgifter                          | A-F   | 3     |  
 | UPG2 | Planeringsrapport                           | A-F   | 2     |  
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (50%) och UPG2 (50%).
@@ -77,5 +76,10 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Alan Chalmers, What Is This Thing Called Science?, 4e utgåvan, UQP, 2013. Uppskattad läsning: 250 / 312 sidor.
+- Chalmers, A.,  *What Is This Thing Called Science?*, fjärde utgåvan, UQP, 2013. Antal sidor: 250 av 312.
+- Höst, M., Regnell, B. och Runeson, P., *Att genomföra examensarbete*, Studentlitteratur, 2006. Antal sidor: 130 av 153.
 - Kompendium med vetenskapliga artiklar
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

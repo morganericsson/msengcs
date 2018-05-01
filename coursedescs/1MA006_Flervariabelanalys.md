@@ -24,7 +24,7 @@ Efter slutförd kurs skall studenten kunna:
     3. lösa problem, utföra beräkningar och föra resonemang i flerdimensionell analys,
     4. skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet,
     5. tillämpa flerdimensionell differential- och integralkalkyl på tekniska, fysikaliska och datavetenskapliga problem, samt
-    6. utföra beräkningar, approximera och visualisera resultat med hjälp av MATLAB.
+    6. utföra beräkningar, approximera och visualisera resultat med hjälp av Matlab.
 3. *Värderingsförmåga och förhållningssätt*
     1. Diskutera relevans, räckvidd och noggrannhet av matematiska modeller såsom differentialekvationer och vektorfält.
 
@@ -41,10 +41,10 @@ Följande moment behandlas:
 - Divergens- och rotationsoperatorerna
 - Greens formel i planet, potentialer
 - Gauss sats och Stokes sats
-- MATLAB som ett verktyg i flervariabelanalys
+- Matlab som ett verktyg i flervariabelanalys
 
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Föreläsningar, lärarledda räkneövningar och laborationer.
 
@@ -56,10 +56,10 @@ Examinationen av kursen delas in i följande moment:
 | :--- | :------------------------ | :---: | :---: |  
 | TEN1 | Tentamen: Problemlösning  | A-F   | 5,0   |  
 | TEN2 | Tentamen: Teori           | G-U   | 1,5   |  
-| LAB1 | Laborationer i MATLAB      | G-U   | 1     |  
+| LAB1 | Laborationer i Matlab      | G-U   | 1     |  
 
 
-För godkänt betyg på kursen krävs minst godkänt på samtliga moment. Slutbetyget är lika med betyget från TEN1.
+För godkänt betyg på kursen krävs minst betyg E på TEN1 samt betyg G på TEN2 och LAB1. Slutbetyget bestäms från TEN1.
 
 ## Måluppfyllelse
 
@@ -78,7 +78,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 | 3.1        |       |       | **X** |  
 
 
-## Litteratur
+## Kurslitteratur
 
 Obligatorisk litteratur: 
 

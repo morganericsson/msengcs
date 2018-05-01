@@ -46,7 +46,7 @@ Följande moment behandlas:
 - Belysning och skuggning, speciellt lokal belysning
 - OpenGL
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen på kursen omfattar föreläsningar och lärarledd handledning av laborationer och inlämningsuppgifter. Alla uppgifter i kursen utförs parvis.
 
@@ -81,3 +81,7 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 Obligatorisk litteratur:
 
 - Hearn, D. D., Baker, M. P. och Carithers, W., *Computer Graphics with OpenGL*, fjärde utgåvan, Pearson, 2010. Antal sidor: 450 av 812.
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

@@ -13,8 +13,8 @@
 - 1MA002 - Linjär algebra
 - 1MA004 - Tillämpad sannolikhetslära och statistik
 - 1ZT001 - Teknisk kommunikation
-- 1ZT003 - Industriell ekonomi och organisation
-- Minst 180 hp inom programmet
+- 1ZT002 - Hållbar utveckling
+- 1ZT003 - Industriell ekonomi
 
 ## Lärandemål
 
@@ -33,7 +33,7 @@ Efter genomförd kurs förväntas studenten kunna:
     6. säkerställa systemets drift.
 *3. Värderingsförmåga och förhållningssätt*
     1. Kritiskt reflektera över utfallet och hur väl det motsvarade kundens krav, men avseende på t.ex. val av teknik, val av arkitektur (mjuk- och hårdvara), data, metriker, osv., samt
-    2. kritiskt reflektera över hur agila metoder och Lean användes under projektets genomförande. 
+    2. kritiskt reflektera över hur agila metoder och Lean användes under projektets genomförande, t.ex. med avseende på arbetsmiljö. 
 
 ## Kursinnehåll
 
@@ -68,18 +68,18 @@ Examinationen av kursen delas in följande moment:
 | Kod  | Benämning                                | Betyg | Poäng |  
 | :--- | :--------------------------------------  | :---: | :---: |  
 | UPG1 | Vision och planeringsdokument            | A-F   | 2     |  
-| PRJ1 | Projekt                                  | A-F   | 5     |  
-| UPG2 | Reflektionsrapport - Val och uppfyllelse | A-F   | 1     |  
-| UPG3 | Reflektionsrapport -  Lean               | A-F   | 1     |  
+| PRJ1 | Projektarbete (inkl. leverabler)        | A-F   | 5     |  
+| RAP1 | Reflektionsrapport - Val och uppfyllelse | A-F   | 1     |  
+| RAP2 | Reflektionsrapport - Lean               | A-F   | 1     |  
 | PRS1 | Design, implementering och resultat      | A-F   | 1     |  
 
-För godkänt betyg på kursen krävs minst betyg G på PRS1 och betyg E på övriga moment. Slutbetyget bestäms från: UPG1 (20%), PRJ2 (50%), UPG2 (15%) och UPG3 (15%).
+För godkänt betyg på kursen krävs betyg G på PRS1 samt minst betyg E på övriga moment. Slutbetyget bestäms från: UPG1 (20%), PRJ1 (50%), RAP1 (10%), RAP2 (10%) och PRS1 (10%).
 
 ## Måluppfyllelse 
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | UPG1  | PRJ1  | UPG2  | UPG3  | PRS1  |
+| Lärandemål | UPG1  | PRJ1  | RAP1  | RAP2  | PRS1  |
 | :--------- | :---: | :---: | :---: | :---: | :---: |
 | 1.1        | **X** | **X** | **X** |       | **X** |
 | 1.2        | **X** |       |       |       | **X** |
@@ -96,8 +96,6 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 ## Kurslitteratur
 
 Studenterna förväntas söka efter lämplig kurslitteratur på egen hand eller i samråd med handledare. Nedanstående referenslitteratur kan användas som en utgångspunkt.
-
-Referenslitteratur:
 
 - Gollapudi, S., *Practical Machine Learning*. PACKT publishing, 2016.
 

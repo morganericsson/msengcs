@@ -27,7 +27,7 @@ Efter slutförd kurs skall studenten kunna:
     3. bevisa att (enkla) jämnlöpande program är korrekta.
     4. Analysera ett problem och implementera en lämplig jämnlöpande lösning som är korrekt synkroniserad, samt
 3. *Värderingsförmåga och förhållningssätt*
-    1. välja om delat minne eller meddelanden är mest lämpligt vid ett givet problem.
+    1. Välja och föra ett resonemang om delat minne eller meddelanden är mest lämpligt vid ett givet problem.
 
 ## Kursinnehåll
 
@@ -53,10 +53,10 @@ Undervisningen består av föreläsningar och lärarhandledda laborationer. Prog
 
 Examinationen av kursen delas in i följande moment:
 
-| Kod  | Benämning             | Betyg | Poäng | 
-| :--- | :-------------------- | :---: | :---: |
-| TEN1 | Skriftlig tentamen    | A-F   | 3     |
-| LAB1 | Programmeringsuppgifter | A-F   | 2     |
+| Kod  | Benämning               | Betyg | Poäng | 
+| :--- | :-----------------------| :---: | :---: |
+| TEN1 | Skriftlig tentamen      | A-F   | 4     |
+| LAB1 | Programmeringsuppgifter | A-F   | 3,5   |
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: TEN1 (60%) och LAB1 (40%).
 

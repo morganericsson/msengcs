@@ -11,15 +11,14 @@
 - 4DV012 - Vetenskapliga metoder inom datavetenskap
 - 1ZT001 - Teknisk kommunikation
 - 2OT001 - Vetenskapliga metoder
-- Minst 220 hp inom programmet
 
 ## Lärandemål
 
 Efter genomförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. visa väsentligt fördjupade kunskaper inom datavetenskap och mjukvaruteknik, samt fördjupad insikt i aktuellt forsknings- och utvecklingsarbete,
-    2. visa fördjupad metodkunskap inom datavetenskap och mjukvaruteknik,
+    1. visa väsentligt fördjupade kunskaper inom datavetenskap och/eller mjukvaruteknik, samt fördjupad insikt i aktuellt forsknings- och utvecklingsarbete,
+    2. visa fördjupad metodkunskap inom datavetenskap och/eller mjukvaruteknik,
 2. *Färdighet och förmåga*
     1. med helhetssyn kritiskt, självständigt och kreativt identifiera, formulera och hantera komplexa frågeställningar
     2. formulera och kritiskt utvärdera, analysera och/eller utvärdera vetenskapliga frågeställningar, teorier och metoder
@@ -40,7 +39,9 @@ Kursens innehåll bestäms för varje student eller par av studenter i samråd m
 
 Kursen utgörs av ett självständigt arbete. För varje student eller par av studenter utses en examinator och en eller flera handledare (t.ex. om arbetet görs vid ett företag). Det självständiga arbetet utgör det avslutande momentet på utbildningen.
 
-Varje självständigt arbete skall presenteras vid ett seminarium. Varje student förväntas dessutom opponera på ett annat arbete samt auskultera på minst tre andra presentationer.
+Varje självständigt arbete skall läggas fram vid ett seminarium. Varje student skall opponera på ett annat arbete samt auskultera på minst tre andra framläggningar på samma nivå eller högre. Auskultation kan ske från och med termin 11 och genomföras innan de egna arbetet för läggas fram
+
+Närvaro vid egen framläggning och opponering är obligatorisk.
 
 ## Examination
 
@@ -48,17 +49,17 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning             | Betyg | Poäng |  
 | :--- | :-------------------- | :---: | :---: |  
-| UPG1 | Självständigt arbete  | A-F   | 27    |  
+| RAP1 | Rapport och framläggning  | A-F   | 27    |  
 | OPP1 | Opponering            | G-U   | 1,5   |  
 | ASK1 | Auskultation           | G-U   | 1,5   |  
 
-För godkänt betyg på kursen krävs minst betyg G på OPP1 och ASK1, samt minst betyg E på UPG1. Slutbetyget bestäms från UPG1.
+För godkänt betyg på kursen krävs betyg G på OPP1 och ASK1 samt minst betyg E på RAP1. Slutbetyget bestäms från RAP1.
 
 ## Måluppfyllelse
 
 Examinationsmomenten till lärandemålen enligt följande:
 
-| Lärandemål | UPG1  | OPP1  | ASK1  |
+| Lärandemål | RAP1  | OPP1  | ASK1  |
 | :--------- | :---: | :---: | :---: |
 | 1.1        | **X** | **X** | **X** |
 | 1.2        | **X** | **X** | **X** |

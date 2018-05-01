@@ -48,7 +48,7 @@ Kursen ger en introduktion till datautvinning och vanliga användningsområden, 
 - Datakvalitet
 - Verktyg och programbibliotek för datautvinning
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen består av traditionella föreläsningar där teori introduceras, seminarier där tillämpning av olika metoder diskuteras utifrån ett problem samt lärarledda laborationer där praktiska färdigheter övas. Kursen innehåller även en serie gästföreläsningar där industrirepresentanter och forskare presenterar hur och varför de använder datautvinning samt vilka metoder och verktyg de använder.
 
@@ -56,13 +56,13 @@ Undervisningen består av traditionella föreläsningar där teori introduceras,
 
 Examinationen av kursen delas in i följande moment:
 
-| Kod  | Benämning             | Betyg | Poäng |  
-| :--- | :-------------------- | :---: | :---: |  
-| MUN1 | Muntlig tentamen      | A-F   | 2     |  
+| Kod  | Benämning               | Betyg | Poäng |  
+| :--- | :--------------------   | :---: | :---: |  
+| MUN1 | Muntlig tentamen        | A-F   | 2     |  
 | LAB1 | Programmeringsuppgifter | A-F   | 2     |  
-| UPG1 | Reflektionsrapport    | A-F   | 1     |
+| UPG1 | Reflektionsrapport      | A-F   | 1     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: TEN1 (40%), LAB1 (40%) och UPG1 (20%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: MUN1 (40%), LAB1 (40%) och UPG1 (20%).
 
 ## Måluppfyllelse
 
@@ -82,7 +82,9 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Leskovec, J., Rajaraman, A. och Ullman, J., *Mining of Massive Datasets*, Cambridge University Press, 2014. Antal sidor: 400 av 511.
+- Leskovec, J., Rajaraman, A. och Ullman, J. D., *Mining of Massive Datasets*, Cambridge University Press, 2014. Antal sidor: 400 av 511.
 - Kompendium med vetenskapliga artiklar
 
+## Övrigt
 
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

@@ -27,7 +27,7 @@ Efter genomförd kurs förväntas studenterna att kunna:
     2. upprätta säkerhets-policyer och -planer för en organisation.
 3. *Värderingsförmåga och förhållningssätt*
     1. Utvärdera och relatera till problem av etisk och moralisk natur relaterad till datakriminalitet, övervakning och integritet, samt
-    2. bedöma konsekvenserna av osäkerhet.
+    2. bedöma konsekvenserna av IT-tillämpningar, t.ex. applikationer eller system, som inte uppnår en tillräckligt hög nivå av säkerhet.
 
 ## Kursinnehåll
 
@@ -47,7 +47,7 @@ Följande moment behandlas:
 - Nätverkssäkerhet
 - Illasinnade program (virus / maskar / trojaner)
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Undervisningen sker i form av föreläsningar, lärarledda laborationer och seminarier. Laborationer är dels individuella, dels i form av grupparbeten. Laborationer rapporteras med skriftliga rapporter och i några fall också med muntliga presentationer. 
 
@@ -60,7 +60,7 @@ Examinationen av kursen delas in i följande moment:
 | Kod  | Benämning             | Betyg | Poäng | 
 | :--- | :-------------------- | :---: | :---: |
 | TEN1 | Skriftlig tentamen    | A-F   | 2,5   |
-| UPG1 | Laborationsuppgifter  | A-F   | 2,5   |
+| UPG1 | Inlämningsuppgifter   | A-F   | 2,5   |
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: TEN1 (50%) och UPG1 (50%).
 
@@ -83,3 +83,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 Obligatorisk litteratur:
 
 - Pfleeger, C., Pfleeger, S., Margulies, J., *Security in Computing* femte utgåvan, Prentice Hall, 2015. Antal sidor: 760 av 944.
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

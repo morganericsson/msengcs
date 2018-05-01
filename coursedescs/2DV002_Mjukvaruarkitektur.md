@@ -26,7 +26,7 @@ Efter slutförd kurs skall studenten kunna:
     4. skapa en plan för hur en arkitektur kan implementeras, t.ex. med avseende på beroenden och prioritet, samt
     5. använda verktyg och språk för att definiera en arkitektur och översätta den till programkod i t.ex. Java.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Använda koncept och strategier för dokumentation av programvaraarkitekturer, samt
+    1. Välja lämpliga koncept och strategier för att dokumentera en programvaraarkitektur i en given situation eller för en given målgrupp, samt
     2. bedöma en programarkitektur genom att mäta dess kvalitet med hänsyn till ett visst designproblem.
 
 ## Kursinnehåll
@@ -87,4 +87,8 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Bass, L. et al. *Software Architecture in Practice*, tredje utgåvan, Addison­ Wesley, 2012. Antal sidor: 435 av  547.
+- Bass, L., Clements, P. och Kazman, R., *Software Architecture in Practice*, tredje utgåvan, Addison­ Wesley, 2012. Antal sidor: 435 av  547.
+
+## Övrigt
+
+Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.

@@ -20,7 +20,7 @@ Efter slutförd kurs skall studenten kunna:
     1. Använda resultat i logik, mängdlära och diskreta matematiska modeller,
     2. hantera logisk och algebraisk formalism,
     3. lösa problem, utföra beräkningar och föra resonemang i diskret matematik,
-    4. Skriftligt presentera beräkningar och resonemang så att de kan följas av den som inte är insatt i problemet, samt
+    4. Skriftligt presentera beräkningar och resonemang inom diskret matematik så att de kan följas av den som inte är insatt i problemet, samt
     5. tillämpa diskreta matematiska modeller på datavetenskapliga problem.
 1. *Värderingsförmåga och förhållningssätt*
     1. Diskutera relevans, räckvidd och noggrannhet av matematiska modeller såsom grafer och differensekvationer.
@@ -40,7 +40,7 @@ Kursen ger en introduktion till diskret matematik, logik, och kombinatorik. Föl
 - Differensekvationer
 - Grafteori: Eulerkretsar, Hamiltonbanor, plana grafer, färgläggning av grafer och kromatiska polynom, träd
 
-## Undervisningsformer
+## Undervisnings- och arbetsformer
 
 Föreläsningar, lärarledda räkneövningar och lärarledda möten relaterade till inlämningsuppgifterna. 
 
@@ -54,7 +54,7 @@ Examinationen av kursen delas in i följande moment:
 | TEN2 | Tentamen: Teori           | G-U   | 1,5   |  
 | UPG1 | Inlämningsuppgift         | G-U   | 1,0   |  
 
-För godkänt betyg på kursen krävs minst godkänt på samtliga moment. Slutbetyget är lika med betyget från TEN1.
+För godkänt betyg på kursen krävs minst betyg E på TEN1 samt betyg G på TEN2 och UPG1. Slutbetyget bestäms från TEN1.
 
 ## Måluppfyllelse
 
@@ -72,7 +72,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 | 3.1        |       |       | **X** |  
 
 
-## Litteratur
+## Kurslitteratur
 
 Obligatorisk litteratur:
 

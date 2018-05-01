@@ -53,7 +53,7 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning               | Betyg | Poäng | 
 | :--- | :---------------------- | :---: | :---: |
-| LAB1 | Programmeringsuppgifter   | A-F   | 3     |
+| LAB1 | Programmeringsuppgifter | A-F   | 3     |
 | PRJ1 | Projekt designmönster   | A-F   | 2     |
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: LAB1 (60%) och PRJ1 (40%).
