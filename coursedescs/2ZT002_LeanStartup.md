@@ -1,4 +1,4 @@
-# 2ZT002 - Lean Startup (5 hp)
+# 2ZT002 - Lean startup (5 hp)
 
 |     |     |
 | --- | --- | 
@@ -53,8 +53,8 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                        | Betyg | Poäng |  
 | :--- | :------------------------------- | :---: | :---: |  
-| UPG1 | Uppgifter i grupp                | G-U   | 3     |  
-| UPG2 | Individuell rapport              | A-F   | 2     |  
+| UPG1 | Uppgifter i grupp                | G-U   | 2     |  
+| UPG2 | Individuell uppgift              | A-F   | 3     |  
 
 För godkänt betyg på kursen krävs betyg G på UPG1 och minst betyg E på UPG2. Slutbetyget bestäms från UPG2.
 
