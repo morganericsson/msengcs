@@ -25,13 +25,13 @@ Efter slutförd kurs skall studenten kunna:
 2. *Färdighet och förmåga*
     1. Självständigt lära sig att använda olika ramverk och verktyg för modellbaserad utveckling,
     2. utifrån krav som samlats in från kund modellera ett system som uppfyller dessa krav,
-    3. givet en uppsättning modeller och ett ramverk, skapa modelleditorer, modellkontroller, och modelltransformationer,
+    3. givet en uppsättning modeller och ett ramverk, skapa modelleditorer, modellkontroller och modelltransformationer,
     4. använda modellbaserad utveckling för att skapa en exekverbar mjukvara och säkerställa egenskaper hos denna, samt
     5. planera ett agilt projekt, t.ex. beskriva krav, prioritera dessa och uppskatta hur mycket tid som krävs för att implementera dem.
 3. *Värderingsförmåga och förhållningssätt*
     1. Kritiskt reflektera över för- och nackdelar med modellbaserad utveckling från ett mjukvaruutvecklingsperspektiv, t.ex. med avseende på hur lång tid olika uppgifter tar, hur smidiga verktygen är, osv.,
     2. resonera kring vilka för- och nackdelar modelldriven utveckling kan ha ur ett samhällsperspektiv, t.ex. med avseende på säkerhetskrav, ekonomisk vinning osv., samt
-    3. analysera hur väl ett agilt arbetssätt fungerade inom ett projekt från arbetsmiljösynpunkt och föreslå möjliga förbättringar.
+    3. analysera hur väl ett agilt arbetssätt fungerade inom ett projekt från arbetsmiljösynpunkt och föreslå möjliga förbättringar.
 
 ## Kursinnehåll
 
@@ -39,23 +39,23 @@ Kursen är en projektkurs som med hjälp av ett realistiskt problem och realisti
 
 Studenterna förväntas jobba agilt i grupper om 5-7 och förväntas besätta alla roller utom produktägare. Detta är den första av tre kurser under vilka studenterna förväntas fördjupa sina färdigheter i att jobba agilt. Fokus under denna kurs är på hur krav samlas in och beskrivs, planering och estimering, samt dokumentation. 
 
-- Fördjupning inom modeller och mjukvaruutveckling
-- Modellbaserad utveckling och arkitektur
-- Diskussion kring problem hos mjukvara, t.ex. säkerhetsproblem, kraschar, prestanda
-- Diskussion kring mjukvara för olika domäner, och vilka krav som ställs på dessa
-- Fördelar och nackdelar med modellbaserad utveckling
-- Modelleringsspråk, metamodellering, profilering
-- Modelltranformationer och modellbegränsningar
-- Händelsespråk (Action languages)
-- Domänspecifika språk
-- Modellbaserad testning
-- Modellvalidering
-- Automatisk kodgenerering
-- Verktyg för modellbaserad utveckling
-- Olika sätt att uppskatta tid i agila projekt
-- Olika sätt att fånga och beskriva krav i agila projekt
+- Fördjupning inom modeller och mjukvaruutveckling.
+- Modellbaserad utveckling och arkitektur.
+- Diskussion kring problem hos mjukvara, t.ex. säkerhetsproblem, kraschar, prestanda.
+- Diskussion kring mjukvara för olika domäner, och vilka krav som ställs på dessa.
+- Fördelar och nackdelar med modellbaserad utveckling.
+- Modelleringsspråk, metamodellering, profilering.
+- Modelltranformationer och modellbegränsningar.
+- Händelsespråk (Action languages).
+- Domänspecifika språk.
+- Modellbaserad testning.
+- Modellvalidering.
+- Automatisk kodgenerering.
+- Verktyg för modellbaserad utveckling.
+- Olika sätt att uppskatta tid i agila projekt.
+- Olika sätt att fånga och beskriva krav i agila projekt.
 - Olika sätt att dokumentera mjukvara i agila projekt och kopplingen till modeller och programkod.
-- Hur man skriver reflektionsrapporter och post-mortem analyser av projekt
+- Hur man skriver reflektionsrapporter och post-mortem analyser av projekt.
 
 ## Undervisnings- och arbetsformer
 

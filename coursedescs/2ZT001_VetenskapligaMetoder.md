@@ -18,30 +18,30 @@ Efter genomförd kurs förväntas studenten kunna:
     1. Formulera vetenskapliga frågeställningar,
     2. formulera syfte och omfattning hos en vetenskaplig studie,
     3. välja en lämplig vetenskaplig metod och genomföra denna på ett korrekt sätt, samt
-    4. planera en vetenskaplig studie och resonera kring vilken relevans resultatet kommer att ha för akademi och industri.
+    4. planera en vetenskaplig studie och resonera kring vilken relevans resultatet kommer att ha för akademi och industri.
 3. *Värderingsförmåga och förhållningssätt*
     1. Bedöma och hantera samhälleliga aspekter av och etiska frågeställningar kring vetenskapligt arbete, samt
-    2. reflektera över likheter och skillnander i rollen som forskare och som ingenjör.
+    2. reflektera över likheter och skillnader i rollen som forskare och som ingenjör.
 
 ## Kursinnehåll
 
 Kurser ger en kort introduktion till vetenskapsteori och dess historia, samt olika vetenskapliga metoder, t.ex. systematiska textstudier och hypotesprövning. Metoderna exemplifieras och fördjupas med mjukvarutekniska frågeställningar. Kursen syftar till att förbereda studenterna för det självständiga arbetet samt påvisa samspelet mellan vetenskaplig metodik och ingenjörskonst, samt hur en civilingenjör i mjukvaruteknik behöver färdigheter i båda rollerna.
 
-- Introduktion till vetenskapsteori och dess historia
-- Vetenskaplighet och syftet med vetenskapliga metoder
-- Ingenjörskonst och vetenskaplighet
-- Kvantitativ och kvalitativ metod
-- Vetenskapliga frågeställningar och hur sådana kan formuleras
-- Planering och genomförande av ett forskningsprojekt
+- Introduktion till vetenskapsteori och dess historia.
+- Vetenskaplighet och syftet med vetenskapliga metoder.
+- Ingenjörskonst och vetenskaplighet.
+- Kvantitativ och kvalitativ metod.
+- Vetenskapliga frågeställningar och hur sådana kan formuleras.
+- Planering och genomförande av ett forskningsprojekt.
 - Samspelet mellan forskning och teknisk utveckling, samt deras samhälleliga aspekter.
-- Forskningsetik
-- Fördjupning i informationssökning
-- Fördjupning i källkritik
-- Fördjupning i vetenskapligt skrivande och referenshantering
+- Forskningsetik.
+- Fördjupning i informationssökning.
+- Fördjupning i källkritik.
+- Fördjupning i vetenskapligt skrivande och referenshantering.
 
 ## Undervisnings- och arbetsformer
 
-Undervisningen består av föreläsningar och seminarier där tillämpning av olika vetenskapliga metoder diskuteras utifrån ett problem. Kursen innehåller även en serie gästföreläsningar där forskare från akadademi och industri presenterar sitt forskningsämne.
+Undervisningen består av föreläsningar och seminarier där tillämpning av olika vetenskapliga metoder diskuteras utifrån ett problem. Kursen innehåller även en serie gästföreläsningar där forskare från akademi och industri presenterar sitt forskningsämne.
 
 Planeringsrapporten skapas i samråd med och under handledning av en forskare.
 

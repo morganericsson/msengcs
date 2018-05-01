@@ -36,12 +36,12 @@ Det är en inledande kurs i objekt-orienterad analys, design och programmering. 
 
 Följande moment behandlas:
 
-- Introduktion till mjukvaruutvecklingsprocessen och hur modellering passar in i processen
-- Grundläggande programkonstruktioner i Java så som typer, styrande satser, klasser, metoder, fält och exceptions  
-- Objekt-orienterade begrepp såsom abstraktion, modularisering, inkapsling, arv, interfaces och polymorfism 
-- Enhetstestning med JUnit
-- Objekt-orienterad modellering med UML klass- och sekvensdiagram
-- Några vanliga designmönster t.ex. Singleton, Iterator, Observer och Factory
+- Introduktion till mjukvaruutvecklingsprocessen och hur modellering passar in i processen.
+- Grundläggande programkonstruktioner i Java så som typer, styrande satser, klasser, metoder, fält och exceptions.
+- Objekt-orienterade begrepp såsom abstraktion, modularisering, inkapsling, arv, interfaces och polymorfism.
+- Enhetstestning med JUnit.
+- Objekt-orienterad modellering med UML klass- och sekvensdiagram.
+- Några vanliga designmönster t.ex. Singleton, Iterator, Observer och Factory.
 
 ## Undervisnings- och arbetsformer
 

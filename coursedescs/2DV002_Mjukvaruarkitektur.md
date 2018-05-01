@@ -17,17 +17,17 @@ Efter slutförd kurs skall studenten kunna:
 1. *Kunskap och förståelse*
     1. Sammanfatta koncept inom mjukvaruarkitekturer,
     2. räkna upp och beskriva arkitektoniska mönster/stilar,
-    3. förtydliga sambandet mellan mjukvaruarkitektur, designmönster, produktlinjer, programkvalitet och återanvändning av programvara, samt
+    3. förtydliga sambandet mellan mjukvaruarkitektur, designmönster, produktlinjer, programkvalitet och återanvändning av mjukvara, samt
     4. beskriva sambandet mellan mjukvaruarkitektur och dokumentation.
 2. *Färdighet och förmåga*
     1. Känna igen ett arkitektoniskt designproblem,
     2. klassificera mjukvaruarkitekturmönster och taktiker samt bestämma dess relevans med hänsyn till designproblemet,
-    3. skapa en programarkitektur för ett givet designproblem,
+    3. skapa en mjukvaruarkitektur för ett givet designproblem,
     4. skapa en plan för hur en arkitektur kan implementeras, t.ex. med avseende på beroenden och prioritet, samt
     5. använda verktyg och språk för att definiera en arkitektur och översätta den till programkod i t.ex. Java.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Välja lämpliga koncept och strategier för att dokumentera en programvaraarkitektur i en given situation eller för en given målgrupp, samt
-    2. bedöma en programarkitektur genom att mäta dess kvalitet med hänsyn till ett visst designproblem.
+    1. Välja lämpliga koncept och strategier för att dokumentera en mjukvaruarkitektur i en given situation eller för en given målgrupp, samt
+    2. bedöma en mjukvaruarkitektur genom att mäta dess kvalitet med hänsyn till ett visst designproblem.
 
 ## Kursinnehåll
 
@@ -35,15 +35,15 @@ Kursen ger en introduktion till mjukvaruarkitektur, arkitekturstilar och hur ark
 
 Följande moment behandlas:
 
-- Introduktion till mjukvaruarkitektur och centrala begrepp
-- Mjukvaruarkitekturens roll i systemutveckling
-- Mjukvaruarkitektur kontra implementation
-- Beskrivningsteknik av arkitekturer och arkitektoniska synvinklar
-- Arkitektoniska stilar och mönster, samt hur de förhåller sig till designmönster
-- Produktlinjer och dess arkitekturer
-- Design och utvärdering av mjukvaruarkitekturer
-- Kvalitet hos mjukvaruarkitekturer
-- Hur arkitektur kan användas för att beskriva ett systems egenskaper
+- Introduktion till mjukvaruarkitektur och centrala begrepp.
+- Mjukvaruarkitekturens roll i systemutveckling.
+- Mjukvaruarkitektur kontra implementation.
+- Beskrivningsteknik av arkitekturer och arkitektoniska synvinklar.
+- Arkitektoniska stilar och mönster, samt hur de förhåller sig till designmönster.
+- Produktlinjer och dess arkitekturer.
+- Design och utvärdering av mjukvaruarkitekturer.
+- Kvalitet hos mjukvaruarkitekturer.
+- Hur arkitektur kan användas för att beskriva ett systems egenskaper.
 - Verktyg och språk för att beskriva arkitekturer.
 - Enklare transformationer mellan dessa språk och programmeringsspråk, t.ex. Java.
 

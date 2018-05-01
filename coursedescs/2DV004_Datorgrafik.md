@@ -34,17 +34,17 @@ Kursen går igenom grundläggande tekniker som belysning och färgmodeller samt 
 
 Följande moment behandlas:
 
-- Definition av området datorgrafik och dess omfattning
-- Översikt över visnings- och interaktionsenhetsteknik
-- 2D-primitiver och deras rasterisering
-- Fyllningsalgoritmer och antialiasing
-- 3D-objektrepresentationer
-- Geometriska transformationer
-- Kamera-, projektions- och visningstransformationer
-- Synlighet och klippningsalgoritmer
-- Färgmodeller
-- Belysning och skuggning, speciellt lokal belysning
-- OpenGL
+- Definition av området datorgrafik och dess omfattning.
+- Översikt över visnings- och interaktionsenhetsteknik.
+- 2D-primitiver och deras rasterisering.
+- Fyllningsalgoritmer och antialiasing.
+- 3D-objektrepresentationer.
+- Geometriska transformationer.
+- Kamera-, projektions- och visningstransformationer.
+- Synlighet och klippningsalgoritmer.
+- Färgmodeller.
+- Belysning och skuggning, speciellt lokal belysning.
+- OpenGL.
 
 ## Undervisnings- och arbetsformer
 

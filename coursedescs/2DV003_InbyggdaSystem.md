@@ -37,12 +37,12 @@ Kursen ger en introduktion till inbyggda system, sensorer och manöverdon, samt 
 
 Följande moment behandlas:
 
-- Introduktion till inbyggda system samt fysiska och simulerade miljöer,
-- Sensorer och manöverdon i inbyggda system,
-- Begreppen tid och tidshantering, monoton och icke-monoton tid samt fördröjningar,
-- Realtidsoperativsystem och schemaläggning av uppgifter,
-- Metoder för avbrottsstyrd schemaläggning,
-- Synkronisering av uppgifter, omkastad prioritet, prioritetsarv, begränsad prioritet,
+- Introduktion till inbyggda system samt fysiska och simulerade miljöer.
+- Sensorer och manöverdon i inbyggda system.
+- Begreppen tid och tidshantering, monoton och icke-monoton tid samt fördröjningar.
+- Realtidsoperativsystem och schemaläggning av uppgifter.
+- Metoder för avbrottsstyrd schemaläggning.
+- Synkronisering av uppgifter, omkastad prioritet, prioritetsarv, begränsad prioritet.
 - Hantering av undantag och avbrott.
 
 ## Undervisnings- och arbetsformer

@@ -24,7 +24,7 @@ Efter slutförd kurs skall studenten kunna:
     5. dokumentera program och följa programkodskonventioner.
 3. *Värderingsförmåga och förhållningssätt*
     1. Resonera kring hur välstrukturerat och lättförstått ett program är, samt
-    2. göra att motiverat val av datastrukturer och algoritmer i olika scenarier, t.ex. med avseende på presentanda.
+    2. göra att motiverat val av datastrukturer och algoritmer i olika scenarier, t.ex. med avseende på prestanda.
 
 ## Kursinnehåll
 
@@ -32,20 +32,20 @@ Kursen är en inledande programmeringskurs i programspråket Python. Kursens fö
 
 Följande moment behandlas:
 
-- Introduktion till labbmiljön och andra resurser, t.ex. lärplattformen
-- En dators uppbyggnad och hur program exekveras
+- Introduktion till labbmiljön och andra resurser, t.ex. lärplattformen.
+- En dators uppbyggnad och hur program exekveras.
 - Introduktion till utvecklingsmiljöer, t.ex. editor, interpretator, osv.
-- Problemlösning
-- Att formulera lösningar på problem så att datorer kan hantera dem
-- Grundläggande programspråkskonstruktioner
-- Filhantering
-- Att använda externa programvarubibliotek
-- Att använda klasser, objekt och moduler
-- Vanliga datastrukturer (t.ex. listor, mängder, tabeller och träd)
-- Vanliga algoritmer för sökning och sortering
-- Enkla uppskattningar av bästa, värsta, och genomsnittlig tidskomplexitet  
-- Dokumentation av kod och kodkonventioner
-- Parvist arbete, problemlösning och kommunikationsfärdigheter
+- Problemlösning.
+- Att formulera lösningar på problem så att datorer kan hantera dem.
+- Grundläggande programspråkskonstruktioner.
+- Filhantering.
+- Att använda externa programvarubibliotek.
+- Att använda klasser, objekt och moduler.
+- Vanliga datastrukturer (t.ex. listor, mängder, tabeller och träd).
+- Vanliga algoritmer för sökning och sortering.
+- Enkla uppskattningar av bästa, värsta och genomsnittlig tidskomplexitet.
+- Dokumentation av kod och kodkonventioner.
+- Parvist arbete, problemlösning och kommunikationsfärdigheter.
 
 ## Undervisnings- och arbetsformer
 

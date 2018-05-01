@@ -27,7 +27,7 @@ Efter slutförd kurs skall studenten kunna:
     3. bevisa att (enkla) jämnlöpande program är korrekta, samt
     4. analysera ett problem och implementera en lämplig jämnlöpande lösning som är korrekt synkroniserad.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Välja och föra ett resonemang om delat minne eller meddelanden är mest lämpligt vid ett givet problem.
+    1. Välja och föra ett resonemang om delat minne eller meddelanden är mest lämpligt vid ett givet problem.
 
 ## Kursinnehåll
 
@@ -35,15 +35,15 @@ Kursen introducerar hur jämnlöpande programmering och de problem detta medför
 
 Följande moment behandlas:
 
-- Processer och synkronisering
-- Schemaläggning 
-- Delat minne och meddelanden
-- Jämnlöpande programmering med trådar och delade variabler 
-- Kritiska sektioner
-- Lås, barriärer, semaforer och monitors
-- Distribuerade/jämnlöpande algoritmer
-- Konsistensmodeller
-- Jämnlöpande och låsfria datastrukturer
+- Processer och synkronisering.
+- Schemaläggning.
+- Delat minne och meddelanden.
+- Jämnlöpande programmering med trådar och delade variabler.
+- Kritiska sektioner.
+- Lås, barriärer, semaforer och monitors.
+- Distribuerade/jämnlöpande algoritmer.
+- Konsistensmodeller.
+- Jämnlöpande och låsfria datastrukturer.
 
 ## Undervisnings- och arbetsformer
 

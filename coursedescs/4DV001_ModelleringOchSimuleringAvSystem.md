@@ -19,12 +19,12 @@ Efter slutförd kurs skall studenten kunna:
     1. Redogöra för grundläggande begrepp inom modellering och simulering, samt
     2. beskriva olika klasser av simulering, t.ex. händelsestyrd, samt när de bör tillämpas.
 2. *Färdighet och förmåga*
-    1. Implementera enklare simuleringar från utvalda klasser såsom händelsestyr, kontinuerlig, och agent-baserad,
+    1. Implementera enklare simuleringar från utvalda klasser såsom händelsestyr, kontinuerlig och agent-baserad,
     2. konstruera lämpliga deterministiska och icke-deterministiska modeller i ett verktyg för att simulera ett givet system, samt
-    3. givet ett problem, välja en lämplig simuleringmetod.
+    3. givet ett problem, välja en lämplig simuleringsmetod.
 3. *Värderingsförmåga och förhållningssätt*
     1. Reflektera över olika metoders lämplighet för olika typer av problem och vilka konsekvenserna av en olämplig metod blir,
-    2. värdera resultatet av en simulering t.ex. med avseende på faktorer som presentada eller tillförlitlighet, samt
+    2. värdera resultatet av en simulering t.ex. med avseende på faktorer som prestanda eller tillförlitlighet, samt
     3. reflektera över värdet av att kunna simulera system innan de konstrueras, och vilka samhällsfördelar det ger.
 
 ## Kursinnehåll
@@ -33,15 +33,15 @@ Kursen ger en översikt över olika deterministiska och icke-deterministiska mod
 
 Följande moment behandlas:
 
-- Introduktion till modellering och simulering
-- Hur modellering och simulering används
-- Händelsestyrd simulering (Discrete event)
-- Kontinuerlig simulering
-- Kömodellering
-- Agent-baserad modellering och simulering
-- Icke-deterministisk och stokastisk modellering och simulering
-- Metoder för sampling
-- Monte Carlo-simulering
+- Introduktion till modellering och simulering.
+- Hur modellering och simulering används.
+- Händelsestyrd simulering (Discrete event).
+- Kontinuerlig simulering.
+- Kömodellering.
+- Agent-baserad modellering och simulering.
+- Icke-deterministisk och stokastisk modellering och simulering.
+- Metoder för sampling.
+- Monte Carlo-simulering.
 - Validering av simulering, hypotesprövning, ovanliga händelser.
 - Verktyg och programbibliotek för modellering och simulering, t.ex. Simulink och Modelica.
 

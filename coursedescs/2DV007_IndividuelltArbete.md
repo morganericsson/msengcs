@@ -10,7 +10,6 @@
 - 1DV007 - Mjukvaruutvecklingsprojekt
 - 1ZT001 - Teknisk kommunikation
 - 2OT001 - Vetenskapliga metoder
-- 75 hp kurser i datavetenskap varav minst 15 hp omfattar kurser på G2F nivå
 
 ## Lärandemål
 
@@ -35,17 +34,17 @@ Kursen innehåller självständigt arbete (max två studenter)  kring ett proble
 
 Följande moment behandlas:
 
-- Problemformulering
-- Söka i vetenskaplig litteratur
-- Analysera och bearbeta resultat och fakta
-- Vetenskaplig teknisk rapportskrivning
-- Muntlig redovisning
-- Opponering
-- Självständigt ingenjörsmässigt arbete omfattande teoretisk och/eller experimentell verksamhet
+- Problemformulering.
+- Söka i vetenskaplig litteratur.
+- Analysera och bearbeta resultat och fakta.
+- Vetenskaplig teknisk rapportskrivning.
+- Muntlig redovisning.
+- Opponering.
+- Självständigt ingenjörsmässigt arbete omfattande teoretisk och/eller experimentell verksamhet.
 
 ## Undervisnings- och arbetsformer
 
-Handledning av lärare med jämna mellanrum. Framläggning av eget arbete och opponering i slutet av kursen. Auskultation vid framläggning av tre andra arbeten på samma nivå eller högre måste ske innan framläggning av eget arbete får ske. Auskulation kan ske från och mer termin fyra. Närvaro vid egen framläggning och opponering är obligatorisk.
+Handledning av lärare med jämna mellanrum. Framläggning av eget arbete och opponering i slutet av kursen. Auskultation vid framläggning av tre andra arbeten på samma nivå eller högre måste ske innan framläggning av eget arbete får ske. Auskultation kan ske från och mer termin fyra. Närvaro vid egen framläggning och opponering är obligatorisk.
 
 ## Examination
 

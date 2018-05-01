@@ -17,7 +17,7 @@ Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
 	1. Beskriva övergripande elektromagnetismens förutsättningar,
-	2. redogöra för elektromagnetismens huvudsakliga resultat och sammanhang,
+	2. redogöra för elektromagnetismens huvudsakliga resultat och sammanhang,
 	3. förklara hur elektromagnetismen kan tillämpas, samt
 	4. beskriva tillämpning inom elektroniken.
 2. *Färdighet och förmåga*
@@ -33,19 +33,19 @@ Efter slutförd kurs skall studenten kunna:
 
 Kursen innehåller två huvuddelar, dels behandlas grundläggande elektromagnetism och, dels behandlas elektriska tillämpningar, särskilt inom elektronik. Kursen innehåller ett antal laborationer som förutom metoder för behandling av mätdata och bedömning av mätnoggrannhet också omfattar vanliga mätinstrument, såsom multimetrar, oscilloskop och funktionsgenerator. Speciellt behandlas olika typer av elektriska kretstillämpningar inkluderande moment som mätning av tillståndsvariabler och styrning av utrustning.
 
-- Grundläggande elektromagnetism
-	- Elektrostatik: laddning och fält, potential och potentiell energi
-	- Dielektriska material: polarisation, kapacitans, kondensatorer
-	- Magnetism och induktion, induktans och spolar
-	- Något om vågutbredning, vågledare och relativistisk dopplereffekt 
-	- Något om supraledning
-- Kretsteori
-	- Likström, tvåspolssatsen
-	- Växelström: impedans, effekt, resonans
-	- Elektrisk svängningskrets
-	- Linjära kretsar: ingångs-/utgångsimpedans, låg-/högpassfilter
-	- Halvledardioder, aktiva komponenter, och sensorer
-- Digitala komponenter: grindar och grundläggande CMOS-kretsar
+- Grundläggande elektromagnetism.
+	- Elektrostatik: laddning och fält, potential och potentiell energi.
+	- Dielektriska material: polarisation, kapacitans, kondensatorer.
+	- Magnetism och induktion, induktans och spolar.
+	- Något om vågutbredning, vågledare och relativistisk dopplereffekt.
+	- Något om supraledning.
+- Kretsteori.
+	- Likström, tvåspolssatsen.
+	- Växelström: impedans, effekt, resonans.
+	- Elektrisk svängningskrets.
+	- Linjära kretsar: ingångs-/utgångsimpedans, låg-/högpassfilter.
+	- Halvledardioder, aktiva komponenter och sensorer.
+- Digitala komponenter: grindar och grundläggande CMOS-kretsar.
 
 ## Undervisnings- och arbetsformer
 

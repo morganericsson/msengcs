@@ -30,11 +30,11 @@ Efter slutförd kurs skall studenten kunna:
 
 Kursen ger en introduktion till envariabelanalys. Följande moment behandlas:
 
-- Gränsvärden och kontinuitet: gränsvärdesdefinitionen, räkneregler, instängningssatsen, standardgränsvärden, talet e
-- Derivata och funktionsstudier: derivatans definition, räkneregler, de elementära funktionernas derivator, medelvärdessatsen, extremvärdesproblem, kurvritning, asymptoter
-- Integraler: primitiva funktioner, integralens definition, analysens huvudsats, integralkalkylens medelvärdessats, partiell integration, variabelbyte, integrering av rationella funktioner
-- Differentialekvationer: linjära och separabla ekvationer av första ordningen, linjära ekvationer av andra ordningen med konstanta koefficienter
-- Matematisk modellering med differentialekvationer
+- Gränsvärden och kontinuitet: gränsvärdesdefinitionen, räkneregler, instängningssatsen, standardgränsvärden, talet e.
+- Derivata och funktionsstudier: derivatans definition, räkneregler, de elementära funktionernas derivator, medelvärdessatsen, extremvärdesproblem, kurvritning, asymptoter.
+- Integraler: primitiva funktioner, integralens definition, analysens huvudsats, integralkalkylens medelvärdessats, partiell integration, variabelbyte, integrering av rationella funktioner.
+- Differentialekvationer: linjära och separabla ekvationer av första ordningen, linjära ekvationer av andra ordningen med konstanta koefficienter.
+- Matematisk modellering med differentialekvationer.
 
 ## Undervisnings- och arbetsformer
 

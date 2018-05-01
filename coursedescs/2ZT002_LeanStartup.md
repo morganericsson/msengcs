@@ -36,12 +36,12 @@ Efter slutförd kurs skall studenten kunna:
 Kursen ger en introduktion till entreprenörskap och innovation, samt hur 
 och vad man skall tänka på när man startar eller förändrar verksamheter. Kursen tar en praktiskt ansats och tidigare erfarenheter från lean och agil sätts i sammanhang. 
 
-- Grundläggande begrepp, teorier och processer för entreprenörskap
-- Affärsmodeller och affärsmodellering
-- Marknads och kundsegmentering
-- Tillväxt- och affärsutvecklingsstrategier
-- Intäkter och prissättningsmodeller
-- Hur en vinnande och agil kultur skapas
+- Grundläggande begrepp, teorier och processer för entreprenörskap.
+- Affärsmodeller och affärsmodellering.
+- Marknads och kundsegmentering.
+- Tillväxt- och affärsutvecklingsstrategier.
+- Intäkter och prissättningsmodeller.
+- Hur en vinnande och agil kultur skapas.
 
 ## Undervisnings- och arbetsformer
 
@@ -81,7 +81,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Løwe Nielsen, S., Klyver, K., Rostgard Evald, M. och Bager, T., *Entrepreneurship in theory and practice – paradoxes in play*, andra utgåvan, Edward Elgar Publishing, 2017, Antal sidor: 236 av 368.
+- Løwe Nielsen, S., Klyver, K., Rostgaard Evald, M. och Bager, T., *Entrepreneurship in theory and practice – paradoxes in play*, andra utgåvan, Edward Elgar Publishing, 2017, Antal sidor: 236 av 368.
 - Ries, E., *The Lean Startup*, Crown Publishing Group, 2011. Antal sidor: 300 av 336.
 
 ## Övrigt

@@ -33,19 +33,19 @@ Efter slutförd kurs skall studenten kunna:
 
 ## Kursinnehåll
 
-Kursen ger en fördjupad bild av algoritmer, datastrukturer, och algoritmanalys. 
+Kursen ger en fördjupad bild av algoritmer, datastrukturer och algoritmanalys. 
 
 Följande moment behandlas:
 
-- Introduktion till beräkning, beräkningsbarhet och turing-maskiner
-- Asymptotisk analys (big-O, Theta, Omega notation)
-- Algoritmanalys (värsta fall, medel, bästa fall)
-- Introduktion till skillnad i prestanda och kostnader av att välja sämre algoritmer
-- Abstrakta datatyper: associativ lista (dictionary), prioritetskö, union-find
-- Sorteringsalgoritmer
-- Grafalgoritmer
-- Strategier för algoritmdesign (söndra-och-härska, dynamisk programmering och giriga algoritmer)
-- Introduktion till komplexitetsteori: ohanterbara problem (intractability), komplexitetsklasser, fullständighet (completeness), reduktion
+- Introduktion till beräkning, beräkningsbarhet och turing-maskiner.
+- Asymptotisk analys (big-O, Theta, Omega notation).
+- Algoritmanalys (värsta fall, medel, bästa fall).
+- Introduktion till skillnad i prestanda och kostnader av att välja sämre algoritmer.
+- Abstrakta datatyper: associativ lista (dictionary), prioritetskö, union-find.
+- Sorteringsalgoritmer.
+- Grafalgoritmer.
+- Strategier för algoritmdesign (söndra-och-härska, dynamisk programmering och giriga algoritmer).
+- Introduktion till komplexitetsteori: ohanterbara problem (intractability), komplexitetsklasser, fullständighet (completeness), reduktion.
 - Vad medför det att vissa problem inte kan lösas effektivt eller alls?
 
 ## Undervisnings- och arbetsformer

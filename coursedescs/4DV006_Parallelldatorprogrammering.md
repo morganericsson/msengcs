@@ -33,17 +33,17 @@ Kursen ger en fördjupning i hur problem kan lösas med hjälp av parallelldator
 
 Följande moment behandlas:
 
-- Introduktion till homogena och heterogena parallella datorer
-- Introduktion till grafikprocessorer och acceleratorer
-- Fördjupning i hur problem kan brytas ned för parallell exekvering
-- OpenMP
-- Programmering av beräkningsklustrer med hjälp av t.ex. MPI
-- Programmering av grafikprocessorer med hjälp av t.ex. CUDA
-- Parallella mönster såsom prefixsumma, map-reduce, matrisberäkningar, merge-sortering och sökning i grafer
-- Exempel på hur parallellprogrammering kan användas inom olika domäner, t.ex. maskininlärning, bildbehandling, och bildanalys
-- Planering och driftsättning av (virtuella) klustrar i molnet
-- Vanliga benchmarks och hur dessa används för att uppskatta prestanda
-- Enklare verktyg för att testa och felsöka parallella program
+- Introduktion till homogena och heterogena parallella datorer.
+- Introduktion till grafikprocessorer och acceleratorer.
+- Fördjupning i hur problem kan brytas ned för parallell exekvering.
+- OpenMP.
+- Programmering av beräkningsklustrer med hjälp av t.ex. MPI.
+- Programmering av grafikprocessorer med hjälp av t.ex. CUDA.
+- Parallella mönster såsom prefixsumma, map-reduce, matrisberäkningar, merge-sortering och sökning i grafer.
+- Exempel på hur parallellprogrammering kan användas inom olika domäner, t.ex. maskininlärning, bildbehandling och bildanalys.
+- Planering och driftsättning av (virtuella) klustrar i molnet.
+- Vanliga benchmarks och hur dessa används för att uppskatta prestanda.
+- Enklare verktyg för att testa och felsöka parallella program.
 
 ## Undervisnings- och arbetsformer
 

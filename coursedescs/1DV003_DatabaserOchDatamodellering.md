@@ -26,7 +26,7 @@ Efter slutförd kurs skall studenten kunna:
     2. optimera en databasdesign genom att använda normalformer (1NF, 2NF, 3NF, BCNF), med beaktande av egenskaperna hos de fysiska medier som används för datalagring, samt
     3. implementera relationsdatamodeller i en databashanterare samt skapa, fråga och manipulera data med hjälp av SQL via klientprogram och program implementerade i Python.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Analysera och värdera en domän och dess begränsningar som en datamodell samt muntligt och skriftligt diskutera fördelarna och nackdelarna med designen,
+    1. Analysera och värdera en domän och dess begränsningar som en datamodell samt muntligt och skriftligt diskutera fördelarna och nackdelarna med designen,
     2. reflektera över egenskaperna hos olika datamodeller och välja de som är mest lämpade för det problem som ska lösas, samt
     3. resonera om hur olika designalternativ påverkar databasens egenskaper, t.ex. prestanda och möjliga frågor.
 
@@ -37,20 +37,20 @@ Kursen ger en introduktion till databaser och informationshanteringssystem. Den 
 
 Följande moment behandlas:
 
-- Introduktion till datorbaserade informationshanteringssystem 
-- Vikten av databaser och informationshantering i samhället
-- Vilken data kan, får och bör lagras. Vilka regelverk gäller, t.ex. GDPR
-- Konceptuella, logiska och fysiska datamodeller
-- Olika typer av databashanterare
-- Diagram för att modellera data, t.ex. E/R
-- Relationsmodeller och relationsalgebra
-- Databasfrågor och databasmanipulation med SQL
-- Funktionella beroenden och normalformer (1NF, 2NF, 3NF, BCNF)
+- Introduktion till datorbaserade informationshanteringssystem.
+- Vikten av databaser och informationshantering i samhället.
+- Vilken data kan, får och bör lagras. Vilka regelverk gäller, t.ex. GDPR.
+- Konceptuella, logiska och fysiska datamodeller.
+- Olika typer av databashanterare.
+- Diagram för att modellera data, t.ex. E/R.
+- Relationsmodeller och relationsalgebra.
+- Databasfrågor och databasmanipulation med SQL.
+- Funktionella beroenden och normalformer (1NF, 2NF, 3NF, BCNF).
 - Installation och användning av vanliga databashanterare, t.ex. MySQL i labbmiljön.
-- Utveckling av program som använder en databas
-- Predikatlogik och dess relation till databaser
-- Introduktion till samtidighet, låsning och hur transaktioner fungerar
-- Filsystem och hur data lagras på blockenheter (t.ex. hårddiskar)
+- Utveckling av program som använder en databas.
+- Predikatlogik och dess relation till databaser.
+- Introduktion till samtidighet, låsning och hur transaktioner fungerar.
+- Filsystem och hur data lagras på blockenheter (t.ex. hårddiskar).
 
 ## Undervisnings- och arbetsformer
 

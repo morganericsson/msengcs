@@ -19,7 +19,7 @@ Efter slutförd kurs skall studenten kunna:
 2. *Färdighet och förmåga*
     1. Beskriva enkla dynamiska system med hjälp av matematiska modeller.
     2. i enkla fall kunna analysera såväl öppna som slutna reglersystem med avseende på systemets stabilitet
-    3. specificera ett reglersystem i såväl tids¬ som frekvensplanet
+    3. specificera ett reglersystem i såväl tids- som frekvensplanet
     4. utifrån en systembeskrivning simulera tidsförlopp. Processparametrar ska kunna ändras och olika processvariabler ska kunna studeras,
     5. i enkla fall kunna specificera, modellera, konstruera och verifiera ett reglersystem för en labbprocess, samt
     6. från såväl slutna systemets polplacering som det öppna systemets frekvenskarakteristik göra rimliga bedömningar om hur snabbt och hur oscillativt det slutna systemet är samt beräkna stationära fel.
@@ -32,11 +32,11 @@ De dynamiska system som behandlas är samtliga tidskontinuerliga och tidsinvaria
 
 Följande moment behandlas:
 
-- Introduktion till reglerkniken: historia, exempel på reglersystem och reglerteknikens grundbegrepp.
+- Introduktion till reglertekniken: historia, exempel på reglersystem och reglerteknikens grundbegrepp.
 - Beskrivning av dynamiska system med hjälp av tidsinvarianta ordinära differentialekvationer.
-- Linjarisering, tillståndsbegreppet, viktfunktioner, Laplacetransformer, överföringsfunktioner, Nyquist¬ och Bodediagram.
+- Linjarisering, tillståndsbegreppet, viktfunktioner, Laplacetransformer, överföringsfunktioner, Nyquist- och Bodediagram.
 - Analys av system. Stabilitetsbegrepp.
-- Stabilitetsundersökningar med hjälp av rotortmetoden, Routh-Hurwitz kriterium, argumentvariationsprincipen och Nyquist-kriteriet. Fas- och amplitudmarginal. Syntes av reglersystem. Specifikationer, polplacering, kompenseringsfilter, PID=regulatorn, framkoppling, kaskadreglering, robusthet, känslighet för störningar och parameterändringar.
+- Stabilitetsundersökningar med hjälp av rotortmetoden, Routh-Hurwitz kriterium, argumentvariationsprincipen och Nyquist-kriteriet. Fas- och amplitudmarginal. Syntes av reglersystem. Specifikationer, polplacering, kompenseringsfilter, PID-regulatorn, framkoppling, kaskadreglering, robusthet, känslighet för störningar och parameterändringar.
 - Implementering av regulatorer.
 
 ## Undervisnings- och arbetsformer

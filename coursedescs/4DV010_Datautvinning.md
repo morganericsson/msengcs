@@ -22,7 +22,7 @@ Efter slutförd kurs skall studenten kunna:
     1. Förklara grundläggande koncept och principer för datautvinning, t.ex. avståndsmått och klustering, samt
     2. redogöra för de senaste rönen inom datautvinning, t.ex. tekniker och tillämpningar.
 2. *Färdighet och förmåga*
-    1. Fivet ett problem och en datamängd eller dataström, planera och strukturera en datautvinningspipeline med avseende på vilka metoder som skall användas för att t.ex. dimensionsreducering, avståndsmått och klustering, samt vilken kvalitet utdata kommer att ha,
+    1. Givet ett problem och en datamängd eller dataström, planera och strukturera en datautvinningspipeline med avseende på vilka metoder som skall användas för att t.ex. dimensionsreducering, avståndsmått och klustering, samt vilken kvalitet utdata kommer att ha,
     2. implementera några av de enklare algoritmerna, t.ex. Page rank och CURE-klustering på ett effektivt sätt, t.ex. med hjälp av Map-reduce ramverk, samt
     3. använda lämpliga befintliga verktyg och programbibliotek för att utvinna data ur en given (ostrukturerad) datamängd eller dataström.
 3. *Värderingsförmåga och förhållningssätt*
@@ -31,22 +31,22 @@ Efter slutförd kurs skall studenten kunna:
 
 ## Kursinnehåll
 
-Kursen ger en introduktion till datautvinning och vanliga användningsområden, t.ex. sökmotorer, rekommendationssystem, och webbannonsering. Kursen bygger vidare på kunskaper från numeriska metoder och maskininlärning.
+Kursen ger en introduktion till datautvinning och vanliga användningsområden, t.ex. sökmotorer, rekommendationssystem och webbannonsering. Kursen bygger vidare på kunskaper från numeriska metoder och maskininlärning.
 
-- Introduktion till datautvinning
-- Relationen mellan datautvinning och maskininlärning
-- Utvinning av information från text
+- Introduktion till datautvinning.
+- Relationen mellan datautvinning och maskininlärning.
+- Utvinning av information från text.
 - Hur hittar man liknande saker, t.ex. dokument?
 - Hur utvinns data ur dataströmmar?
 - Analys av länkar, t.ex. pagerank och HITS.
-- Analys av vanligt förkommande mängder av saker, t.ex. Market-Basket och A-Priori algoritmen
-- Fördjupning av klustingsalgoritmer, t.ex CURE och CRGPF
+- Analys av vanligt förkommande mängder av saker, t.ex. Market-Basket och A-Priori algoritmen.
+- Fördjupning av klustingsalgoritmer, t.ex CURE och CRGPF.
 - Fördjupning av dimensionsreduction, CUR.
-- Klustring av strömmande data
-- Tillämpningar inom annonsering på webben, rekommendationssystem, och analys av sociala nätverk
+- Klustring av strömmande data.
+- Tillämpningar inom annonsering på webben, rekommendationssystem och analys av sociala nätverk.
 - Datautvinning ur ett samhällsperspektiv, t.ex. etiska frågeställningar, affärsnytta och nya möjligheter inom t.ex. hälsa.
-- Datakvalitet
-- Verktyg och programbibliotek för datautvinning
+- Datakvalitet.
+- Verktyg och programbibliotek för datautvinning.
 
 ## Undervisnings- och arbetsformer
 

@@ -37,18 +37,18 @@ I kursen senare del sätts systemkomponenterna ihop till ett komplett system, oc
 
 Följande moment behandlas:
 
-- Digitala kretsar och CMOS
-- Läsa, tolka och förstå datablad
-- Kombinatorisk och sekventiell logik
-- Tillståndsmaskiner
+- Digitala kretsar och CMOS.
+- Läsa, tolka och förstå datablad.
+- Kombinatorisk och sekventiell logik.
+- Tillståndsmaskiner.
 - Hårdvaruarkitekturer, t.ex. von Neumann.
-- Maskinkod och assemblerkod
-- Hårdvarunära programmering i C
-- Gränslandet mellan mjukvara och hårdvara
-- Minneshierarkin
-- Pipelines
-- Virtuellt minne
-- Enheter och avbrott
+- Maskinkod och assemblerkod.
+- Hårdvarunära programmering i C.
+- Gränslandet mellan mjukvara och hårdvara.
+- Minneshierarkin.
+- Pipelines.
+- Virtuellt minne.
+- Enheter och avbrott.
 
 ## Undervisnings- och arbetsformer
 

@@ -27,18 +27,18 @@ Efter slutförd kurs skall studenten kunna:
 
 ## Kursinnehåll
 
-Kursen ger en introduktion till diskret matematik, logik, och kombinatorik. Följande moment behandlas:
+Kursen ger en introduktion till diskret matematik, logik och kombinatorik. Följande moment behandlas:
 
-- Logik: sanningsvärdestabeller, härledningar, disjunktiv och konjunktiv normalform, satslogik, predikatlogisk formalism
+- Logik: sanningsvärdestabeller, härledningar, disjunktiv och konjunktiv normalform, satslogik, predikatlogisk formalism.
 - Mängdlära: dualitetsprincipen, de Morgans lagar, principen för inklusion och exklusion.
-- Boolesk algebra 
-- Relationer och funktioner: funktionslära, egenskaper hos relationer, ekvivalensrelationer, ordningsrelationer, matris- och grafrepresentation av relationer
-- Induktion: välordningsprincipen, matematisk induktion, rekursion
-- Genererande funktioner
-- Modulär aritmetik
-- Kombinatorik
-- Differensekvationer
-- Grafteori: Eulerkretsar, Hamiltonbanor, plana grafer, färgläggning av grafer och kromatiska polynom, träd
+- Boolesk algebra.
+- Relationer och funktioner: funktionslära, egenskaper hos relationer, ekvivalensrelationer, ordningsrelationer, matris- och grafrepresentation av relationer.
+- Induktion: välordningsprincipen, matematisk induktion, rekursion.
+- Genererande funktioner.
+- Modulär aritmetik.
+- Kombinatorik.
+- Differensekvationer.
+- Grafteori: Eulerkretsar, Hamiltonbanor, plana grafer, färgläggning av grafer och kromatiska polynom, träd.
 
 ## Undervisnings- och arbetsformer
 

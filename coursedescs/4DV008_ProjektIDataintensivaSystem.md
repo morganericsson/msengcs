@@ -25,7 +25,7 @@ Efter genomförd kurs förväntas studenten kunna:
     2. räkna upp vilka egenskaper ett verktyg eller programvarubibliotek för masksininlärning måste ha för att kunna tillämpas på ett visst problem, samt
     3. namnge och förklara de vanligaste problemen som dyker upp då man vill tillämpa maskininlärning på obearbetade data. 
 2. *Färdighet och förmåga*
-    1. Självständigt lära sig att använda olika verktyg, metoder, och programvarubibliotek som används inom maskininlärning,
+    1. Självständigt lära sig att använda olika verktyg, metoder och programvarubibliotek som används inom maskininlärning,
     2. samla in krav från en kund och utifrån dessa specificera vilken data som behöver samlas och vilken maskininlärningsansats som lämpar sig bäst,
     3. utifrån en kunds krav skapa metriker som kan användas för att utvärdera hur väl en viss ansats uppfyller dessa krav,
     4. implementera och utvärdera ett system (hårdvara och mjukvara) med en maskininlärningskomponent,

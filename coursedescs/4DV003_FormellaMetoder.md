@@ -36,15 +36,15 @@ Kursen ger en introduktion till formell verifikation. Den bygger vidare på sats
 
 Följande moment behandlas:
 
-- Introduktion till formell verifikation
-- Klassifikation av olika verifikationstekniker
-- Processalgebra (CCS), samt hur dessa kan utökas med tidsfördröjningar
-- Tidstillståndsmaskin (timed automata)
+- Introduktion till formell verifikation.
+- Klassifikation av olika verifikationstekniker.
+- Processalgebra (CCS), samt hur dessa kan utökas med tidsfördröjningar.
+- Tidstillståndsmaskin (timed automata).
 - Fördjupning av sats- och predikatlogik, samt temporallogik (LTL och CTL).
-- Programspråkssemantik
-- Programverifikation med hjälp av Hoare-logik och separationslogik
-- Modellkontroll med hjälp av LTL och CTL
-- Runtime-övervakning
+- Programspråkssemantik.
+- Programverifikation med hjälp av Hoare-logik och separationslogik.
+- Modellkontroll med hjälp av LTL och CTL.
+- Runtime-övervakning.
 
 ## Undervisnings- och arbetsformer
 

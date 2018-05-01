@@ -33,13 +33,13 @@ Informationsvisualisering fokuserar på abstrakt information som i de flesta fal
 
 Följande moment behandlas:
 
-- Definition av området informationsvisualisering och hur det relaterar till områden som människa-datorinteraktion (HCI) eller vetenskaplig visualisering
-- Grunderna i visuell uppfattning (preattentiv behandling, gestaltningslagar) och kognition
-- Grunderna i data och visualisering samt hur de kan bearbetas
-- Uppdragsabstraktioner och taxonomier
-- Interaktionskoncept och tekniker (t.ex. dynamiska frågor, zoom och panorering eller fokus och sammanhang)
-- Visualiseringstekniker för 1D, 2D, 3D och multidimensionella data
-- Översikt över aktuella system och verktyg för informationsvisualisering
+- Definition av området informationsvisualisering och hur det relaterar till områden som människa-datorinteraktion (HCI) eller vetenskaplig visualisering.
+- Grunderna i visuell uppfattning (preattentiv behandling, gestaltningslagar) och kognition.
+- Grunderna i data och visualisering samt hur de kan bearbetas.
+- Uppdragsabstraktioner och taxonomier.
+- Interaktionskoncept och tekniker (t.ex. dynamiska frågor, zoom och panorering eller fokus och sammanhang).
+- Visualiseringstekniker för 1D, 2D, 3D och multidimensionella data.
+- Översikt över aktuella system och verktyg för informationsvisualisering.
 
 ## Undervisnings- och arbetsformer
 

@@ -34,13 +34,13 @@ Kursen bygger på och fördjupar innehållet i kursen informationsvisualisering 
 
 Följande moment behandlas:
 
-- Visualiseringstekniker och ritkonventioner för träd/hierarkier, generella nätverksdata (grafer) och multivarianta/dynamiska nätverk
-- Visualiseringstekniker för textdata och dokumentsamlingar (corpus)
-- Visualiseringstekniker för generella tidsseriedata
-- Visualiseringar för specifika applikationsdomäner, inklusive en översikt över deras vanliga analysuppgifter och dataspecifika uppgifter
-- Samarbetande och personliga visualiseringsidéer och tillvägagångssätt
-- Validera och utvärdera visualiseringar
-- Viktigaste olösta utmaningarna inom informationsvisualisering
+- Visualiseringstekniker och ritkonventioner för träd/hierarkier, generella nätverksdata (grafer) och multivarianta/dynamiska nätverk.
+- Visualiseringstekniker för textdata och dokumentsamlingar (corpus).
+- Visualiseringstekniker för generella tidsseriedata.
+- Visualiseringar för specifika applikationsdomäner, inklusive en översikt över deras vanliga analysuppgifter och dataspecifika uppgifter.
+- Samarbetande och personliga visualiseringsidéer och tillvägagångssätt.
+- Validera och utvärdera visualiseringar.
+- Viktigaste olösta utmaningarna inom informationsvisualisering.
 
 
 ## Undervisnings- och arbetsformer

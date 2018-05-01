@@ -27,7 +27,7 @@ Efter slutförd kurs skall studenten kunna:
 
 ## Kursinnehåll
 
-Det övergripande syftet med kursen är att ge en introdutkion till sannolikhetslära och statistisk metodik med tillämpningar inom dataanalys, teknik och ekonomi m fl ämnen. Detta avser bl a teoretiskt arbete med slumpmodeller och utnyttjande av observerade data för att dra slutsatser.
+Det övergripande syftet med kursen är att ge en introduktion till sannolikhetslära och statistisk metodik med tillämpningar inom dataanalys, teknik och ekonomi m.fl. ämnen. Detta avser bl.a. teoretiskt arbete med slumpmodeller och utnyttjande av observerade data för att dra slutsatser.
 
 - Händelser och sannolikheter i utfallsrum. 
 - Betingade sannolikheter. 

@@ -33,17 +33,17 @@ Efter slutförd kurs skall studenten kunna:
 
 Kursen ger en introduktion till software engineering och agila metoder. Yrkesrollen och vad den innebär diskuteras tillsammans med mjukvaruutvecklingsindustrin och hur den fungerar.
 
-- Introduktion till mjukvaruutvecklingsprocessen
-- Kravinhämtning, kravbeskrivning och prioritering
-- Metoder och principer för projektplanering
-- Processstrategier och koncept, såsom risk, iterativ och inkrementell
+- Introduktion till mjukvaruutvecklingsprocessen.
+- Kravinhämtning, kravbeskrivning och prioritering.
+- Metoder och principer för projektplanering.
+- Processstrategier och koncept, såsom risk, iterativ och inkrementell.
 - Mjukvarutestning, enhets- och intergrationstestning.
-- Agil projektledning: användarberättelser, planering, uppskattning
-- Arbete i grupp, kommunikationsstrategier, ansvar och skyldigheter
-- Mjukvaruindustrin och hur utvecklingsprojekt fungerar
-- Organisation och gruppsammansättning i industrin
-- Yrkesrollen mjukvaruutvecklare
-- Verktyg för mjukvaruutveckling och projektledning
+- Agil projektledning: användarberättelser, planering, uppskattning.
+- Arbete i grupp, kommunikationsstrategier, ansvar och skyldigheter.
+- Mjukvaruindustrin och hur utvecklingsprojekt fungerar.
+- Organisation och gruppsammansättning i industrin.
+- Yrkesrollen mjukvaruutvecklare.
+- Verktyg för mjukvaruutveckling och projektledning.
 
 ## Undervisnings- och arbetsformer
 

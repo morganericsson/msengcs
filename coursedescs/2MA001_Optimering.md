@@ -27,7 +27,7 @@ Efter slutförd kurs skall studenten kunna:
     3. använda befintliga program t.ex. Matlab för att lösa optimeringsproblem, samt
     4. implementera en enkel heuristik för ett strukturerat kombinatoriskt optimeringsproblem.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Eeflektera över problem inom mjukvaruutveckling där optimeringsmetoder kan användas samt motivera val av metod baserat på metodens förmåga att uppnå ett visst resultat, samt
+    1. Reflektera över problem inom mjukvaruutveckling där optimeringsmetoder kan användas samt motivera val av metod baserat på metodens förmåga att uppnå ett visst resultat, samt
     2. diskutera användning av optimeringsmetodik för hushållning med personella resurser och begränsning av miljöpåverkan av industriell och logistisk verksamhet, samt kunna identifiera sådana tillämpningar av optimeringslära.
 
 ## Kursinnehåll

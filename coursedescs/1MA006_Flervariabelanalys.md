@@ -33,15 +33,15 @@ Efter slutförd kurs skall studenten kunna:
 
 Följande moment behandlas:
 
-- Vektorer och koordinatgeometri i R^n, vektorvärda funktioner, kurvor och parametrisering
-- Partiella derivator, gradient och riktningsderivata, tangentplan till ytor, normalriktning, kedjeregeln, inversa och implicita funktionssatsen, funktionalmatris, linjärisering
-- Optimering på kompakta och allmänna områden
-- Dubbel- och trippelintegraler, iterering av multipelintegraler, variabelbyte, tillämpning på volym och tyngdpunkt
-- Vektorfält, linjeintegraler och ytintegraler med avseende på funktioner och vektorfält
-- Divergens- och rotationsoperatorerna
-- Greens formel i planet, potentialer
-- Gauss sats och Stokes sats
-- Matlab som ett verktyg i flervariabelanalys
+- Vektorer och koordinatgeometri i R^n, vektorvärda funktioner, kurvor och parametrisering.
+- Partiella derivator, gradient och riktningsderivata, tangentplan till ytor, normalriktning, kedjeregeln, inversa och implicita funktionssatsen, funktionalmatris, linjärisering.
+- Optimering på kompakta och allmänna områden.
+- Dubbel- och trippelintegraler, iterering av multipelintegraler, variabelbyte, tillämpning på volym och tyngdpunkt.
+- Vektorfält, linjeintegraler och ytintegraler med avseende på funktioner och vektorfält.
+- Divergens- och rotationsoperatorerna.
+- Greens formel i planet, potentialer.
+- Gauss sats och Stokes sats.
+- Matlab som ett verktyg i flervariabelanalys.
 
 
 ## Undervisnings- och arbetsformer

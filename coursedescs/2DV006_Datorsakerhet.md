@@ -35,17 +35,17 @@ Kursen är en introduktionskurs i IT-säkerhet. Den ger grundläggande förståe
 
 Följande moment behandlas:
 
-- IT och samhällets sårbarhet
-- Informationssäkerhet
-- Informationsklassificering
-- Etik och lagstiftning
-- Sårbarhetsanalys på organisationsnivå
-- Grundläggande säkerhetsmekanismer (kryptering, autentisering, åtkomstkontroll)
-- Programsäkerhet (Buffertöverskridning, säker programmering)
-- Säkerhet i operativsystem
-- Säkerhet i databaser
-- Nätverkssäkerhet
-- Illasinnade program (virus / maskar / trojaner)
+- IT och samhällets sårbarhet.
+- Informationssäkerhet.
+- Informationsklassificering.
+- Etik och lagstiftning.
+- Sårbarhetsanalys på organisationsnivå.
+- Grundläggande säkerhetsmekanismer (kryptering, autentisering, åtkomstkontroll).
+- Programsäkerhet (Buffertöverskridning, säker programmering).
+- Säkerhet i operativsystem.
+- Säkerhet i databaser.
+- Nätverkssäkerhet.
+- Illasinnade program (virus / maskar / trojaner).
 
 ## Undervisnings- och arbetsformer
 

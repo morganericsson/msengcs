@@ -29,13 +29,13 @@ Efter genomförd kurs förväntas studenten kunna:
 
 ## Kursinnehåll
 
-Kursen är en seminariekurs där studenterna presenterar och diskuterar vetenskapliga arbeten för att fördjupa sin kännedom om aktuell forskning inom datavetenskap och mjukvaruteknik, samt sin förmåga att kritiskt diskutera forskninsgmetod och resultat.
+Kursen är en seminariekurs där studenterna presenterar och diskuterar vetenskapliga arbeten för att fördjupa sin kännedom om aktuell forskning inom datavetenskap och mjukvaruteknik, samt sin förmåga att kritiskt diskutera forskningsmetod och resultat.
 
 - Fördjupning av vetenskapliga metoder inom datavetenskap och mjukvaruteknik, särskilt inom ett valt delområde.
-- Fördjupning i akademiskt skrivande och muntlig presentation
-- Fördjupning av kritisk analys av vetenskapliga publikationer och presentationer
-- Fördjupning i planering av forskningsprojekt
-- Fördjupning av etiska frågeställningar och hur dessa hanteras
+- Fördjupning i akademiskt skrivande och muntlig presentation.
+- Fördjupning av kritisk analys av vetenskapliga publikationer och presentationer.
+- Fördjupning i planering av forskningsprojekt.
+- Fördjupning av etiska frågeställningar och hur dessa hanteras.
  
 ## Undervisnings- och arbetsformer
 

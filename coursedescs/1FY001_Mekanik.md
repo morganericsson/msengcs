@@ -16,7 +16,7 @@ Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
     1. Beskriva övergripande den klassiska mekanikens förutsättningar,
-    2. redogöra för den klassiska mekanikens huvudsakliga resultat och sammanhang,
+    2. redogöra för den klassiska mekanikens huvudsakliga resultat och sammanhang,
     3. förklara hur den klassiska mekaniken kan tillämpas, samt
     4. beskriva tillämpning inom styrning av tekniska system.
 2. *Färdighet och förmåga*
@@ -34,15 +34,15 @@ Efter slutförd kurs skall studenten kunna:
 
 Kursen behandlar klassisk mekanik enligt Newton baserad på vektorbeskrivning i två och tre dimensioner. Kursens huvuddel behandlar statik, dynamik, plan rotation samt enkel svängningsrörelse. Även relativ rörelse ingår. Avslutningsvis ges en viss inblick i analytisk mekanik och dess relevans inom automationsstyrning.
 
-- Klassisk mekanik enligt Newton
-	- Statik: kraft- och momentjämvikt vid friläggning, masscentrum, friktion
-	- Dynamik: kinematik och kinetik, olika koordinatsystem, arbete, energi och impuls, konserveringslagar
-	- Svängningsrörelser: dämpad och odämpad svängning, resonans
-	- Roterande objekt: tröghetsmoment och rörelsemängdsmoment
-	- Relativ rörelse: fiktiva krafter, centrifugalkraft och Corioliseffekt
-- Analytisk mekanik
-	- Om den teoretiska bakgrunden: minsta verkans princip, Lagrange och Hamiltons formuleringar
-	- Tillämpning inom automation: styrning av ett dynamiskt system
+- Klassisk mekanik enligt Newton.
+	- Statik: kraft- och momentjämvikt vid friläggning, masscentrum, friktion.
+	- Dynamik: kinematik och kinetik, olika koordinatsystem, arbete, energi och impuls, konserveringslagar.
+	- Svängningsrörelser: dämpad och odämpad svängning, resonans.
+	- Roterande objekt: tröghetsmoment och rörelsemängdsmoment.
+	- Relativ rörelse: fiktiva krafter, centrifugalkraft och Corioliseffekt.
+- Analytisk mekanik.
+	- Om den teoretiska bakgrunden: minsta verkans princip, Lagrange och Hamiltons formuleringar.
+	- Tillämpning inom automation: styrning av ett dynamiskt system.
 
 Kursen innehåller ett antal laborationer som förutom metoder för behandling av mätdata och bedömning av mätnoggrannhet speciellt behandlar roterande system, svängningsrörelse respektive styrning av en dubbelpendel eller inverterad pendel. Dessutom ingår en datorsimulering.
 

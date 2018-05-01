@@ -38,20 +38,20 @@ Kursen behandlar grundläggande begrepp och metoder inom maskininlärning.
 
 Följande moment behandlas:
 
-- Översikt av området artificiell intelligens
-- Grundläggande principer för maskininlärning
-- Förbehandling av data, särdrags extrahering, dimensionsreducering
-- Modellval, generalisering, över- och underanpassning
-- Optimering för träningsmodellmodeller
-- Regression
-- Närmaste-granne klassificeringar
-- Logistisk regression
-- Naiva Bayes
-- Beslutsträd
-- Neurala nätverk
-- Ensemblemetoder
-- Kärnmetoder och supportvektormaskiner
-- k-medel-klustring och hierarkisk klustring
+- Översikt av området artificiell intelligens.
+- Grundläggande principer för maskininlärning.
+- Förbehandling av data, särdrags extrahering, dimensionsreducering.
+- Modellval, generalisering, över- och underanpassning.
+- Optimering för träningsmodellmodeller.
+- Regression.
+- Närmaste-granne klassificeringar.
+- Logistisk regression.
+- Naiva Bayes.
+- Beslutsträd.
+- Neurala nätverk.
+- Ensemblemetoder.
+- Kärnmetoder och supportvektormaskiner.
+- k-medel-klustring och hierarkisk klustring.
 
 ## Undervisnings- och arbetsformer
 

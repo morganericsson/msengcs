@@ -23,12 +23,12 @@ Efter slutförd kurs skall studenten kunna:
     1. Förklara och motivera informationsvisualisering och visual analytics i ett människa-maskin-perspektiv och hur dessa kan underlätta dataanalys.
 2. *Färdighet och förmåga*
     1. Självständigt organisera och genomföra ett agilt projekt,
-    2. självständigt lära sig använda olika verktyg, metoder, och programvarubibliotek som används inom informationsvisualisering och visual analytics,
-    3. samla in krav och utifrån dessa bestämma vilka visualiseringar, dataanalyser, och interaktionsmetoder som lämpar sig bäst,
+    2. självständigt lära sig använda olika verktyg, metoder och programvarubibliotek som används inom informationsvisualisering och visual analytics,
+    3. samla in krav och utifrån dessa bestämma vilka visualiseringar, dataanalyser och interaktionsmetoder som lämpar sig bäst,
     4. implementera ett visual analytics system med rimliga tekniska lösningar och driftsätta detta, samt
     5. utifrån en kunds krav specificera och genomföra utvärderingar av ett visual analytics-system med hjälp av t.ex. fokusgrupper.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Reflektera över vilka typer av frågor och analysprocesser som bäst stöds av olika kombinationer av visualiseringstekniker, dataanalysalgoritmer, och interaktionsmetoder,
+    1. Reflektera över vilka typer av frågor och analysprocesser som bäst stöds av olika kombinationer av visualiseringstekniker, dataanalysalgoritmer och interaktionsmetoder,
     2. reflektera över hur val av främst visualiseringar påverkas av de grupper av människor som skall använda systemet, t.ex. med avseende på metaforer och gemensam förståelse, samt
     3. reflektera över vilken bias som finns i systemet, t.ex. beroende på insamlade data, databearbetning, analysmetod och visualiseringstekniker.
 
@@ -36,15 +36,15 @@ Efter slutförd kurs skall studenten kunna:
 
 Kursen är en projektkurs som med hjälp av ett realistiskt problem och realistiska förutsättningar behandlar hela CDIO-cykeln. Studenterna förväntas jobba agilt i grupper om 5-7 och förväntas besätta alla roller utom produktägare.  Det här är den sista projektkursen på programmet där studenterna jobbar agilt, så de förväntas kunna organisera och genomföra den agila processen självständigt. 
 
-- Vikten av data och visualisering för en organisation
-- Informationsvisualisering i realistiska projekt
-- Dataanalys och databearbetning i realistiska projekt 
-- Verktyg, tjänster och programvarubibliotek som kan användas för dataanalys och för att utveckla informationsvisualiseringar, till exempel D3, yFiles, och Bokeh.
-- Människa, maskin och visualiseringar
-- Att utvärdera visualiseringar i realistiska projekt 
-- Att skapa tillgängliga visualiseringssystem
-- Bias i data, analys och visualisering
-- Metaforer, hur och när skall dessa användas, vilka kulturella kopplingar har de, osv.?
+- Vikten av data och visualisering för en organisation.
+- Informationsvisualisering i realistiska projekt.
+- Dataanalys och databearbetning i realistiska projekt.
+- Verktyg, tjänster och programvarubibliotek som kan användas för dataanalys och för att utveckla informationsvisualiseringar, till exempel D3, yFiles och Bokeh.
+- Människa, maskin och visualiseringar.
+- Att utvärdera visualiseringar i realistiska projekt.
+- Att skapa tillgängliga visualiseringssystem.
+- Bias i data, analys och visualisering.
+- Metaforer, hur och när skall dessa användas, vilka kulturella kopplingar har de, osv?
 
 ## Undervisnings- och arbetsformer
 

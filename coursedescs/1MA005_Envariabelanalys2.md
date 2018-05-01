@@ -30,14 +30,14 @@ Efter slutförd kurs skall studenten kunna:
 
 Kursen fortsätter introduktionen av analys. Följande moment behandlas:
 
-- Integration av trigonometriska och irrationella funktioner
-- Generaliserade integraler, konvergens, jämförelsekriteriet
-- Tillämpningar av integralkalkyl
-- Talföljder: definition, egenskaper, övre och undre gräns, gränsvärde, räkneregler för gränsvärden. Konvergens av monotona talföljder
-- Kontinuerliga funktioner: satsen om mellanliggande värde, Weierstrass sats om maximalt och minimalt värde
+- Integration av trigonometriska och irrationella funktioner.
+- Generaliserade integraler, konvergens, jämförelsekriteriet.
+- Tillämpningar av integralkalkyl.
+- Talföljder: definition, egenskaper, övre och undre gräns, gränsvärde, räkneregler för gränsvärden. Konvergens av monotona talföljder.
+- Kontinuerliga funktioner: satsen om mellanliggande värde, Weierstrass sats om maximalt och minimalt värde.
 - Serier: konvergens, egenskaper. Positiva serier: jämförelsekriterier, kvot- och rotkriterier, integralkriteriet. Alternerande serier, betingad konvergens och absolutkonvergens.
-- Potensserier, konvergensradie, konvergensintervall
-- Maclaurins och Taylors formler med restterm, Taylors formel för de elementära funktionerna, beräkningar av gränsvärde och integraler med Taylors formel
+- Potensserier, konvergensradie, konvergensintervall.
+- Maclaurins och Taylors formler med restterm, Taylors formel för de elementära funktionerna, beräkningar av gränsvärde och integraler med Taylors formel.
 
 ## Undervisnings- och arbetsformer
 

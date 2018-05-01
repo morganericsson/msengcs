@@ -17,13 +17,13 @@ Efter slutförd kurs skall studenten kunna:
     2.	grunderna i akademiskt skrivande, samt
     3.	grunderna i presentationsteknik och hur kroppsspråk samt röstteknik påverkar kontakten med publiken vid en muntlig presentation.
 2. *Färdighet och förmåga*
-    1.	Självständigt söka information i olika typer av informationsresurser,
-    2.	läsa, tillgodogöra, värdera och använda innehållet i tekniska artiklar inom ämnet, 
-    3.	skriva mottagar- och genreanpassade texter,
-    4.	planera och genomföra muntliga strukturerade och situationsanpassade presentationer av olika slag inför grupp, både informerande och argumenterande presentationer,
-    5.	ge konstruktiv respons på andras muntliga och skriftliga presentationer,
-    6.	diskussionsteknik med fokus på kommunikationssituationer, samt
-    7. genomföra uppgifter inom givna ramar och samarbeta med grupper från andra ämnen.
+    1. Självständigt söka information i olika typer av informationsresurser,
+    2. läsa, tillgodogöra, värdera och använda innehållet i tekniska artiklar inom ämnet, 
+    3. skriva mottagar- och genreanpassade texter,
+    4. planera och genomföra muntliga strukturerade och situationsanpassade presentationer av olika slag inför grupp, både informerande och argumenterande presentationer,
+    5. ge konstruktiv respons på andras muntliga och skriftliga presentationer,
+    6. diskussionsteknik med fokus på kommunikationssituationer, samt
+    7. genomföra uppgifter inom givna ramar och samarbeta med grupper från andra ämnen.
 3. *Värderingsförmåga och förhållningssätt*
     1.	Återge och använda andras material och data på ett korrekt vis.
    
@@ -32,18 +32,16 @@ Efter slutförd kurs skall studenten kunna:
 
 I denna kurs kommer en kunskapsmässig grund till färdigheter inför skriftliga och muntliga kommunikationssituationer anpassat till dig som ingenjör ges. Kursen innehåller följande:
 
-- Vetenskapligt arbetssätt
-- Akademiska och populärvetenskapliga texttyper: utformning, analys och användande
-- Akademisk skrivande: Grundläggande normer i svenska skrivregler, Akademiska texters struktur, Vetenskaplig stil
-- Disposition och formalia rörande hantering av disposition, Referenshantering, Utformning och användning av figurer och tabeller
-- Moderna verktyg för skapande av texter och presentationer
-- Presentationsteknik: Retorik, kroppsspråk och röstteknik, Beskrivande och
-- gumenterande presentationer, Kommunikationssituationer i
-- kessammanhang
-- Avancerad informationssökning
-- Etik, upphovsrätt och plagiat
-- Samarbete och gruppdynamik
-- Tidsplanering
+- Vetenskapligt arbetssätt.
+- Akademiska och populärvetenskapliga texttyper: utformning, analys och användande.
+- Akademisk skrivande: Grundläggande normer i svenska skrivregler, Akademiska texters struktur, Vetenskaplig stil.
+- Disposition och formalia rörande hantering av disposition, Referenshantering, Utformning och användning av figurer och tabeller.
+- Moderna verktyg för skapande av texter och presentationer.
+- Presentationsteknik: Retorik, kroppsspråk och röstteknik, Beskrivande och argumenterande presentationer, Kommunikationssituationer i yrkessammanhang.
+- Avancerad informationssökning.
+- Etik, upphovsrätt och plagiat.
+- Samarbete och gruppdynamik.
+- Tidsplanering.
 
 
 ## Undervisnings- och arbetsformer

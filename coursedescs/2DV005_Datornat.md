@@ -31,7 +31,7 @@ Efter slutförd kurs skall studenten kunna:
     3. konfigurera och administrera routrar enligt en specifikation.
     4. tolka standarder för nätverksprotokoll (RFC) och implementera dessa i programvara.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Givet en applikation och ett förslag på implementation (protokoll), resonera kring vilka egenskaper, t.ex. presetanda den kommer att ha samt vilka problem som kan uppstå, t.ex. med avseende på tillförlitlighet.
+    1. Givet en applikation och ett förslag på implementation (protokoll), resonera kring vilka egenskaper, t.ex. prestanda den kommer att ha samt vilka problem som kan uppstå, t.ex. med avseende på tillförlitlighet.
    
 ## Kursinnehåll
 
@@ -39,15 +39,15 @@ Kursen ger en introduktion till datornät från ett Internet och TCP/IP-perspekt
 
 Följande moment behandlas:
 
-- Lagerindelade protokollmodeller, OSI och TCP/IP
-- Paketförmedling
-- Datakommunikation på fysisk nivå
-- Datalänkprotokoll
-- Lokala nätverk (t.ex. topologi, åtkomstkontroll, IEEE 802-standarder)
-- Transportprotokoll
-- Applikationsprotokoll
-- Standardgränssnitt för nätverksprogrammerings (t.ex. BSD Socket)
-- Ruttvalsalgoritmer
+- Lagerindelade protokollmodeller, OSI och TCP/IP.
+- Paketförmedling.
+- Datakommunikation på fysisk nivå.
+- Datalänkprotokoll.
+- Lokala nätverk (t.ex. topologi, åtkomstkontroll, IEEE 802-standarder).
+- Transportprotokoll.
+- Applikationsprotokoll.
+- Standardgränssnitt för nätverksprogrammerings (t.ex. BSD Socket).
+- Ruttvalsalgoritmer.
 
 
 ## Undervisnings- och arbetsformer

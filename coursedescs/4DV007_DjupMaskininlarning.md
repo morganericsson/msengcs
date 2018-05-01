@@ -27,7 +27,7 @@ Efter slutförd kurs skall studenten kunna:
     3. representera data för att underlätta lärandet, samt
     4. känna igen typiska effekter av olämpliga initialiseringsvärden, parameterval och hyperparameterval, och föreslå sätt att förbättra resultaten.
 3. *Värderingsförmåga och förhållningssätt*
-    1. Värdera, sammanfatta, diskutera och muntligt presentera vetenskapliga resultat inom området och resonera kring dess påverkan på samhället.
+    1. Värdera, sammanfatta, diskutera och muntligt presentera vetenskapliga resultat inom området och resonera kring dess påverkan på samhället.
 
 ## Kursinnehåll
 
@@ -35,18 +35,17 @@ Kursen omfattar begrepp och metoder från neurala nätverk och djup maskininlär
 
 Följande moment behandlas:
 
-- Neurala nätverk och faltningsnätverk
-- Optimering vid träning av djupa inlärningsmodeller
-- Regularisering för djup maskininlärning
-- Kalibrering av hyperparametrar
-- Återkommande neurala nätverk
-- Långt korttidsminne
-- Förstärkt maskininlärning
+- Neurala nätverk och faltningsnätverk.
+- Optimering vid träning av djupa inlärningsmodeller.
+- Regularisering för djup maskininlärning.
+- Kalibrering av hyperparametrar.
+- Återkommande neurala nätverk.
+- Långt korttidsminne.
+- Förstärkt maskininlärning.
 
 ## Undervisnings- och arbetsformer
 
-Föreläsningar, lärarhandledda laborationer och 
-en seminarieserie där studenter i par presenterar en vetenskaplig artikel inom maskininlärning och opponerar på ett annat pars presentation. 
+Föreläsningar, lärarhandledda laborationer och en seminarieserie där studenter i par presenterar en vetenskaplig artikel inom maskininlärning och opponerar på ett annat pars presentation. 
 
 ## Examination
 
@@ -80,7 +79,7 @@ Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 Obligatorisk litteratur:
 
 - Goodfellow, I., Bengio, Y. och Courville, A., *Deep learning*, MIT Press, 2016. Antal sidor: 465 av 710.
-- Kompendium med vetenskapliga artiklar
+- Kompendium med vetenskapliga artiklar.
 
 ## Övrigt
 

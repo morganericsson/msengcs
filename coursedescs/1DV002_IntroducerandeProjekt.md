@@ -38,22 +38,22 @@ Kursen har två parallella spår: Det första introducerar kort Internet of Thin
 
 Följande moment behandlas:
 
-- Introduktion till Internet of Things
-- Introduktion till Raspberry Pi (hårdvara och mjukvara)
-- Implementera och exekvera Pythonprogram på Raspberry Pi
-- Interagera med externa enheter (t.ex. sensorer)
-- Interagera med nätverkskopplade enheter/Internet 
-- Fördjupning av labbmiljön
-- Introduktion till kravhantering, mjukvarudesign och testning 
-- Introduktion av verktyg och metoder som används inom ett projekt, t.ex. versionshantering, kravhantering, kommunikation, osv.
-- Projektmetodik och projektdynamik
+- Introduktion till Internet of Things.
+- Introduktion till Raspberry Pi (hårdvara och mjukvara).
+- Implementera och exekvera Pythonprogram på Raspberry Pi.
+- Interagera med externa enheter (t.ex. sensorer).
+- Interagera med nätverkskopplade enheter/Internet.
+- Fördjupning av labbmiljön.
+- Introduktion till kravhantering, mjukvarudesign och testning.
+- Introduktion av verktyg och metoder som används inom ett projekt, t.ex. versionshantering, kravhantering, kommunikation, osv..
+- Projektmetodik och projektdynamik.
 - Hur man arbetar i grupp, vilka roller som finns, vilket ansvar individen har, osv.
-- Informationssökning
-- Hur man skriver enklare projektdokumentation
-- Muntlig presentation av tekniskt material
-- Skriftlig presentation av tekniskt material
-- Ingenjörens yrkesroll, arbetsuppgifter och förhållningssätt
-- Ingenjörens ansvar och arbetsmiljö
+- Informationssökning.
+- Hur man skriver enklare projektdokumentation.
+- Muntlig presentation av tekniskt material.
+- Skriftlig presentation av tekniskt material.
+- Ingenjörens yrkesroll, arbetsuppgifter och förhållningssätt.
+- Ingenjörens ansvar och arbetsmiljö.
 
 ## Undervisnings- och arbetsformer
 

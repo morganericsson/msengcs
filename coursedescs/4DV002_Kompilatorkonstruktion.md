@@ -38,17 +38,17 @@ Kursen presenterar tekniker, teorier och verktyg som används då man utvecklar 
 
 Följande moment behandlas:
 
-- Kompilatorns olika faser
-- Objekt­-orienterad kompilatordesign  
-- Lexikalanalys med hjälp av finita automater och reguljära uttryck 
-- Kontextfria grammatiker och språk 
-- Olika parsningtekniker för kontextfria språk 
-- Typsystem och typinterferens
-- Attribuerade grammatiker
-- Semantisk analys
-- Mellannivå-representationer
-- Kodgenerering
-- Stackmaskiner
+- Kompilatorns olika faser.
+- Objekt­-orienterad kompilatordesign.
+- Lexikalanalys med hjälp av finita automater och reguljära uttryck.
+- Kontextfria grammatiker och språk.
+- Olika parsningtekniker för kontextfria språk.
+- Typsystem och typinterferens.
+- Attribuerade grammatiker.
+- Semantisk analys.
+- Mellannivå-representationer.
+- Kodgenerering.
+- Stackmaskiner.
 
 ## Undervisnings- och arbetsformer
 

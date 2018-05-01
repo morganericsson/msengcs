@@ -27,24 +27,24 @@ Efter slutförd kurs skall studenten kunna:
 
 I denna kurs kommer en kunskapsmässig grund till begreppet hållbar utveckling ur ett perspektiv anpassat till dig som ingenjör ges. Följande moment behandlas:
 
-- Innebörden av hållbar utveckling: ekologiska, sociala och ekonomiska förutsättningar, aspekter, definitioner, begrepp, kvantifieringsmetoder och praktisk tillämpning,
-- Teknikens roll och strategier för att uppnå en hållbar utveckling,
-- Globaliseringens påverkan på Hållbar Utveckling,
-- Globala och nationella miljöhot 
-- Hot mot och åtgärder för hållbar utveckling kopplat till ämnesexempel, 
-- Teknikens roll och påverkan av den egna livsstilen,
-- Arbetsmiljölagar
-- Riskbedömning,
-- Etik,
+- Innebörden av hållbar utveckling: ekologiska, sociala och ekonomiska förutsättningar, aspekter, definitioner, begrepp, kvantifieringsmetoder och praktisk tillämpning.
+- Teknikens roll och strategier för att uppnå en hållbar utveckling.
+- Globaliseringens påverkan på Hållbar Utveckling.
+- Globala och nationella miljöhot.
+- Hot mot och åtgärder för hållbar utveckling kopplat till ämnesexempel.
+- Teknikens roll och påverkan av den egna livsstilen.
+- Arbetsmiljölagar.
+- Riskbedömning.
+- Etik.
 - Agenda 2030, roadmap 2050 och de 17 globala målen för hållbar utveckling,
-- Konsumtionsmönster, ekologiska fotavtryck, resursutnyttjande, transporter och avfall, samt
+- Konsumtionsmönster, ekologiska fotavtryck, resursutnyttjande, transporter och avfall.
 - Ekonomiska och juridiska styrmedel och verktyg (Sveriges miljömål, miljöbalken, utsläppsrätter, ISO 14 000, EMAS mm).
 
 ## Undervisnings- och arbetsformer
 
 Undervisningen bedrivs i form av föreläsningar, projektarbete och seminarier. Studenterna väljer under kursen ett teknikområde utifrån studentens eget ämne som man arbetar med under kursens gång i olika form, ämnet skall belysas utifrån de olika aspekter som tas upp under kursen.
 
-Genomförande av vissa seminarier är obligatoriskts.
+Genomförande av vissa seminarier är obligatoriskt.
 
 ## Examination
 

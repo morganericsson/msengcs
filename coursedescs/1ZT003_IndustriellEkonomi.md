@@ -13,7 +13,7 @@ Grundläggande behörighet samt Matematik D eller Matematik 4 (områdesbehörigh
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. Förstå grundläggande ekonomiska konsekvenser av olika tekniska beslut och tekniska konsekvenser av olika ekonomiska beslut,
+    1. Förklara grundläggande ekonomiska konsekvenser av olika tekniska beslut och tekniska konsekvenser av olika ekonomiska beslut,
     2. redogöra för grundläggande ekonomiska begrepp, samt
     3. beskriva metoder för att kunna styra, planera och utveckla industriella verksamheter.
 2. *Färdighet och förmåga*
@@ -24,24 +24,24 @@ Efter slutförd kurs skall studenten kunna:
 
 ## Kursinnehåll
 
-I denna kurs kommer en grundläggande förståelse av förtagsekonomi och baskunskaper i industriell ekonomi ges.  Kursen innehåller följande:
+I denna kurs kommer en grundläggande förståelse av företagsekonomi och baskunskaper i industriell ekonomi ges.  Kursen innehåller följande:
 
-- Ekonomiska begrepp
-- Nyckeltal 
-- Ekonomiska modeller
-- Ekonomisk analys 
-- Kalkylering på kort och lång sikt
-- Rörelsekapitalbehov
-- Tekniker för att utföra och göra lönsamhetsbedömning i företag
-- Kapitalbindning
-- Budgetering
-- Årsredovisning, redovisning och bokföring
-- Finansiering
-- Ekonomi- och verksamhetsstyrning
+- Ekonomiska begrepp.
+- Nyckeltal.
+- Ekonomiska modeller.
+- Ekonomisk analys.
+- Kalkylering på kort och lång sikt.
+- Rörelsekapitalbehov.
+- Tekniker för att utföra och göra lönsamhetsbedömning i företag.
+- Kapitalbindning.
+- Budgetering.
+- Årsredovisning, redovisning och bokföring.
+- Finansiering.
+- Ekonomi- och verksamhetsstyrning.
 
 ## Undervisnings- och arbetsformer
 
-Undervisningen bedrivs i form av föreläsningar och övningar/seminarie med räkne- och diskussionskaraktär, där konkreta industri- och samhällsexempel används för att åskådliggöra teoriernas relevans.
+Undervisningen bedrivs i form av föreläsningar och övningar/seminarier med räkne- och diskussionskaraktär, där konkreta industri- och samhällsexempel används för att åskådliggöra teoriernas relevans.
 
 ## Examination
 
