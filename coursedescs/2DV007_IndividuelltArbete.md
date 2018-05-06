@@ -9,7 +9,7 @@
 
 - 1DV007 - Mjukvaruutvecklingsprojekt
 - 1ZT001 - Teknisk kommunikation
-- 2OT001 - Vetenskapliga metoder
+- 2ZT001 - Vetenskapliga metoder
 
 ## Lärandemål
 

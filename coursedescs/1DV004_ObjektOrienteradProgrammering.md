@@ -15,7 +15,7 @@
 Efter slutförd kurs skall studenten kunna:
 
 1. *Kunskap och förståelse*
-    1. Förklara grundläggande begrepp inom objekt-orienterad programmering såsom klasser, objekt, meddelanden, metoder, arv  och polymorfism, 
+    1. Förklara grundläggande begrepp inom objektorienterad programmering såsom klasser, objekt, meddelanden, metoder, arv  och polymorfism, 
     2. förklara begreppen modularisering, abstraktion och inkapsling, 
     3. förklara och motivera användningen av några vanliga designmönster, 
     4. förklara de vanligaste konstruktionerna som används i UML:s klass- och sekvensdiagram, samt
@@ -32,15 +32,15 @@ Efter slutförd kurs skall studenten kunna:
 
 ## Kursinnehåll
 
-Det är en inledande kurs i objekt-orienterad analys, design och programmering. Kursens första del lär ut programmeringsspråket Java och viktiga begrepp inom objekt-orienterad programmering (t.ex. klasser, objekt, arv, polymorfism, inkapsling). Denna del förutsätter viss erfarenhet av programmering, t.ex. från 1DV001 - Programmering och datastrukturer. I kursens andra del presenteras objekt-orienterad analys och design, samt UML. 
+Det är en inledande kurs i objektorienterad analys, design och programmering. Kursens första del lär ut programmeringsspråket Java och viktiga begrepp inom objektorienterad programmering (t.ex. klasser, objekt, arv, polymorfism, inkapsling). Denna del förutsätter viss erfarenhet av programmering. I kursens andra del presenteras objektorienterad analys och design, samt UML. 
 
 Följande moment behandlas:
 
 - Introduktion till mjukvaruutvecklingsprocessen och hur modellering passar in i processen.
 - Grundläggande programkonstruktioner i Java så som typer, styrande satser, klasser, metoder, fält och exceptions.
-- Objekt-orienterade begrepp såsom abstraktion, modularisering, inkapsling, arv, interfaces och polymorfism.
+- Objektorienterade begrepp såsom abstraktion, modularisering, inkapsling, arv, interfaces och polymorfism.
 - Enhetstestning med JUnit.
-- Objekt-orienterad modellering med UML klass- och sekvensdiagram.
+- Objektorienterad modellering med UML klass- och sekvensdiagram.
 - Några vanliga designmönster t.ex. Singleton, Iterator, Observer och Factory.
 
 ## Undervisnings- och arbetsformer

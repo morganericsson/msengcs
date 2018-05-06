@@ -7,11 +7,11 @@
 
 ## Förkunskaper
 
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 - 1DV007 - Mjukvaruutvecklingsprojekt
 - 2DV002 - Mjukvaruarkitektur
-- 1MA004 - Diskret matematik
-- 1ZT001 - Tekniskt kommunikation
+- 1MA001 - Diskret matematik
+- 1ZT001 - Teknisk kommunikation
 - 1ZT002 - Hållbar utveckling
 - 1ZT003 - Industriell ekonomi
 

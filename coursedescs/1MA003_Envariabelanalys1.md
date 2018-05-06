@@ -7,7 +7,7 @@
 
 ## Förkunskaper
 
-- 1MA001 - Diskret matematik.
+- 1MA001 - Diskret matematik
 
 ## Lärandemål
 

@@ -8,7 +8,7 @@
 ## Förkunskaper
 
 - 1DV007 - Mjukvaruutvecklingsprojekt
-- 1ZT002 - Teknisk kommunikation
+- 1ZT001 - Teknisk kommunikation
 - 1ZT003 - Industriell ekonomi
 
 ## Lärandemål

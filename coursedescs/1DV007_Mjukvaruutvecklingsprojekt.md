@@ -8,7 +8,7 @@
 ## Förkunskaper
 
 - 1DV002 - Introducerande projekt
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 
 ## Lärandemål
 

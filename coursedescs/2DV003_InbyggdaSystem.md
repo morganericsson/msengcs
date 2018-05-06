@@ -7,7 +7,7 @@
 
 ## Förkunskaper
 
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 - 1DV005 - Jämnlöpande program
 - 2DV001 - Datorns uppbyggnad
 - 1FY001 - Mekanik

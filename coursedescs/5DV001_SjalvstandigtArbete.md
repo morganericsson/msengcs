@@ -7,10 +7,10 @@
 
 ## Förkunskaper
 
-- 2DV007 - Självständigt arbete (15 hp)
+- 2DV007 - Självständigt arbete
 - 4DV012 - Vetenskapliga metoder inom datavetenskap
 - 1ZT001 - Teknisk kommunikation
-- 2OT001 - Vetenskapliga metoder
+- 2ZT001 - Vetenskapliga metoder
 
 ## Lärandemål
 

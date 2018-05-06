@@ -7,9 +7,9 @@
 
 ## Förkunskaper
 
-- 1DV004 - Objekt-orienterad programmering  
+- 1DV004 - Objektorienterad programmering  
 - 1DV006 - Algoritmer
-- 1MA001 - Diskret Matematik
+- 1MA001 - Diskret matematik
 - 2DV001 - Datorns uppbyggnad 
 - 2DV002 - Mjukvaruarkitektur
 

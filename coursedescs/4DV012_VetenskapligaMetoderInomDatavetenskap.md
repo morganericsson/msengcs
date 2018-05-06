@@ -8,7 +8,7 @@
 ## Förkunskaper
 
 - 1ZT001 - Teknisk kommunikation
-- 2OT001 - Vetenskaplig metod
+- 2ZT001 - Vetenskapliga metoder
 - Minst en av projektkurserna 4DV004 eller 4DV008
 
 ## Lärandemål

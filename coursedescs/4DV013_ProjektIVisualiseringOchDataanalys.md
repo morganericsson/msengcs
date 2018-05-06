@@ -7,7 +7,7 @@
 
 ## Förkunskaper
 
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 - 2DV004 - Datorgrafik
 - 1MA002 - Linjär algebra
 - 1MA004 - Tillämpad sannolikhetslära och statistik

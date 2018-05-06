@@ -8,7 +8,7 @@
 ## Förkunskaper
 
 - 1DV003 - Databaser och datamodellering
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 
 ## Lärandemål
 

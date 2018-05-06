@@ -7,7 +7,7 @@
 
 ## Förkunskaper
 
-- 1DV004 - Objekt-orienterad programmering 
+- 1DV004 - Objektorienterad programmering 
 - 1MA004 - Tillämpad sannolikhetslära och statistik
 - 1MA007 - Numeriska metoder
 

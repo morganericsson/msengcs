@@ -7,7 +7,7 @@
 
 ## Förkunskaper
 
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 - 2DV004 - Datorgrafik
 - 1DV006 - Algoritmer
 - 4DV009 - Informationsvisualisering

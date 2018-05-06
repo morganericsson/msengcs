@@ -8,7 +8,7 @@
 ## Förkunskaper
 
 - 1DV003 - Databaser och datamodellering
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 - 1DV005 - Jämnlöpande program
 - 1DV006 - Algoritmer
 - 2DV001 - Datorns uppbyggnad

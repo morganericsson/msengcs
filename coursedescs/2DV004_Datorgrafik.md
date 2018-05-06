@@ -7,7 +7,7 @@
 
 ## Förkunskaper
 
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 - 1DV006 - Algoritmer
 - 1MA002 - Linjär algebra
 - 1MA006 - Flervariabelanalys

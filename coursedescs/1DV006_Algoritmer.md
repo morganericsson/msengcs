@@ -9,7 +9,7 @@
 
 - 1DV001 - Programmering och datastrukturer
 - 1DV003 - Databaser och datamodellering
-- 1DV004 - Objekt-orienterad programmering
+- 1DV004 - Objektorienterad programmering
 - 1MA001 - Diskret matematik
 - 1MA003 - Envariabelanalys 1
 
