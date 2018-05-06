@@ -3,7 +3,7 @@
 |     |     |
 | --- | --- | 
 | *Huvudområde*: | Matematik | 
-| *Fördjupning*: | G1N | 
+| *Fördjupning*: | G1F | 
 
 ## Förkunskaper
 

@@ -1,4 +1,4 @@
-# 4DV006 -  Parallelldatorprogrammering (5 hp)
+# 4DV006 - Parallelldatorprogrammering (5 hp)
 
 |     |     |
 | --- | --- | 

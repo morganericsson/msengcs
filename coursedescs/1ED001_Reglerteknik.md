@@ -1,4 +1,4 @@
-# 1ED001 -  Reglerteknik  (5 hp)
+# 1ED001 - Reglerteknik  (5 hp)
 
 |     |     |
 | --- | --- | 

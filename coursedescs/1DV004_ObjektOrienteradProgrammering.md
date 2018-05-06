@@ -1,4 +1,4 @@
-# 1DV004 - Objekt-orienterad programmering (5 hp)
+# 1DV004 - Objektorienterad programmering (5 hp)
 
 |     |     |
 | --- | --- | 

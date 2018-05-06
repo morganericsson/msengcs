@@ -1,4 +1,4 @@
-# 1ZT002 - Hållbar Utveckling (5 hp)
+# 1ZT002 - Hållbar utveckling (5 hp)
 
 |     |     |
 | --- | --- | 

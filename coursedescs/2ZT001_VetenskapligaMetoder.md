@@ -1,5 +1,9 @@
 # 2ZT001 - Vetenskapliga metoder (5 hp)
 
+|     |     |
+| --- | --- | 
+| *Fördjupning*: | G2F | 
+
 ## Förkunskaper
 
 - 1ZT001 - Teknisk kommunikation
