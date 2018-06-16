@@ -56,17 +56,17 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                                   | Betyg | Poäng |  
 | :--- | :------------------------------------------ | :---: | :---: |  
-| UPG1 | Formell verifikation av ett mjukvaruprogram | A-F   | 1     |  
-| UPG2 | Formell verifikation av en systemmodell     | A-F   | 1     |  
-| TEN1 | Skriftlig tentamen                          | A-F   | 3     |  
+|`UPG1`| Formell verifikation av ett mjukvaruprogram | A-F   | 1     |  
+|`UPG2`| Formell verifikation av en systemmodell     | A-F   | 1     |  
+|`TEN1`| Skriftlig tentamen                          | A-F   | 3     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (20%), UPG2 (20%) och TEN1 (60%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`UPG1`(20%),`UPG2`(20%) och`TEN1`(60%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | UPG1  | UPG2  | TEN1  |
+| Lärandemål |`UPG1` |`UPG2` |`TEN1` |
 | :--------- | :---: | :---: | :---: |
 | 1.1        | **X** | **X** | **X** |
 | 1.2        |       |       | **X** |
@@ -87,4 +87,4 @@ Obligatorisk litteratur:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

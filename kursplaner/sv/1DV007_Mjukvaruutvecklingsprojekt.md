@@ -55,17 +55,17 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                           | Betyg | Poäng |  
 | :--- | :-------------------------------    | :---: | :---: |  
-| UPG1 | Reflektionsrapport över projekt     | A-F   | 1,5   |  
-| UPG2 | Reflektionsrapport över yrkesrollen | A-F   | 1,5   |  
-| PRJ1 | Projektarbete (inkl. leverabler)    | A-F   | 7     |  
+|`UPG1`| Reflektionsrapport över projekt     | A-F   | 1,5   |  
+|`UPG2`| Reflektionsrapport över yrkesrollen | A-F   | 1,5   |  
+|`PRJ1`| Projektarbete (inkl. leverabler)    | A-F   | 7     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (25%), UPG2 (25%) och PRJ1 (50%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`UPG1`(25%),`UPG2`(25%) och`PRJ1`(50%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | UPG1  | UPG2  | PRJ1  |
+| Lärandemål |`UPG1` |`UPG2` |`PRJ1` |
 | :--------- | :---: | :---: | :---: |
 | 1.1        | **X** | **X** | **X** |
 | 1.2        | **X** | **X** | **X** |
@@ -88,4 +88,4 @@ Obligatorisk litteratur:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

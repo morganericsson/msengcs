@@ -53,16 +53,16 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning               | Betyg | Poäng | 
 | :--- | :---------------------- | :---: | :---: |
-| LAB1 | Programmeringsuppgifter | A-F   | 3     |
-| PRJ1 | Projekt designmönster   | A-F   | 2     |
+|`LAB1`| Programmeringsuppgifter | A-F   | 3     |
+|`PRJ1`| Projekt designmönster   | A-F   | 2     |
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: LAB1 (60%) och PRJ1 (40%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`LAB1`(60%) och`PRJ1`(40%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | LAB1  | PRJ1  | 
+| Lärandemål |`LAB1` |`PRJ1` | 
 | :--------- | :---: | :---: |
 | 1.1        | **X** | **X** |
 | 1.2        | **X** | **X** |
@@ -85,4 +85,4 @@ Obligatorisk litteratur:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

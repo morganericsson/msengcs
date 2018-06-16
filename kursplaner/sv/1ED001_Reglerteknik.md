@@ -49,8 +49,8 @@ Examinationen av kursen delas in följande moment:
 
 | Kod  | Benämning              | Betyg | Poäng |  
 | :--- | :--------------------  | :---: | :---: |  
-| TEN1 | Skriftlig tentamen     | A-F   | 3     |  
-| LAB1 | Laboration och rapport | A-F   | 2     |  
+|`TEN1`| Skriftlig tentamen     | A-F   | 3     |  
+|`LAB1`| Laboration och rapport | A-F   | 2     |  
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från TEN1.
 
@@ -58,7 +58,7 @@ För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbet
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | TEN1  | LAB1  |
+| Lärandemål |`TEN1` |`LAB1` |
 | :--------- | :---: | :---: |
 | 1.1        | **X** |       |
 | 1.2        | **X** |       |
@@ -78,4 +78,4 @@ Obligatorisk litteratur:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

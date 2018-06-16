@@ -55,16 +55,16 @@ Examinationen av kursen delas in följande moment:
 
 | Kod  | Benämning             | Betyg | Poäng | 
 | :--- | :-------------------- | :---: | :---: |
-| LAB1 | Programmeringsuppgifter | A-F   | 2,5   |
-| HEM1 | Hemtentamen           | A-F   | 2,5   |
+|`LAB1`| Programmeringsuppgifter | A-F   | 2,5   |
+|`HEM1`| Hemtentamen           | A-F   | 2,5   |
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: HEM1 (50%) och LAB1 (50%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`HEM1`(50%) och`LAB1`(50%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | LAB1  | HEM1  |
+| Lärandemål |`LAB1` |`HEM1` |
 | :--------- | :---: | :---: |
 | 1.1        |       | **X** |
 | 1.2        |       | **X** |
@@ -82,4 +82,4 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

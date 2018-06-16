@@ -52,16 +52,16 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                             | Betyg | Poäng |  
 | :--- | :--------------------                 | :---: | :---: |  
-| PRJ1 | Projektarbete, reflektion, opponering | G-U   | 3     |  
-| TEN1 | Skriftlig tentamen                    | A-F   | 2     |  
+|`PRJ1`| Projektarbete, reflektion, opponering | G-U   | 3     |  
+|`TEN1`| Skriftlig tentamen                    | A-F   | 2     |  
 
-För godkänt betyg på kursen krävs betyg G på PRJ1 samt minst betyg E på TEN1. Slutbetyget bestäms från TEN1.
+För godkänt betyg på kursen krävs betyg G på`PRJ1`samt minst betyg E på TEN1. Slutbetyget bestäms från TEN1.
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål  | PRJ1  | TEN1  |  
+| Lärandemål  |`PRJ1` |`TEN1` |  
 | :---------- | :---: | :---: |  
 | 1.1         | **X** | **X** |  
 | 1.2         | **X** | **X** |  
@@ -82,4 +82,4 @@ Obligatorisk litteratur:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

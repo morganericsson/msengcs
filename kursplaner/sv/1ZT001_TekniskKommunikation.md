@@ -58,17 +58,17 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning             | Betyg | Poäng |  
 | :--- | :-------------------- | :---: | :---: |  
-| UPG1 | Skriftlig rapport     | A-F   | 2     |  
-| PRS1 | Muntlig presentation  | G-U   | 1     |  
-| PRS2 | Poster och opposition | G-U   | 2     |  
+|`UPG1`| Skriftlig rapport     | A-F   | 2     |  
+|`PRS1`| Muntlig presentation  | G-U   | 1     |  
+|`PRS2`| Poster och opposition | G-U   | 2     |  
 
-För godkänt betyg på kursen krävs betyg G på PRS1 och PRS2 samt minst betyg E på UPG1. Slutbetyget bestäms från UPG1.
+För godkänt betyg på kursen krävs betyg G på`PRS1`och`PRS2`samt minst betyg E på UPG1. Slutbetyget bestäms från UPG1.
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål  | UPG1  | PRS1  | PRS2  |  
+| Lärandemål  |`UPG1` |`PRS1` |`PRS2` |  
 | :---------- | :---: | :---: | :---: |  
 | 1.1         | **X** | **X** | **X** |  
 | 1.2         | **X** |       |       |  
@@ -101,4 +101,4 @@ Referenslitteratur:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

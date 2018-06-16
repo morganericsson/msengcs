@@ -58,19 +58,19 @@ Examinationen av kursen delas in följande moment:
 
 | Kod  | Benämning                                        | Betyg | Poäng |  
 | :--- | :--------------------------------------          | :---: | :---: |  
-| UPG1 | Vision och planeringsdokument                    | A-F   | 2     |  
-| PRJ1 | Projektarbete (inkl. leverabler)                 | A-F   | 5     |  
-| RAP1 | Reflektionsrapport - Att driva ett agilt projekt | A-F   | 1     |  
-| RAP2 | Reflektionsrapport - Människa och maskin        | A-F   | 1     |  
-| PRS1 | Design, implementering och resultat              | A-F   | 1     |  
+|`UPG1`| Vision och planeringsdokument                    | A-F   | 2     |  
+|`PRJ1`| Projektarbete (inkl. leverabler)                 | A-F   | 5     |  
+|`RAP1`| Reflektionsrapport - Att driva ett agilt projekt | A-F   | 1     |  
+|`RAP2`| Reflektionsrapport - Människa och maskin        | A-F   | 1     |  
+|`PRS1`| Design, implementering och resultat              | A-F   | 1     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: UPG1 (20%), PRJ1 (50%), RAP1 (10%), RAP2 (10%) och PRS1 (10%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`UPG1`(20%),`PRJ1`(50%),`RAP1`(10%),`RAP2`(10%) och`PRS1`(10%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | UPG1  | PRJ1  | RAP1  | RAP2  | PRS1  |
+| Lärandemål |`UPG1` |`PRJ1` |`RAP1` |`RAP2` |`PRS1` |
 | :--------- | :---: | :---: | :---: | :---: | :---: |
 | 1.1        | **X** | **X** |       | **X** | **X** |
 | 2.1        | **X** | **X** | **X** |       | **X** |
@@ -92,4 +92,4 @@ Studenterna förväntas söka efter lämplig kurslitteratur på egen hand eller 
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

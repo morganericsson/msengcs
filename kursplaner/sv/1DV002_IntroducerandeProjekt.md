@@ -64,18 +64,18 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                         | Betyg | Poäng |  
 | :--- | :-------------------------------- | :---: | :---: |  
-| LAB1 | Programmeringsuppgifter           | G-U   | 1,5   |  
-| PRJ1 | Projekt                           | A-F   | 4     |  
-| PRS1 | Presentation                      | A-F   | 1     |  
-| UPG1 | Uppgifter om yrkesrollen ingenjör | G-U   | 1     |  
+|`LAB1`| Programmeringsuppgifter           | G-U   | 1,5   |  
+|`PRJ1`| Projekt                           | A-F   | 4     |  
+|`PRS1`| Presentation                      | A-F   | 1     |  
+|`UPG1`| Uppgifter om yrkesrollen ingenjör | G-U   | 1     |  
 
-För godkänt betyg på kursen krävs betyg G på LAB1 och UPG1 samt minst betyg E på övriga moment. Slutbetyget bestäms från: PRJ1 (75%)  och PRS1 (25%).
+För godkänt betyg på kursen krävs betyg G på`LAB1`och`UPG1`samt minst betyg E på övriga moment. Slutbetyget bestäms från:`PRJ1`(75%)  och`PRS1`(25%).
  
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | LAB1  | PRJ1  | PRS1  | UPG1  |  
+| Lärandemål |`LAB1` |`PRJ1` |`PRS1` |`UPG1` |  
 | :--------- | :---: | :---: | :---: | :---: |  
 | 1.1        | **X** |       |       |       |  
 | 1.2        | **X** |       |       |       |  
@@ -98,4 +98,4 @@ Kurslitteratur bestäms i samråd med handledare.
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

@@ -58,17 +58,17 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning               | Betyg | Poäng |  
 | :--- | :--------------------   | :---: | :---: |  
-| MUN1 | Muntlig tentamen        | A-F   | 2     |  
-| LAB1 | Programmeringsuppgifter | A-F   | 2     |  
-| UPG1 | Reflektionsrapport      | A-F   | 1     |  
+|`MUN1`| Muntlig tentamen        | A-F   | 2     |  
+|`LAB1`| Programmeringsuppgifter | A-F   | 2     |  
+|`UPG1`| Reflektionsrapport      | A-F   | 1     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: MUN1 (40%), LAB1 (40%) och UPG1 (20%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`MUN1`(40%),`LAB1`(40%) och`UPG1`(20%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | MUN1  | LAB1  | UPG1  |
+| Lärandemål |`MUN1` |`LAB1` |`UPG1` |
 | :--------- | :---: | :---: | :---: |
 | 1.1        | **X** |       |       |
 | 1.2        | **X** |       | **X** |
@@ -87,4 +87,4 @@ Obligatorisk litteratur:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

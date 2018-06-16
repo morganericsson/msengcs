@@ -52,17 +52,17 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                | Betyg | Poäng |  
 | :--- | :--------------------    | :---: | :---: |  
-| RAP1 | Rapport och framläggning | A-F   | 12    |  
-| OPP1 | Opponering               | G-U   | 1,5   |  
-| ASK1 | Auskultation             | G-U   | 1,5   |  
+|`RAP1`| Rapport och framläggning | A-F   | 12    |  
+|`OPP1`| Opponering               | G-U   | 1,5   |  
+|`ASK1`| Auskultation             | G-U   | 1,5   |  
 
-För godkänt betyg på kursen krävs betyg G på OPP1 och ASK1 samt minst betyg E på RAP1. Slutbetyget bestäms från RAP1.
+För godkänt betyg på kursen krävs betyg G på`OPP1`och`ASK1`samt minst betyg E på RAP1. Slutbetyget bestäms från RAP1.
 
 ## Måluppfyllelse
 
 Examinationsmomenten på kursen kopplas till lärandemålen enligt följande:
 
-| Lärandemål | RAP1  | OPP1  | ASK1  |
+| Lärandemål |`RAP1` |`OPP1` |`ASK1` |
 | :--------- | :---: | :---: | :---: |
 | 1.1        | **X** |       | **X** |
 | 2.1        | **X** |       |       |
@@ -80,4 +80,4 @@ Den studerande väljer i samråd med handledare och examinator ut lämplig litte
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.

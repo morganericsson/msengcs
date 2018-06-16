@@ -47,16 +47,16 @@ Examinationen av kursen delas in i följande moment:
 
 | Kod  | Benämning                 | Betyg | Poäng |  
 | :--- | :------------------------ | :---: | :---: |  
-| LAB1 | Laborationer i Matlab     | A-F   | 1,5   |  
-| TEN1 | Skriftlig tentamen        | A-F   | 6     |  
+|`LAB1`| Laborationer i Matlab     | A-F   | 1,5   |  
+|`TEN1`| Skriftlig tentamen        | A-F   | 6     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från: LAB1 (20%) och TEN1 (80%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`LAB1`(20%) och`TEN1`(80%).
 
 ## Måluppfyllelse
 
 Examinationsmomenten kopplas till lärandemålen enligt följande:
 
-| Lärandemål | LAB1  | TEN1  |  
+| Lärandemål |`LAB1` |`TEN1` |  
 | :--------- | :---: | :---: |  
 | 1.1        | **X** | **X** |  
 | 1.2        | **X** | **X** |  
@@ -73,4 +73,4 @@ Obligatorisk litteratur:
 
 ## Övrigt
 
-Kursen bedrivs på ett sådant sätt att både mäns och kvinnors erfarenhet och kunskaper synliggörs och utvecklas.
+Kursen genomförs på ett sådant sätt att kursdeltagarnas erfarenheter och kunskap görs synlig och utvecklas. Det innebär till exempel att vi har ett inkluderande förhållningssätt och strävar efter att ingen ska känna sig exkluderad. Detta kan yttra sig på olika sätt i en kurs, till exempel genom att som läraren använder sig utav könsneutrala exempel.
