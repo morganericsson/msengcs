@@ -1,0 +1,46 @@
+\newgeometry{top=0cm, left=5cm}
+
+%----------------------------------------------------------------------------------------
+%	Tassel environment configuration
+%----------------------------------------------------------------------------------------
+\newsavebox{\mybox}
+\newlength{\mydepth}
+\newlength{\myheight}
+
+\newenvironment{tassel}
+{\begin{lrbox}{\mybox}\begin{minipage}{\textwidth}}
+{\end{minipage}\end{lrbox}
+ \settodepth{\mydepth}{\usebox{\mybox}}
+ \settoheight{\myheight}{\usebox{\mybox}}
+ \addtolength{\myheight}{\mydepth}
+ \noindent\makebox[0pt]{\hspace{-20pt} % inner offset
+ \rule[-\mydepth]{1pt}{\myheight}} % tassel width
+ \usebox{\mybox}}
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+
+\setlength{\wpXoffset}{-8.3cm}
+\setlength{\wpYoffset}{12.5cm}
+\ThisCenterWallPaper{0.1}{images/logo.png}
+
+\ThisLLCornerWallPaper{0.45}{images/branch.png}
+
+\begin{tassel}
+    \vspace{7.5cm} % tassel length
+    \huge \textbf{Ansökan om examenstillstånd för civilingenjörsutbildning i mjukvaruteknik}
+ \end{tassel}
+
+% \vspace{3cm}
+
+% \begin{flushleft}
+%     \normalfont 
+%     \huge  Ansökan om examenstillstånd för civilingenjörsutbildning i mjukvaruteknik \\ % Document title
+% \end{flushleft}
+
+\null
+\vfill
+
+\end{titlepage}
+
+\restoregeometry
