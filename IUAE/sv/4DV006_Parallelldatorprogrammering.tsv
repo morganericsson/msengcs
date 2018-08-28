@@ -1,0 +1,28 @@
+CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
+1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen					
+1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	LAB1, UPG1	U: Parallella datorsystem, modeller för programmering, parallella algoritmer och datastrukturer, prestandautvärdering och modellering A: Programmering, datastrukturer, algoritmer, concurrent-programmering, datorns uppbyggnad
+1.3	Fördjupade kunskaper i något/några tillämpade ämnen		X		LAB1	Verktyg för programmering av parallella datorer (t.ex. MPI) och grafikprocessorer (t.ex. CUDA). Modeller, inkl Map-reduce
+2	INDIVIDUELLA OCH YRKESMÄSSIGA FÄRDIGHETER OCH FÖRHÅLLNINGSSÄTT					
+2.1	Ingenjörsmässigt/vetenskapligt tänkande o problemlösning		X	X	LAB1, UPG1	U: Fördjupad förståelse för vilka typer av problem som vinner på att paralllelliseras, vilken programmeringsmodell som lämpligast används, vilka eftergifter denna medför, osv.  Modellering av ett problem enligt en viss programmeringsmodell (t.ex. meddelandeskickning). Prestandamodellering av algoritmer/lösningar på olika antal processorer och med olika tekniker. Mätning av overhead. A: Förmåga att känna igen problem som kan parallelliseras samt vilka vinster som finns.
+2.2	Experimenterande o kunskapsbildning		X	X	UPG1	A: Experimenterade arbetssätt där algoritmer och implementationer av dessa med olika paramterar utvärderas.
+2.3	Systemtänkande		X	X	UPG1	U: Förståelse för olika parallella datorer/arkitekturer, både homogena och heterogena. Arkitekturens påverkan på ett programs prestanda, t.ex. cache-struktur i flerkärniga/flersocket-system, minnesutrymmer på grafikprocessorer, osv. A: Datorns uppbyggnad
+2.4	Individuella färdigheter och förhållningssätt					
+2.5	Professionella färdigheter och förhållningssätt					
+3	FÖRMÅGA ATT ARBETA I GRUPP OCH ATT KOMMUNICERA					
+3.1	Förmåga att arbeta i grupp			X		Uppgifter och laborationer sker i grupp
+3.2	Förmåga att kommunicera		X	X		U: Förmåga att beskriva vilken prestanda en paralllell implementation förväntas ha enligt olika prestandamodeller. Resonemang om t.ex. speed-up. A: Förmåga att beskriva algoritmer och deras egenskaper på ett formellt sätt.
+3.3	Förmåga att kommunicera på främmande språk			X		Kursen ges på engelska
+4	PLANERING, UTVECKLING, REALISERING, DRIFT OCH AFFÄRSMÄSSIGT FÖRVERKLIGANDE AV TEKNISKA PRODUKTER, SYSTEM OCH TJÄNSTER MED HÄNSYN TILL AFFÄRSMÄSSIGA OCH SAMHÄLLELIGA BEHOV OCH KRAV					
+4.1	Samhälleliga villkor, inkl ekonomiskt, socialt och ekologiskt hållbar utveckling	X	 			Energiförbrukning.
+4.2	Företags och affärsmässiga villkor	X				Kostnad för parallella datorer/datorkluster. Hur utvärderas deras värde, vad kostar det att äga, osv.
+4.3	Att planera system	 	X		UPG1	Planering och specifikation av ett parallellt datorsystem, inkl. homogena och heterogena lösningar, från ett givet problem.
+4.4	Att utveckla system	 	X	X	LAB1	U: Förmåga att skapa mindre klusters av (virtuella) datorer. Olika konfigurationer av t.ex. kärnor per nod, nätverk, osv. A: Förmåga att använda molnstrukturen.
+4.5	Att realisera system		X		LAB1	U: Implementation av vanliga parallella algoritmer med en parallellprogrammeringsmodell. Skriva enklare program som exekveras på grafikprocessorer.
+4.6	Att ta i drift och använda		X		LAB1	Undersökning av prestanda hos körande program på viss hårdvara. Förmåga att hitta fel/problem och åtgärda dessa. Underhåll av klustern (t.ex. kontroll av noder som är uppe, osv)
+5	PLANERING, GENOMFÖRANDE OCH PRESENTATION AV FORSKNINGSPROJEKT MED HÄNSYN TILL VETENSKAPLIGA OCH SAMHÄLLELIGA BEHOV OCH KRAV					
+5.1	Samhälleliga villkor, inkl ekonomiskt, socialt och ekologiskt hållbar utveckling					
+5.2	Ekonomiska villkor för forskning och utveckling					
+5.3	Att planera forsknings- och utvecklingsprojekt					
+5.4	Att genomföra forsknings- och utvecklingsprojekt					
+5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					

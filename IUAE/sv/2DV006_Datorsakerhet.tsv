@@ -1,0 +1,28 @@
+CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
+1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen		X	X	TEN1, UPG1	U: Kryptering, A: Diskret matematik, linjär algebra
+1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	TEN1, UPG1	U: Beskrivning av IT-säkerhet och vilka delfält det delas in i. Vanliga säkerhetsproblem och buggar, samt sätt att utnyttja dessa (t.ex. genom malware). Vanliga säkerhetsåtgärder (t.ex. kryptering). A: Databashanterar, operativsystem, datornät, programmering.
+1.3	Fördjupade kunskaper i något/några tillämpade ämnen		 	 		
+2	INDIVIDUELLA OCH YRKESMÄSSIGA FÄRDIGHETER OCH FÖRHÅLLNINGSSÄTT					
+2.1	Ingenjörsmässigt/vetenskapligt tänkande o problemlösning		X		TEN1, UPG1	Identifikation av säkerhetsproblem, analys av de risker dessa medför.
+2.2	Experimenterande o kunskapsbildning		X		UPG1	Försök att penetrera säkerhetsåtgärder. Analys av vad som fungerar, och uppdatera hypoteser efter detta. Sökning av kända problem på olika källor på internet, t.ex. incidentdatabaser.
+2.3	Systemtänkande		X		TEN1	Vilka delar av ett system berörs av säkerhetsproblem. Vilka likheter finns det, oavsett vilka delar av systemet de påverkar i hot och motmedel?
+2.4	Individuella färdigheter och förhållningssätt		X		UPG1	Beslut om system oavsett om säkerhet inte kan garanteras. Källor för att hitta säkerhetsproblem (t.ex. icidentdatabaser) för fortsatt utbildning/förståelse av nya hot.
+2.5	Professionella färdigheter och förhållningssätt		X		 UPG1	Etiska frågeställningar kring effekter av säkerhetsproblem i system och mjukvara. Vilka blir konsekvenserna vid läckage, vilket ansvar har ingenjören. Om säkerhetsproblem upptäcks, hur rapporteras dessa ansvarsfullt men effektivt?
+3	FÖRMÅGA ATT ARBETA I GRUPP OCH ATT KOMMUNICERA					
+3.1	Förmåga att arbeta i grupp					
+3.2	Förmåga att kommunicera		X	X	TEN1, UPG1	U: Förmåga att kommunicera säkerhetsproblem och hur man hanterar dessa. A: Rapportskrivning
+3.3	Förmåga att kommunicera på främmande språk			X		Kurslitteratur på engelska
+4	PLANERING, UTVECKLING, REALISERING, DRIFT OCH AFFÄRSMÄSSIGT FÖRVERKLIGANDE AV TEKNISKA PRODUKTER, SYSTEM OCH TJÄNSTER MED HÄNSYN TILL AFFÄRSMÄSSIGA OCH SAMHÄLLELIGA BEHOV OCH KRAV					
+4.1	Samhälleliga villkor, inkl ekonomiskt, socialt och ekologiskt hållbar utveckling		X		UPG1	Resonera kring vilken påverkan säkerhetsproblem har på samhället, och vilket ansvar ingenjören har för dessa. Vad innebär risken för säkerhetsproblem för tillämpningar (t.ex. hackade bilar), och vilka garantier kan ges? Vilka konsekvenser på samhället kan säkerhetsproblem ha, t.ex. med avseende på vilken information som kan läcka eller vilken skada som kan uppstå om brister utnyttjas? Vad driver IT-brott?
+4.2	Företags och affärsmässiga villkor		X		UPG1	Utvärdering av teknik från ett säkerhetsperspektiv. Ekonomiska perspektiv på IT-brott.
+4.3	Att planera system		X	X	TEN1, UPG1	U: Hur hanteras säkerhetskrav vid planering av ett system: A: Krav, mjukvaruarkitektur 
+4.4	Att utveckla system		X	X	TEN1, UPG1	U: Hur hanteras säkerhet i utvecklinsprocessen. A: Utvecklingsmetodiker, Agile.
+4.5	Att realisera system		X	 	TEN1, UPG1	U: Vilka moment/practices kan användas under utvecklingen för att minska säkerhetsproblem. Hur skriver man säkra program. Vilka verktyg kan användas för att analysera kod/protokoll/etc.
+4.6	Att ta i drift och använda		X		TEN1, UPG1	Hur övervakas ett system i drift för eventuella säkerhetsproblem/intrång?
+5	PLANERING, GENOMFÖRANDE OCH PRESENTATION AV FORSKNINGSPROJEKT MED HÄNSYN TILL VETENSKAPLIGA OCH SAMHÄLLELIGA BEHOV OCH KRAV					
+5.1	Samhälleliga villkor, inkl ekonomiskt, socialt och ekologiskt hållbar utveckling					
+5.2	Ekonomiska villkor för forskning och utveckling					
+5.3	Att planera forsknings- och utvecklingsprojekt					
+5.4	Att genomföra forsknings- och utvecklingsprojekt					
+5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
