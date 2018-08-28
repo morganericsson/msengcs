@@ -61,7 +61,7 @@ Examinationen av kursen delas in följande moment:
 |`UPG1`| Vision och planeringsdokument                    | A-F   | 2     |  
 |`PRJ1`| Projektarbete (inkl. leverabler)                 | A-F   | 5     |  
 |`RAP1`| Reflektionsrapport - Att driva ett agilt projekt | A-F   | 1     |  
-|`RAP2`| Reflektionsrapport - Människa och maskin        | A-F   | 1     |  
+|`RAP2`| Reflektionsrapport - Människa och maskin         | A-F   | 1     |  
 |`PRS1`| Design, implementering och resultat              | A-F   | 1     |  
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`UPG1`(20%),`PRJ1`(50%),`RAP1`(10%),`RAP2`(10%) och`PRS1`(10%).
