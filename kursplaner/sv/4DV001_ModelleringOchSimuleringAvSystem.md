@@ -29,7 +29,7 @@ Efter slutförd kurs skall studenten kunna:
 
 ## Kursinnehåll
 
-Kursen ger en översikt över olika deterministiska och icke-deterministiska modellerings och simuleringsansatser
+Kursen ger en översikt över olika deterministiska och icke-deterministiska modellerings och simuleringsansatser.
 
 Följande moment behandlas:
 
