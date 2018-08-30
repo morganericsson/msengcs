@@ -73,7 +73,7 @@ Examinationen av kursen delas in följande moment:
 |`RAP2`| Reflektionsrapport - Projektarbete            | A-F   | 1     |  
 |`PRS1`| Design, implementering och resultat           | A-F   | 1     |  
 
-För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`UPG1`(20%),`PRJ1`(50%),`RAP1`(10%),`RAP2`(10%) och`PRS1`(10%).
+För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`UPG1`(20%), `PRJ1`(50%), `RAP1`(10%), `RAP2`(10%) och `PRS1`(10%).
 
 ## Måluppfyllelse
 

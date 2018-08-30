@@ -34,7 +34,7 @@ Efter slutförd kurs skall studenten kunna:
 
 ## Kursinnehåll
 
-Kursen presenterar tekniker, teorier och verktyg som används då man utvecklar en kompilator. Kursen diskuterar också hur dessa idéer  kan användas för att definiera, hantera och interpretera domänspecifika språk inom modelldriven programvaruutveckling. Ett fokus blir därför kompilatorns frontend, generering av mellannivå-representationer, och hur dessa representationer kan exekveras. 
+Kursen presenterar tekniker, teorier och verktyg som används då man utvecklar en kompilator. Kursen diskuterar också hur dessa idéer kan användas för att definiera, hantera och interpretera domänspecifika språk inom modelldriven programvaruutveckling. Ett fokus blir därför kompilatorns frontend, generering av mellannivå-representationer, och hur dessa representationer kan exekveras. 
 
 Följande moment behandlas:
 
