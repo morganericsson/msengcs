@@ -15,7 +15,7 @@
 
 ## Learning outcomes
 
-After completing the course the student is expected to:
+After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
 
@@ -100,3 +100,8 @@ Late work will not be accepted without prior approval by the instructor. Reasons
 * Andreas Kerren, Achim Ebert, and Jörg Meyer. Human-Centered Visualization Environments. LNCS Tutorial 4417, Springer, 2007. Estimated reading: 150 / 403 pages
 * Matthew Ward, Georges G. Grinstein, and Daniel Keim. Interactive Data Visualization − Foundations, Techniques, and Applications. 2nd Ed., A. K. Peters Ltd., 2015. Estimated reading: 150 / 558 pages
 * DV, Distributed slides. Estimated reading: 350 / 350 pages
+
+
+## Other information
+
+The course is conducted in such a way that the course participants' experiences and knowledge are made visible and developed. This means, for example, that we have an inclusive approach and strive for no one to feel excluded. This can be expressed in different ways in a course, for example by using the gender neutral example.

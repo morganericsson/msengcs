@@ -16,7 +16,7 @@
 
 ## Learnings outcomes
 
-After completing the course the student is expected to:
+After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
 
@@ -103,3 +103,8 @@ In order to relate the learning outcomes to the assessments, we provide the foll
 ## Literature
 
 Ananth Grama. Introduction to parallel computing. Addison-Wesley. 2003
+
+
+## Other information
+
+The course is conducted in such a way that the course participants' experiences and knowledge are made visible and developed. This means, for example, that we have an inclusive approach and strive for no one to feel excluded. This can be expressed in different ways in a course, for example by using the gender neutral example.

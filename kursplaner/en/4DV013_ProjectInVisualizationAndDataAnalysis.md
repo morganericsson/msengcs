@@ -14,7 +14,7 @@
 
 ## Learning outcomes
 
-After completing the course the student is expected to:
+After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
 
@@ -115,3 +115,8 @@ Late work will not be accepted without prior approval by the instructor. Reasons
 * Tamara Munzner. Visualization Analysis and Design. CRC Press, 2014. Estimated reading: 100 / 428 pages
 * Helen C. Purchase. Experimental Human-Computer Interaction: A Practical Guide with Visual Examples. Cambridge University Press, 2012. Estimated reading: 80 / 241 pages
 * DV, Distributed slides. Estimated reading: 50 / 50 pages
+
+
+## Other information
+
+The course is conducted in such a way that the course participants' experiences and knowledge are made visible and developed. This means, for example, that we have an inclusive approach and strive for no one to feel excluded. This can be expressed in different ways in a course, for example by using the gender neutral example.

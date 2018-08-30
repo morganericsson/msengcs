@@ -51,18 +51,20 @@ The instruction consists of lectures, seminars, and teacher-supervised laborator
 
 ## Examination
 
-The examination of the course is divided as follows:
+The examination of the course is divided into the following parts:
 
 | Code | Name             | Grade | HEC | 
 | :--- | :-------------------- | :---: | :---: |
 |`LAB1`| Programming assignments | A-F   | 2.5   |
 |`HEM1`| Take-home exam           | A-F   | 2.5   |
 
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `HEM1`(50%) and `LAB1`(50%).
+
 ## Methods of Evaluation
 
 The learning outcomes are evaluated as follows:
 
-| Outcome.    |`LAB1` |`HEM1` |
+| Outcome    |`LAB1` |`HEM1` |
 | :--------- | :---: | :---: |
 | 1.1        |       | **X** |
 | 1.2        |       | **X** |

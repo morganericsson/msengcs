@@ -14,7 +14,7 @@
 
 ## Learnings outcomes
 
-After completing the course the student is expected to:
+After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
 
@@ -85,3 +85,8 @@ In order to relate the learning outcomes to the two assessment types and individ
 ## Literature
 
 - Jure Leskovec, Anand Rajaraman and Jeff Ullman. Mining of Massive Datasets.Cambridge University Press, 2014. Available for free online at http://mmds.org/#ver21. Estimated reading: 380 / 511 pages
+
+
+## Other information
+
+The course is conducted in such a way that the course participants' experiences and knowledge are made visible and developed. This means, for example, that we have an inclusive approach and strive for no one to feel excluded. This can be expressed in different ways in a course, for example by using the gender neutral example.

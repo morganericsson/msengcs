@@ -14,7 +14,7 @@
 
 ## Learning outcomes
 
-After completing the course the student is expected to:
+After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
 
@@ -117,8 +117,13 @@ If grade(Course) ≥ 50%, then the student passes the course, otherwise the cour
 | D                | >= 60              |
 | E                | >= 50              |
 
-## Course literature
 
-- Sunila Gollapudi. Practical Machine Learning. PACKT publishing, 2016. Estimated reading: 330 / 468 pages
+## Reading list
 
-Supplementary literature may be provided by the institution if needed.
+The students are expected to find suitable literature on their own. The list below can be used as a starting point.
+
+
+
+## Other information
+
+The course is conducted in such a way that the course participants' experiences and knowledge are made visible and developed. This means, for example, that we have an inclusive approach and strive for no one to feel excluded. This can be expressed in different ways in a course, for example by using the gender neutral example.

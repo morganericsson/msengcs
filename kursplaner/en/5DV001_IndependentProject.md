@@ -1,19 +1,3 @@
----
-Name:       Master's thesis      
-PrelCode:   5DV001
-HEC:        30
-Year:       5
-Period:     3-4
-Examiner1:  ??
-Examiner2:  ??
-Status:     FirstDraft
-Mandatory:  Yes
-Subject:    ComputerScience
-Type:       Project
-PreReq:     2DV001;4DV014
-title:      5DV001 - Master's thesis (30 hec)
----
-
 # 5DV001 - Master's thesis (30 hec)
 
 ## Prerequisites
@@ -22,7 +6,7 @@ title:      5DV001 - Master's thesis (30 hec)
 
 ## Learnings outcomes
 
-After completing the course the student is expected to:
+After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
 
@@ -56,3 +40,8 @@ Thesis proposal, a master's thesis, oral presentation, and opposition.
 ## Grading
 
 ## Literature
+
+
+## Other information
+
+The course is conducted in such a way that the course participants' experiences and knowledge are made visible and developed. This means, for example, that we have an inclusive approach and strive for no one to feel excluded. This can be expressed in different ways in a course, for example by using the gender neutral example.
