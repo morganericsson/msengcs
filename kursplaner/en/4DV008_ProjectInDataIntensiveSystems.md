@@ -7,122 +7,99 @@
 
 ## Prerequisites
 
-- Java programming and data structures, 1DV001
-- Software engineering project methodology, 1DV005
-- Algorithms, 1DV006
-- Vector and matrix calculus, 1MA002
+- 1DV001 - Programmering och datastrukturer
+- 1DV006 - Algoritmer
+- 1DV007 - Mjukvaruutvecklingsprojekt
+- 1MA002 - Linjär algebra
+- 1MA004 - Tillämpad sannolikhetslära och statistik
+- 1ZT001 - Teknisk kommunikation
+- 1ZT002 - Hållbar utveckling
+- 1ZT003 - Industriell ekonomi
 
 ## Learning outcomes
 
 After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
-
-1. Characterize the role of machine learning systems for learning from and understanding data
-2. Identify characteristics of state-of-the-art machine learning systems
-
+	1. Characterize the role of machine learning in a software system and how it can be integrated in the structure of such systems,
+	2. enumerate which properties a tool or software library should have to be applied to a given problem, and
+	3. name and explain the most common problems when attempting to use unprocessed data in machine learning.
 *2. Skills and abilities*
-
-1. Plan and execute a machine learning project that involves data pre-processing, algorithm selection, and metrics for validating results
-2. Execute the project plan by applying previously learned skills from machine learning courses and other relevant courses in a project-like environment and combining them with state-of-the-art machine learning tools and libraries
-
+	1. Independently learn different tools, methods, and software libraries used within machine learning,
+	2. elicit requirements from a customer and based on these determine which data is needed and which machine learning techniques that is most suitable,
+	3. from a set of customer requirements define metrics that can be used to evaluate how well a machine learning model performs,
+	4. implement and evaluate a system with a machine learning component,
+	5. prioritize functionality and continuously release new functionality to customers, and
+	6. ensure that the system is operational.
 *3.	Judgement and approach*
-
-1. Reflect on the choice of data colletion, data pre-processing and algorithm selection used in the project
-2. Evaluate whether the proposed solution reaches its goals efficiently and effectively
+	1. Critically reflect on the result of a project and how well it fulfills the customer requirements with respect to, e.g., technology used, architecture (software and hardware), data, metrics, etc, and
+	2. critically reflect on how agile and Lean were used throughout the project with respect to, e.g., work environment.
 
 ## Course contents
 
-This course offers the students the opportunity to consolidate and apply knowledge and skills obtained in previous courses of their studies by the development of a machine learning 
-application. 
-Machine learning systems learn patterns from labeled or unlabeled data, and aim to provide end-users with tools to aid in finding similar patterns and understanding newly collected data. 
-By following the course’s modules (described in more details below) the students will be introduced to theoretical machine learning aspects and tools, 
-create the conceptual design of a machine learning project of their choice, implement their designs, and present their results.
+The course is a project course that, given a realistic problem and settings, considers the entire CDIO (Conceive-Design-Implement-Operate) cycle. The students are placed in the role of a small development team within an agile startup that should develop a data-driven product. 
 
-## Modules
+The students are expected to work using agile processes in teams of 5-7 and are expected to perform all roles except product owner. The startup environment requires fast releases and effective use of available resources focus is put on Lean agile as well as applied machine learning and data processing.
 
-M1: Machine learning systems – theory and practice, 2 credits
-
-The course starts with an introduction to machine learning systems from both theoretical and practical perspectives with the following activities:
-
-- Lecture(s) on the role of machine learning systems for real-world tasks
-- Analysis of selected examples of state-of-the-art machine learning systems
-- Tutorial(s) on state-of-the-art tools, APIs and libraries used for the development of machine learning systems, such as Weka [1] and TensorFlow [2]
-
-[1] https://www.cs.waikato.ac.nz/ml/weka/
-
-[2] https://www.tensorflow.org
-
-M2: Conceptual design of the project, 3 credits
-
-The main goal of the students during M2 is to use the knowledge obtained in M1 and previous relevant courses to design a machine learning system. The design shall outline approaches for data 
-collection or data selection, data pre-processing, algorithm selection and result metrics selection, and finally what to learn from the data.
-
-M3: Implementation of the project, 5 credits
-
-Finally, in M3 the students will implement the design proposed in M2 by using selected programming languages, APIs, libraries and tools.
+- How machine learning projects are structured and implemented.
+- Tools, services, and libraries that are used for data analysis and machine learning, e.g., Weka and Tensorflow.
+- Configuration of pipelines for machine learning systems with respect to software ang hardware, e.g., accelerators.
+- The practice of working with real data with respect to, e.g., collection, processing, and analysis.
+- Evaluation of performance based on customer requirements.
+- Experiment-driven development with short design, training, and evaluation cycles.
+- The Lean strategy for production and the Toyota production system.
+- How Lean-Agile combines the ideas from Lean with agile processes.
+- What is waste in software development and how can it be reduced?
+- How can just-in-time-production be applied to software development?
+- How can a team learn, for example from reflection after a spring and how can the process highlight the development team (and their competences).
+- Software as something complete.
+- Advanced skills in writing reflection reports.
 
 ## Types of instructions
 
-The types of instruction for this course encompass different categories. Traditional lectures are used for teaching fundamental concepts, complemented with more practical 
-tutorial sessions for the introduction of specific programming libraries. The project-related activities will mainly consist of self studies and group activities which will be regularly accompanied 
-by the responsible for the course.
+The instruction consists of lectures and supervision meetings. The lectures present the project as well as the tools, methods, and resources that the students are expected to use. The students will have regular supervision meetings with a teacher during the project. T
+
+All projects will be presented at a seminar at the end of the course.
 
 ## Examination
 
-M1: The student’s progress in this module will be assessed with a theoretical assignment where the student describes and analyses a state-of-the-art machine learning system of their own choice.
+The examination of the course is divided into the following parts:
 
-M2: The examination in this module is the report describing the design of the machine learning project. The main assessment criteria for the design are correct choice of pre-processing techniques, 
-algorithm and validation metrics to approach the task.
+| Code | Name             | Grade | HEC | 
+| :--- | :-------------------- | :---: | :---: |
+|`UPG1`| Vision and planning documents            | A-F   | 2     |  
+|`PRJ1`| Project work (incl. deliverables)       | A-F   | 5     |  
+|`RAP1`| Reflection report - Choices and outcomes | A-F   | 1     |  
+|`RAP2`| Reflection report - Lean               | A-F   | 1     |  
+|`PRS1`| Design, implementation, and result      | A-F   | 1     |  
 
-M3: The examination in this module is project deliverables (source code, binary, and documentation). The main assessment criteria for the implementation are as follows:
-- Effectiveness of the developed system in solving the task
-- Quality of project deliverables, especially the documentation of the source code and the system’s usage
-- Ability of the student to reflect and critically analyze the development process by comparing the initial design from M2 and the final result
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `HEM1`(50%) and `LAB1`(50%).
 
-The examination is based on: 
+## Methods of Evaluation
 
-- M1: Theoretical Assignment (TA)
-- M2: Project Design (DE)
-- M3: Project Deliverable (PD) 
+The learning outcomes are evaluated as follows:
 
-|  -   | TA  | DE  | PD  |
-| ---  | --- | --- | --- | 
-| 1.1  | X   | X   |     | 
-| 1.2  | X   | X   |     | 
-| 2.1  |     | X   | X   | 
-| 2.2  |     |     | X   | 
-| 3.1  |     | X   | X   | 
-| 3.2  |     |     | X   | 
+| Lärandemål |`UPG1` |`PRJ1` |`RAP1` |`RAP2` |`PRS1` |
+| :--------- | :---: | :---: | :---: | :---: | :---: |
+| 1.1        | **X** | **X** | **X** |       | **X** |
+| 1.2        | **X** |       |       |       | **X** |
+| 1.3        | **X** |       | **X** |       | **X** |
+| 2.1        | **X** | **X** | **X** |       |       |
+| 2.2        | **X** |       | **X** |       | **X** |
+| 2.3        | **X** |       | **X** |       | **X** |
+| 2.4        |       | **X** | **X** |       | **X** |
+| 2.5        |       | **X** | **X** |       | **X** |
+| 2.6        |       | **X** | **X** |       | **X** |
+| 3.1        |       |       | **X** |       |       |
+| 3.2        |       |       |       | **X** |       |
 
-## Grading
-
-The course is assessed with an A-F grading. The three modules are separately evaluated and graded. Each of the assignments in the three modules (TA, DE, PD) must be passed individually, 
-i.e., grade(Assignment) ≥ 50% in order to pass it. The grades for each module are calculated as follows:
-
-- grade(M1) = grade(TA)
-- grade(M2) = grade(DE)
-- grade(M3) = grade(PD)
-
-If one of the modules is failed then the final course grade is F. If all modules are passed, the final course grade is based on the weighted average of the grades 
-received for the three modules, as follows: grade(Course) = 0.2 * grade(M1) + 0.3 * grade(M2) + 0.5 * grade(M3).
-
-If grade(Course) ≥ 50%, then the student passes the course, otherwise the course is failed. The grading table is provided in the following:
-
-|Final Grade (A-F) | Grading Points (%) |
-| ---------------  | ------------------ |
-| A                | >= 90              |
-| B                | >= 80              |
-| C                | >= 70              |
-| D                | >= 60              |
-| E                | >= 50              |
 
 
 ## Reading list
 
 The students are expected to find suitable literature on their own. The list below can be used as a starting point.
 
-
+- Gollapudi, S., *Practical Machine Learning*. PACKT publishing, 2016.
 
 ## Other information
 

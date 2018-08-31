@@ -25,12 +25,11 @@ Efter slutförd kurs skall studenten kunna:
 2. *Färdighet och förmåga*
     1. Implementera algoritmer för att lösa typiska maskininlärningsproblem,
     2. representera data för att underlätta lärandet,
-    3. utvärdera prestanda hos en modell och kunna välja en lämplig modell för ett givet problem
+    3. välja en lämplig modell för ett givet problem och utvärdera dess prestanda,
     4. känna igen typiska effekter av olämpliga initialiseringsvärden och parameterval, och föreslå sätt att förbättra resultaten, samt
     5. känna igen fall av över- och underanpassning av modeller och föreslå sätt att hantera dem.
 3. *Värderingsförmåga och förhållningssätt*
     1. Resonera kring vilka effekter t.ex. bias från träningsdata får i faktiska tillämpningar.
-
 
 ## Kursinnehåll
 
@@ -40,7 +39,7 @@ Följande moment behandlas:
 
 - Översikt av området artificiell intelligens.
 - Grundläggande principer för maskininlärning.
-- Förbehandling av data, särdrags extrahering, dimensionsreducering.
+- Förbehandling av data, särdragsextrahering, dimensionsreducering.
 - Modellval, generalisering, över- och underanpassning.
 - Optimering för träningsmodellmodeller.
 - Regression.

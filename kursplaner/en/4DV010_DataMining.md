@@ -7,85 +7,85 @@
 
 ## Prerequisites
 
-- Java programming and corresponding data structures, 1DV001
-- Algorithms, 1DV006
-- Vector and matrix calculus, 1MA002
-- Logarithmic and exponential functions, 1MA003
+- 1DV006 - Algoritmer
+- 4DV006 - Parallelldatorprogrammering
+- 4DV005 - Maskininlärning
+- 1MA002 - Linjär algebra
+- 1MA003 - Envariabelanalys 1
+- 1MA007 - Numeriska metoder
 
 ## Learnings outcomes
 
 After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
-
-1. Describe the foundational concepts underlying data mining
-2. Define and explain algorithms and concepts for search engines, recommendation systems and clustering
-3. Define and explain algorithms and concepts for data quality and preprocessing, dimensionality reduction and similarity and dissimilarity
-
+	1. Describe fundamental concepts and principles for data mining, e.g., distance measures and clustering, and
+	2. explain the state of the art of data mining with respect to techniques and applications.
 *2.	Skills and abilities*
-
-1. Perform and implement algorithms for clustering
-2. Perform and implement techniques for data preprocessing and dimensionality reduction using common libraries
-
+	1. Given a problem and a data set or stream, plan and design a data mining pipeline with respect to what methods should be used for, e.g., dimensionality reduction, distance measure, and clustering, as well as reason about the resulting data quality, 
+	2. implement some of the algorithms, e.g., Page rank and CURE clustering in an efficient way, e.g., using a map reduce framework, and
+	3. use suitable tools to extract data from a given (unstructured) data set or stream.
 *3.	Judgement and approach*
-
-1. Reflect upon the properties of different algorithms and pick those suitable for the problem to be solved
-2. Reason about the impact that choices, e.g., specific algorithms and data representations, have on system performance and quality
+	1. Reflect on data mining from a societal perspective with respect to ethics and value, and
+	2. reason about data quality and what effect it has on the extracted data as well as how the data quality of the input data can be improved and what the value of such an improvement would be.
 
 ## Course contents
 
-Data mining is an area aiming to give meaning to unstructured data. This course offers an introduction into data mining and includes common data mining 
-tasks suchs as search engines, recommendation systems and clustering. The course also includes important techniques used in data mining systems such as 
-finding similar or dissimilar items, evaluating data quality and perform data preprocessing and dimensionality reduction of data.
+The course provides an introduction to data mining and its applications, for example search engines, recommender systems, and web advertisements. 
+
+The following topics are covered:
+
+- Introduction to data mining.
+- The relationship between data mining and machine learning.
+- Extraction of information from text.
+- How to find similar things, e.g., documents.
+- How data can be extracted from streams.
+- Link analysis, e.g., Page rank and HITS.
+- Analysis of common sets, e.g., Market-Basket and the A-priori algorithm
+- Clustering algorithms, e.g., CURE and CRGPF.
+- Dimensionality reduction, e.g., CUR.
+- Clustering of data streams.
+- Application on the web, recommendation systems, and social network analysis.
+- Data mining from a societal perspective with respect to, e.g., ethical questions, business value, and health.
+- Data quality.
+- Tools and software libraries for data mining.
 
 ## Types of Instruction
 
-The types of instruction for this course encompass traditional lectures for teaching the majority of the course content. In addition, the content is exercised and deepened 
-in context of practical lab assignments. All assignments are carried out individually or in fixed groups of maximal two students.
-
-## Modules
-
-- Practical assignments, 2.5 credits
-- Theoretical assignment, 2.5 credits
+The instruction consists of lectures, seminars, and teacher-supervised laboratory sessions. The course also contains a series of guest lectures where representatives from industry and research discusses how and why they use data mining in their work.
 
 ## Examination
 
-The learning outcomes of this course are assessed with the help of a written exam (WE) to evaluate knowledge and understanding of data mining concepts teached in the lectures. 
-These theoretical assignments also contain higher level questions in order to assess if the students are able to critically reflect upon the different approaches and what impact 
-these may have on the performance and quality of data mining systems. In addition, 2 programming assignments (PA) are used to mainly evaluate the students’ skills in algorithm 
-implementation and practical use of common APIs and libraries for data mining tasks.
+The examination of the course is divided into the following parts:
 
-## Grading
+| Code | Name             | Grade | HEC | 
+| :--- | :-------------------- | :---: | :---: |
+|`MUN1`| Oral exam        | A-F   | 2     |  
+|`LAB1`| Programming assignments | A-F   | 2     |  
+|`UPG1`| Reflection report      | A-F   | 1     |  
 
-The course is assessed with an A-F grading. The two modules are separately evaluated and graded. The WE and 2 PAs in the two modules must be passed individually. If one 
-of the modules is failed, then final course grade is F. If both are passed, the final course grade is an A-F grade based on the combination of the points received for the two 
-modules, and both of them are equally weighted. In more detail, total grade points = WE points / 2 + PA points / 2. To pass a module or the entire course, the student needs at 
-least 50% of the points, otherwise the course is failed. The grading table is provided in the following:
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `MUN1` (40%), `LAB1` (40%) och `UPG1` (20%).
 
-|Final Grade (A-F) | Grading Points (%) |
-| ---------------  | ------------------ |
-| A                | >= 90              |
-| B                | >= 80              |
-| C                | >= 70              |
-| D                | >= 60              |
-| E                | >= 50              |
+## Methods of Evaluation
 
-In order to relate the learning outcomes to the two assessment types and individual assignments, we provide the following table:
+The learning outcomes are evaluated as follows:
 
-|  -   | WE  | PA1 | PA2 |
-| ---  | --- | --- | --- | 
-| 1.1  | X   | X   | X   | 
-| 1.2  | X   | X   |     | 
-| 1.3  | X   |     | X   | 
-| 2.1  |     | X   |     | 
-| 2.2  |     |     | X   | 
-| 3.1  |     | X   | X   | 
-| 3.2  |     | X   | X   | 
+| Outcome |`MUN1` |`LAB1` |`UPG1` |
+| :--------- | :---: | :---: | :---: |
+| 1.1        | **X** |       |       |
+| 1.2        | **X** |       | **X** |
+| 2.1        | **X** | **X** |       |
+| 2.2        |       | **X** |       |
+| 2.3        |       | **X** |       |
+| 3.1        |       |       | **X** |
+| 3.2        | **X** |       |       | 
 
-## Literature
+## Reading list
 
-- Jure Leskovec, Anand Rajaraman and Jeff Ullman. Mining of Massive Datasets.Cambridge University Press, 2014. Available for free online at http://mmds.org/#ver21. Estimated reading: 380 / 511 pages
+Required reading:
 
+- Leskovec, J., Rajaraman, A. och Ullman, J. D., *Mining of Massive Datasets*, Cambridge University Press, 2014. Antal sidor: 400 av 511.
+- Compendium of scientific articles.
 
 ## Other information
 

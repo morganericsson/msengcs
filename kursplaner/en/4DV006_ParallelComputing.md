@@ -7,103 +7,79 @@
 
 ## Prerequisites
 
-- Programming skills (1DV001)
-- Communication and synchronization of programs (1DV004)
-- Data structures and assessment of the complexity of algorithms (1DV006)
-- Knowledge on how hardware is designed (1DV008)
-- Knowledge on reference architectures for digital devices (1DV011)
-
+- 1DV005 - Jämnlöpande program
+- 1DV006 - Algoritmer
+- 2DV001 - Datorns uppbyggnad
+- 2DV004 - Datorgrafik
 
 ## Learnings outcomes
 
 After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
-
-1. Describe and explain the fundamentals of parallel computing systems
-2. Describe fundamentals of programming models and languages for parallel
-computing
-3. Explain different parallelization techniques and reference algorithms. 
-4. Describe topologies of interconnection networks used in clusters for parallel computing. Identify networking issues in parallel systems. 
-
+	1. Explain the main similarities and differences between concurrent and parallel programs,
+	2. describe different types of parallel computers and accelerators, and reason about which type is best for a given problem, and
+	3. describe the state of the art of parallel computer and accelerators as well as how these are programmed.
 *2.	Skills and abilities*
-
-1. Design and implement parallel versions of common serial algorithms and data structures.
-2. Design and implement programs that run efficiently on parallel computing systems.
-
+	1. Decompose a problem, formulate a parallel algorithm to solve it, and implement it on a parallel computer and accelerator using, e.g., OpenMP, CUDA, or MPI, 
+	2. plan and deploy a (virtual) cluster and software (e.g., MPI) for solve a specific type of problem,
+	3. given a problem and an implementation, reason about expected performance and ways to increase it.
 *3.	Judgement and approach*
-
-1. Reason about the performance of a system, and the potential and limitations of parallel processing with respect to computing resources, networking and coordination. 
-
-
+	1. Reflect on the cost of solving certain types of problems, e.g., with respect to economic costs and energy/environmental costs, as well as how these are impacted by the choice of architecture, algorithm, etc.
 
 ## Course contents
 
-- Goals of parallel computing. Parallelism Vs concurrency. Problems solved by parallelization. 
-- Introduction to parallel and multi-core computing architectures. - Programming models for parallel computing. Software frameworks for executing parallelizable jobs. 
-- Programming languages for parallel computing
-- Patterns for parallel algorithms. Communication and coordination of parallel programs  
-- Performance improvement with parallel computing. Speedup, throughput, scalability, Amdahl's law.
-- Performance evaluation of parallel algorithms. 
+The course advances the students knowledge of how problems can be solved by parallel processing and accelerators (e.g., graphic processors), how problems are decomposed into parallel parts, and how programs can be optimized for different computer and accelerator architectures.
 
-## Modules
+The following topics are covered:
 
-- Programming Assignments - 2 credits (1 credit each)
-- Practical Exercise Assignment - 1 credit
-- Written exam - 2 credits
+- Introduction to homogeneous and heterogeneous parallel computers.
+- Introduction to graphic processors and accelerators.
+- How problems are decomposed to enable parallel execution.
+- OpenMP.
+- How to write programs for computer clusters using, e.g., MPI.
+- How to write programs for graphic processors using, e.g. CUDA.
+- Parallel patterns, such as prefix sum, map-reduce, matrix calculations, merge sort, and graph search.
+- Examples of how parallel processing is used within different domains, such as machine learning, image processing, and image analysis.
+- How to plan and deploy (virtual) clusters and parallel application in a cloud.
+- Common benchmarks and how they are used to evaluate performance.
+- Tools to test and debug parallel programs.
 
 ## Types of instruction
 
-The types of instruction for this course encompass traditional lectures for teaching the theoretical content of the course content. In addition, the content is exercised by practical lectures that will cover problem solving and design of parallel programs. 
-
-Moreover, the content regarding implementation of parallel programs and the application of patterns for parallel algorithms is exercised and deepened in context of practical lab assignments. 
-All assignments are carried out individually or in fixed groups of maximal two students.
-
+The instruction consists of lectures, seminars, and teacher-supervised laboratory sessions. The course also contains a series of guest lectures where representatives from industry and research discusses how and why they use parallel computers and accelerators in their work and how they use these to solve problems.
 
 ## Examination
 
-The learning outcomes of this course are assessed with the help of a written exam (WE) to evaluate knowledge and understanding and judgement learning outcomes, two programming assignments (PA) that evaluate the skills and a Practical Exercise (PE) that a evaluates understanding and judgment.
+The examination of the course is divided into the following parts:
 
+| Code | Name             | Grade | HEC | 
+| :--- | :-------------------- | :---: | :---: |
+|`TEN1`| Written exam   | A-F   | 1     |  
+|`LAB1`| Programming assignments | A-F   | 4     |  
 
-## Grading
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `TEN1`(30%) and `LAB1`(70%).
 
-The course is assessed with an A-F grading. If one of the modules is failed, then final course grade is F. 
+## Methods of Evaluation
 
-To pass a module, the student needs at least 50% of the points, otherwise the course is failed. The grading table is provided in the following:
+The learning outcomes are evaluated as follows:
 
-|Final Grade (A-F) | Grading Points (%) |
-| ---------------  | ------------------ |
-| A                | >= 90              |
-| B                | >= 80              |
-| C                | >= 70              |
-| D                | >= 60              |
-| E                | >= 50              |
+| Outcome |`TEN1` |`LAB1` |
+| :--------- | :---: | :---: |
+| 1.1        | **X** | **X** |
+| 1.2        | **X** |       |
+| 1.3        | **X** | **X** |
+| 2.1        |       | **X** |
+| 2.2        |       | **X** |
+| 2.3        |       | **X** |
+| 3.1        | **X** |       |
 
-Each practical programming assignment will be graded with points. To pass the Programming assignments module, the average of points of the three assignments shall be at least 50%.
+## Reading list
 
-If all the three modules are passed, then the course is passed and the final course grade is an A-F grade based on a weighted average of 40% for the Written Exam, 40% for the Programming Assignments and 20% for the Practical exercise. 
+Required reading:
 
-In order to relate the learning outcomes to the assessments, we provide the following table:
-
-
-|  -   | WE  | PA1 | PA2 | PE1 |
-| ---  | --- | --- | --- | --- |
-| 1.1  | X   |     |     |     |
-| 1.2  | X   |     |     |     | 
-| 1.3  | X   |     |     |     |
-| 1.4  | X   |     |     |     |
-| 2.1  |     |  X  |     |     |
-| 2.2  |     |     |  X  |     |
-| 3.1  | X   |     |     |  X  |
-
-
-
-
-
-## Literature
-
-Ananth Grama. Introduction to parallel computing. Addison-Wesley. 2003
-
+- Kirk, D. och Hwu, W-M., *Programming Massively Parallel Processors - A Hands-on Approach*, tredje utgåvan, Morgan Kaufmann, 2016. Antal sidor: 500 / 576
+- Compendium of scientific articles.
 
 ## Other information
 

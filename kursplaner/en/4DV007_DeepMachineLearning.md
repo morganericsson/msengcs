@@ -7,36 +7,33 @@
 
 ## Prerequisites
 
-1. Linear algebra: basic knowledge of vectors and matrices
-2. Probability theory and statistics: distributions
-3. Multivariable calculus: vector valued functions, partial derivatives, chain rule
-4. Machine learning: basic knowledge of ML including concept such as, overfitting, regularization
-5. Programming: knowledge in some programming language, preferably Python
+- 1MA002 - Linjär algebra 
+- 1MA004 - Tillämpad sannolikhetslära och statistik 
+- 1MA006 - Flervariabelanalys 
+- 1DV001 - Programmering och datastrukturer
+- 4DV005 - Machine learning
 
 ## Learnings outcomes
 
 After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
-
-1. Explain the fundamentals and describe the practice of deep learning
-2. Describe methods for reinforcement learning, planning and control in sequential decision making processes
-3. Explain the limitations of a model in a given setting
-
-
+	1. Describe the foundation and applications of deep learning,
+	2. explain methods for reinforcement learning, planning, and control in sequential decision making processes, and
+	3. explain the limitations of a model in a given context.
 *2.	Skills and abilities*
-
-1. Be able to implement deep learning algorithms in a state-of-the-art framework
-2. Be able to apply relevant concepts from deep learning in order to solve practical problems, such as image recognition
-3. Be able to represent data to facilitate learning
-
+	1. Implement deep learning models in a state of the art framework, such as tensorflow or keras, 
+	2. apply concepts from deep learning to solve tasks such as image recognition, 
+	3. represent data in ways to facilitate learning, and
+	4. recognize the effects of bad initialization, parameters, and hyperparameters, and suggest ways to change these to improve the results.
 *3.	Judgement and approach*
-
-1. Recognize typical effects of bad initialization, parameter and hyperparameter selection and suggest ways to improve the results.
+	1. Critically reflect on the value of a scientific result, as well as summarize, present, and discuss findings from scientific articles, as well as the effect these research results have on society.
 
 ## Course contents
 
-The course covers concepts and methods from neural networks and deep learning. The course includes, but is not limited to, the following topics:
+The course covers concepts and methods from neural networks and deep learning.
+
+The following topics are covered:
 
 - Neural networks and convolutional neural networks
 - Optimization in training deep learning models
@@ -46,41 +43,43 @@ The course covers concepts and methods from neural networks and deep learnin
 - Long-short term memory
 - Reinforcement learning
 
-## Modules
-1. Neural networks and deep learning
-2. Reinforced learning
-
 ## Types of instruction
 
+The instruction consists of lectures, teacher-supervised laboratory sessions, seminars, where pairs of students present a scientific article and acts as opponents on another student presentation.
+
 ## Examination
-The examination is based on: 
 
-- Module 1: Assignments (A1, A2)
-- Module 2: Assignments (A3)
-- Final: Written exam (WE)
+The examination of the course is divided into the following parts:
 
+| Code | Name             | Grade | HEC | 
+| :--- | :-------------------- | :---: | :---: |
+|`TEN1`| Written exam                   | A-F   | 2     |
+|`LAB1`| Programming assignments                | A-F   | 2     |
+|`PRS1`| Presentation of a scientific article | G-U   | 1     |
 
-|     | A1  | A2  | A3  | WE  |
-| --- | --- | --- | --- | --- |
-| 1.1 |     |     |     |  X  |
-| 1.2 |     |     |  X  |  X  |
-| 1.3 |     |  X  |  X  |  X  |
-| 2.1 |  X  |  X  |  X  |     |
-| 2.2 |  X  |  X  |  X  |     |
-| 2.3 |  X  |  X  |  X  |     |
-| 3.1 |  X  |  X  |  X  |  X  |
+To pass the course, grade G is required on `PRS1` and grade E or higher is required for all other parts. The final grade is decided from: `TEN1` (50%) and `LAB1` (50%).
 
-## Grading
-The course is assessed with the grades A, B, C, D, E, Fx or F.
-The grade A constitutes the highest grade on the scale and the remaining grades follow in descending order where the grade E is the lowest grade on the scale that will result in a pass.
-The grade F means that the student’s performance is assessed as fail.
+## Methods of Evaluation
 
-## Course literature
+The learning outcomes are evaluated as follows:
 
-- Goodfellow, Ian, Bengio, Yoshua & Courville, Aaron, Deep learning, Cambridge, MA, 2016
+| Outcome |`TEN1` |`LAB1` |`PRS1` |
+| :--------- | :---: | :---: | :---: |
+| 1.1        |       | **X** |       |
+| 1.2        | **X** | **X** |       |
+| 1.3        | **X** | **X** |       |
+| 2.1        | **X** |       |       |
+| 2.2        | **X** |       |       |
+| 2.3        | **X** |       |       |
+| 2.4        | **X** | **X** |       |
+| 3.1        |       |       | **X** |
 
-Supplementary literature may be provided by the institution if needed.
+## Reading list
 
+Required reading:
+
+- Goodfellow, I., Bengio, Y. och Courville, A., *Deep learning*, MIT Press, 2016. Antal sidor: 465 av 710.
+- Compendium of scientific articles.
 
 ## Other information
 

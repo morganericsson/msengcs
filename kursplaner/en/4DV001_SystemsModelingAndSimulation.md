@@ -31,7 +31,7 @@ After completing the course the student shall be able to:
 
 The course gives an overview of different deterministic and non-deterministic modeling and simulation techniques.
 
-The following items are covered:
+The following topics are covered:
 
 - Introduction to modeling and simulation.
 - How are models and simulations used?
@@ -76,6 +76,8 @@ The learning outcomes are evaluated as follows:
 | 3.3        |       | **X** |
 
 ## Reading list
+
+Required reading:
 
 - Sokolowski, J. A. och Banks, C. M., *Principles of Modeling and Simulation : A Multidisciplinary Approach*, Wiley, 2009. Antal sidor 153 av 256. 
 - Birta, L. G. och Arbez, G., *Modelling and Simulation: Exploring Dynamic System Behaviour*, Springer, 2013. Antal sidor 341 av 433. 

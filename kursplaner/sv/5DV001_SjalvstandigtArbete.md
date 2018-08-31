@@ -53,7 +53,7 @@ Examinationen av kursen delas in i följande moment:
 |`OPP1`| Opponering            | G-U   | 1,5   |  
 |`ASK1`| Auskultation           | G-U   | 1,5   |  
 
-För godkänt betyg på kursen krävs betyg G på`OPP1`och`ASK1`samt minst betyg E på RAP1. Slutbetyget bestäms från RAP1.
+För godkänt betyg på kursen krävs betyg G på `OPP1` och `ASK1` samt minst betyg E på RAP1. Slutbetyget bestäms från `RAP1`.
 
 ## Måluppfyllelse
 

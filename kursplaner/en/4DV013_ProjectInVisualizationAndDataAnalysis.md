@@ -7,115 +7,91 @@
 
 ## Prerequisites
 
-* Computer graphics with emphasis on 2D, Advanced → 1DV009
-* Information visualization, Basic → 4DV010  ???? (is given in parallel, same with InfoVis 2)
-* Machine learning, Advanced → 4DV006
-* Programming (at least one, e.g., Java or JavaScript or Python), Advanced → 1DV001, 1DV003
+- 1DV004 - Objektorienterad programmering
+- 2DV004 - Datorgrafik
+- 1MA002 - Linjär algebra
+- 1MA004 - Tillämpad sannolikhetslära och statistik
+- 1ZT002 - Hållbar utveckling
+- 4DV005 - Maskininlärning
+- Minst en av projektkurserna 4DV004 eller 4DV008
 
 ## Learning outcomes
 
 After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
-
-1. Characterize the role of ainteractive visualization both in the presentation of results and in the process of data exploration supported by data-analysis algorithms
-2. Identify characteristics of state-of-the-art Visual Analytics (VA) systems
-
+	1. Explain and motivate information visualization and visual analytics in a man-machine perspective as well as how these can facilitate data analysis,
 *2. Skills and abilities*
-
-1. Plan a VA development project by mapping analytical requirements to a software solution that involves the combination of interactive visualization and data-analysis algorithms
-2. Execute the project plan by applying previously learned skills from required courses in a project-like environment and combining them with state-of-the-art VA tools and libraries
-
+	1. Independently organize and carry out an agile project,
+	2. independently learn to use tools, methods, and software libraries used within information visualization and visual analytics,
+	3. elicit requirements from a customer and based on these decide which visualizations, data analyses, and interaction methods that are most suitable,
+	4. implement a visual analytics system using reasonable technical solutions and deploy this, and
+	5. based on customer requirements define and perform evaluations of a visual analytics system using, e.g., focus groups.
 *3. Judgement and approach*
-
-1. Reflect on the types of questions and analytical processes supported by different combinations of visualization techniques and data-analysis algorithms
-2. Evaluate whether a proposed VA solution reaches its analytical goals efficiently and effectively
+	1. Reflect on which types of questions and analysis processes are best supported by different combinations of visualization techniques, 
+	2. Reflect on how the choice of visualizations is affected by the groups of people that will use the system with respect to, e.g., metaphors and common understanding, and
+	3. Reflect on the bias that exist in the system based on collected data, data processing, analysis methods, and visualization techniques.
 
 ## Course contents
 
-This course offers the students the opportunity to consolidate and apply knowledge and skills obtained in previous courses of their studies by the development of an interactive Visual Analytics (VA) application. Visual analytics systems bring data analysis closer to end-users by effectively combining interactive visualization and complex algorithms, guided by the underlying analytical processes inherent to the data and the application at hand. By following the course’s modules (described in more details below) the students will be introduced to visual analytics theoretical aspects and tools, create the conceptual design of a VA project of their choice, implement their designs, and present their results.
+The course is a project course that, given a realistic problem and settings, considers the entire CDIO (Conceive-Design-Implement-Operate) cycle. The students are expected to work using agile processes in teams of 5-7 and are expected to perform all roles except product owner. This is the final project course, so the students are expected to independently manage an agile project.
+
+- The importance of data and visualization for an organization.
+- Information visualization in realistic projects.
+- Data analysis and processing in realistic projects.
+- Tools, services, and software libraries that can be used for data analysis and to develop information visualizations, e.g., D3, yFiles, and Bokeh.
+- Man, machine, and visualization. 
+- How visualizations are evaluated in realistic projects.
+- How to design accessible visualization systems.
+- Bias in data, analysis, and visualization.
+- Metaphors, how and when should the be used, what cultural connections to they have, etc.?
 
 ## Types of instruction
 
-The types of instruction for this course encompass different categories, described as follows. Traditional lectures are used for teaching fundamental concepts, complemented with more practical tutorial sessions for the introduction of specific programming libraries. The project-related activities will mainly consist of self studies and group activities which will be regularly accompanied by the responsible for the course.
+The instruction consists of lectures and supervision meetings. The lectures present the project as well as the tools, methods, and resources that the students are expected to use. The students will have regular supervision meetings with a teacher during the project. T
 
-## Modules
-
-### M1: Introduction to visual analytics – theory and practice, 3 credits
-
-The course starts with an introduction of VA from both the theoretical and practical perspectives with the following activities:
-* Lecture(s) on the theoretical background of VA and analytical processes
-* Analysis of selected examples of state-of-the-art VA systems
-* Tutorial(s) on state-of-the-art tools and libraries used for the development of VA systems, such as D3 [1], yFiles [2], and Bokeh [3]
-
-[1] https://d3js.org/
-
-[2] https://www.yworks.com/
-
-[3] https://bokeh.pydata.org/
-
-### M2: Conceptual design of the project, 3 credits
-
-The main goal of the students during M2 is to use the knowledge obtained in M1 to design (conceptually, at first) an interactive VA application that can potentially answer at least one interesting question/thesis from a selected data set, combining one (or more) visualization techniques and one (or more) data analysis algorithms into an analytical process. The data set will be selected from those available in open data repositories. The final product of M2 is a written report that explains how the system should be implemented and the rationale behind the design choices of the project.
-
-### M3: Implementation of the project, 4 credits
-
-Finally, in M3 the students will implement the design proposed in M2 by using selected programming languages and graphical/visualization libraries.
+All projects will be presented at a seminar at the end of the course.
 
 ## Examination
 
-Due to the different approaches and goals of each of this course’s modules, the examinations will occur in specific ways as described below. Whenever applicable, we only require the use of programming libraries that are freely available. Any standard laptop or desktop computer with a onboard graphics chip and/or dedicated graphics card is sufficient for the programming tasks.
+The examination of the course is divided into the following parts:
 
-**M1:** The student’s progress in this module will be assessed with one theoretical and one practical assignment. The theoretical assignment (TA) is designed to evaluate knowledge and understanding of the VA-related concepts teached in the initial lectures, and also if the students are able to critically reflect upon the different existing approaches and what impact these may have on their analytical goals for the finally implemented system. The practical assignment (PA) is designed to evaluate the students’ skills in the implementation of simple data-analysis algorithms and visualization techniques, which is an important basic requirement for the successful continuation of the course.
+| Code | Name             | Grade | HEC | 
+| :--- | :--------------------------------------          | :---: | :---: |  
+|`UPG1`| Vision and planning documents                   | A-F   | 2     |  
+|`PRJ1`| Project work (incl. deliverables)                 | A-F   | 5     |  
+|`RAP1`| Reflection report - To mange an agile project | A-F   | 1     |  
+|`RAP2`| Reflection report - Human and machine        | A-F   | 1     |  
+|`PRS1`| Design, implementation, and result             | A-F   | 1     |  
 
-**M2:** This module’s examination revolves mainly around the assessment of the final conceptual design report. The assessment will be carried out both during the module, at specific checkpoints, and at the end of the module. At each checkpoint, the students will report on the progress of the written report and receive feedback for its improvement. At the end of the module the students will submit, present and defend their design (PR-1), which will be graded. The main assessment criteria for the conceptual design are
-* the value of the designed question/thesis to be analyzed in the data set,
-* correct choice of analysis and visualization techniques to answer the question/thesis,
-* suitable design of an analytical process involving the chosen techniques, and
-* feasibility of the system’s architecture to implement the proposed analytical process.
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `UPG1` (20%), `PRJ1` (50%), `RAP1` (10%), `RAP2` (10%), and `PRS1` (10%).
 
-**M3:** Similarly to the examination of the previous module, the assessment of M3 will be carried out both during the module, at specific checkpoints, and at the end. At each checkpoint, the students will report on the progress of the implementation and receive feedback for its improvement. At the end of the module, the students will submit and present their project (PR-2), which will be graded. The main assessment criteria for the implementation are as follows:
-* Effectiveness of the system in supporting the analytical process to answer the question/thesis proposed during M2. The final software must at least implement the design’s core techniques and show promising initial results.
-* Quality of project deliverables, especially the documentation of the source code and the system’s usage.
-* Ability of the student to reflect and critically analyze the development process by comparing the initial design from M2 and the final result.
+## Methods of Evaluation
 
-## Grading
+The learning outcomes are evaluated as follows:
 
-The VA project course is assessed with an A-F grading. The three modules are separately evaluated and graded. Each of the assignments in the three modules (cf. TA, PA, PR-1, PR-2) must be passed individually, i.e., *grade(Assignment) ≥ 50%* in order to pass it. The grades for each module are calculated as follows:
-* *grade(M1) = 0.5 * grade(TA) + 0.5 * grade(PA)*
-* *grade(M2) = grade(PR-1)*
-* *grade(M3) = grade(PR-2)*
+| Outcome |`UPG1` |`PRJ1` |`RAP1` |`RAP2` |`PRS1` |
+| :--------- | :---: | :---: | :---: | :---: | :---: |
+| 1.1        | **X** | **X** | **X** |       | **X** |
+| 1.2        | **X** |       |       |       | **X** |
+| 1.3        | **X** |       | **X** |       | **X** |
+| 2.1        | **X** | **X** | **X** |       |       |
+| 2.2        | **X** |       | **X** |       | **X** |
+| 2.3        | **X** |       | **X** |       | **X** |
+| 2.4        |       | **X** | **X** |       | **X** |
+| 2.5        |       | **X** | **X** |       | **X** |
+| 2.6        |       | **X** | **X** |       | **X** |
+| 3.1        |       |       | **X** |       |       |
+| 3.2        |       |       |       | **X** |       |
 
-If one of the modules is failed, i.e., *grade(M) < 50%*, then the final course grade is F. If all modules are passed, the final course grade is an A-F grade based on the weighted sum of the points received for the three modules, as follows: *grade(Course) = 0.3 * grade(M1) + 0.3 * grade(M2) + 0.4 * grade(M3)*. If *grade(Course) ≥ 50%*, then the student passes the course, otherwise the course is failed. The grading table is provided in the following:
 
-| Final Grade (A-F) | Grading Points (%) |
-|-------------------|--------------------|
-|  A                |  >= 90             |
-|  B                |  >= 80             |
-|  C                |  >= 70             |
-|  D                |  >= 60             |
-|  E                |  >= 50             |
+## Reading list
 
-In order to relate the learning outcomes to the two assessment types and individual assignments, we provide the following table:
+The students are expected to find suitable literature on their own. The list below can be used as a starting point.
 
-| Learning Outcome | Assessment Type | TA  | PA  | PR-1 | PR-2 |
-| ---------------- | --------------- | --- | --- | ---- | ---- |
-| 1.1              | TA + PR         |**X**|     |**X** |      |
-| 1.2              | TA + PR         |**X**|     |**X** |      |
-| 2.1              | PR              |     |     |**X** |**X** |
-| 2.2              | PA + PR         |     |**X**|      |**X** |
-| 3.1              | PR              |     |     |**X** |**X** |
-| 3.2              | TA + PR         |**X**|     |      |**X** |
-
-Late work will not be accepted without prior approval by the instructor. Reasons for accepted delays may be proven health conditions, no-fault hardships, etc.
-
-## Course literature
-
-* Daniel Keim, Jörn Kohlhammer, Geoffrey Ellis, and Florian Mansmann. Mastering the Information Age: Solving Problems with Visual Analytics. Eurographics, 2010. Estimated reading: 60 / 167 pages
-* Tamara Munzner. Visualization Analysis and Design. CRC Press, 2014. Estimated reading: 100 / 428 pages
-* Helen C. Purchase. Experimental Human-Computer Interaction: A Practical Guide with Visual Examples. Cambridge University Press, 2012. Estimated reading: 80 / 241 pages
-* DV, Distributed slides. Estimated reading: 50 / 50 pages
-
+- Keim, D., Kohlhammer, J., Ellis, G. och Mansmann, F., *Mastering the Information Age: Solving Problems with Visual Analytics*, Eurographics, 2010.
+- Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014. 
+- Purchase, H. C., *Experimental Human-Computer Interaction: A Practical Guide with Visual Examples*, Cambridge University Press, 2012. 
 
 ## Other information
 

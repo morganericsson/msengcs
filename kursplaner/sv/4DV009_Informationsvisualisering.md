@@ -54,7 +54,7 @@ Examinationen av kursen delas in i följande moment:
 | Kod  | Benämning             | Betyg | Poäng | 
 | :--- | :-------------------- | :---: | :---: |
 |`UPG1`| Inlämningsuppgifter   | A-F   | 3     |
-|`TEN1`| Muntlig tentamen      | A-F   | 2     |
+|`MUN1`| Muntlig tentamen      | A-F   | 2     |
 
 För godkänt betyg på kursen krävs minst betyg E på samtliga moment. Slutbetyget bestäms från:`UPG1`(60%) och`TEN1`(40%).
 

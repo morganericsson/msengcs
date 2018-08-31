@@ -37,7 +37,7 @@ After completing the course the student shall be able to:
 
 The course is a project course that, given a realistic problem and settings, considers the entire CDIO (Conceive-Design-Implement-Operate) cycle. The students are placed in the role of a development team within an agile organization with many requirements on their software.
 
-The students are expected to work using agile processes in teams of 5-7 and are expected to perform all roles except product owner. Special focus is given on requirements elicitation, description, planning, and estimation from an agile perspective as well as documentation. 
+The students are expected to work using agile processes in teams of 5-7 and are expected to perform all roles except product owner. Special focus is given to requirements elicitation, description, planning, and estimation from an agile perspective as well as documentation. 
 
 - Advanced models and software development.
 - Model-based development and architecture.
@@ -61,21 +61,25 @@ The students are expected to work using agile processes in teams of 5-7 and are 
 
 The instruction consists of lectures and supervision meetings. The lectures present the project as well as the tools, methods, and resources that the students are expected to use. The students will have regular supervision meetings with a teacher during the project.
 
+All projects will be presented at a seminar at the end of the course.
+
 ## Examination
 
 The examination of the course is divided into the following parts:
 
 | Code | Name             | Grade | HEC | 
 | :--- | :--------------------------------------       | :---: | :---: |  
-|`UPG1`| Vision och planeringsdokument                 | A-F   | 2     |  
-|`PRJ1`| Projektarbete (inkl. leverabler)              | A-F   | 5     |  
-|`RAP1`| Reflektionsrapport - Modellbaserad utveckling | A-F   | 1     |  
-|`RAP2`| Reflektionsrapport - Projektarbete            | A-F   | 1     |  
-|`PRS1`| Design, implementering och resultat           | A-F   | 1     |  
+|`UPG1`| Vision and planning documents                  | A-F   | 2     |  
+|`PRJ1`| Project work (incl. deliverables)              | A-F   | 5     |  
+|`RAP1`| Reflection report - Model-based development | A-F   | 1     |  
+|`RAP2`| Reflection report - Project work            | A-F   | 1     |  
+|`PRS1`| Design, implementation, och result           | A-F   | 1     |  
 
-To pass the course, grade E or higher is required for all parts. The final grade is decided from:`UPG1`(20%),`PRJ1`(50%),`RAP1`(10%),`RAP2`(10%), and `PRS1`(10%). 
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `UPG1` (20%), `PRJ1` (50%), `RAP1` (10%), `RAP2` (10%), and `PRS1` (10%). 
 
 ## Methods of Evaluation
+
+The learning outcomes are evaluated as follows:
 
 | Outcome |`UPG1` |`PRJ1` |`RAP1` |`RAP2` |`PRS1` |
 | :--------- | :---: | :---: | :---: | :---: | :---: |
