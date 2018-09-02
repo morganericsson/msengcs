@@ -86,8 +86,8 @@ The learning outcomes are evaluated as follows:
 
 Required reading:
 
-- Bishop, C. M., *Pattern recognition and machine learning*. Springer, 2006. Antal sidor: 400 av 700.
-- James, G., Witten, D., Hastie, T. och Tibshirani, R., *An introduction to statistical learning: with applications in R*, Springer, 2013. Antal sidor: 350 av 410.
+- Bishop, C. M., *Pattern recognition and machine learning*. Springer, 2006. Pages: 400 of 700.
+- James, G., Witten, D., Hastie, T., and Tibshirani, R., *An introduction to statistical learning: with applications in R*, Springer, 2013. Pages: 350 of 410.
 - Compendium of scientific articles.
 
 ## Other information

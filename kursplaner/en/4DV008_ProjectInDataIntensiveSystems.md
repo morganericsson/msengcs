@@ -73,7 +73,7 @@ The examination of the course is divided into the following parts:
 |`RAP2`| Reflection report - Lean               | A-F   | 1     |  
 |`PRS1`| Design, implementation, and result      | A-F   | 1     |  
 
-To pass the course, grade E or higher is required for all parts. The final grade is decided from: `HEM1`(50%) and `LAB1`(50%).
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `HEM1`(50%), and `LAB1`(50%).
 
 ## Methods of Evaluation
 

@@ -73,7 +73,7 @@ The examination of the course is divided into the following parts:
 |`PRJ1`| Project work (incl. deliverables)              | A-F   | 5     |  
 |`RAP1`| Reflection report - Model-based development | A-F   | 1     |  
 |`RAP2`| Reflection report - Project work            | A-F   | 1     |  
-|`PRS1`| Design, implementation, och result           | A-F   | 1     |  
+|`PRS1`| Design, implementation, and result           | A-F   | 1     |  
 
 To pass the course, grade E or higher is required for all parts. The final grade is decided from: `UPG1` (20%), `PRJ1` (50%), `RAP1` (10%), `RAP2` (10%), and `PRS1` (10%). 
 

@@ -64,7 +64,7 @@ The examination of the course is divided into the following parts:
 |`LAB1`| Programming assignments | A-F   | 2     |  
 |`UPG1`| Reflection report      | A-F   | 1     |  
 
-To pass the course, grade E or higher is required for all parts. The final grade is decided from: `MUN1` (40%), `LAB1` (40%) och `UPG1` (20%).
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `MUN1` (40%), `LAB1` (40%), and `UPG1` (20%).
 
 ## Methods of Evaluation
 
@@ -84,7 +84,7 @@ The learning outcomes are evaluated as follows:
 
 Required reading:
 
-- Leskovec, J., Rajaraman, A. och Ullman, J. D., *Mining of Massive Datasets*, Cambridge University Press, 2014. Antal sidor: 400 av 511.
+- Leskovec, J., Rajaraman, A., and Ullman, J. D., *Mining of Massive Datasets*, Cambridge University Press, 2014. Pages: 400 of 511.
 - Compendium of scientific articles.
 
 ## Other information

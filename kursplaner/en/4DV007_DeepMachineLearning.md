@@ -78,7 +78,7 @@ The learning outcomes are evaluated as follows:
 
 Required reading:
 
-- Goodfellow, I., Bengio, Y. och Courville, A., *Deep learning*, MIT Press, 2016. Antal sidor: 465 av 710.
+- Goodfellow, I., Bengio, Y., and Courville, A., *Deep learning*, MIT Press, 2016. Pages: 465 of 710.
 - Compendium of scientific articles.
 
 ## Other information

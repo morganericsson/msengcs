@@ -89,7 +89,7 @@ The learning outcomes are evaluated as follows:
 
 The students are expected to find suitable literature on their own. The list below can be used as a starting point.
 
-- Keim, D., Kohlhammer, J., Ellis, G. och Mansmann, F., *Mastering the Information Age: Solving Problems with Visual Analytics*, Eurographics, 2010.
+- Keim, D., Kohlhammer, J., Ellis, G. and Mansmann, F., *Mastering the Information Age: Solving Problems with Visual Analytics*, Eurographics, 2010.
 - Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014. 
 - Purchase, H. C., *Experimental Human-Computer Interaction: A Practical Guide with Visual Examples*, Cambridge University Press, 2012. 
 

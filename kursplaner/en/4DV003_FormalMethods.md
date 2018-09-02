@@ -85,8 +85,8 @@ The learning outcomes are evaluated as follows:
 
 Required reading:
 
-- Aceto, L., Ingólfsdóttir, A., Guldstrand Larsen, K. och Srba, J., *Reactive Systems: Modelling, Specification and Verification*, Cambridge University Press, 2014.  Antal sidor: 150 av 281.
-- Huth, M. och Ryan, M., *Logic in Computer Science: Modelling and Reasoning about Systems*, andra utgåvan, Cambridge University Press, 2004. Antal sidor: 300 av 412.
+- Aceto, L., Ingólfsdóttir, A., Guldstrand Larsen, K., and Srba, J., *Reactive Systems: Modelling, Specification and Verification*, Cambridge University Press, 2014. Pages: 150 of 281.
+- Huth, M. and Ryan, M., *Logic in Computer Science: Modelling and Reasoning about Systems*, second edition, Cambridge University Press, 2004. Pages: 300 of 412.
 - Compendium of scientific articles.
 
 ## Other information

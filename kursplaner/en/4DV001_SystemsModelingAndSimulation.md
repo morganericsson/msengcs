@@ -79,8 +79,8 @@ The learning outcomes are evaluated as follows:
 
 Required reading:
 
-- Sokolowski, J. A. och Banks, C. M., *Principles of Modeling and Simulation : A Multidisciplinary Approach*, Wiley, 2009. Antal sidor 153 av 256. 
-- Birta, L. G. och Arbez, G., *Modelling and Simulation: Exploring Dynamic System Behaviour*, Springer, 2013. Antal sidor 341 av 433. 
+- Sokolowski, J. A. and Banks, C. M., *Principles of Modeling and Simulation : A Multidisciplinary Approach*, Wiley, 2009. Pages: 153 of 256. 
+- Birta, L. G. and Arbez, G., *Modelling and Simulation: Exploring Dynamic System Behaviour*, Springer, 2013. Pages: 341 of 433. 
 
 ## Other information
 

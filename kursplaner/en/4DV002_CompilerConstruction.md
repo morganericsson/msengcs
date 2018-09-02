@@ -63,7 +63,7 @@ The examination of the course is divided into the following parts:
 |`LAB1`| Programming assignments | A-F   | 2     |
 |`TEN1`| Written exam   | A-F   | 2     |
 
-To pass the course, grade E or higher is required for all parts. The final grade is decided from:`UPG1`(20%),`LAB1`(40%) och`TEN1`(40%). 
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `UPG1` (20%), `LAB1` (40%), and `TEN1` (40%). 
 
 ## Methods of Evaluation
 
@@ -87,7 +87,7 @@ The learning outcomes are evaluated as follows:
 
 Required reading:
 
-- Aho, A. V., Lam, M. S., Sethi, R. och Ullman, J. D., *Compilers: Principles, Techniques, and Tools*, Pearson Education, 2006. Antal sidor: 510 av 986.
+- Aho, A. V., Lam, M. S., Sethi, R., and Ullman, J. D., *Compilers: Principles, Techniques, and Tools*, Pearson Education, 2006. Pages: 510 of 986.
 
 ## Other information
 

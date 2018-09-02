@@ -78,7 +78,7 @@ Examinationsmomenten kopplas till lärandemålen enligt följande:
 
 Obligatorisk litteratur:
 
-- Kirk, D. och Hwu, W-M., *Programming Massively Parallel Processors - A Hands-on Approach*, tredje utgåvan, Morgan Kaufmann, 2016. Antal sidor: 500 / 576
+- Kirk, D. och Hwu, W-M., *Programming Massively Parallel Processors - A Hands-on Approach*, tredje utgåvan, Morgan Kaufmann, 2016. Antal sidor: 500 av 576
 - Kompendium med vetenskapliga artiklar.
 
 ## Övrigt

@@ -72,9 +72,9 @@ The learning outcomes are evaluated as follows:
 
 Required reading:
 
-- Spence, R., *Information Visualization – An Introduction*, tredje utgåvan, Springer, 2014. Antal sidor: 200 av 292.
-- Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014. Antal sidor: 150 av 404.
-- Ware, C., *Information Visualization: Perception for Design*, tredje utgåvan, Morgan Kaufmann, 2013. Antal sidor: 100 av 512.
+- Spence, R., *Information Visualization – An Introduction*, third edition, Springer, 2014. Pages: 200 of 292.
+- Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014. Pages: 150 of 404.
+- Ware, C., *Information Visualization: Perception for Design*, third edition, Morgan Kaufmann, 2013. Pages: 100 of 512.
 - Compendium of scientific articles.
 
 ## Other information

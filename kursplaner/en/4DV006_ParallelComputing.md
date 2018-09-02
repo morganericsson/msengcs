@@ -78,7 +78,7 @@ The learning outcomes are evaluated as follows:
 
 Required reading:
 
-- Kirk, D. och Hwu, W-M., *Programming Massively Parallel Processors - A Hands-on Approach*, tredje utgåvan, Morgan Kaufmann, 2016. Antal sidor: 500 / 576
+- Kirk, D. and Hwu, W-M., *Programming Massively Parallel Processors - A Hands-on Approach*, third edition, Morgan Kaufmann, 2016. Pages: 500 of 576
 - Compendium of scientific articles.
 
 ## Other information
