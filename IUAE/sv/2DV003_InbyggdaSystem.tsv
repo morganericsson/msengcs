@@ -1,4 +1,4 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen		X	X	HEM1, LAB1, PRJ1	U: Kan ett antal uppgifter schemaläggas så att kraven (t.ex. sluttid) uppfylls. A: Linjär algebra och analys. Logik
 1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	HEM1, LAB1, PRJ1	U: Realtidskrav (hård/mjuk), periodiska uppgifter, schemaläggning så att realtidskrav uppfylls. prioritet och prioriteringsschemaläggning. Konsekvenser av schemaläggning, vilka effekter de kan och hur de unviks (t.ex priority inversion). Interface mellan hårdvara och mjukvara, avbrottshantering, och drivrutiner. Hur hårdvara kan styras från mjukvara. A: Programmering, samtidig programmering, låsning, samtidiga datastrukturer, hur datorn fungerar.
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

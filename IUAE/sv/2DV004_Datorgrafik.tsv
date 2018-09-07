@@ -1,10 +1,10 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen		X	X		U: Projiceringar av 2d/3d-objekt, transformationer av 2d/3d-objekt. A: Matrisberäkningar och analys
 1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	LAB1, UPG1	U: Rastergrafik och algoritmer för att rita 2d/3d-objekt, datastrukturer för att representera en hierarki av 2d/3d-objekt, algoritmer för att transformera objekt, t.ex. enligt kamera/vy, rendrering av 3d-objekt och ljudmodeller, osv. Pipeline för att rendrera grafik och hur grafikkort fungerar. A: Datastrukturer, algoritmer, objektorienterad programmering
-1.3	Fördjupade kunskaper i något/några tillämpade ämnen		X		LAB1	U: Programmering i OpenGL (grafikapi)
+1.3	Fördjupade kunskaper i något/några tillämpade ämnen		X	X	LAB1	U: Programmering i OpenGL (grafikapi) A: programming
 2	INDIVIDUELLA OCH YRKESMÄSSIGA FÄRDIGHETER OCH FÖRHÅLLNINGSSÄTT					
-2.1	Ingenjörsmässigt/vetenskapligt tänkande o problemlösning		X	X	LAB1, UPG1	U: Identifiera problem i att representera/"rita" objekt, t.ex. linjer, med hjälp av rastergrafik. U/A: Modellera olika representationer av t.ex. kurvor. 
+2.1	Ingenjörsmässigt/vetenskapligt tänkande o problemlösning		X	X	LAB1, UPG1	"U: Identifiera problem i att representera/""rita"" objekt, t.ex. linjer, med hjälp av rastergrafik. U/A: Modellera olika representationer av t.ex. kurvor. "
 2.2	Experimenterande o kunskapsbildning			X		Litteratursökning för självstudier i OpenGL
 2.3	Systemtänkande		X	 	LAB1	Samspel mjukvara/hårdvara,  t.ex. grafikkort och bildskärm. Avvägningar i olika algoritmer, t.ex. med avseende på bildkvalitet och prestanda.
 2.4	Individuella färdigheter och förhållningssätt			X		Självstudier i OpenGL
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

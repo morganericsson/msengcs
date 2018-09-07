@@ -1,8 +1,8 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen	 	X	 	 	 
 1.2	Kunskaper i teknikvetenskapliga ämnen	 	 	 	 	 
-1.3	Fördjupade kunskaper i något/några tillämpade ämnen	 	X	 	 	 
+1.3	Fördjupade kunskaper i något/några tillämpade ämnen	 		 	 	 
 2	INDIVIDUELLA OCH YRKESMÄSSIGA FÄRDIGHETER OCH FÖRHÅLLNINGSSÄTT					
 2.1	Ingenjörsmässigt/vetenskapligt tänkande o problemlösning		X	 	 	 
 2.2	Experimenterande o kunskapsbildning		X	 		
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

@@ -1,4 +1,4 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen					
 1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	LAB1, UPG1	U: Parallella datorsystem, modeller för programmering, parallella algoritmer och datastrukturer, prestandautvärdering och modellering A: Programmering, datastrukturer, algoritmer, concurrent-programmering, datorns uppbyggnad
@@ -7,7 +7,7 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 2.1	Ingenjörsmässigt/vetenskapligt tänkande o problemlösning		X	X	LAB1, UPG1	U: Fördjupad förståelse för vilka typer av problem som vinner på att paralllelliseras, vilken programmeringsmodell som lämpligast används, vilka eftergifter denna medför, osv.  Modellering av ett problem enligt en viss programmeringsmodell (t.ex. meddelandeskickning). Prestandamodellering av algoritmer/lösningar på olika antal processorer och med olika tekniker. Mätning av overhead. A: Förmåga att känna igen problem som kan parallelliseras samt vilka vinster som finns.
 2.2	Experimenterande o kunskapsbildning		X	X	UPG1	A: Experimenterade arbetssätt där algoritmer och implementationer av dessa med olika paramterar utvärderas.
 2.3	Systemtänkande		X	X	UPG1	U: Förståelse för olika parallella datorer/arkitekturer, både homogena och heterogena. Arkitekturens påverkan på ett programs prestanda, t.ex. cache-struktur i flerkärniga/flersocket-system, minnesutrymmer på grafikprocessorer, osv. A: Datorns uppbyggnad
-2.4	Individuella färdigheter och förhållningssätt					
+2.4	Individuella färdigheter och förhållningssätt			X		
 2.5	Professionella färdigheter och förhållningssätt					
 3	FÖRMÅGA ATT ARBETA I GRUPP OCH ATT KOMMUNICERA					
 3.1	Förmåga att arbeta i grupp			X		Uppgifter och laborationer sker i grupp
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

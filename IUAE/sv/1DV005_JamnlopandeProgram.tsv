@@ -1,4 +1,4 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen			X		Grafer och logik
 1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	LAB1, TEN1	U: processer och schemaläggning. Låsningsalgoritmer, asynkron programming, samtidiga datastrukturer. Vanliga ramverk för dessa. A: Programmering och datastrukturer, objektorientering, transaktioner från databaser.
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

@@ -1,0 +1,45 @@
+Kod	Namn	hp
+1DV001	Programmering och datastrukturer	7,5
+1DV002	Introducerande projekt	7,5
+1DV003	Databaser och datamodellering	5
+1DV004	Objektorienterad programmering	5
+1DV005	Jämnlöpande program	7,5
+1DV006	Algoritmer	5
+1DV007	Mjukvaruutvecklingsprojekt	10
+1ED001	Reglerteknik	5
+1FY001	Mekanik	7,5
+1FY002	Ellära och magnetism	7,5
+1MA001	Diskret matematik	7,5
+1MA002	Linjär algebra	7,5
+1MA003	Envariabelanalys 1	5
+1MA004	Tillämpad sannolikhetslära och statistik	7,5
+1MA005	Envariabelanalys 2	5
+1MA006	Flervariabelanalys	7,5
+1MA007	Numeriska metoder	5
+1ZT001	Teknisk kommunikation	5
+1ZT002	Hållbar utveckling	5
+1ZT003	Industriell ekonomi	5
+2DV001	Datorns uppbyggnad	7,5
+2DV002	Mjukvaruarkitektur	5
+2DV003	Inbyggda system	5
+2DV004	Datorgrafik	5
+2DV005	Datornät	5
+2DV006	Datorsäkerhet	5
+2DV007	Självständigt arbete	15
+2MA001	Optimering	5
+2ZT001	Vetenskapliga metoder	5
+2ZT002	Lean startup	5
+4DV001	Modellering och simulering av system	5
+4DV002	Kompilatorkonstruktion	5
+4DV003	Formella metoder	5
+4DV004	Projekt i modellbaserad utveckling	10
+4DV005	Maskininlärning	5
+4DV006	Parallelldatorprogrammering	5
+4DV007	Djup maskininlärning	5
+4DV008	Projekt i dataintensiva system	10
+4DV009	Informationsvisualisering	5
+4DV010	Datautvinning	5
+4DV011	Avancerad informationsvisualisering och tillämpningar	5
+4DV012	Vetenskapliga metoder inom datavetenskap	5
+4DV013	Projekt i visualisering och dataanalys	10
+5DV001	Självständigt arbete	30

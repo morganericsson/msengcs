@@ -1,4 +1,4 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen		X	X	TEN1	U: Digitala kretsar och implementation av dessa. Tillståndsautomater. A: Ellära och kretselektronik. Logik
 1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	TEN1, LAB1	U: Datorns beståndsdelar, hur en (modern) processor fungerar, instruktionsuppsättningar, (virtuell) minneshantering, parallellism inom processorn (exekveringenheter, kärnor, osv), avbrottshantering, systemnära programmering och hur koncept implementeras på systemnära nivå (t.ex. funktionsanrop). A: Processbegreppet
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

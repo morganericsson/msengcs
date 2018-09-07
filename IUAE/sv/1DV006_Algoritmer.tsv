@@ -1,4 +1,4 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen	X	X	X	LAB1, MUN1	I: Teoretiska grunder för beräkning, t.ex. turingmaskiner. U: Analys av rums och tidskomplexitet hos algoritmer. Komplexitetsklasser och reduktioner mellan algoritmer. A: diskret matematik och analys
 1.2	Kunskaper i teknikvetenskapliga ämnen	X	X	X	LAB1, MUN1	I: Parallella algoritmer U: Algoritmer och datastrukturer. Metoder för att konstruera algoritmer, t.ex. girig och dynamisk programmering. Programmering och objektorientering, enklare datastrukturer.
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

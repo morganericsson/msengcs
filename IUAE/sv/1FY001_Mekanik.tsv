@@ -1,4 +1,4 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen	 	X	X	 	 
 1.2	Kunskaper i teknikvetenskapliga ämnen		X	 	 	 
@@ -7,12 +7,12 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 2.1	Ingenjörsmässigt/vetenskapligt tänkande o problemlösning		X	X	 	
 2.2	Experimenterande o kunskapsbildning		X	X		
 2.3	Systemtänkande					
-2.4	Individuella färdigheter och förhållningssätt	X	X	X		
+2.4	Individuella färdigheter och förhållningssätt		X	X		
 2.5	Professionella färdigheter och förhållningssätt					
 3	FÖRMÅGA ATT ARBETA I GRUPP OCH ATT KOMMUNICERA					
-3.1	Förmåga att arbeta i grupp			X		
-3.2	Förmåga att kommunicera		 	X		 
-3.3	Förmåga att kommunicera på främmande språk			X		
+3.1	Förmåga att arbeta i grupp					
+3.2	Förmåga att kommunicera		 			 
+3.3	Förmåga att kommunicera på främmande språk					
 4	PLANERING, UTVECKLING, REALISERING, DRIFT OCH AFFÄRSMÄSSIGT FÖRVERKLIGANDE AV TEKNISKA PRODUKTER, SYSTEM OCH TJÄNSTER MED HÄNSYN TILL AFFÄRSMÄSSIGA OCH SAMHÄLLELIGA BEHOV OCH KRAV					
 4.1	Samhälleliga villkor, inkl ekonomiskt, socialt och ekologiskt hållbar utveckling					
 4.2	Företags och affärsmässiga villkor					
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

@@ -1,4 +1,4 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen		X	X	TEN1, UPG1	U: Kryptering, A: Diskret matematik, linjär algebra
 1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	TEN1, UPG1	U: Beskrivning av IT-säkerhet och vilka delfält det delas in i. Vanliga säkerhetsproblem och buggar, samt sätt att utnyttja dessa (t.ex. genom malware). Vanliga säkerhetsåtgärder (t.ex. kryptering). A: Databashanterar, operativsystem, datornät, programmering.
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt					
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete					

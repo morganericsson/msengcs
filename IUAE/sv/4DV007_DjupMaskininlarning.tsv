@@ -1,4 +1,4 @@
-CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
+CDIO	Beskrivning	Introducera	Undervisa	Använda	Examinera	Kommentar
 1	MATEMATISKA, NATUR- OCH TEKNIKVETENSKAPLIGA KUNSKAPER					
 1.1	Kunskaper i grundläggande matematiska och naturvetenskapliga ämnen			X		Vektorer och matriser, sannolikhetsfördelningar, vektorvärda funktioner, kedjereglen, partiella derivator
 1.2	Kunskaper i teknikvetenskapliga ämnen		X	X	TEN1, LAB1, PRS1	U:  neuronnät, faltningsneuronnät, återkommande nätverk, anpassning av hyperparametrar, reglering, långt korttidsminne (LTSM), reinforcement learning.  A: Statistisk maskininläning programmering
@@ -26,3 +26,4 @@ CDIO	Beskrivning	Introducera	Undervisa	Använda 	Examinera 	Kommentar
 5.3	Att planera forsknings- och utvecklingsprojekt					
 5.4	Att genomföra forsknings- och utvecklingsprojekt					
 5.5	Att rapportera och redovisa forsknings- och utvecklingsprojekt	X				Presentation av vetenskaplig artikel
+5.6	Fördjupad insikt i aktuellt forsknings- och utvecklingsarbete		X	X		
