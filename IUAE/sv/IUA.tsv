@@ -1,0 +1,45 @@
+Kod	1.1	1.2	1.3	2.1	2.2	2.3	2.4	2.5	3.1	3.2	3.3	4.1	4.2	4.3	4.4	4.5	4.6	5.1	5.2	5.3	5.4	5.5	5.6
+1DV001	U	IU	U	IU	I	I	I		U	IU	A			I		I							
+1DV002	A	IUA	A	U		U	UA	U	UA	UA		U	U	IU	I	UA	I						
+1DV003	A	IUA	UA	U	UA	U	U	I	A	UA	A	U	I	UA	UA	U							
+1DV004	A	UA	U	U		U	U		A	UA				UA	U	UA							
+1DV005	A	UA	UA	U		U			A		A		U	I	U		I						
+1DV006	IUA	IUA		U	U	U	U		A	UA	A	U			U	IU							
+1DV007	A	UA		U		U	U	U	U	UA	A	U	IU	IUA	IU	U	IU						
+1ED001	UA	UA	UA	UA	A	UA																	
+1FY001	UA	U		UA	UA		UA																
+1FY002	UA	U	U	UA	UA		UA																
+1MA001	U			U	U		U			U													
+1MA002	U		U	UA	UA		UA			UA													
+1MA003	IUA	IA	A	UA	UA		UA			UA													
+1MA004	UA		UA	UA	UA		UA																
+1MA005	UA		A	UA	UA		UA			UA													
+1MA006	UA			UA	A		UA			A													
+1MA007	UA	U	UA	UA	UA		UA																
+1ZT001							U			UA	UA												
+1ZT002		A				UA						UA											
+1ZT003	A		A									UA	U									I	
+2DV001	UA	UA	IU	U		U						I				I							
+2DV002		UA		UA		U	U		UA	UA	A	I	U	UA	U	I							
+2DV003	UA	UA		U	U	U			A		A	I		U	UA	U							
+2DV004	UA	UA	UA	UA	A	U	A		A		A				UA								
+2DV005	UA	UA	U	U	U	U	U		A		A	U		U	U	U							
+2DV006	UA	UA		U	U	U	U	U		UA	A	U	U	UA	UA	U	U						
+2DV007	A	A	A	UA	UA		UA	UA		UA	A	U						U		IU	UA		UA
+2MA001	UA		A	UA	A		UA				A												UA
+2ZT001	A		UA	UA	UA	UA	UA					UA	UA					U	I	U	U	U	U
+2ZT002	A		A					UA	A	A	UA	UA	UA	U								I	
+4DV001	A	UA	UA	UA	UA	UA	A				A			UA	UA	UA							UA
+4DV002	A	UA	UA						A		A												UA
+4DV003	UA	UA	UA				A				A			UA	UA	UA							UA
+4DV004	UA	UA	UA	UA		UA	UA	UA	UA	UA	UA	UA	UA	UA	UA	UA	UA			UA	UA		UA
+4DV005	UA	UA	UA	U	U	U	A	I	A	UA	A	I	U	U	U		I						UA
+4DV006		UA	U	UA	UA	UA	A		A	UA	A	I	I	U	UA	U	U						
+4DV007	A	UA	UA	UA	UA	UA	U		A	U	UA	I		A	A	U	U	I				I	UA
+4DV008		UA	UA	UA		UA	UA	UA	UA	A	A	UA	UA	UA	UA	UA	UA	UA	I	UA	UA	I	UA
+4DV009	A	UA	UA	A	A	A	A	UA			A	U											UA
+4DV010	UA	UA	UA	A	A	A	A	UA			A	UA						UA					UA
+4DV011	A	UA	UA	A	A	A	A	UA			A	UA											UA
+4DV012	A		UA	UA	UA	UA	UA	UA		UA	UA	UA						UA	U	UA	UA	UA	UA
+4DV013	A	UA	UA	UA		UA	UA	UA	A	A	A	UA	UA	UA	UA	UA	UA			UA	UA		UA
+5DV001	A	A	A	A	A	A	A			A	A	UA	A	A	A	A		UA	UA	UA	UA	UA	UA
