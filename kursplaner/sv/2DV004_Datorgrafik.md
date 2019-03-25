@@ -10,7 +10,7 @@
 - 1DV004 - Objektorienterad programmering
 - 1DV006 - Algoritmer
 - 1MA002 - Linjär algebra
-- 1MA006 - Flervariabelanalys
+- 1MA005 - Envariabelanalys 2
 
 ## Lärandemål
 

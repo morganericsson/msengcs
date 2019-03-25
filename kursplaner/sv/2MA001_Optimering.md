@@ -10,7 +10,7 @@
 - 1DV001 - Programmering och datastrukturer
 - 1DV006 - Algoritmer
 - 1MA002 - Linjär algebra
-- 1MA007 - Numeriska metoder
+- 1MA006 - Numeriska metoder
 
 ## Lärandemål
 

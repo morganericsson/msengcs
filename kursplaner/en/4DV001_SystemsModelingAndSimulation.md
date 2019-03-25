@@ -9,7 +9,7 @@
 
 - 1DV004 - Objektorienterad programmering 
 - 1MA004 - Tillämpad sannolikhetslära och statistik
-- 1MA007 - Numeriska metoder
+- 1MA006 - Numeriska metoder
 
 ## Learnings outcomes
 

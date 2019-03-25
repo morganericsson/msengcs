@@ -12,7 +12,7 @@
 - 4DV005 - Maskininlärning
 - 1MA002 - Linjär algebra
 - 1MA003 - Envariabelanalys 1
-- 1MA007 - Numeriska metoder
+- 1MA006 - Numeriska metoder
 
 ## Learnings outcomes
 

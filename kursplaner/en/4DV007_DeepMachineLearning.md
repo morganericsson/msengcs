@@ -9,7 +9,7 @@
 
 - 1MA002 - Linjär algebra 
 - 1MA004 - Tillämpad sannolikhetslära och statistik 
-- 1MA006 - Flervariabelanalys 
+- 1MA007 - Flervariabelanalys 
 - 1DV001 - Programmering och datastrukturer
 - 4DV005 - Machine learning
 
