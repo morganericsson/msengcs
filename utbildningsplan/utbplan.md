@@ -111,7 +111,7 @@ Den exakta placeringen av kurser i årskurs och läsperiod kan variera något fr
 #### Årskurs 4
 
 - *__Systemmodellering och simulering__, 5 hp (A1N)*. Fördjupningskurs i modelldriven utveckling som behandlar hur system med stora krav på säkerhet och tillförlitlighet kan modelleras och simuleras för att verifiera egenskaper innan de implementeras.
-- *__Kompilatorkonstruktion__, 5 hp (A1N)*. Fördjupningskurs i modelldriven utveckling som behandlar hur datorspråk kan formuleras och hur de kan översättas, exempelvis från Java till exekverbar kod. Kursen introducerar ett antal viktiga principer såsom grammatiker, typinferens, semantisk analys, och en fördjupning i tillståndsmaskiner.
+- *__Kodtransformationer och interpretation__, 5 hp (A1N)*. Fördjupningskurs i modelldriven utveckling som behandlar hur datorspråk kan formuleras och hur de kan översättas, exempelvis från Java till exekverbar kod. Kursen introducerar ett antal viktiga principer såsom grammatiker, typinferens, semantisk analys, och en fördjupning i tillståndsmaskiner.
 - *__Projekt i modelldriven utveckling__, 10 hp (A1N)*. Projektkurs i modelldriven utveckling där studenterna tillämpar kunskaper i modellering, arkitektur, och simulering för att genomföra ett agilt utvecklingsprojekt i en realistisk miljö och med ett öppet problem. Särskild fokus läggs på att tillämpa agila metoder.
 - *__Formella metoder__, 5 hp (A1N) (kan ersättas av valbar kurs)*. Fördjupningskurs i modelldriven utveckling som behandlar hur egenskaper hos modeller och program kan formellt verifieras, exempelvis med avseende på säkerhet.
 - *__Optimering__, 5 hp (G2F) (kan ersättas av valbar kurs)*. Fördjupningskurs i modelldriven utveckling som behandlar hur modeller kan optimeras. Kursen ges av matematik med fokus på tillämpningar inom datateknik såsom approximeringsalgoritmer och heltalsprogrammerings.
@@ -131,7 +131,7 @@ Den exakta placeringen av kurser i årskurs och läsperiod kan variera något fr
 - *__Vetenskapliga metoder inom datateknik__, 5 hp (A1N)*. Fördjupningskurs i vetenskapliga metoder som behandlar aktuell forsknings och metoder inom datateknik. Kursen är en seminariekurs där studenterna presenterar och opponerar på publicerade vetenskapliga arbeten.
 - *__Självständigt arbete__, 30 hp (A2E)*. Kursen är ett självständigt arbete där studenten skall utveckla fördjupade kunskaper, förståelse, förmågor och förhållningssätt inom utbildningens sammanhang. Examensarbetet skall ligga i slutet av utbildningen och innebära en fördjupning och syntes av tidigare förvärvade kunskaper.
 
-Närmare beskrivning av i programmet ingående kurser ges i separata kursplaner.
+Närmare beskrivning av kurser i programmet ges i separata kursplaner.
 
 ### Samhällsrelevans
 
@@ -162,16 +162,20 @@ Programmet utvärderas årligen av programrådet utifrån kursvärderingar, styr
 
 ## Examen
 
-Efter avklarade studier på programmet samt då avklarade studier motsvarar de fordringar som finns angivna i Högskoleförordningens examensordning samt i den lokala examensordningen för Linnéuniversitetet kan studenten ansöka om examen.
+Efter avklarade studier på programmet samt då avklarade studier motsvarar de fordringar som finns angivna i Högskoleförordningens examensordning samt i den lokala examensordningen för Linnéuniversitetet kan studenten ansöka om examen. De som fullföljt programmet Civilingenjör i mjukvaruteknik kan erhålla följande examen:
 
-Examen benämns Civilingenjörsexamen, inriktning mjukvaruteknik. Examens engelska översättning är Master of Science in Engineering, specialization in Software Engineering.
+Civilingenjörsexamen
+Mjukvaruteknik
 
-Efter den grundläggande delen på 180 hp kan delexamen utfärdas. Examensbenämningen är Teknologi kandidatexamen, huvudområde Datateknik (Bachelor of Science, major subject Computer Science). 
+Master of Science in Engineering
+Software Engineering
 
-Examensbeviset är tvåspråkigt (svenska/engelska). Tillsammans med examensbeviset följer ett Diploma Supplement (engelska).
+Examensbeviset är tvåspråkigt (svenska/engelska). Tillsammans med examensbeviset följer Diploma Supplement (engelska).
 
 ## Övrigt
 
 Det krävs minst 90 hp godkända kurser inom programmet för att få påbörja det självständiga arbetet i termin 6. Detta krav måste vara uppfyllt vid starten på termin 5. För tillträde till termin 7 krävs minst 150 hp inom programmet vid terminsstart. För tillträde till det självständiga arbetet i termin 10 krävs minst 240 hp inom programmet, samtliga kurser årskurs 1--3 samt 30 hp på avancerad nivå inom datateknik.
 
 Studenter som inte uppfyller dessa krav skall vända sig till programmets studievägledare och programansvarig för att göra en plan för kommande studier.
+
+I civilingenjör i mjukvaruteknik 300 hp ingår 90 hp på grundnivå i huvudområdet datateknik, vilket ger möjlighet att ansöka om Teknologie kandidatexamen, huvudområde: Datateknik (Bachelor of Science, main field of study: Computer Engineering). 
