@@ -20,13 +20,13 @@
 After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
-	1. Explain and motivate information visualization and visual analytics in a man-machine perspective as well as how these can facilitate data analysis,
+	1. Explain and motivate information visualization and visual analytics in a man-machine perspective as well as how these facilitate data analysis,
 *2. Skills and abilities*
 	1. Independently organize and carry out an agile project,
 	2. independently learn to use tools, methods, and software libraries used within information visualization and visual analytics,
-	3. elicit requirements from a customer and based on these decide which visualizations, data analyses, and interaction methods that are most suitable,
+	3. elicit requirements from an analyst and based on these decide which visualizations, data analyses, and interaction methods that are most suitable,
 	4. implement a visual analytics system using reasonable technical solutions and deploy this, and
-	5. based on customer requirements define and perform evaluations of a visual analytics system using, e.g., focus groups.
+	5. based on analyst requirements define and perform evaluations of a visual analytics system.
 *3. Judgement and approach*
 	1. Reflect on which types of questions and analysis processes are best supported by different combinations of visualization techniques, 
 	2. Reflect on how the choice of visualizations is affected by the groups of people that will use the system with respect to, e.g., metaphors and common understanding, and
@@ -44,11 +44,11 @@ The course is a project course that, given a realistic problem and settings, con
 - How visualizations are evaluated in realistic projects.
 - How to design accessible visualization systems.
 - Bias in data, analysis, and visualization.
-- Metaphors, how and when should the be used, what cultural connections to they have, etc.?
+- Metaphors, how and when should the be used, what cultural connections to they have, etc.
 
 ## Types of instruction
 
-The instruction consists of lectures and supervision meetings. The lectures present the project as well as the tools, methods, and resources that the students are expected to use. The students will have regular supervision meetings with a teacher during the project. T
+The instruction consists of lectures and supervision meetings. The lectures present the project as well as the tools, methods, and resources that the students are expected to use. The students will have regular supervision meetings with a teacher during the project.
 
 All projects will be presented at a seminar at the end of the course.
 
