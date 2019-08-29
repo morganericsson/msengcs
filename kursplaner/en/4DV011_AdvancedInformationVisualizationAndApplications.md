@@ -54,15 +54,15 @@ The examination of the course is divided into the following parts:
 | :--- | :-------------------- | :---: | :---: |
 |`PRJ1`| Programming project | A-F   | 2     |
 |`PRS1`| Oral presentation          | A-F   | 1     |
-|`MUN1`| Written exam      | A-F   | 2     |
+|`MUN1`| Oral exam      | A-F   | 2     |
 
-To pass the course, grade E or higher is required for all parts. The final grade is decided from: `PRJ1` (40%), `PRS1` (20%), and `TEN1` (40%).
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `PRJ1` (40%), `PRS1` (20%), and `MUN1` (40%).
 
 ## Methods of Evaluation
 
 The learning outcomes are evaluated as follows:
 
-| Outcome       |`PRJ1` |`PRS1` |`TEN1` |  
+| Outcome       |`PRJ1` |`PRS1` |`MUN1` |  
 | ---------------- | ----  | ----  | ----  |  
 | 1.1              |       | **X** | **X** |  
 | 1.2              | **X** |       | **X** |  
