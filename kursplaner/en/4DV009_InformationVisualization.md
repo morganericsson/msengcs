@@ -49,7 +49,7 @@ The examination of the course is divided into the following parts:
 
 | Code | Name             | Grade | HEC | 
 | :--- | :-------------------- | :---: | :---: |
-|`UPG1`| Theoretical assignments   | A-F   | 3     |
+|`UPG1`| Practical/theoretical assignments   | A-F   | 3     |
 |`MUN1`| Oral exam     | A-F   | 2     |
 
 To pass the course, grade E or higher is required for all parts. The final grade is decided from: `HEM1`(50%) and `UPG1`(50%).
@@ -58,7 +58,7 @@ To pass the course, grade E or higher is required for all parts. The final grade
 
 The learning outcomes are evaluated as follows:
 
-| Lärandemål | UPG1|`TEN1`|
+| Lärandemål | UPG1|`MUN1`|
 | ---------- | --- | -----|
 | 1.1        |**X**| **X**|
 | 1.2        |**X**| **X**|
