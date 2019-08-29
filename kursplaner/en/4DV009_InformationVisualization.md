@@ -77,7 +77,7 @@ Required reading:
 - Ware, C., *Information Visualization: Perception for Design*, third edition, Morgan Kaufmann, 2013. Pages: 100 of 512.
 - Compendium of scientific articles.
 
-## Other information
+## Other information 
 
 The course is conducted in such a way that the course participants' experiences and knowledge are made visible and developed. This means, for example, that we have an inclusive approach and strive for no one to feel excluded. This can be expressed in different ways in a course, for example by using the gender neutral example.
 
