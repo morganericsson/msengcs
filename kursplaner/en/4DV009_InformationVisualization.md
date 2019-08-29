@@ -52,7 +52,7 @@ The examination of the course is divided into the following parts:
 |`UPG1`| Practical/theoretical assignments   | A-F   | 3     |
 |`MUN1`| Oral exam     | A-F   | 2     |
 
-To pass the course, grade E or higher is required for all parts. The final grade is decided from: `HEM1`(50%) and `UPG1`(50%).
+To pass the course, grade E or higher is required for all parts. The final grade is decided from: `MUN1`(50%) and `UPG1`(50%).
 
 ## Methods of Evaluation
 
