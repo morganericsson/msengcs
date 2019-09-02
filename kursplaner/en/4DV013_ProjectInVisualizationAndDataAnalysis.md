@@ -20,17 +20,17 @@
 After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
-	1. Explain and motivate information visualization and visual analytics in a man-machine perspective as well as how these facilitate data analysis,
+	1. Explain and motivate information visualization and visual analytics in a man-machine perspective as well as how these areas facilitate data analysis,
 *2. Skills and abilities*
 	1. Independently organize and carry out an agile project,
 	2. independently learn to use tools, methods, and software libraries used within information visualization and visual analytics,
-	3. elicit requirements from an analyst and based on these decide which visualizations, data analyses, and interaction methods that are most suitable,
+	3. elicit requirements/tasks from an analyst and based on these decide which visualizations, data analyses, and interaction methods are most suitable,
 	4. implement a visual analytics system using reasonable technical solutions and deploy this, and
-	5. based on analyst requirements define and perform evaluations of a visual analytics system.
+	5. based on analyst requirements/tasks define and perform evaluations of a visual analytics system.
 *3. Judgement and approach*
 	1. Reflect on which types of questions and analysis processes are best supported by different combinations of visualization techniques, 
-	2. Reflect on how the choice of visualizations is affected by the groups of people that will use the system with respect to, e.g., metaphors and common understanding, and
-	3. Reflect on the bias that exist in the system based on collected data, data processing, analysis methods, and visualization techniques.
+	2. reflect on how the choice of visualizations is affected by the groups of people that will use the system with respect to, e.g., metaphors and common understanding, and
+	3. reflect on the bias that exists in the system based on collected data, data processing, analysis methods, and visualization techniques.
 
 ## Course contents
 
