@@ -44,7 +44,7 @@ The course is a project course that, given a realistic problem and settings, con
 - How visualizations are evaluated in realistic projects.
 - How to design accessible visualization systems.
 - Bias in data, analysis, and visualization.
-- Metaphors, how and when should the be used, what cultural connections to they have, etc.
+- Metaphors, how and when should they be used, what cultural connections to they have, etc.
 
 ## Types of instruction
 
@@ -60,7 +60,7 @@ The examination of the course is divided into the following parts:
 | :--- | :--------------------------------------          | :---: | :---: |  
 |`UPG1`| Vision and planning documents                   | A-F   | 2     |  
 |`PRJ1`| Project work (incl. deliverables)                 | A-F   | 5     |  
-|`RAP1`| Reflection report - To mange an agile project | A-F   | 1     |  
+|`RAP1`| Reflection report - To manage an agile project | A-F   | 1     |  
 |`RAP2`| Reflection report - Human and machine        | A-F   | 1     |  
 |`PRS1`| Design, implementation, and result             | A-F   | 1     |  
 
