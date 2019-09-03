@@ -1,4 +1,4 @@
-# 4DV013 - Project in Visualization and Data Analysis (10 HEC)
+# 4DV013 - Project in Visual Analytics (10 HEC)
 
 |     |     |
 | --- | --- | 
@@ -7,44 +7,48 @@
 
 ## Prerequisites
 
-- 1DV004 - Objektorienterad programmering
-- 2DV004 - Datorgrafik
-- 1MA002 - Linjär algebra
-- 1MA004 - Tillämpad sannolikhetslära och statistik
-- 1ZT002 - Hållbar utveckling
-- 4DV005 - Maskininlärning
-- Minst en av projektkurserna 4DV004 eller 4DV008
+- 1DV004 - Objektorienterad programmering     YES
+- 2DV004 - Datorgrafik    NOT SURE IF WE CAN DEMAND THIS
+- 1MA002 - Linjär algebra    NOT SURE
+- 1MA004 - Tillämpad sannolikhetslära och statistik     NOT SURE
+- 1ZT002 - Hållbar utveckling    NO
+- 4DV005 - Maskininlärning    NOT SURE
+- Minst en av projektkurserna 4DV004 eller 4DV008   WE NEED AT LEAST THE FIRST INFOVIS COURSE; BETTER BOTH!
 
 ## Learning outcomes
 
 After completing the course the student shall be able to:
 
 *1. Knowledge and understanding*
-	1. Explain and motivate information visualization and visual analytics in a man-machine perspective as well as how these areas facilitate data analysis,
+	1. Explain and motivate information visualization and visual analytics in a man-machine perspective as well as how these areas facilitate data analysis, and
+	2. identify characteristics of state-of-the-art Visual Analytics (VA) systems.
 *2. Skills and abilities*
 	1. Independently organize and carry out an agile project,
 	2. independently learn to use tools, methods, and software libraries used within information visualization and visual analytics,
 	3. elicit requirements/tasks from an analyst and based on these decide which visualizations, data analyses, and interaction methods are most suitable,
 	4. implement a visual analytics system using reasonable technical solutions and deploy this, and
-	5. based on analyst requirements/tasks define and perform evaluations of a visual analytics system.
+	5. based on the design goals define and perform evaluations of a visual analytics system.
 *3. Judgement and approach*
-	1. Reflect on which types of questions and analysis processes are best supported by different combinations of visualization techniques, 
-	2. reflect on how the choice of visualizations is affected by the groups of people that will use the system with respect to, e.g., metaphors and common understanding, and
-	3. reflect on the bias that exists in the system based on collected data, data processing, analysis methods, and visualization techniques.
+	1. Reflect on which types of questions and analysis processes are best supported by different combinations of visualization techniques and data-analysis algorithms, 
+	2. reflect on how the choice of visualizations is affected by the groups of people that will use the system with respect to, e.g., used metaphors and common understanding, 
+	3. reflect on whether the proposed VA solution reaches its analytical goals efficiently and effectively, and
+	4. reflect on the bias that exists in the system based on collected data, data processing, analysis methods, and visualization techniques.
 
 ## Course contents
 
-The course is a project course that, given a realistic problem and settings, considers the entire CDIO (Conceive-Design-Implement-Operate) cycle. The students are expected to work using agile processes in teams of 5-7 and are expected to perform all roles except product owner. This is the final project course, so the students are expected to independently manage an agile project.
+The course is a project course with a focus on Visual Analytics (VA) with a given analytical problem and setting. The students are expected to work using agile processes in teams and are expected to perform all roles except product owner. As this is the final project course, the students are expected to independently manage their own agile project. 
 
-- The importance of data and visualization for an organization.
-- Information visualization in realistic projects.
+Visual analytics systems bring data analysis closer to end-users by effectively combining interactive visualization and complex algorithms, guided by the underlying analytical processes inherent to the data and the application at hand. The students will be introduced to visual analytics theoretical aspects and tools, create the conceptual design of the VA project, implement their designs, and present their results. In more detail, this VA project course covers the following aspects:
+
+- The importance of data and visualization for ansvering analytical questions.
+- Analysis of selected examples of state-of-the-art VA systems.
+- Information visualization and visual analytics in realistic projects.
 - Data analysis and processing in realistic projects.
 - Tools, services, and software libraries that can be used for data analysis and to develop information visualizations, e.g., D3, yFiles, and Bokeh.
-- Man, machine, and visualization.
+- Challenges and chances between the human analyst, computational models, and visual display.
+- How to design efficient and effective visualization systems for the given data and analytical tasks.
+- Types of bias in data, analysis, and visualization.
 - How visualizations are evaluated in realistic projects.
-- How to design accessible visualization systems.
-- Bias in data, analysis, and visualization.
-- Metaphors, how and when should they be used, what cultural connections to they have, etc.
 
 ## Types of instruction
 
@@ -58,11 +62,11 @@ The examination of the course is divided into the following parts:
 
 | Code | Name             | Grade | HEC | 
 | :--- | :--------------------------------------          | :---: | :---: |  
-|`UPG1`| Vision and planning documents                   | A-F   | 2     |  
+|`UPG1`| Task/requirement analysis, design goals and planning documents                   | A-F   | 2     |  
 |`PRJ1`| Project work (incl. deliverables)                 | A-F   | 5     |  
-|`RAP1`| Reflection report - To manage an agile project | A-F   | 1     |  
-|`RAP2`| Reflection report - Human and machine        | A-F   | 1     |  
-|`PRS1`| Design, implementation, and result             | A-F   | 1     |  
+|`RAP1`| Reflection report - How to manage an agile project | A-F   | 1     |  
+|`RAP2`| Reflection report - Human-centered aspects of VA   | A-F   | 1     |  
+|`PRS1`| Presentation of the final design, implementation, and results             | A-F   | 1     |  
 
 To pass the course, grade E or higher is required for all parts. The final grade is decided from: `UPG1` (20%), `PRJ1` (50%), `RAP1` (10%), `RAP2` (10%), and `PRS1` (10%).
 
