@@ -40,7 +40,7 @@ The course is a project course that, given a realistic problem and settings, con
 - Information visualization in realistic projects.
 - Data analysis and processing in realistic projects.
 - Tools, services, and software libraries that can be used for data analysis and to develop information visualizations, e.g., D3, yFiles, and Bokeh.
-- Man, machine, and visualization. 
+- Man, machine, and visualization.
 - How visualizations are evaluated in realistic projects.
 - How to design accessible visualization systems.
 - Bias in data, analysis, and visualization.
@@ -90,8 +90,8 @@ The learning outcomes are evaluated as follows:
 The students are expected to find suitable literature on their own. The list below can be used as a starting point.
 
 - Keim, D., Kohlhammer, J., Ellis, G. and Mansmann, F., *Mastering the Information Age: Solving Problems with Visual Analytics*, Eurographics, 2010.
-- Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014. 
-- Purchase, H. C., *Experimental Human-Computer Interaction: A Practical Guide with Visual Examples*, Cambridge University Press, 2012. 
+- Munzner, T., *Visualization Analysis and Design*, CRC Press, 2014.
+- Purchase, H. C., *Experimental Human-Computer Interaction: A Practical Guide with Visual Examples*, Cambridge University Press, 2012.
 
 ## Other information
 
